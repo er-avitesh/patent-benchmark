@@ -1,7 +1,6 @@
 # Patent Infringement Benchmark
 
 Benchmarking multimodal LLMs on US design-patent infringement detection
-under the ordinary observer test (Egyptian Goddess v. Swisa, 2008).
 
 Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC Charlotte
 Companion paper: ADR Compliance Benchmark (Kesharwani & Berg, 2026)
