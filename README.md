@@ -14,20 +14,22 @@ Companion paper: ADR Compliance Benchmark (Kesharwani & Berg, 2026)
 Dataset
   Positive drawings (in-force patents)   96 / 96    [====================] 100%
   Negative expired  (public domain)      72 / 72    [====================] 100%
-  Negative open-source (Wikimedia Commons) 23 / 32    [==============      ]  72%
+  Negative open-source (Wikimedia Commons) 23 / 32  [==============      ]  72%
   Total                                 191 / 200   [=================== ]  96%
+  Processed PNGs                        191 / 191   [====================] 100%
+  manifest.csv                          191 / 191   [====================] 100%
 
 Pipeline
   [x] Module 0   Environment check
-  [x] Module 1   Positive-class puller         96 PDFs across 8 USPC classes
-  [x] Module 2   Negative expired puller       72 PDFs across 8 USPC classes
-  [x] Module 3   Negative open-source          23 drawings from Wikimedia Commons
-  [~] Module 4   Normalize                     running -- PDF to PNG, blob detection, text masking
-  [ ] Module 5   Build manifest                manifest.csv
-  [ ] Module 6   Candidate selection           candidates.csv
-  [ ] Module 7   Model evaluation              7,200 API calls, ~$600
+  [x] Module 1   Positive-class puller         96 PDFs, 8 USPC classes, 2015-2024
+  [x] Module 2   Negative expired puller       72 PDFs, 8 USPC classes, pre-2008
+  [x] Module 3   Negative open-source          23 drawings, Wikimedia Commons CC0
+  [x] Module 4   Normalize                     191 PNGs, blob detection, Tesseract masking
+  [x] Module 5   Build manifest                191 rows, 96 positive / 95 negative, Locarno coded
+  [ ] Module 6   Candidate selection           next -- candidates.csv, 5 per query
+  [ ] Module 7   Model evaluation              7,200 API calls, 4 models x 3 strategies x 3 reps
   [ ] Module 8   Parse responses               parsed.csv
-  [ ] Module 9   Statistics                    F1, kappa, McNemar
+  [ ] Module 9   Statistics                    macro-F1, Cohen kappa, McNemar
 ```
 
 ---
@@ -175,10 +177,17 @@ For open-source SVG: render via cairosvg, then same pipeline.
 
 ### Module 5 -- build manifest
 
-Script: 05_build_manifest.py -- not yet written.
+Script: 05_build_manifest.py -- complete.
 
-Assembles data/manifest.csv from JSON sidecars and processed images.
-Parses XML sidecars to extract Locarno classifications.
+Reads all JSON sidecars from raw/ and processed/, joins them into a single
+191-row manifest.csv. Locarno codes extracted from USPTO grant XMLs where
+available (12 D24 patents have full 4-digit codes). For patents without XMLs,
+the main Locarno class is derived from the USPC class (e.g. D9 -> 0900).
+Full 4-digit codes for all patents require re-running module 1 --all to
+regenerate the missing XMLs (does not re-download PDFs).
+
+    python scripts/05_build_manifest.py
+    python scripts/05_build_manifest.py --check   # validate PNGs + print samples
 
 ### Modules 6-9
 
