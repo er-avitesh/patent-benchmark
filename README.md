@@ -1,9 +1,10 @@
 # Patent Infringement Benchmark
 
 Benchmarking multimodal LLMs on US design-patent infringement detection
+under the ordinary observer test (Egyptian Goddess v. Swisa, 2008).
 
 Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC Charlotte
-
+Companion paper: ADR Compliance Benchmark (Kesharwani & Berg, 2026)
 
 ---
 
@@ -13,15 +14,15 @@ Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC C
 Dataset
   Positive drawings (in-force patents)   96 / 96    [====================] 100%
   Negative expired  (public domain)      72 / 72    [====================] 100%
-  Negative open-source (TraceParts)      23 / 32    [==============      ]  72%
+  Negative open-source (Wikimedia Commons) 23 / 32    [==============      ]  72%
   Total                                 191 / 200   [=================== ]  96%
 
 Pipeline
   [x] Module 0   Environment check
   [x] Module 1   Positive-class puller         96 PDFs across 8 USPC classes
   [x] Module 2   Negative expired puller       72 PDFs across 8 USPC classes
-  [ ] Module 3   Negative open-source          ~32 drawings, semi-manual
-  [ ] Module 4   Normalize                     PDF to PNG, text masking
+  [x] Module 3   Negative open-source          23 drawings from Wikimedia Commons
+  [~] Module 4   Normalize                     running -- PDF to PNG, blob detection, text masking
   [ ] Module 5   Build manifest                manifest.csv
   [ ] Module 6   Candidate selection           candidates.csv
   [ ] Module 7   Model evaluation              7,200 API calls, ~$600
@@ -133,24 +134,44 @@ python scripts/02_pull_negative_expired.py --all
 
 Output goes to data/raw/negative_expired/ with label "negative" in JSON sidecar.
 
-### Module 3 -- negative open-source (semi-manual)
+### Module 3 -- negative open-source
 
-Script: 03_collect_negative_opensource.py -- not yet written.
+Script: 03_collect_negative_opensource.py -- complete.
 
-Approximately 32 technical drawings from TraceParts and similar CAD repositories,
-4 per class. See docs/negative_opensource_protocol.md for curation protocol.
+23 technical drawings from Wikimedia Commons (public domain / CC0), 3 per class.
+Source categories: Technical_drawings_of_instruments, Historical_surgical_instruments,
+Diagrams_of_vehicles, Piping_and_instrumentation_diagrams, and others.
+Requires User-Agent header on all API and download requests (missing = 403).
+
+    python scripts/03_collect_negative_opensource.py --dry-run --class D24
+    python scripts/03_collect_negative_opensource.py --all
 
 ### Module 4 -- normalize
 
-Script: 04_normalize.py -- not yet written.
+Script: 04_normalize.py -- complete.
+
+USPTO PDFs are pure raster scans -- get_text() returns nothing on any page.
+Drawing sheet detection uses blob analysis (numpy) rather than text search:
+- Renders each page at 72 DPI to measure the bounding-box fraction of ink
+- Drawing pages have one large centered figure (blob score 0.50+)
+- Reference/front-matter pages have scattered small text blobs (blob score 0.02-0.05)
+- Selects the first page with blob score within 2% of the maximum
 
 For each raw PDF:
-1. Locate the page containing "Sheet 1 of" (FIG. 1, perspective view)
-2. Render at 300 DPI as PNG
-3. OCR with Tesseract, mask text regions (patent numbers, sheet numbers)
-4. Grayscale, resize to 1024x1024 with white padding
-5. Strip metadata
+1. Scan all pages at 72 DPI, compute blob score per page
+2. Select first page with highest blob score (FIG. 1 perspective view)
+3. Render that page at 150 DPI
+4. Tesseract OCR (conf >= 70, patent metadata patterns only) -- white out matches
+5. Grayscale, pad to square, resize to 1024x1024, strip metadata
 6. Save to data/processed/<patent_number>.png
+
+For open-source PNG/JPG: load directly, no masking needed.
+For open-source SVG: render via cairosvg, then same pipeline.
+
+    python scripts/04_normalize.py --dry-run
+    python scripts/04_normalize.py --id D1049406
+    python scripts/04_normalize.py --all
+    python scripts/04_normalize.py --all --no-mask   # skip Tesseract
 
 ### Module 5 -- build manifest
 
