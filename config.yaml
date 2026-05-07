@@ -82,7 +82,7 @@ negative_composition:
 date_windows:
   positive_grant_start: "2015-01-01"
   positive_grant_end: "2024-12-31"
-  expired_grant_end: "2008-01-01"
+  expired_grant_end: "2007-12-31"   # pre-2008 = past any 14/15yr term by 2026
 
 # =============================================================================
 # USPTO API configuration.
