@@ -13,8 +13,8 @@ Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC C
 Dataset
   Positive drawings (in-force patents)   96 / 96    [====================] 100%
   Negative expired  (public domain)      72 / 72    [====================] 100%
-  Negative open-source (TraceParts)       0 / 32    [                    ]   0%
-  Total                                 168 / 200   [================    ]  84%
+  Negative open-source (TraceParts)      23 / 32    [==============      ]  72%
+  Total                                 191 / 200   [=================== ]  96%
 
 Pipeline
   [x] Module 0   Environment check
