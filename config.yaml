@@ -1,0 +1,169 @@
+# =============================================================================
+# Patent Infringement Benchmark — Master Configuration
+# =============================================================================
+# Every script in this project reads from this file. Change a number here,
+# not in the scripts. If you change a parameter mid-study, document it in
+# docs/CHANGELOG.md so the paper's methods section stays accurate.
+# =============================================================================
+
+study:
+  # Total drawings in the final dataset.
+  # Justified by McNemar power analysis for paired model comparison —
+  # see docs/sample_size.md for derivation.
+  total_samples: 200
+
+  # How many candidate drawings the model sees alongside each query.
+  candidates_per_query: 5
+
+  # Per-configuration repetitions, identical to the ADR paper protocol.
+  repetitions: 3
+
+  # Deterministic decoding so repetitions are valid measurements.
+  temperature: 0
+
+  # Balanced design: 100 positive, 100 negative.
+  positive_negative_ratio: 0.5
+
+# =============================================================================
+# Domain stratification.
+# USPTO uses USPC class "D" for design patents. The Dxx/yyy subclass is what
+# the API actually filters on. Locarno is recorded as metadata but USPC is
+# the operational class for retrieval.
+# We pick 8 USPC-D subclasses to span visual and functional variety.
+# =============================================================================
+
+uspc_classes:
+  - id: "D06"           # Furnishings (furniture, textiles)
+    label: "furniture"
+    locarno_equiv: "06"
+  - id: "D08"           # Tools and hardware
+    label: "tools_hardware"
+    locarno_equiv: "08"
+  - id: "D09"           # Packages and containers
+    label: "packaging"
+    locarno_equiv: "09"
+  - id: "D12"           # Transportation
+    label: "transport"
+    locarno_equiv: "12"
+  - id: "D14"           # Recording, communication, data processing equipment
+    label: "electronics_housings"
+    locarno_equiv: "14"
+  - id: "D23"           # Environmental heating, cooling, fluid handling
+    label: "fluid_handling"
+    locarno_equiv: "23"
+  - id: "D24"           # Medical and laboratory equipment    [client anchor]
+    label: "medical"
+    locarno_equiv: "24"
+  - id: "D26"           # Lighting
+    label: "lighting"
+    locarno_equiv: "26"
+
+samples_per_class: 25      # 8 classes * 25 = 200 total
+positive_per_class: 12     # 8 * 12 = 96 positive
+negative_per_class: 13     # 8 * 13 = 104 negative
+
+# =============================================================================
+# Negative-class composition.
+# Discussed with mentor: 70% expired-patent (clean provenance, same source
+# as positive), 30% open-source (TraceParts, GitHub) for visual diversity.
+# Document this split in threats-to-validity.
+# =============================================================================
+
+negative_composition:
+  expired_patent_count: 73    # ~70% of 104
+  open_source_count: 31       # ~30% of 104
+
+# =============================================================================
+# Date windows for source filtering.
+# Positive: granted 2015-01-01 onward → guaranteed 15-year term, in force.
+# Negative-expired: granted before 2008-01-01 → past any plausible term.
+# =============================================================================
+
+date_windows:
+  positive_grant_start: "2015-01-01"
+  positive_grant_end: "2024-12-31"
+  expired_grant_end: "2008-01-01"
+
+# =============================================================================
+# USPTO API configuration.
+# As of May 2026, USPTO migrated PatentsView to data.uspto.gov.
+# An API key is required — register at https://data.uspto.gov.
+# Set the key in a .env file (never commit) and load via os.environ.
+# =============================================================================
+
+uspto_api:
+  base_url: "https://api.uspto.gov"          # confirmed live host (Go client + spec PDF)
+  patent_search_endpoint: "/api/v1/patent/applications/search"  # confirmed in ODP spec PDF
+  rate_limit_per_minute: 45                # documented PatentsView limit
+  api_key_env_var: "USPTO_API_KEY"
+  request_timeout_seconds: 30
+  retry_max_attempts: 3
+  retry_backoff_base_seconds: 2
+
+# =============================================================================
+# Models for evaluation.
+# Mistral 7B (text-only) excluded — replaced with Qwen2.5-VL as the
+# open-weight vision baseline.
+# =============================================================================
+
+models:
+  - name: "gpt-5.5"
+    provider: "openai"
+    model_id: "gpt-5.5"
+    api_key_env_var: "OPENAI_API_KEY"
+  - name: "claude-sonnet-4.6"
+    provider: "anthropic"
+    model_id: "claude-sonnet-4-6"
+    api_key_env_var: "ANTHROPIC_API_KEY"
+  - name: "gemini-2.5-pro"
+    provider: "google"
+    model_id: "gemini-2.5-pro"
+    api_key_env_var: "GOOGLE_API_KEY"
+  - name: "qwen2.5-vl-7b"
+    provider: "local"
+    model_id: "Qwen/Qwen2.5-VL-7B-Instruct"
+    inference_server_url: "http://localhost:8000/v1/chat/completions"
+
+strategies:
+  - "zero_shot"
+  - "few_shot"
+  - "chain_of_thought"
+
+# =============================================================================
+# Image preprocessing.
+# Critical: text-masking removes patent office identifiers so models can't
+# shortcut on house style. Without this, the study is invalid.
+# =============================================================================
+
+preprocessing:
+  output_size_pixels: 1024
+  output_format: "png"
+  grayscale: true
+  strip_metadata: true
+  text_mask:
+    enabled: true
+    ocr_engine: "tesseract"
+    confidence_threshold: 60
+    pad_pixels: 4
+
+# =============================================================================
+# File paths (relative to project root).
+# =============================================================================
+
+paths:
+  raw_positive: "data/raw/positive"
+  raw_negative_expired: "data/raw/negative_expired"
+  raw_negative_opensource: "data/raw/negative_opensource"
+  processed: "data/processed"
+  manifest: "data/manifest.csv"
+  candidates: "candidates/candidates.csv"
+  prompts_dir: "prompts"
+  raw_responses: "raw_responses"
+  results: "results/parsed.csv"
+  stats_dir: "results/stats"
+
+# =============================================================================
+# Random seed — fixed for reproducibility.
+# =============================================================================
+
+random_seed: 42

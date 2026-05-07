@@ -1,0 +1,27 @@
+# Core
+pyyaml>=6.0
+python-dotenv>=1.0
+requests>=2.31
+tenacity>=8.2
+
+# Data handling
+pandas>=2.1
+numpy>=1.26
+
+# Image processing
+Pillow>=10.1
+pytesseract>=0.3.10        # text-masking OCR; system tesseract binary required
+
+# CLI / logging
+rich>=13.7
+tqdm>=4.66
+
+# Later modules (uncomment when needed):
+# openai>=1.40
+# anthropic>=0.40
+# google-generativeai>=0.8
+# transformers>=4.45        # for local Qwen
+# torch>=2.4
+# scikit-learn>=1.4         # F1, kappa, McNemar
+# statsmodels>=0.14
+# matplotlib>=3.8
