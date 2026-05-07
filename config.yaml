@@ -33,13 +33,13 @@ study:
 # =============================================================================
 
 uspc_classes:
-  - id: "D06"           # Furnishings (furniture, textiles)
+  - id: "D6"            # Furnishings (furniture, textiles)
     label: "furniture"
     locarno_equiv: "06"
-  - id: "D08"           # Tools and hardware
+  - id: "D8"            # Tools and hardware
     label: "tools_hardware"
     locarno_equiv: "08"
-  - id: "D09"           # Packages and containers
+  - id: "D9"            # Packages and containers
     label: "packaging"
     locarno_equiv: "09"
   - id: "D12"           # Transportation

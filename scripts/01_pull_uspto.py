@@ -108,32 +108,36 @@ def _search_patents_for_class(
     }
 
     # -------------------------------------------------------------------------
-    # STRATEGY: minimal request first, verify field names, then add filters.
+    # Request body — field names confirmed from live API response May 2026.
     #
-    # We query for Design patents in the date range with NO class filter.
-    # The dry-run prints the first record so you can see the actual field
-    # names. Once confirmed, we re-add the USPC class filter.
-    #
-    # NOTE: The USPC class field name for design patents is uncertain —
-    # the spec only shows utility patent examples. After the dry-run reveals
-    # the actual field names, update the filters block below.
+    # Key confirmed fields:
+    #   applicationMetaData.class         — USPC class, e.g. "D8", "D24"
+    #   applicationMetaData.patentNumber  — patent number, e.g. "D1055675"
+    #   applicationMetaData.grantDate     — grant date
+    #   applicationMetaData.inventionTitle — title
+    #   grantDocumentMetaData.fileLocationURI — XML file with drawings
     # -------------------------------------------------------------------------
-
-    # Step 1 body: minimal — just type + date, no class filter.
-    # This will return *some* Design patents so we can inspect the schema.
     body = {
         "q": "applicationMetaData.applicationTypeLabelName:Design",
+        "filters": [
+            {
+                # Granted and in-force only
+                "name": "applicationMetaData.applicationStatusDescriptionText",
+                "value": ["Patented Case"],
+            },
+            {
+                # USPC class — confirmed field name from live response
+                # Values: "D6", "D8", "D9", "D12", "D14", "D23", "D24", "D26"
+                # Note: API stores without leading zero ("D8" not "D08")
+                "name": "applicationMetaData.class",
+                "value": [uspc_class],
+            },
+        ],
         "rangeFilters": [
             {
                 "field": "applicationMetaData.grantDate",
                 "valueFrom": grant_date_start,
                 "valueTo": grant_date_end,
-            }
-        ],
-        "filters": [
-            {
-                "name": "applicationMetaData.applicationStatusDescriptionText",
-                "value": ["Patented Case"],
             }
         ],
         "sort": [{"field": "applicationMetaData.grantDate", "order": "desc"}],
@@ -212,49 +216,62 @@ def _search_patents_for_class(
 # =============================================================================
 
 
-def _build_drawing_url(patent_number: str) -> str:
-    """
-    Construct the URL for a design patent's drawing image.
-
-    USPTO serves design patent drawings in several places:
-      1. Patent Center (https://ppubs.uspto.gov) — needs session
-      2. Bulk data PDFs (https://bulkdata.uspto.gov) — full grant XML+PDF
-      3. PatFT image server (legacy)
-
-    The cleanest approach for design patents is to fetch the front-page
-    image from the design patent's bibliographic page. This URL pattern
-    is approximate and MUST be verified on first run.
-    """
-    # Strip leading 'D' if present, pad as needed.
-    pn = patent_number.upper().lstrip("D")
-    # Example legacy pattern (verify):
-    return f"https://pdfpiw.uspto.gov/.piw?Docid=D{pn:>07s}"
-
-
 @retry(
     stop=stop_after_attempt(3),
     wait=wait_exponential(multiplier=2, min=2, max=30),
     reraise=True,
 )
-def _download_drawing(patent_number: str, save_path: Path) -> bool:
+def _download_drawing(patent: dict, marker_path: Path, api_key: str) -> bool:
     """
-    Download a single drawing. Returns True on success.
+    Download the patent PDF from image-ppubs.uspto.gov and save it.
 
-    NOTE: design patent drawings are typically distributed as multi-page
-    PDFs (one figure per page) inside a TIFF/PDF wrapper. For v1 we fetch
-    the principal drawing as PNG when available; otherwise PDF and convert
-    later in 04_normalize.py.
+    Confirmed public endpoint (no auth required):
+        https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1051385
 
-    *** This function will likely need rework once you see the actual
-    response from USPTO. ***
+    Returns a multi-page PDF containing all patent drawings.
+    The PDF is saved as <patent_number>.pdf and normalize.py (module 4)
+    will extract page 2 (first drawing figure) as a PNG.
+
+    This approach is simpler and more reliable than trying to get TIF files
+    from the bulk data system, which requires signed URLs.
     """
-    url = _build_drawing_url(patent_number)
-    response = requests.get(url, timeout=30, allow_redirects=True)
-    if response.status_code != 200:
-        logger.warning(f"  ✗ drawing download failed for {patent_number}: HTTP {response.status_code}")
+    patent_number = _patent_number_field(patent)
+    if not patent_number:
+        logger.warning("  no patent number found in record")
         return False
 
-    save_path.write_bytes(response.content)
+    out_dir = marker_path.parent
+
+    # image-ppubs.uspto.gov is a public endpoint — no API key needed
+    url = f"https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/{patent_number}"
+    logger.info(f"  fetching PDF: {patent_number}")
+
+    response = requests.get(url, timeout=60, allow_redirects=True)
+
+    if response.status_code != 200:
+        logger.warning(f"  PDF fetch failed: HTTP {response.status_code} — {url}")
+        marker_path.write_text(f"pdf_download_failed:{response.status_code}")
+        return False
+
+    content = response.content
+
+    # Sanity check — a real patent PDF is at minimum ~50KB
+    if len(content) < 50_000:
+        logger.warning(f"  PDF too small ({len(content):,} bytes) for {patent_number}")
+        marker_path.write_text(f"pdf_too_small:{len(content)}")
+        return False
+
+    # Verify it's actually a PDF
+    if not content.startswith(b"%PDF"):
+        logger.warning(f"  response is not a PDF for {patent_number}")
+        marker_path.write_text(f"not_a_pdf:{content[:80]}")
+        return False
+
+    pdf_path = out_dir / f"{patent_number}.pdf"
+    pdf_path.write_bytes(content)
+    logger.info(f"  saved {patent_number}.pdf ({len(content):,} bytes)")
+
+    marker_path.write_text(f"pdf:{patent_number}.pdf")
     return True
 
 
@@ -276,23 +293,14 @@ def _select_random_sample(
 
 def _patent_number_field(patent: dict) -> str | None:
     """
-    Extract the patent number from an ODP Patent File Wrapper record.
-
-    ODP returns applicationNumberText as the primary ID. Design patents
-    are typically prefixed with 'D' in their display form (e.g. D1234567)
-    but stored without prefix in the API. We normalise to 'D<number>'
-    for consistency with USPTO drawing filenames.
+    Extract the patent number. Confirmed field: applicationMetaData.patentNumber
+    Returns e.g. "D1055675". Falls back to applicationNumberText if needed.
     """
-    raw = (
-        patent.get("applicationNumberText")
-        or patent.get("patent_number")
-        or patent.get("patent_id")
+    meta = patent.get("applicationMetaData", {})
+    return (
+        meta.get("patentNumber")
+        or patent.get("applicationNumberText")
     )
-    if not raw:
-        return None
-    # Normalise: strip non-digits for the number portion, re-add 'D' prefix
-    num = raw.strip().lstrip("Dd").lstrip("/").strip()
-    return f"D{num}" if num else None
 
 
 def pull_class(
@@ -371,25 +379,41 @@ def pull_class(
             logger.warning(f"  skipping record without patent number: {patent}")
             continue
 
-        # Idempotency: skip if already downloaded
-        png_path = out_dir / f"{patent_number}.png"
+        # Idempotency: skip if marker file or image already on disk
+        marker_path = out_dir / f"{patent_number}.txt"   # created by _download_drawing
         json_path = out_dir / f"{patent_number}.json"
-        if png_path.exists() and json_path.exists():
+        if marker_path.exists() and json_path.exists():
             logger.info(f"  • {patent_number} already on disk, skipping")
             downloaded += 1
             continue
 
-        # Save metadata sidecar first
-        json_path.write_text(json.dumps(patent, indent=2, sort_keys=True))
+        # Save metadata sidecar — includes full API record for traceability
+        # Key fields for manifest: patentNumber, grantDate, class, inventionTitle
+        meta = patent.get("applicationMetaData", {})
+        sidecar = {
+            "patent_number": patent_number,
+            "application_number": patent.get("applicationNumberText"),
+            "grant_date": meta.get("grantDate"),
+            "filing_date": meta.get("filingDate"),
+            "uspc_class": meta.get("class"),
+            "uspc_symbol": meta.get("uspcSymbolText"),
+            "invention_title": meta.get("inventionTitle"),
+            "applicant": meta.get("firstApplicantName"),
+            "drawing_xml_url": (patent.get("grantDocumentMetaData") or {}).get("fileLocationURI"),
+            "label": "positive",
+            "source_type": "in_force_design_patent",
+            "raw_record": patent,   # full record for debugging
+        }
+        json_path.write_text(json.dumps(sidecar, indent=2, sort_keys=True))
 
-        # Then the drawing
-        ok = _download_drawing(patent_number, png_path)
+        # Download the drawing
+        ok = _download_drawing(patent, marker_path, api_key)
         if ok:
             logger.info(f"  ✓ {patent_number}")
             downloaded += 1
         else:
             failures.append(patent_number)
-            json_path.unlink(missing_ok=True)  # don't keep orphan metadata
+            json_path.unlink(missing_ok=True)
 
         # Polite pacing
         time.sleep(60.0 / config["uspto_api"]["rate_limit_per_minute"])
