@@ -3,7 +3,7 @@
 Benchmarking multimodal LLMs on US design-patent infringement detection
 
 Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC Charlotte
-Companion paper: ADR Compliance Benchmark (Kesharwani & Berg, 2026)
+
 
 ---
 
