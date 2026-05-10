@@ -1,0 +1,38 @@
+2026-05-10 09:50:08,066  INFO  ============================================================
+2026-05-10 09:50:08,067  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 09:50:08,067  INFO  Model filter : all
+2026-05-10 09:50:08,068  INFO  Dry run      : True
+2026-05-10 09:50:08,068  INFO  ============================================================
+2026-05-10 09:50:08,122  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 09:50:08,137  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 09:50:08,138  INFO  Models     : ['claude', 'openai', 'gemini', 'qwen']
+2026-05-10 09:50:08,138  INFO  Strategies : ['zero_shot']
+2026-05-10 09:50:08,139  INFO  Reps       : 1
+2026-05-10 09:50:08,267  INFO  Jobs built : 80
+2026-05-10 09:50:08,268  INFO  DRY RUN — first 10 job IDs:
+2026-05-10 09:50:08,269  INFO    [·] D1042123__claude__zero_shot__rep1
+2026-05-10 09:50:08,270  INFO    [·] D1042123__openai__zero_shot__rep1
+2026-05-10 09:50:08,270  INFO    [·] D1042123__gemini__zero_shot__rep1
+2026-05-10 09:50:08,270  INFO    [·] D1042123__qwen__zero_shot__rep1
+2026-05-10 09:50:08,271  INFO    [·] D1048511__claude__zero_shot__rep1
+2026-05-10 09:50:08,271  INFO    [·] D1048511__openai__zero_shot__rep1
+2026-05-10 09:50:08,272  INFO    [·] D1048511__gemini__zero_shot__rep1
+2026-05-10 09:50:08,273  INFO    [·] D1048511__qwen__zero_shot__rep1
+2026-05-10 09:50:08,274  INFO    [·] D1050408__claude__zero_shot__rep1
+2026-05-10 09:50:08,275  INFO    [·] D1050408__openai__zero_shot__rep1
+2026-05-10 09:50:08,276  INFO  Exiting (dry run).
+2026-05-10 09:50:48,405  INFO  ============================================================
+2026-05-10 09:50:48,406  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 09:50:48,406  INFO  Model filter : claude
+2026-05-10 09:50:48,407  INFO  Dry run      : False
+2026-05-10 09:50:48,407  INFO  ============================================================
+2026-05-10 09:50:48,420  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 09:50:48,428  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 09:50:48,428  INFO  Models     : ['claude']
+2026-05-10 09:50:48,429  INFO  Strategies : ['zero_shot']
+2026-05-10 09:50:48,429  INFO  Reps       : 1
+2026-05-10 09:50:48,476  INFO  Jobs built : 20
+2026-05-10 09:50:48,479  INFO  Total jobs           : 20
+2026-05-10 09:50:48,479  INFO  Already done (skip)  : 0
+2026-05-10 09:50:48,480  INFO  Pending              : 20
+2026-05-10 09:50:48,480  INFO  [1/20] D1042123__claude__zero_shot__rep1
