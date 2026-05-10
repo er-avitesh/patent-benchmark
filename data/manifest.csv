@@ -95,98 +95,99 @@ D1056227,positive,positive_patent,D24,2401,2024-12-31,HAND WARMER,data\processed
 D1056279,positive,positive_patent,D26,2600,2024-12-31,Car headlight,data\processed\D1056279.png,2,True
 D1056290,positive,positive_patent,D26,2600,2024-12-31,ADJUSTABLE LIGHTING FIXTURE,data\processed\D1056290.png,9,True
 D1056301,positive,positive_patent,D26,2600,2024-12-31,LIGHT FIXTURE,data\processed\D1056301.png,2,True
-D546945,negative,expired_patent,D24,2400,2007-07-17,SANITARY NAPKIN,data\processed\D546945.png,4,True
-D547486,negative,expired_patent,D26,2600,2007-07-24,LAMPS,data\processed\D547486.png,6,True
-D548307,negative,expired_patent,D23,2300,2007-08-07,FILTER ELEMENT,data\processed\D548307.png,2,True
-D548834,negative,expired_patent,D24,2400,2007-08-14,BOTTLE WITH LIQUID AND AIR COMPARTMENTS,data\processed\D548834.png,2,True
-D549111,negative,expired_patent,D9,0900,2007-08-21,ZINC-AIR HEARING AID BATTERY PACKAGE,data\processed\D549111.png,6,True
-D549328,negative,expired_patent,D24,2400,2007-08-21,HANDLE FOR SURGICAL INSTRUMENTS,data\processed\D549328.png,2,True
-D549829,negative,expired_patent,D24,2400,2007-08-28,I- SHAPED ORAL DEVICE,data\processed\D549829.png,2,True
-D549866,negative,expired_patent,D26,2600,2007-08-28,CEILING FAN LIGHT KIT,data\processed\D549866.png,5,True
-D550591,negative,expired_patent,D12,1200,2007-09-11,MOTORCYCLE,data\processed\D550591.png,5,True
-D550813,negative,expired_patent,D23,2300,2007-09-11,FAUCET,data\processed\D550813.png,3,True
-D550868,negative,expired_patent,D26,2600,2007-09-11,LIGHT EMITTING DIODE LAMP,data\processed\D550868.png,2,True
-D550874,negative,expired_patent,D26,2600,2007-09-11,CEILING FAN LIGHT KIT,data\processed\D550874.png,5,True
-D551335,negative,expired_patent,D23,2300,2007-09-18,COMBINATION CEILING FAN AND LIGHT FIXTURE,data\processed\D551335.png,2,True
-D551554,negative,expired_patent,D9,0900,2007-09-25,BOTTLE,data\processed\D551554.png,2,True
-D551742,negative,expired_patent,D23,2300,2007-09-25,SINK,data\processed\D551742.png,6,True
-D551922,negative,expired_patent,D8,0800,2007-10-02,MATTOCK-SCOOPER TOOL HEAD,data\processed\D551922.png,4,True
-D551963,negative,expired_patent,D9,0900,2007-10-02,PRODUCT PACKAGE,data\processed\D551963.png,2,True
-D551968,negative,expired_patent,D9,0900,2007-10-02,CARTON,data\processed\D551968.png,3,True
-D552249,negative,expired_patent,D24,2400,2007-10-02,SPERM SAMPLER,data\processed\D552249.png,3,True
-D552529,negative,expired_patent,D12,1200,2007-10-09,BED RAIL,data\processed\D552529.png,3,True
-D552894,negative,expired_patent,D6,0600,2007-10-16,SLAT WALL PANEL,data\processed\D552894.png,2,True
-D552946,negative,expired_patent,D8,0800,2007-10-16,SPREADER,data\processed\D552946.png,6,True
-D553054,negative,expired_patent,D12,1200,2007-10-16,STEERING DAMPER FOR A MOTORCYCLE,data\processed\D553054.png,5,True
-D553067,negative,expired_patent,D12,1200,2007-10-16,FRONT FACE OF A VEHICLE WHEEL,data\processed\D553067.png,2,True
-D553270,negative,expired_patent,D26,2600,2007-10-16,HEADLAMP,data\processed\D553270.png,4,True
-D553462,negative,expired_patent,D8,0800,2007-10-23,TOOL DISPENSER HAVING A SERRATED SPINE,data\processed\D553462.png,2,True
-D553751,negative,expired_patent,D24,2400,2007-10-23,LATERAL POSITIONER,data\processed\D553751.png,2,True
-D553871,negative,expired_patent,D6,0600,2007-10-30,CHAIR HAVING A SWINGING SEAT,data\processed\D553871.png,4,True
-D553930,negative,expired_patent,D8,0800,2007-10-30,ROUTER,data\processed\D553930.png,3,True
-D553986,negative,expired_patent,D9,0900,2007-10-30,PACKAGE INSERT,data\processed\D553986.png,6,True
-D554118,negative,expired_patent,D14,1400,2007-10-30,COMPUTER ENCLOSURE,data\processed\D554118.png,3,True
-D554238,negative,expired_patent,D23,2300,2007-10-30,COMPONENT OF A DEVICE FOR TRANSPORT OF LIQUID,data\processed\D554238.png,4,True
-D554284,negative,expired_patent,D26,2600,2007-10-30,SOLAR-POWERED LIGHT,data\processed\D554284.png,5,True
-D554386,negative,expired_patent,D6,0600,2007-11-06,SEATING UNIT,data\processed\D554386.png,4,True
-D554405,negative,expired_patent,D6,0600,2007-11-06,SUPPORT ACCESSORY,data\processed\D554405.png,14,True
-D554517,negative,expired_patent,D9,0900,2007-11-06,CONTAINER,data\processed\D554517.png,2,True
-D554974,negative,expired_patent,D8,0800,2007-11-13,DOOR LOCK ESCUTCHEON,data\processed\D554974.png,2,True
 D555056,negative,expired_patent,D12,1200,2007-11-13,MIRROR,data\processed\D555056.png,4,True
-D555158,negative,expired_patent,D14,1400,2007-11-13,MEDIA PORT BLOCKER DEVICE,data\processed\D555158.png,7,True
-D555167,negative,expired_patent,D14,1400,2007-11-13,ICON FOR A PORTION OF A DISPLAY SCREEN,data\processed\D555167.png,2,True
-D555238,negative,expired_patent,D23,2300,2007-11-13,CEILING FAN HOUSING,data\processed\D555238.png,7,True
-D555254,negative,expired_patent,D24,2400,2007-11-13,ORTHOSIS,data\processed\D555254.png,7,True
-D555281,negative,expired_patent,D26,2600,2007-11-13,OUTDOOR LIGHTING,data\processed\D555281.png,2,True
-D555377,negative,expired_patent,D6,0600,2007-11-20,SEATING UNIT,data\processed\D555377.png,2,True
-D555498,negative,expired_patent,D9,0900,2007-11-20,BOTTLE,data\processed\D555498.png,4,True
-D555559,negative,expired_patent,D12,1200,2007-11-20,VEHICLE DOOR,data\processed\D555559.png,5,True
-D555647,negative,expired_patent,D14,1400,2007-11-20,DOUBLE DIN AUTO STEREO MOUNTING DEVICE,data\processed\D555647.png,8,True
-D555945,negative,expired_patent,D6,0600,2007-11-27,TABLE FOOT,data\processed\D555945.png,2,True
-D556024,negative,expired_patent,D8,0800,2007-11-27,HOOK,data\processed\D556024.png,3,True
-D556103,negative,expired_patent,D12,1200,2007-11-27,CALIPERS FOR DISC BRAKES,data\processed\D556103.png,5,True
-D556174,negative,expired_patent,D14,1400,2007-11-27,MOBILE PHONE,data\processed\D556174.png,2,True
-D556318,negative,expired_patent,D23,2300,2007-11-27,CEILING FAN BLADE IRON,data\processed\D556318.png,2,True
-D556479,negative,expired_patent,D6,0600,2007-12-04,ARMREST,data\processed\D556479.png,2,True
-D556560,negative,expired_patent,D8,0800,2007-12-04,FIXTURE FOR INSTALLING A SIDING PANEL,data\processed\D556560.png,3,True
-D556564,negative,expired_patent,D9,0900,2007-12-04,FRONT BUBBLE DISPLAY PACKAGE,data\processed\D556564.png,3,True
-D556711,negative,expired_patent,D14,1400,2007-12-04,HEADREST LCD MONITOR WITH DVD PLAYER,data\processed\D556711.png,3,True
-D556914,negative,expired_patent,D24,2400,2007-12-04,GENE AMPLIFICATION APPARATUS,data\processed\D556914.png,4,True
+D551554,negative,expired_patent,D9,0900,2007-09-25,BOTTLE,data\processed\D551554.png,2,True
 D557097,negative,expired_patent,D8,0800,2007-12-11,BUTTERFLY IMPACT WRENCH,data\processed\D557097.png,4,True
-D557197,negative,expired_patent,D12,1200,2007-12-11,MOTORCYCLE TIRE,data\processed\D557197.png,2,True
-D557263,negative,expired_patent,D14,1400,2007-12-11,KEYBOARD WHICH IS CONNECTABLE TO AN ELECTRONIC DEVICE,data\processed\D557263.png,6,True
-D557400,negative,expired_patent,D23,2300,2007-12-11,CEILING FAN HOUSING,data\processed\D557400.png,3,True
-D557433,negative,expired_patent,D26,2600,2007-12-11,EMERGENCY DEVICE,data\processed\D557433.png,2,True
-D557534,negative,expired_patent,D6,0600,2007-12-18,HEADBOARD,data\processed\D557534.png,2,True
-D557695,negative,expired_patent,D14,1400,2007-12-18,PORTABLE COMPUTER,data\processed\D557695.png,3,True
 D557928,negative,expired_patent,D6,0600,2007-12-25,HUB,data\processed\D557928.png,2,True
-D558024,negative,expired_patent,D8,0800,2007-12-25,LOCK,data\processed\D558024.png,3,True
-D558043,negative,expired_patent,D9,0900,2007-12-25,CLAM SHELL PACKAGING,data\processed\D558043.png,3,True
-D558118,negative,expired_patent,D12,1200,2007-12-25,FRONT FACE OF A VEHICLE WHEEL,data\processed\D558118.png,2,True
-D558217,negative,expired_patent,D14,1400,2007-12-25,DISPLAY WITH GRAPHIC USER INTERFACE,data\processed\D558217.png,5,True
-D558300,negative,expired_patent,D23,2300,2007-12-25,NOZZLE END CAP,data\processed\D558300.png,2,True
-D558354,negative,expired_patent,D24,2400,2007-12-25,PACIFIER,data\processed\D558354.png,7,True
+D556318,negative,expired_patent,D23,2300,2007-11-27,CEILING FAN BLADE IRON,data\processed\D556318.png,2,True
+D552529,negative,expired_patent,D12,1200,2007-10-09,BED RAIL,data\processed\D552529.png,3,True
+D554238,negative,expired_patent,D23,2300,2007-10-30,COMPONENT OF A DEVICE FOR TRANSPORT OF LIQUID,data\processed\D554238.png,4,True
 D558388,negative,expired_patent,D26,2600,2007-12-25,CEILING LIGHT FIXTURE,data\processed\D558388.png,3,True
+D553270,negative,expired_patent,D26,2600,2007-10-16,HEADLAMP,data\processed\D553270.png,4,True
+D556479,negative,expired_patent,D6,0600,2007-12-04,ARMREST,data\processed\D556479.png,2,True
+D557263,negative,expired_patent,D14,1400,2007-12-11,KEYBOARD WHICH IS CONNECTABLE TO AN ELECTRONIC DEVICE,data\processed\D557263.png,6,True
+D549328,negative,expired_patent,D24,2400,2007-08-21,HANDLE FOR SURGICAL INSTRUMENTS,data\processed\D549328.png,2,True
+D550813,negative,expired_patent,D23,2300,2007-09-11,FAUCET,data\processed\D550813.png,3,True
+D555945,negative,expired_patent,D6,0600,2007-11-27,TABLE FOOT,data\processed\D555945.png,2,True
+D553462,negative,expired_patent,D8,0800,2007-10-23,TOOL DISPENSER HAVING A SERRATED SPINE,data\processed\D553462.png,2,True
+D556560,negative,expired_patent,D8,0800,2007-12-04,FIXTURE FOR INSTALLING A SIDING PANEL,data\processed\D556560.png,3,True
+D558217,negative,expired_patent,D14,1400,2007-12-25,DISPLAY WITH GRAPHIC USER INTERFACE,data\processed\D558217.png,5,True
+D556914,negative,expired_patent,D24,2400,2007-12-04,GENE AMPLIFICATION APPARATUS,data\processed\D556914.png,4,True
+D553986,negative,expired_patent,D9,0900,2007-10-30,PACKAGE INSERT,data\processed\D553986.png,6,True
+D549866,negative,expired_patent,D26,2600,2007-08-28,CEILING FAN LIGHT KIT,data\processed\D549866.png,5,True
+D556024,negative,expired_patent,D8,0800,2007-11-27,HOOK,data\processed\D556024.png,3,True
+D555238,negative,expired_patent,D23,2300,2007-11-13,CEILING FAN HOUSING,data\processed\D555238.png,7,True
+D558354,negative,expired_patent,D24,2400,2007-12-25,PACIFIER,data\processed\D558354.png,7,True
+D551968,negative,expired_patent,D9,0900,2007-10-02,CARTON,data\processed\D551968.png,3,True
+D556564,negative,expired_patent,D9,0900,2007-12-04,FRONT BUBBLE DISPLAY PACKAGE,data\processed\D556564.png,3,True
+D558118,negative,expired_patent,D12,1200,2007-12-25,FRONT FACE OF A VEHICLE WHEEL,data\processed\D558118.png,2,True
+D552249,negative,expired_patent,D24,2400,2007-10-02,SPERM SAMPLER,data\processed\D552249.png,3,True
+D550874,negative,expired_patent,D26,2600,2007-09-11,CEILING FAN LIGHT KIT,data\processed\D550874.png,5,True
+D548834,negative,expired_patent,D24,2400,2007-08-14,BOTTLE WITH LIQUID AND AIR COMPARTMENTS,data\processed\D548834.png,2,True
+D550868,negative,expired_patent,D26,2600,2007-09-11,LIGHT EMITTING DIODE LAMP,data\processed\D550868.png,2,True
+D549111,negative,expired_patent,D9,0900,2007-08-21,ZINC-AIR HEARING AID BATTERY PACKAGE,data\processed\D549111.png,6,True
+D555158,negative,expired_patent,D14,1400,2007-11-13,MEDIA PORT BLOCKER DEVICE,data\processed\D555158.png,7,True
+D557534,negative,expired_patent,D6,0600,2007-12-18,HEADBOARD,data\processed\D557534.png,2,True
+D551335,negative,expired_patent,D23,2300,2007-09-18,COMBINATION CEILING FAN AND LIGHT FIXTURE,data\processed\D551335.png,2,True
+D552946,negative,expired_patent,D8,0800,2007-10-16,SPREADER,data\processed\D552946.png,6,True
+D555254,negative,expired_patent,D24,2400,2007-11-13,ORTHOSIS,data\processed\D555254.png,7,True
+D553067,negative,expired_patent,D12,1200,2007-10-16,FRONT FACE OF A VEHICLE WHEEL,data\processed\D553067.png,2,True
+D554517,negative,expired_patent,D9,0900,2007-11-06,CONTAINER,data\processed\D554517.png,2,True
+D557433,negative,expired_patent,D26,2600,2007-12-11,EMERGENCY DEVICE,data\processed\D557433.png,2,True
+D553930,negative,expired_patent,D8,0800,2007-10-30,ROUTER,data\processed\D553930.png,3,True
+D553054,negative,expired_patent,D12,1200,2007-10-16,STEERING DAMPER FOR A MOTORCYCLE,data\processed\D553054.png,5,True
+D554386,negative,expired_patent,D6,0600,2007-11-06,SEATING UNIT,data\processed\D554386.png,4,True
+D551742,negative,expired_patent,D23,2300,2007-09-25,SINK,data\processed\D551742.png,6,True
+D553871,negative,expired_patent,D6,0600,2007-10-30,CHAIR HAVING A SWINGING SEAT,data\processed\D553871.png,4,True
+D555647,negative,expired_patent,D14,1400,2007-11-20,DOUBLE DIN AUTO STEREO MOUNTING DEVICE,data\processed\D555647.png,8,True
+D554118,negative,expired_patent,D14,1400,2007-10-30,COMPUTER ENCLOSURE,data\processed\D554118.png,3,True
+D557695,negative,expired_patent,D14,1400,2007-12-18,PORTABLE COMPUTER,data\processed\D557695.png,3,True
+D556103,negative,expired_patent,D12,1200,2007-11-27,CALIPERS FOR DISC BRAKES,data\processed\D556103.png,5,True
 D12_AcotacionCoordenadas.svg,negative,wikimedia_commons,D12,,,File:AcotacionCoordenadas.svg,data\processed\D12_AcotacionCoordenadas.svg.png,,False
+D12_Arca_Swiss_Profile.svg,negative,wikimedia_commons,D12,,,File:Arca Swiss Profile.svg,data\processed\D12_Arca_Swiss_Profile.svg.png,,False
 D12_Arnold_electric_locomotive.png,negative,wikimedia_commons,D12,,,File:Arnold electric locomotive.png,data\processed\D12_Arnold_electric_locomotive.png.png,,False
 D12_Ashcroft's_railway_directory_for_-_containing_an_official_li,negative,wikimedia_commons,D12,,,"File:Ashcroft's railway directory for - containing an official list of all the officers and directors of the rail-roads in the United States and Canadas, together with their financial condition and amount (14759727862).jpg",data\processed\D12_Ashcroft's_railway_directory_for_-_containing_an_official_li.png,,False
+"D12_Port_Chicago_disaster,_pier_diagram.jpg",negative,wikimedia_commons,D12,,,"File:Port Chicago disaster, pier diagram.jpg","data\processed\D12_Port_Chicago_disaster,_pier_diagram.jpg.png",,False
+D12_Shuttle-era_Mobile_Launcher_Platform_technical_drawings_(pl),negative,wikimedia_commons,D12,,,File:Shuttle-era Mobile Launcher Platform technical drawings (pl).svg,data\processed\D12_Shuttle-era_Mobile_Launcher_Platform_technical_drawings_(pl).png,,False
+D12_SRN1_General_Arrangement.jpg,negative,wikimedia_commons,D12,,,File:SRN1 General Arrangement.jpg,data\processed\D12_SRN1_General_Arrangement.jpg.png,,False
+D14_2020-03-20_16_51_24-Autodesk_Fusion_360.png,negative,wikimedia_commons,D14,,,File:2020-03-20 16 51 24-Autodesk Fusion 360.png,data\processed\D14_2020-03-20_16_51_24-Autodesk_Fusion_360.png.png,,False
+"D14_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D14,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D14_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
+D14_AdhesiveFractures.svg,negative,wikimedia_commons,D14,,,File:AdhesiveFractures.svg,data\processed\D14_AdhesiveFractures.svg.png,,False
 D14_Belt_Differential_Element.svg,negative,wikimedia_commons,D14,,,File:Belt Differential Element.svg,data\processed\D14_Belt_Differential_Element.svg.png,,False
 D14_Broach_geometry.png,negative,wikimedia_commons,D14,,,File:Broach geometry.png,data\processed\D14_Broach_geometry.png.png,,False
 D14_Broach_tooth_geometry.svg,negative,wikimedia_commons,D14,,,File:Broach tooth geometry.svg,data\processed\D14_Broach_tooth_geometry.svg.png,,False
+D23__12_-_ITALY_-_Joe_Colombo_-_Tube_Chair_-_modularity_and_flex,negative,wikimedia_commons,D23,,,"File:"" 12 - ITALY - Joe Colombo - Tube Chair - modularity and flexibility in modular structure Italy 1969 svg.svg",data\processed\D23__12_-_ITALY_-_Joe_Colombo_-_Tube_Chair_-_modularity_and_flex.png,,False
 "D23_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D23,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D23_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
 D23_AcotacionCoordenadas.svg,negative,wikimedia_commons,D23,,,File:AcotacionCoordenadas.svg,data\processed\D23_AcotacionCoordenadas.svg.png,,False
+D23_Analyses_of_waters_of_the_Yellowstone_National_Park_-_with_a,negative,wikimedia_commons,D23,,,File:Analyses of waters of the Yellowstone National Park - with an account of the methods of analysis employed (1888) (17546101844).jpg,data\processed\D23_Analyses_of_waters_of_the_Yellowstone_National_Park_-_with_a.png,,False
+D23_Pump_with_tank_pid_en.svg,negative,wikimedia_commons,D23,,,File:Pump with tank pid en.svg,data\processed\D23_Pump_with_tank_pid_en.svg.png,,False
+D24_6_Roman_surgical_instruments_Wellcome_L0009950.jpg,negative,wikimedia_commons,D24,,,File:6 Roman surgical instruments Wellcome L0009950.jpg,data\processed\D24_6_Roman_surgical_instruments_Wellcome_L0009950.jpg.png,,False
+D24_A_bullet_extractor_Wellcome_L0035454.jpg,negative,wikimedia_commons,D24,,,File:A bullet extractor Wellcome L0035454.jpg,data\processed\D24_A_bullet_extractor_Wellcome_L0035454.jpg.png,,False
+"D24_African_surgical_instruments,_knives,_lancets._Wellcome_M000",negative,wikimedia_commons,D24,,,"File:African surgical instruments, knives, lancets. Wellcome M0008148.jpg","data\processed\D24_African_surgical_instruments,_knives,_lancets._Wellcome_M000.png",,False
 "D24_Amputation_and_trepanning_instruments,_18th_century._Wellcom",negative,wikimedia_commons,D24,,,"File:Amputation and trepanning instruments, 18th century. Wellcome L0000915.jpg","data\processed\D24_Amputation_and_trepanning_instruments,_18th_century._Wellcom.png",,False
 "D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376.",negative,wikimedia_commons,D24,,,"File:Amputation saws, 16th, 17th, 18th century Wellcome M0008376.jpg","data\processed\D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376..png",,False
 "D24_Ancient_Hindu_iridectomy_knives,_one_used_by_modern_surgeons",negative,wikimedia_commons,D24,,,"File:Ancient Hindu iridectomy knives, one used by modern surgeons Wellcome M0003927.jpg","data\processed\D24_Ancient_Hindu_iridectomy_knives,_one_used_by_modern_surgeons.png",,False
+D26_2020-03-20_16_51_24-Autodesk_Fusion_360.png,negative,wikimedia_commons,D26,,,File:2020-03-20 16 51 24-Autodesk Fusion 360.png,data\processed\D26_2020-03-20_16_51_24-Autodesk_Fusion_360.png.png,,False
+"D26_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D26,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D26_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
+D26_AdhesiveFractures.svg,negative,wikimedia_commons,D26,,,File:AdhesiveFractures.svg,data\processed\D26_AdhesiveFractures.svg.png,,False
 D26_Belt_Differential_Element.svg,negative,wikimedia_commons,D26,,,File:Belt Differential Element.svg,data\processed\D26_Belt_Differential_Element.svg.png,,False
 D26_Broach_geometry.png,negative,wikimedia_commons,D26,,,File:Broach geometry.png,data\processed\D26_Broach_geometry.png.png,,False
 D26_Broach_tooth_geometry.svg,negative,wikimedia_commons,D26,,,File:Broach tooth geometry.svg,data\processed\D26_Broach_tooth_geometry.svg.png,,False
+D6_2020-03-20_16_51_24-Autodesk_Fusion_360.png,negative,wikimedia_commons,D6,,,File:2020-03-20 16 51 24-Autodesk Fusion 360.png,data\processed\D6_2020-03-20_16_51_24-Autodesk_Fusion_360.png.png,,False
+"D6_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D6,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D6_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
+D6_AdhesiveFractures.svg,negative,wikimedia_commons,D6,,,File:AdhesiveFractures.svg,data\processed\D6_AdhesiveFractures.svg.png,,False
 D6_Belt_Differential_Element.svg,negative,wikimedia_commons,D6,,,File:Belt Differential Element.svg,data\processed\D6_Belt_Differential_Element.svg.png,,False
 D6_Broach_geometry.png,negative,wikimedia_commons,D6,,,File:Broach geometry.png,data\processed\D6_Broach_geometry.png.png,,False
 D6_Broach_tooth_geometry.svg,negative,wikimedia_commons,D6,,,File:Broach tooth geometry.svg,data\processed\D6_Broach_tooth_geometry.svg.png,,False
+D8_2020-03-20_16_51_24-Autodesk_Fusion_360.png,negative,wikimedia_commons,D8,,,File:2020-03-20 16 51 24-Autodesk Fusion 360.png,data\processed\D8_2020-03-20_16_51_24-Autodesk_Fusion_360.png.png,,False
+"D8_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D8,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D8_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
+D8_AdhesiveFractures.svg,negative,wikimedia_commons,D8,,,File:AdhesiveFractures.svg,data\processed\D8_AdhesiveFractures.svg.png,,False
 D8_Belt_Differential_Element.svg,negative,wikimedia_commons,D8,,,File:Belt Differential Element.svg,data\processed\D8_Belt_Differential_Element.svg.png,,False
 D8_Broach_geometry.png,negative,wikimedia_commons,D8,,,File:Broach geometry.png,data\processed\D8_Broach_geometry.png.png,,False
 D8_Broach_tooth_geometry.svg,negative,wikimedia_commons,D8,,,File:Broach tooth geometry.svg,data\processed\D8_Broach_tooth_geometry.svg.png,,False
+D9_2020-03-20_16_51_24-Autodesk_Fusion_360.png,negative,wikimedia_commons,D9,,,File:2020-03-20 16 51 24-Autodesk Fusion 360.png,data\processed\D9_2020-03-20_16_51_24-Autodesk_Fusion_360.png.png,,False
+"D9_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17",negative,wikimedia_commons,D9,,,"File:A hand-powered, crank-driven, milling machine. Engraving, 17 Wellcome V0024515.jpg","data\processed\D9_A_hand-powered,_crank-driven,_milling_machine._Engraving,_17.png",,False
+D9_AdhesiveFractures.svg,negative,wikimedia_commons,D9,,,File:AdhesiveFractures.svg,data\processed\D9_AdhesiveFractures.svg.png,,False
 D9_Belt_Differential_Element.svg,negative,wikimedia_commons,D9,,,File:Belt Differential Element.svg,data\processed\D9_Belt_Differential_Element.svg.png,,False
 D9_Broach_geometry.png,negative,wikimedia_commons,D9,,,File:Broach geometry.png,data\processed\D9_Broach_geometry.png.png,,False
 D9_Broach_tooth_geometry.svg,negative,wikimedia_commons,D9,,,File:Broach tooth geometry.svg,data\processed\D9_Broach_tooth_geometry.svg.png,,False

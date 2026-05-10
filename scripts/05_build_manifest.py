@@ -33,6 +33,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import random
 import json
 import re
 import xml.etree.ElementTree as ET
@@ -205,16 +206,27 @@ def build_manifest(config: dict, check: bool = False) -> Path:
         if row:
             rows.append(row)
 
-    # --- Negative expired patents ---
+    # --- Negative expired patents (stratified: cap at expired_patent_count) ---
     logger.info("Reading negative expired patents...")
-    for jf in sorted(raw_expired.glob("*.json")):
+    expired_cap = config.get("negative_composition", {}).get("expired_patent_count", 999)
+    expired_per_class = expired_cap // len(config.get("uspc_classes", [1]*8))
+    expired_class_counts: dict = {}
+    rng_expired = random.Random(config.get("random_seed", 42) + 5)
+    all_expired_jsons = sorted(raw_expired.glob("*.json"))
+    rng_expired.shuffle(all_expired_jsons)
+    for jf in all_expired_jsons:
         xf = jf.with_suffix(".xml")
         pf = processed_dir / f"{jf.stem}.json"
         row = _row_from_patent(jf, xf, pf, processed_dir,
                                 label="negative",
                                 source_type="expired_patent")
         if row:
+            cls = row.get("uspc_class", "")
+            if expired_class_counts.get(cls, 0) >= expired_per_class:
+                continue
+            expired_class_counts[cls] = expired_class_counts.get(cls, 0) + 1
             rows.append(row)
+    logger.info(f"  expired patents after stratification: {len([r for r in rows if r["source_type"]=="expired_patent"])} (cap {expired_per_class}/class)")
 
     # --- Negative open-source ---
     logger.info("Reading negative open-source images...")

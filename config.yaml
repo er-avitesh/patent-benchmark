@@ -70,8 +70,8 @@ negative_per_class: 13     # 8 * 13 = 104 negative
 # =============================================================================
 
 negative_composition:
-  expired_patent_count: 73    # ~70% of 104
-  open_source_count: 31       # ~30% of 104
+  expired_patent_count: 48    # 50% of negative class -- 6 per class, undersample from 72
+  open_source_count: 48       # 50% of negative class -- 6 per class, Wikimedia Commons
 
 # =============================================================================
 # Date windows for source filtering.

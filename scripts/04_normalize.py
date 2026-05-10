@@ -88,7 +88,10 @@ def _cairosvg():
     try:
         import cairosvg
         return cairosvg
-    except ImportError:
+    except (ImportError, OSError):
+        # OSError on Windows when libcairo-2.dll is not installed.
+        # Install GTK3 runtime from:
+        # https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
         return None
 
 

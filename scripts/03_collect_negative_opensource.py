@@ -318,6 +318,9 @@ def pull_class(
 
     for img in sampled:
         title = img["title"].replace("File:", "").replace(" ", "_")
+        # Strip characters illegal on Windows filesystems
+        import re as _re
+        title = _re.sub(r'[\\/:*?"<>|]', "", title)
         stem = title[:60].rstrip("_")
         file_id = f"{uspc_class}_{stem}"
         ext = {
