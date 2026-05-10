@@ -1,0 +1,2364 @@
+{
+  "applicant": "1947742 Alberta Ltd.",
+  "application_number": "29864589",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241022/29864589_D1047665.xml",
+  "filing_date": "2022-06-06",
+  "grant_date": "2024-10-22",
+  "invention_title": "CLADDING INSTALLATION SUPPORT",
+  "label": "positive",
+  "patent_number": "D1047665",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "1947742 Alberta Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Rocky View",
+              "countryCode": "CA",
+              "countryName": "CANADA",
+              "nameLineOneText": "1947742 Alberta Ltd.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9576,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-02",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 68543,
+      "docketNumber": "030319.00045",
+      "effectiveFilingDate": "2022-06-06",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "KADOO, RENE H",
+      "filingDate": "2022-06-06",
+      "firstApplicantName": "1947742 Alberta Ltd.",
+      "firstInventorName": "Tyler WEISGERBER",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-10-22",
+      "groupArtUnitNumber": "2933",
+      "inventionTitle": "CLADDING INSTALLATION SUPPORT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Rocky View, AI",
+              "countryCode": "CA",
+              "countryName": "CANADA",
+              "nameLineOneText": "Tyler  WEISGERBER",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Rocky View",
+              "countryCode": "CA",
+              "countryName": "CANADA",
+              "nameLineOneText": "Tyler  WEISGERBER",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Tyler",
+          "inventorNameText": "Tyler WEISGERBER",
+          "lastName": "WEISGERBER"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Rocky View",
+              "countryCode": "CA",
+              "countryName": "CANADA",
+              "nameLineOneText": "Trevor  KENT",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Trevor",
+          "inventorNameText": "Trevor KENT",
+          "lastName": "KENT"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1047665",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "354",
+      "uspcSymbolText": "D8/354"
+    },
+    "applicationNumberText": "29864589",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "261185 WAGON WHEEL WAY",
+              "addressLineTwoText": "ROCKY VIEW",
+              "cityName": "ALBERTA",
+              "countryName": "CANADA",
+              "geographicRegionCode": "CAX",
+              "ictCountryCode": "CA",
+              "postalCode": "T4A 0E2"
+            },
+            "assigneeNameText": "1947742 ALBERTA LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/60119/425",
+        "assignmentMailedDate": "2022-06-08",
+        "assignmentReceivedDate": "2022-06-07",
+        "assignmentRecordedDate": "2022-06-07",
+        "assignorBag": [
+          {
+            "assignorName": "KENT, TREVOR",
+            "executionDate": "2022-03-18"
+          },
+          {
+            "assignorName": "WEISGERBER, TYLER",
+            "executionDate": "2022-04-26"
+          }
+        ],
+        "attorneyDocketNumber": "030319.00045",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1717 K STREET NW",
+          "addressLineTwoText": "WASHINGTON, DC 20006",
+          "correspondentNameText": "ARENTFOX SCHIFF LLP"
+        },
+        "frameNumber": 425,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "060119/0425",
+        "reelNumber": 60119
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1717 K Street NW",
+        "cityName": "Washington",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "ARENTFOX SCHIFF LLP - Los Angeles",
+        "postalCode": "20006"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-03",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-06-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EXET",
+        "eventDate": "2024-05-14",
+        "eventDescriptionText": "Interview Summary - Examiner Initiated - Telephonic"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-05-10",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-07-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-06-29",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-08-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2022-07-29",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-06-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-06-16",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-06-16",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-06-17",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.U",
+        "eventDate": "2022-06-17",
+        "eventDescriptionText": "Filing Receipt - Updated"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2022-06-15",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-06-09",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-06-06",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-06-06",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-06-06",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-06-06",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "208920",
+        "filingDate": "2021-12-15",
+        "ipOfficeName": "CANADA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-10-22T08:08:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241022/29864589_D1047665.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29864589_D1047665.xml",
+      "zipFileName": "ipg241022.zip"
+    },
+    "lastIngestionDateTime": "2026-04-13T08:38:14",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "10019-604"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "WEISBURD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3945"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "125 SUMMER STREET",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "BURNS & LEVISON LLP",
+              "postalCode": "02110"
+            }
+          ],
+          "firstName": "SHAWN",
+          "lastName": "FOLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33071",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-345-3205"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MARYLEE",
+          "lastName": "JENKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37645",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "BERMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39107",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6232"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "44 MONTGOMERY STREET",
+              "addressLineTwoText": "38TH FLOOR",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTT FOX LLP",
+              "postalCode": "94104"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "STELTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40830",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-425-5506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 WEST FIFTH STREET",
+              "addressLineTwoText": "48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "CRAIG",
+          "lastName": "GELFOUND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41032",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-629-7400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS, FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "LACAVA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41135",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2815 TOWNSGAGE ROAD",
+              "addressLineTwoText": "SUITE 215",
+              "cityName": "WESTLAKE VILLAGE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KOPPEL PATRICK HEYBL & PHILPOTT",
+              "postalCode": "91361"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "ORLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41232",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "805-373-0060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "WILBURN",
+          "lastName": "CHESSER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41668",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8434"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BINDSEIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42326",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8530"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006-5344"
+            }
+          ],
+          "firstName": "JANINE",
+          "lastName": "CARLAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42387",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CORRADO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42439",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3776"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K ST. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "DIMINO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44657",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-714-5007"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS, FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "FAINBERG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50441",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3927"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 BOYLSTON STREET",
+              "addressLineTwoText": "32ND FLOOR",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "02199"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "MARAIA",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55926",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-973-6202"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "SPIEGLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-457-5454"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 BOYLSTON STREET",
+              "addressLineTwoText": "FLOOR 32",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "02199"
+            }
+          ],
+          "firstName": "MARLO",
+          "lastName": "GROLNIC",
+          "middleName": "SCHEPPER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57194",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-973-6214"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "864-987-9686"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006 - 5"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "NOONAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59451",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3679"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHNNY",
+          "lastName": "MA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59976",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-8952"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF AMERICAS",
+              "addressLineTwoText": "42ND FL",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "nameLineTwoText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "YUN",
+          "lastName": "CHOE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61798",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3975"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006-5344"
+            }
+          ],
+          "firstName": "TANIEL",
+          "lastName": "ANDERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64431",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 WEST FIFTH STREET, 48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "LAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7547"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MESKEREM",
+          "lastName": "TESFAYE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "65339",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-457-5413"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 SECOND ST.",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "94105"
+            }
+          ],
+          "firstName": "JEFF",
+          "lastName": "LEUNG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65896",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-805-7965"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "MAIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "HARRINGTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67051",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6163"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER, & NEUSTADT  LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ALEX",
+          "lastName": "KUO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69697",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "BRADFORD",
+          "lastName": "FRESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69772",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6496"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2311 PIMMIT DR APT 1403",
+              "cityName": "FALLS CHURCH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22043"
+            }
+          ],
+          "firstName": "SHABNAM",
+          "lastName": "SHAFIEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70151",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9812 FALLS RD",
+              "addressLineTwoText": "#114-176",
+              "cityName": "POTOMAC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20854"
+            }
+          ],
+          "firstName": "ALI",
+          "lastName": "SHARIFZADEH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70822",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "240-242-9340"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1675 BROADWAY",
+              "addressLineTwoText": "34TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SCARPATI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71149",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-797-7848"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "IBRAHAM",
+          "lastName": "SHARIFZADEH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JASJIT",
+          "lastName": "VIDWAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72080",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3752"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K. STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "NICOLE",
+          "lastName": "HACKETT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72246",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SOUTH FLOWER ST.",
+              "addressLineTwoText": "43RD FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "ZODIERU",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7655"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8238 W MANCHESTER AVE",
+              "addressLineTwoText": "308",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "90293"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "OSTERLIND",
+          "middleName": "S.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72571",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-969-8864"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "STEVENS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72892",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6043"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BARNABAS",
+          "lastName": "FEKETE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75171",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "GAS COMPANY TOWER",
+              "addressLineTwoText": "555 WEST FIFTH STREET, 48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "MADIGAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76405",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7663"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SOUTH FLOWER ST.",
+              "addressLineTwoText": "43RD FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "KASPAREK",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79798",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7517"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 68543,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1717 K Street NW",
+            "cityName": "Washington",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "ARENTFOX SCHIFF LLP - Los Angeles",
+            "postalCode": "20006"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHNNY",
+          "lastName": "MA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59976",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-8952"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS, FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "FAINBERG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50441",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3927"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MARYLEE",
+          "lastName": "JENKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37645",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 WEST FIFTH STREET, 48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "LAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7547"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "GAS COMPANY TOWER",
+              "addressLineTwoText": "555 WEST FIFTH STREET, 48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "MADIGAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76405",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7663"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2500 WILSHIRE BLVD",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "90057"
+            }
+          ],
+          "firstName": "DWIGHT",
+          "lastName": "WILLIAMS",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82842",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "310-630-9522"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "BERMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39107",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6232"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BARNABAS",
+          "lastName": "FEKETE",
+          "middleName": "T",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75171",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CORRADO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42439",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3776"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "YAN",
+          "lastName": "ZHUANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77960",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3442"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BINDSEIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42326",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8530"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 BOYLSTON STREET",
+              "addressLineTwoText": "32ND FLOOR",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "02199"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "MARAIA",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55926",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-973-6202"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006-5344"
+            }
+          ],
+          "firstName": "TANIEL",
+          "lastName": "ANDERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64431",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "HARRINGTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67051",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6163"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "IBRAHAM",
+          "lastName": "SHARIFZADEH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006 - 5"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "NOONAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59451",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-350-3679"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9812 FALLS RD",
+              "addressLineTwoText": "#114-176",
+              "cityName": "POTOMAC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20854"
+            }
+          ],
+          "firstName": "ALI",
+          "lastName": "SHARIFZADEH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70822",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "240-242-9340"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SOUTH FLOWER ST.",
+              "addressLineTwoText": "43RD FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "ZODIERU",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-443-7655"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "125 SUMMER STREET",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "BURNS & LEVISON LLP",
+              "postalCode": "02110"
+            }
+          ],
+          "firstName": "SHAWN",
+          "lastName": "FOLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33071",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-345-3205"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "MAIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "44 MONTGOMERY STREET",
+              "addressLineTwoText": "38TH FLOOR",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTT FOX LLP",
+              "postalCode": "94104"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "STELTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40830",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-425-5506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1675 BROADWAY",
+              "addressLineTwoText": "34TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SCARPATI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71149",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-797-7848"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "WILBURN",
+          "lastName": "CHESSER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41668",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8434"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SOUTH FLOWER STREET",
+              "addressLineTwoText": "43RD FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "HEMAVATHY",
+          "lastName": "PERUMAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76941",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-629-7400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 WEST FIFTH STREET",
+              "addressLineTwoText": "48TH FLOOR",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "90013"
+            }
+          ],
+          "firstName": "CRAIG",
+          "lastName": "GELFOUND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41032",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-629-7400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "SPIEGLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-457-5454"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER, & NEUSTADT  LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ALEX",
+          "lastName": "KUO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69697",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS, FLOOR 42",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "LACAVA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41135",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "BRADFORD",
+          "lastName": "FRESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69772",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6496"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K. STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "NICOLE",
+          "lastName": "HACKETT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72246",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF AMERICAS",
+              "addressLineTwoText": "42ND FL",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX LLP",
+              "nameLineTwoText": "ARENT FOX LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "YUN",
+          "lastName": "CHOE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61798",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3975"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "20006-5344"
+            }
+          ],
+          "firstName": "JANINE",
+          "lastName": "CARLAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42387",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-715-8506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "10019-604"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "WEISBURD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-484-3945"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 BOYLSTON STREET",
+              "addressLineTwoText": "FLOOR 32",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "ARENTFOX SCHIFF LLP",
+              "postalCode": "02199"
+            }
+          ],
+          "firstName": "MARLO",
+          "lastName": "GROLNIC",
+          "middleName": "SCHEPPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57194",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-973-6214"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "864-987-9686"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K ST. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "DIMINO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44657",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-714-5007"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "STEVENS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72892",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6043"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/354"
+}

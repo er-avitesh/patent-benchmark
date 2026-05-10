@@ -1,0 +1,1511 @@
+{
+  "applicant": "Musco Corporation",
+  "application_number": "29883046",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29883046_D1056290.xml",
+  "filing_date": "2023-01-23",
+  "grant_date": "2024-12-31",
+  "invention_title": "ADJUSTABLE LIGHTING FIXTURE",
+  "label": "positive",
+  "patent_number": "D1056290",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Musco Corporation",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oskaloosa",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Musco Corporation",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2563,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 190149,
+      "docketNumber": "P14351US10",
+      "effectiveFilingDate": "2023-01-23",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "ANDERSON, LIV CHRISTINE",
+      "filingDate": "2023-01-23",
+      "firstApplicantName": "Musco Corporation",
+      "firstInventorName": "Myron Gordin",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "ADJUSTABLE LIGHTING FIXTURE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oskaloosa",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Gordin, Myron",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Oskaloosa",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Myron  Gordin",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Myron",
+          "inventorNameText": "Myron Gordin",
+          "lastName": "Gordin"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New Sharon",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Joel D. DeBoef",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "New Sharon",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "DeBoef, Joel D.",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Joel",
+          "inventorNameText": "Joel D. DeBoef",
+          "lastName": "DeBoef",
+          "middleName": "D."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Newton",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Lickiss, Chris P.",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Newton",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Chris P. Lickiss",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Chris",
+          "inventorNameText": "Chris P. Lickiss",
+          "lastName": "Lickiss",
+          "middleName": "P."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New Sharon",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Kenneth G. Lewis JR.",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "New Sharon",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Kenneth G. Lewis JR.",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Kenneth",
+          "inventorNameText": "Kenneth G. Lewis JR.",
+          "lastName": "Lewis",
+          "middleName": "G.",
+          "nameSuffix": "JR."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oskaloosa",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "Luke C. McKee",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Osklaoosa",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "McKee, Luke C.",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Luke",
+          "inventorNameText": "Luke C. McKee",
+          "lastName": "McKee",
+          "middleName": "C."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1056290",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "63",
+      "uspcSymbolText": "D26/63"
+    },
+    "applicationNumberText": "29883046",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "100 1ST AVENUE WEST",
+              "cityName": "OSKALOOSA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "ictCountryCode": "US",
+              "ictStateCode": "IA",
+              "postalCode": "52577"
+            },
+            "assigneeNameText": "MUSCO CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/62495/918",
+        "assignmentMailedDate": "2023-01-27",
+        "assignmentReceivedDate": "2023-01-26",
+        "assignmentRecordedDate": "2023-01-26",
+        "assignorBag": [
+          {
+            "assignorName": "GORDIN, MYRON",
+            "executionDate": "2023-01-13"
+          },
+          {
+            "assignorName": "LICKISS, CHRIS P.",
+            "executionDate": "2023-01-13"
+          },
+          {
+            "assignorName": "DEBOEF, JOEL D.",
+            "executionDate": "2023-01-16"
+          },
+          {
+            "assignorName": "LEWIS, KENNETH G., JR.",
+            "executionDate": "2023-01-16"
+          },
+          {
+            "assignorName": "MCKEE, LUKE C.",
+            "executionDate": "2023-01-16"
+          }
+        ],
+        "attorneyDocketNumber": "1635_US10",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "100 1ST AVENUE WEST",
+          "addressLineTwoText": "OSKALOOSA, IA 52577",
+          "correspondentNameText": "KURT J. FUGMAN"
+        },
+        "frameNumber": 918,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "062495/0918",
+        "reelNumber": 62495
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Intellectual Property Group, Musco Patents",
+        "addressLineTwoText": "60 South 6th Street, Suite 1500",
+        "cityName": "Minneapolis",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MN",
+        "geographicRegionName": "MINNESOTA",
+        "nameLineOneText": "Fredrikson & Byron, P.A.",
+        "postalCode": "55402"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-04",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "P574",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "PARALEGAL OR ELECTRONIC TERMINAL DISCLAIMER APPROVED"
+      },
+      {
+        "eventCode": "DIST",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Terminal Disclaimer Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-09-06",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-09-06",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-08-29",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-12",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-02-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2024-02-23",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2023-03-08",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-02-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-01-26",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-01-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-01-25",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-01-26",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-01-26",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-01-23",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-01-23",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-01-23",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-01-23",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:15",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29883046_D1056290.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29883046_D1056290.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T13:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON PA",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "NATALIE",
+          "lastName": "KADIEVITCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34196",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-429-7314"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "WEST",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35735",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7166"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, PA",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "NIEDERLUECKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40102",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "SEGELBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42138",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7115"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "SNUSTAD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45120",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7151"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVENUE,",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "R",
+          "lastName": "JOHNSON",
+          "middleName": "SCOTT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45792",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 1ST AVE. WEST",
+              "cityName": "OSKALOOSA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "MUSCO SPORTS LIGHTING, LLC",
+              "postalCode": "52577"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "FUGMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47581",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "641-680-0930"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "215 10TH STREET",
+              "addressLineTwoText": "SUITE 1300",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "DAVIS BROWN LAW FIRM",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "SOLBERG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48653",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-246-7859"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON PA",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "KARA",
+          "lastName": "FAIRBAIRN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "49079",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7144"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "PARZYCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52097",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7279"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "DAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54059",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "952-693-3340"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "HIPKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57659",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "212-684-3999"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7307"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 EAST GRAND",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309-1884"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "BLAKESLEE",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "LAVANWAY",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64610",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVENUE",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "ZACHARY",
+          "lastName": "PRATT",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70368",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8935"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON AND BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BUSS",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7570"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOURH SIXTH STREER, SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "SPANHEIMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73977",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "402-981-0450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH 6TH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ERIK",
+          "lastName": "SUNDBERG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79435",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7813"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVE.",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "EVE",
+          "lastName": "DURAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81316",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8934"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 190149,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "Intellectual Property Group, Musco Patents",
+            "addressLineTwoText": "60 South 6th Street, Suite 1500",
+            "cityName": "Minneapolis",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MN",
+            "geographicRegionName": "MINNESOTA",
+            "nameLineOneText": "Fredrikson & Byron, P.A.",
+            "postalCode": "55402"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOURH SIXTH STREER, SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "SPANHEIMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73977",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "402-981-0450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "WEST",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35735",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7166"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON PA",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "KARA",
+          "lastName": "FAIRBAIRN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "49079",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7144"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "PARZYCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52097",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7279"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON PA",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "NATALIE",
+          "lastName": "KADIEVITCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34196",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-429-7314"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 1ST AVE. WEST",
+              "cityName": "OSKALOOSA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "MUSCO SPORTS LIGHTING, LLC",
+              "postalCode": "52577"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "FUGMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47581",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "641-680-0930"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "SNUSTAD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45120",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7151"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "DAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54059",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7017"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVENUE,",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "R",
+          "lastName": "JOHNSON",
+          "middleName": "SCOTT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45792",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "LAVANWAY",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64610",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVENUE",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "ZACHARY",
+          "lastName": "PRATT",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70368",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8935"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON AND BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BUSS",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7570"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1060 KENT STREET",
+              "addressLineTwoText": "UNIT J-19",
+              "cityName": "BOULDER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "postalCode": "80303"
+            }
+          ],
+          "firstName": "EVE",
+          "lastName": "DURAND",
+          "middleName": "P.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81316",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-633-7118"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "HIPKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57659",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "212-684-3999"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7307"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 E. GRAND AVENUE",
+              "addressLineTwoText": "SUITE 1300",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "SOLBERG",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48653",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8912"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH 6TH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ERIK",
+          "lastName": "SUNDBERG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79435",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7813"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "55402-142"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "SEGELBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42138",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7115"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 EAST GRAND",
+              "addressLineTwoText": "SUITE 301",
+              "cityName": "DES MOINES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IA",
+              "geographicRegionName": "IOWA",
+              "nameLineOneText": "FREDRIKSON & BYRON, P.A.",
+              "postalCode": "50309-1884"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "BLAKESLEE",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "515-242-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "200 SOUTH SIXTH STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "FREDRIKSON & BYRON, PA",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "NIEDERLUECKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40102",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-492-7000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/63"
+}

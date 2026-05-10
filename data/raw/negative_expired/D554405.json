@@ -1,0 +1,250 @@
+{
+  "applicant": null,
+  "application_number": "29258004",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-06 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-14",
+  "grant_date": "2007-11-06",
+  "invention_title": "SUPPORT ACCESSORY",
+  "label": "negative",
+  "patent_number": "D554405",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8970,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-17",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "docketNumber": "BHT-3226-76",
+      "effectiveFilingDate": "2006-04-14",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "VINSON, BRIAN N",
+      "filingDate": "2006-04-14",
+      "firstInventorName": "Jim Chang",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-06",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "SUPPORT ACCESSORY",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "San Leandro",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Jim  Chang",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jim",
+          "inventorNameText": "Jim Chang",
+          "lastName": "Chang"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D554405",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "550",
+      "uspcSymbolText": "D6/550"
+    },
+    "applicationNumberText": "29258004",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1550 FACTOR AVENUE",
+              "cityName": "SAN LEANDRO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "94577"
+            },
+            "assigneeNameText": "GATCO, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17792/276",
+        "assignmentMailedDate": "2006-06-16",
+        "assignmentReceivedDate": "2006-04-20",
+        "assignmentRecordedDate": "2006-04-14",
+        "assignorBag": [
+          {
+            "assignorName": "CHANG, JIM",
+            "executionDate": "2005-12-12"
+          }
+        ],
+        "attorneyDocketNumber": "BHT-3226-76",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5205 LEESBURG PIKE",
+          "addressLineThreeText": "FALLS CHURCH, VIRGINIA 22041-3401",
+          "addressLineTwoText": "SUITE 1404",
+          "correspondentNameText": "TROXELL LAW OFFICE PLLC"
+        },
+        "frameNumber": 276,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017792/0276",
+        "reelNumber": 17792
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "SUITE 1404",
+        "addressLineTwoText": "5205 LEESBURG PIKE",
+        "cityName": "FALLS CHURCH",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "TROXELL LAW OFFICE PLLC",
+        "postalCode": "22041"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-06",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-31",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-31",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-29",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-29",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-24",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-05-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-05-01",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-05-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-05-01",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-04-27",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-04-27",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-14",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T20:00:02",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "EXCLUDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5205 LEESBURG PIKE STE 1404",
+              "cityName": "FALLS CHURCH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "TROXELL LAW OFFICE PLLC",
+              "postalCode": "22041"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "TROXELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26592",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-575-2711"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/550"
+}

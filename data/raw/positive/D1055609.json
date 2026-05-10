@@ -1,0 +1,1243 @@
+{
+  "applicant": "Panasonic Intellectual Property Management Co., Ltd.",
+  "application_number": "29885147",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29885147_D1055609.xml",
+  "filing_date": "2023-02-21",
+  "grant_date": "2024-12-31",
+  "invention_title": "ELECTRIC MASSAGING CHAIR",
+  "label": "positive",
+  "patent_number": "D1055609",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Panasonic Intellectual Property Management Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Panasonic Intellectual Property Management Co., Lt",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 3314,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 52349,
+      "docketNumber": "2023-0174A",
+      "effectiveFilingDate": "2023-02-21",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "WOLFLEY, MARK DAVID",
+      "filingDate": "2023-02-21",
+      "firstApplicantName": "Panasonic Intellectual Property Management Co., Ltd.",
+      "firstInventorName": "Naoki MAESAWA",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "ELECTRIC MASSAGING CHAIR",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Naoki  MAESAWA",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "OSAKA",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "MAESAWA, Naoki",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Naoki",
+          "inventorNameText": "Naoki MAESAWA",
+          "lastName": "MAESAWA"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055609",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "717",
+      "uspcSymbolText": "D6/717"
+    },
+    "applicationNumberText": "29885147",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1-61, SHIROMI 2-CHOME, CHUO-KU",
+              "cityName": "OSAKA-SHI, OSAKA",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "540-6207"
+            },
+            "assigneeNameText": "PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/63127/200",
+        "assignmentMailedDate": "2023-03-31",
+        "assignmentReceivedDate": "2023-03-28",
+        "assignmentRecordedDate": "2023-03-28",
+        "assignorBag": [
+          {
+            "assignorName": "MAESAWA, NAOKI",
+            "executionDate": "2023-03-09"
+          }
+        ],
+        "attorneyDocketNumber": "2023-0174A",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1025 CONNECTICUT AVENUE, N.W.",
+          "addressLineThreeText": "WASHINGTON, DC 20036",
+          "addressLineTwoText": "SUITE 500",
+          "correspondentNameText": "WENDEROTH, LIND & PONACK, L.L.P."
+        },
+        "frameNumber": 200,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "063127/0200",
+        "reelNumber": 63127
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "PO Box 33099",
+        "cityName": "Washington",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+        "postalCode": "20033"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "C602",
+        "eventDate": "2023-03-28",
+        "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29885147_D1055609.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29885147_D1055609.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-16T02:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HUPPERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40268",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND AND PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "FOURNIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41023",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8257"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "FILIPEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "HAHM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44142",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "HISSONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44765",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8237"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "OVEDOVITZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "PRATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45794",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "FIELDS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "52430",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "FREISTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "WALTER",
+          "lastName": "PLEDGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55540",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AMY",
+          "lastName": "SCHMID",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55965",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "KOPCHIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61215",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTIVUT AVENUE, N.W.",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON, DC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACH, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "TAMMY",
+          "lastName": "RHODES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61223",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8245"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHAO",
+          "lastName": "GAO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "65313",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SULAY",
+          "lastName": "JHAVERI",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH , LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "JAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SASHA",
+          "lastName": "VARGHESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72185",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8252"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW, SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "KUMIKO",
+          "lastName": "IDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78056",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE N.W.",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AYA",
+          "lastName": "RYUNO",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1307",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-534-1891"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 52349,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "PO Box 33099",
+            "cityName": "Washington",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+            "postalCode": "20033"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHAO",
+          "lastName": "GAO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "65313",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "FIELDS",
+          "middleName": "W",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "52430",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH , LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "JAY",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND AND PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "FOURNIER",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41023",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8257"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVE., NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20033"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "FILIPEK",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "KOPCHIK",
+          "middleName": "WILLIAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61215",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SULAY",
+          "lastName": "JHAVERI",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "FREISTEIN",
+          "middleName": "B",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8216"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 33099",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20033-0099"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "OVEDOVITZ",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE, NW, SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "KUMIKO",
+          "lastName": "IDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78056",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "HISSONG",
+          "middleName": "ANDREW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44765",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8237"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20033"
+            }
+          ],
+          "firstName": "WALTER",
+          "lastName": "PLEDGER",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55540",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE N.W.",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, LLP",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AYA",
+          "lastName": "RYUNO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83485",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-534-1891"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "HAHM",
+          "middleName": "D",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44142",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AMY",
+          "lastName": "SCHMID",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55965",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8210"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1025 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK, L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HUPPERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40268",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1150 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 505",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "WENDEROTH, LIND & PONACK L.L.P.",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SASHA",
+          "lastName": "VARGHESE",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72185",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-8252"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/717"
+}

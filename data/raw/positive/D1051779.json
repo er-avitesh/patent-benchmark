@@ -1,0 +1,278 @@
+{
+  "applicant": null,
+  "application_number": "29878232",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29878232_D1051779.xml",
+  "filing_date": "2023-06-19",
+  "grant_date": "2024-11-19",
+  "invention_title": "ELECTRIC BICYCLE FRAME",
+  "label": "positive",
+  "patent_number": "D1051779",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7804,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-30",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 122312,
+      "docketNumber": "JZ23-KJZ07",
+      "effectiveFilingDate": "2023-06-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "AMERSON, LAVON MICHAEL",
+      "filingDate": "2023-06-19",
+      "firstInventorName": "Feifei Li",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-19",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "ELECTRIC BICYCLE FRAME",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pingyi County",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Feifei Li",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pingyi County, Shandong",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Feifei Li",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Feifei",
+          "inventorNameText": "Feifei Li",
+          "lastName": "Li"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051779",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "111",
+      "uspcSymbolText": "D12/111"
+    },
+    "applicationNumberText": "29878232",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "17700 Castleton Street, Ste 568",
+        "cityName": "City of Industry",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "Law Offices of James Zhou",
+        "postalCode": "91748"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-07",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-03-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-06-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-06-26",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-06-27",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-06-19",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-06-19",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2023-06-23",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-06-19",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-06-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-19T09:08:20",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29878232_D1051779.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29878232_D1051779.xml",
+      "zipFileName": "ipg241119.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T10:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "17700 CASTLETON STREET",
+              "addressLineTwoText": "SUITE 568",
+              "cityName": "CITY OF INDUSTRY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LAW OFFICES OF JAMES ZHOU",
+              "postalCode": "91748"
+            }
+          ],
+          "firstName": "JIANMIN",
+          "lastName": "ZHOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-566-5511"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "17700 CASTLETON STREET",
+              "addressLineTwoText": "SUITE 568",
+              "cityName": "CITY OF INDUSTRY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LAW OFFICE OF JAMES ZHOU",
+              "postalCode": "91748"
+            }
+          ],
+          "firstName": "YUBAI",
+          "lastName": "ZHAO",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1360",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-203-2406"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/111"
+}

@@ -1,0 +1,514 @@
+{
+  "applicant": null,
+  "application_number": "29253595",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-08-07 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-02-09",
+  "grant_date": "2007-08-07",
+  "invention_title": "FILTER ELEMENT",
+  "label": "negative",
+  "patent_number": "D548307",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1387,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-07-18",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "docketNumber": "2802-133-024",
+      "effectiveFilingDate": "2006-02-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "WEBSTER, ROBIN VALERY",
+      "filingDate": "2006-02-09",
+      "firstInventorName": "Anita L. Reynolds",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-08-07",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "FILTER ELEMENT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Temperance",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Anita L. Reynolds",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Anita",
+          "inventorNameText": "Anita L. Reynolds",
+          "lastName": "Reynolds",
+          "middleName": "L."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Sylvania",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Albert F. Cella",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Albert",
+          "inventorNameText": "Albert F. Cella",
+          "lastName": "Cella",
+          "middleName": "F."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Delta",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Bruce E. Shane",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Bruce",
+          "inventorNameText": "Bruce E. Shane",
+          "lastName": "Shane",
+          "middleName": "E."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D548307",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "209",
+      "uspcSymbolText": "D23/209"
+    },
+    "applicationNumberText": "29253595",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6035 PARKLAND BOULEVARD",
+              "cityName": "CLEVELAND",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "ictCountryCode": "US",
+              "ictStateCode": "OH",
+              "postalCode": "44124-4141"
+            },
+            "assigneeNameText": "PARKER-HANNIFIN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18037/660",
+        "assignmentMailedDate": "2006-08-02",
+        "assignmentReceivedDate": "2006-08-01",
+        "assignmentRecordedDate": "2006-08-01",
+        "assignorBag": [
+          {
+            "assignorName": "CELLA, MR. ALBERT F.",
+            "executionDate": "2006-07-31"
+          },
+          {
+            "assignorName": "REYNOLDS, MS. ANITA L.",
+            "executionDate": "2006-07-31"
+          },
+          {
+            "assignorName": "SHANE, MR. BRUCE E.",
+            "executionDate": "2006-07-31"
+          }
+        ],
+        "attorneyDocketNumber": "2802-133-024",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "6035 PARKLAND BOULEVARD",
+          "addressLineThreeText": "CLEVELAND, OH 44124-4141",
+          "addressLineTwoText": "PARKER-HANNIFIN CORPORATION",
+          "correspondentNameText": "CHRISTOPHER H. HUNTER"
+        },
+        "frameNumber": 660,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "018037/0660",
+        "reelNumber": 18037
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6035 PARKLAND BOULEVARD",
+              "cityName": "CLEVELAND",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "ictCountryCode": "US",
+              "ictStateCode": "OH",
+              "postalCode": "44124"
+            },
+            "assigneeNameText": "PARKER INTANGIBLES, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/45843/859",
+        "assignmentMailedDate": "2018-05-21",
+        "assignmentReceivedDate": "2018-04-05",
+        "assignmentRecordedDate": "2018-04-05",
+        "assignorBag": [
+          {
+            "assignorName": "PARKER-HANNIFIN CORPORATION",
+            "executionDate": "2018-04-05"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "6035 PARKLAND BOULEVARD",
+          "addressLineTwoText": "CLEVELAND, OH 44124",
+          "correspondentNameText": "ERIN THOMPSON"
+        },
+        "frameNumber": 859,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 31,
+        "reelAndFrameNumber": "045843/0859",
+        "reelNumber": 45843
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "3 ENTERPRISE DRIVE, SUITE 408",
+              "cityName": "SHELTON",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "ictCountryCode": "US",
+              "ictStateCode": "CT",
+              "postalCode": "06484"
+            },
+            "assigneeNameText": "THE EASTERN COMPANY"
+          },
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2405 SOUTH CALHOUN ROAD",
+              "cityName": "NEW BERLIN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "ictCountryCode": "US",
+              "ictStateCode": "WI",
+              "postalCode": "53151"
+            },
+            "assigneeNameText": "VELVAC, INCORPORATED"
+          },
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2923 SOUTH WABASH AVENUE",
+              "cityName": "CENTRALIA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "ictCountryCode": "US",
+              "ictStateCode": "IL",
+              "postalCode": "62801"
+            },
+            "assigneeNameText": "BIG 3 PRECISION PRODUCTS, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/64075/498",
+        "assignmentMailedDate": "2023-06-28",
+        "assignmentReceivedDate": "2023-06-23",
+        "assignmentRecordedDate": "2023-06-23",
+        "assignorBag": [
+          {
+            "assignorName": "SANTANDER BANK, N.A.",
+            "executionDate": "2023-06-16"
+          }
+        ],
+        "attorneyDocketNumber": "H4868-00012",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1540 BROADWAY",
+          "addressLineTwoText": "NEW YORK, NY 10036-4086",
+          "correspondentNameText": "DUANE MORRIS LLP; ATTN: ROGER S. CHARI, ESQ."
+        },
+        "frameNumber": 498,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 32,
+        "reelAndFrameNumber": "064075/0498",
+        "reelNumber": 64075
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "6035 Parkland Boulevard",
+        "cityName": "Cleveland",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "OH",
+        "geographicRegionName": "OHIO",
+        "nameLineOneText": "Christopher H. Hunter",
+        "nameLineTwoText": "PARKER-HANNIFIN CORPORATION",
+        "postalCode": "44124-4141"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-08-07",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-07-18",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-07-11",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "C600",
+        "eventDate": "2007-04-02",
+        "eventDescriptionText": "Supplemental Papers - Oath or Declaration"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-03",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-02",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-04-02",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-02-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-02-07",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-02-06",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-06-20",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-06-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-03-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-03-02",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-27T23:00:01",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7445 MORNING VIEW CT.",
+              "cityName": "CHAGRIN FALLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "44023"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BAKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25131",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "440-289-7747"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6035 PARKLAND BLVD",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PARKER HANNIFIN, CORP.",
+              "postalCode": "44124"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "POPHAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42083",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-896-2504"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6035 PARKLAND BLVD",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PARKER HANNIFIN CORPORATION",
+              "postalCode": "44124"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "MORGAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28886",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-896-2943"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6035 PARKLAND BOULEVARD",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PARKER HANNIFIN CORPORATION",
+              "postalCode": "44124"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "WHITMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43987",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-896-2049"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6035 PARKLAND BOULEVARD",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PARKER-HANNIFIN CORPORATION",
+              "postalCode": "44124-414"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MOLNAR",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36611",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-896-2212"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6035 PARKLAND BOULEVARD",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PARKER-HANNIFIN CORPORATION",
+              "postalCode": "44124"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "HUNTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-896-2461"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/209"
+}

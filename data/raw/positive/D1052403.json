@@ -1,0 +1,266 @@
+{
+  "applicant": null,
+  "application_number": "29885569",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241126/29885569_D1052403.xml",
+  "filing_date": "2023-02-27",
+  "grant_date": "2024-11-26",
+  "invention_title": "Container With Multiple Handles",
+  "label": "positive",
+  "patent_number": "D1052403",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4436,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-06",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "docketNumber": "00263",
+      "effectiveFilingDate": "2023-02-27",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "TRUONG, DAVID THANH",
+      "filingDate": "2023-02-27",
+      "firstInventorName": "Jack Reilly Decker",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-26",
+      "groupArtUnitNumber": "2931",
+      "inventionTitle": "Container With Multiple Handles",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Fishkill",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Jack Reilly Decker",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Fishkill",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Decker, Jack Reilly",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Jack",
+          "inventorNameText": "Jack Reilly Decker",
+          "lastName": "Decker",
+          "middleName": "Reilly"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1052403",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "533",
+      "uspcSymbolText": "D9/533"
+    },
+    "applicationNumberText": "29885569",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "52 Virginia Ave.,",
+        "cityName": "Fishkill",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Jack Decker",
+        "postalCode": "12524"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-04",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-04",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-06-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-06-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-06-02",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-05-25",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-05-25",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-03-05",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-03-01",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-02-28",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-01-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MP033",
+        "eventDate": "2023-03-10",
+        "eventDescriptionText": "Mail-Petition Decision - Granted"
+      },
+      {
+        "eventCode": "P033",
+        "eventDate": "2023-03-10",
+        "eventDescriptionText": "Petition Decision - Granted"
+      },
+      {
+        "eventCode": "PET.",
+        "eventDate": "2023-03-10",
+        "eventDescriptionText": "Petition Entered"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-03-03",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-08",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-08",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-09",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-09",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2023-03-06",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-03-03",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-26T09:10:43",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241126/29885569_D1052403.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29885569_D1052403.xml",
+      "zipFileName": "ipg241126.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03"
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/533"
+}

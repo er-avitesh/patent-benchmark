@@ -1,0 +1,435 @@
+{
+  "applicant": null,
+  "application_number": "29244362",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-04 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-12-09",
+  "grant_date": "2007-12-04",
+  "invention_title": "HEADREST LCD MONITOR WITH DVD PLAYER",
+  "label": "negative",
+  "patent_number": "D556711",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4278,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-14",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 46103,
+      "docketNumber": "PB050643",
+      "effectiveFilingDate": "2005-12-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "HYDER, PHILIP S",
+      "filingDate": "2005-12-09",
+      "firstInventorName": "Mark Lee",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-04",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "HEADREST LCD MONITOR WITH DVD PLAYER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taoyuan City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Mark  Lee",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Mark",
+          "inventorNameText": "Mark Lee",
+          "lastName": "Lee"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Bade City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Jung-Chang  Wu",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Jung-Chang",
+          "inventorNameText": "Jung-Chang Wu",
+          "lastName": "Wu"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gueishan Township",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Wei-Yu  Wu",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Wei-Yu",
+          "inventorNameText": "Wei-Yu Wu",
+          "lastName": "Wu"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D556711",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "129",
+      "uspcSymbolText": "D14/129"
+    },
+    "applicationNumberText": "29244362",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "10FL NO. 868-3, CHUNG CHENG RD.",
+              "cityName": "CHUNG HO, TAIPEI",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW",
+              "postalCode": "R.O.C."
+            },
+            "assigneeNameText": "SYSGRATION LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17338/983",
+        "assignmentMailedDate": "2006-03-21",
+        "assignmentReceivedDate": "2005-12-15",
+        "assignmentRecordedDate": "2005-12-09",
+        "assignorBag": [
+          {
+            "assignorName": "LEE, MARK",
+            "executionDate": "2005-12-01"
+          },
+          {
+            "assignorName": "WU, JUNG-CHANG",
+            "executionDate": "2005-12-01"
+          },
+          {
+            "assignorName": "WU, WEI-YU",
+            "executionDate": "2005-12-01"
+          }
+        ],
+        "attorneyDocketNumber": "PB050643",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "4331 STEVENS BATTLE LANE",
+          "addressLineTwoText": "FAIRFAX, VA 22033",
+          "correspondentNameText": "CHUN-MING SHIH"
+        },
+        "frameNumber": 983,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017338/0983",
+        "reelNumber": 17338
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. BOX 220776",
+        "cityName": "CHANTILLY",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "HDLS Patent & Trademark Services",
+        "postalCode": "20153"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-04",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-14",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-25",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-27",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-27",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-05-31",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2007-05-21",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2007-05-21",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-05-21",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2007-01-19",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-01-05",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-12-29",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-12-30",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-13T14:15:24",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1425 E. DARBY ROAD",
+              "cityName": "HAVERTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RYDER LU MAZZEO & KONIECZNY LLC",
+              "postalCode": "19083"
+            }
+          ],
+          "firstName": "KAO",
+          "lastName": "LU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43761",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-446-2563"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "13611 NORTHBOURNE DRIVE",
+              "cityName": "CENTREVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "20120"
+            }
+          ],
+          "firstName": "CHUN-MING",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64041",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-276-5506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "197 GREENHAVEN DRIVE",
+              "cityName": "ELKTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "C/O CRD COMMERCE, LLC",
+              "postalCode": "21921"
+            }
+          ],
+          "firstName": "WAI-SI",
+          "lastName": "ENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72297",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-520-0296"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 46103,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. BOX 220776",
+            "cityName": "CHANTILLY",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "HDLS Patent & Trademark Services",
+            "postalCode": "20153"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "13611 NORTHBOURNE DRIVE",
+              "cityName": "CENTREVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "20120"
+            }
+          ],
+          "firstName": "CHUN-MING",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64041",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-276-5506"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1425 E. DARBY ROAD",
+              "cityName": "HAVERTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RYDER LU MAZZEO & KONIECZNY LLC",
+              "postalCode": "19083"
+            }
+          ],
+          "firstName": "KAO",
+          "lastName": "LU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43761",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-446-2563"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "197 GREENHAVEN DRIVE",
+              "cityName": "ELKTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "C/O CRD COMMERCE, LLC",
+              "postalCode": "21921"
+            }
+          ],
+          "firstName": "WAI-SI",
+          "lastName": "ENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72297",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-520-0296"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/129"
+}

@@ -1,0 +1,2665 @@
+{
+  "applicant": null,
+  "application_number": "29271992",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-01-31",
+  "grant_date": "2007-12-25",
+  "invention_title": "FRONT FACE OF A VEHICLE WHEEL",
+  "label": "negative",
+  "patent_number": "D558118",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3365,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 23911,
+      "docketNumber": "080437.23679US",
+      "effectiveFilingDate": "2007-01-31",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "CADMUS, STACIA A",
+      "filingDate": "2007-01-31",
+      "firstInventorName": "Jochen Hueller",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "FRONT FACE OF A VEHICLE WHEEL",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pforzheim",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Jochen  Hueller",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Jochen",
+          "inventorNameText": "Jochen Hueller",
+          "lastName": "Hueller"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558118",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "211",
+      "uspcSymbolText": "D12/211"
+    },
+    "applicationNumberText": "29271992",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "PETUELRING 130",
+              "cityName": "D-80809 MUENCHEN",
+              "countryName": "GERMANY",
+              "geographicRegionCode": "DEX",
+              "ictCountryCode": "DE"
+            },
+            "assigneeNameText": "BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19247/590",
+        "assignmentMailedDate": "2007-05-04",
+        "assignmentReceivedDate": "2007-05-02",
+        "assignmentRecordedDate": "2007-04-26",
+        "assignorBag": [
+          {
+            "assignorName": "HUELLER, JOCHEN",
+            "executionDate": "2007-03-20"
+          }
+        ],
+        "attorneyDocketNumber": "080437.23679US",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "INTELLECTUAL PROPERTY GROUP",
+          "addressLineThreeText": "WASHINGTON, DC 20044-4300",
+          "addressLineTwoText": "PO BOX 14300",
+          "correspondentNameText": "CROWELL & MORING LLP"
+        },
+        "frameNumber": 590,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "019247/0590",
+        "reelNumber": 19247
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. BOX 14300",
+        "cityName": "WASHINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "CROWELL & MORING LLP",
+        "nameLineTwoText": "INTELLECTUAL PROPERTY GROUP",
+        "postalCode": "20044-4300"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-23",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2007-08-07",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-05-25",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-05-11",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-05-14",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2007-04-26",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2007-03-01",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-01-31",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "40604070.2",
+        "filingDate": "2006-08-01",
+        "ipOfficeName": "GERMANY"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T20:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "FRANKEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30337",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 10395",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60610"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "SOBIERAJ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "HAROLD",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31972",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL AND MORING LLP",
+              "postalCode": "20044"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SANOK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32169",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "FREEMAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "34483",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "MALLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35596",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWERS, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARC",
+          "lastName": "RICHARDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37921",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4729"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "REMUS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4720"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "N B C TOWER",
+              "addressLineTwoText": "455 NORTH CITYFRONT PLAZA DR.",
+              "cityName": "CHICAGO,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS, HOFER, GILSON",
+              "nameLineTwoText": "& LIONE",
+              "postalCode": "606110000"
+            },
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "TADASHI",
+          "lastName": "HORIE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL AND MORING, LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "GRABAREK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1343"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "HETZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P O BOX 14300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "20044-430"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "JACOBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41870",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "JON",
+          "lastName": "GURKA",
+          "middleName": "W",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44139",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1331"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004-259"
+            }
+          ],
+          "firstName": "DEBORAH",
+          "lastName": "YELLIN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "45904",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2947"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "20004-259"
+            }
+          ],
+          "firstName": "CAMERON",
+          "lastName": "BEDDARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46545",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JEFFRY",
+          "lastName": "NICHOLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46958",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "TREVOR",
+          "lastName": "COPELAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-222-8104"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVE.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "BRIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-296-6907"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611-559"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LINDNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-222-8123"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "#3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WILLIAMS",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54735",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "590 MADISON AVENUE",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "10022-252"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "BITTMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55007",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4223"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "SCHIGELONE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56243",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER",
+              "addressLineTwoText": "455 N. CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MAGDALENA",
+          "lastName": "CILELLA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56619",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MINDY",
+          "lastName": "RITTNER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57803",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "590 MADISON AVENUE",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "ANNE",
+          "lastName": "LI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58131",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4279"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "YUEZHONG",
+          "lastName": "FENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58657",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "RASHAD",
+          "lastName": "MORGAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60304",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "590 MADISON AVENUE",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "AGNES",
+          "lastName": "XU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60319",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4314"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SUZANNE",
+          "lastName": "WALTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2855"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "BACHMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61906",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBCTOWER SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "E.",
+          "lastName": "NYKIEL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62972",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "KAINOA",
+          "lastName": "ASUEGA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1371"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SHANNON",
+          "lastName": "LENTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65382",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2897"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 14300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20044-430"
+            }
+          ],
+          "firstName": "OMAR",
+          "lastName": "GALIANO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65764",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "312-321-4299"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "GANG",
+          "lastName": "CHEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68754",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3263"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "375 NINTH AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10001"
+            }
+          ],
+          "firstName": "MICHELLE",
+          "lastName": "WANG",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4229"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "633 SOUTH PLYMOUTH COURT",
+              "addressLineTwoText": "APARTMENT 606",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "postalCode": "60605"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "SUSSMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70506",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "630-207-7440"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER-SUITE 3600",
+              "addressLineTwoText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72568",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "KARLA",
+          "lastName": "ARIAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72679",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2899"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER, SUITE 3600",
+              "addressLineTwoText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611-559"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO MANHATTAN WEST",
+              "addressLineTwoText": "375 NINTH AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10001"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "CROCKATT",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-805-4869"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER - SUITE 3600",
+              "addressLineTwoText": "455 N. CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JUN",
+          "lastName": "CHENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75406",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3298"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER - SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORNING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "DAN",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78847",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3267"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "FITZGERALD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "123 W WASHINGTON AVENUE, #802",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "JUNG UN",
+          "lastName": "SHIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79347",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-658-2591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER - SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARY",
+          "lastName": "LAFLEUR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79577",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3272"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. ILLINOIS STREET, SUITE 1100",
+              "cityName": "INDIANAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IN",
+              "geographicRegionName": "INDIANA",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "46204"
+            }
+          ],
+          "firstName": "APRIL",
+          "lastName": "BARNARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80145",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "317-682-2118"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "YONGFENG",
+          "lastName": "RUAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80754",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3259"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL AND MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "ELISSA",
+          "lastName": "TENENBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80976",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3283"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON DC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "HEFENG",
+          "lastName": "SU",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1283",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23911,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. BOX 14300",
+            "cityName": "WASHINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "CROWELL & MORING LLP",
+            "nameLineTwoText": "INTELLECTUAL PROPERTY GROUP",
+            "postalCode": "20044-4300"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON DC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "HEFENG",
+          "lastName": "SU",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1283",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8500 BLUFFSTOVE COVE",
+              "addressLineTwoText": "SUITE A201",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "TOLER LAW GROUP, PC",
+              "postalCode": "78759"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "GAUGER",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38154",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-327-5515"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "JON",
+          "lastName": "GURKA",
+          "middleName": "W",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44139",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1331"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "375 NINTH AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10001"
+            }
+          ],
+          "firstName": "MICHELLE",
+          "lastName": "WANG",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4229"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "KAINOA",
+          "lastName": "ASUEGA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1371"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JEFFRY",
+          "lastName": "NICHOLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46958",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBCTOWER SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "E.",
+          "lastName": "NYKIEL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62972",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 N LASALLE DR",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "BACHMAN",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61906",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL AND MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "ELISSA",
+          "lastName": "TENENBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80976",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3283"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "YONGFENG",
+          "lastName": "RUAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80754",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3259"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 N. LASALLE DRIVE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60654"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "JAMES",
+          "middleName": "H.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72568",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL AND MORING LLP",
+              "postalCode": "20044"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SANOK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32169",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "GANG",
+          "lastName": "CHEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68754",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3263"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "REMUS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4720"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 N. LASALLE DRIVE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60654"
+            }
+          ],
+          "firstName": "JUN",
+          "lastName": "CHENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75406",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3298"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "FITZGERALD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "123 W WASHINGTON AVENUE, #802",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "JUNG UN",
+          "lastName": "SHIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79347",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-658-2591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVE.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "BRIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-296-6907"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 N LA SALLE DRIVE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611-5599"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LINDNER",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-222-8123"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO MANHATTAN WEST",
+              "addressLineTwoText": "375 NINTH AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "10001"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "BITTMAN",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55007",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4223"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER - SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARY",
+          "lastName": "LAFLEUR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79577",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3272"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER",
+              "addressLineTwoText": "455 N. CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MAGDALENA",
+          "lastName": "CILELLA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56619",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SUZANNE",
+          "lastName": "WALTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2855"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 14300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "20044-430"
+            }
+          ],
+          "firstName": "OMAR",
+          "lastName": "GALIANO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65764",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "312-321-4299"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "20004-259"
+            }
+          ],
+          "firstName": "CAMERON",
+          "lastName": "BEDDARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46545",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "#3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WILLIAMS",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54735",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "RASHAD",
+          "lastName": "MORGAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60304",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NBC TOWER, SUITE 3600",
+              "addressLineTwoText": "455 NORTH CITYFRONT PLAZA DRIVE",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611-559"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWERS, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MARC",
+          "lastName": "RICHARDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37921",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4729"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P O BOX 14300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING, LLP",
+              "postalCode": "20044-430"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "JACOBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41870",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO MANHATTAN WEST",
+              "addressLineTwoText": "375 NINTH AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10001"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "CROCKATT",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-805-4869"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "PAIK",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54355",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1392"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER - SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORNING LLP",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "DAN",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78847",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-840-3267"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 N. LASALLE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60654"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "HETZ",
+          "middleName": "F",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 NORTH LASALLE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60654"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "SCHIGELONE",
+          "middleName": "WAYNE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56243",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "YUEZHONG",
+          "lastName": "FENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58657",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "MINDY",
+          "lastName": "RITTNER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57803",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "MALLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35596",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 PARK PLAZA",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CROWELL AND MORING, LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "GRABAREK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-798-1343"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 NORTH LASALLE DRIVE",
+              "addressLineTwoText": "SUITE 2500",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "60654"
+            }
+          ],
+          "firstName": "TADASHI",
+          "lastName": "HORIE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-321-4200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "455 N. CITYFRONT PLAZA DRIVE",
+              "addressLineTwoText": "NBC TOWER, SUITE 3600",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BRINKS GILSON & LIONE",
+              "postalCode": "60611"
+            }
+          ],
+          "firstName": "TREVOR",
+          "lastName": "COPELAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-222-8104"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "590 MADISON AVENUE",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CROWELL & MORING LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "AGNES",
+          "lastName": "XU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60319",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-895-4314"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/211"
+}

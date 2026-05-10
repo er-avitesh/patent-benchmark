@@ -1,0 +1,327 @@
+{
+  "applicant": null,
+  "application_number": "29909415",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29909415_D1050406.xml",
+  "filing_date": "2023-08-04",
+  "grant_date": "2024-11-05",
+  "invention_title": "FIREPLACE LOG HOLDER",
+  "label": "positive",
+  "patent_number": "D1050406",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8294,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-16",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 60033,
+      "docketNumber": "Frisch-Design",
+      "effectiveFilingDate": "2023-08-04",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "MCKAY, ANDREA MARIE",
+      "filingDate": "2023-08-04",
+      "firstInventorName": "Daniel Frisch",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-05",
+      "groupArtUnitNumber": "2925",
+      "inventionTitle": "FIREPLACE LOG HOLDER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Frisch,Daniel",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Frisch,Daniel",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Daniel",
+          "inventorNameText": "Daniel Frisch",
+          "lastName": "Frisch"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1050406",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "407",
+      "uspcSymbolText": "D23/407"
+    },
+    "applicationNumberText": "29909415",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "10204 NE 2nd Avenue",
+        "cityName": "Miami",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "FL",
+        "geographicRegionName": "FLORIDA",
+        "nameLineOneText": "MARK TERRY, ESQ.",
+        "postalCode": "33138"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-05",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-25",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-08-21",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-30",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-30",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-30",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-07-30",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-01-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-08-10",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-08-09",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-08-09",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-08-10",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-08-10",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-08-08",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-05T09:11:44",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29909415_D1050406.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29909415_D1050406.xml",
+      "zipFileName": "ipg241105.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T09:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10204 NORTHEAST SECOND AVENUE",
+              "cityName": "MIAMI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "MARK TERRY, P.A.",
+              "postalCode": "33138-234"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "TERRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47133",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "786-443-7720"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 60033,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "10204 NE 2nd Avenue",
+            "cityName": "Miami",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "FL",
+            "geographicRegionName": "FLORIDA",
+            "nameLineOneText": "MARK TERRY, ESQ.",
+            "postalCode": "33138"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10204 NORTHEAST SECOND AVENUE",
+              "cityName": "MIAMI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "MARK TERRY, P.A.",
+              "postalCode": "33138-234"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "TERRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47133",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "786-443-7720"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/407"
+}

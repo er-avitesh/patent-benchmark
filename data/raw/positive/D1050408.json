@@ -1,0 +1,356 @@
+{
+  "applicant": "AIR COOL INDUSTRIAL CO., LTD.",
+  "application_number": "29882179",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29882179_D1050408.xml",
+  "filing_date": "2023-01-11",
+  "grant_date": "2024-11-05",
+  "invention_title": "CEILING FAN BLADE",
+  "label": "positive",
+  "patent_number": "D1050408",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "AIR COOL INDUSTRIAL CO., LTD.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taichung",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "AIR COOL INDUSTRIAL CO., LTD.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 7823,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-16",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 90028,
+      "docketNumber": "WWP-PA799",
+      "effectiveFilingDate": "2023-01-11",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "DAVIS, CAROLYN W",
+      "filingDate": "2023-01-11",
+      "firstApplicantName": "AIR COOL INDUSTRIAL CO., LTD.",
+      "firstInventorName": "Tim Liu",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-05",
+      "groupArtUnitNumber": "2936",
+      "inventionTitle": "CEILING FAN BLADE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taichung",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Tim  Liu",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Taichung",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Liu, Tim",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Tim",
+          "inventorNameText": "Tim Liu",
+          "lastName": "Liu"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1050408",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "413",
+      "uspcSymbolText": "D23/413"
+    },
+    "applicationNumberText": "29882179",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 257, SEC. 1, ZHONGSHAN RD., TOUJIA VIL.,",
+              "addressLineTwoText": "TANZI DIST.,",
+              "cityName": "TAICHUNG",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW",
+              "postalCode": "42752"
+            },
+            "assigneeNameText": "AIR COOL INDUSTRIAL CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/62350/381",
+        "assignmentMailedDate": "2023-01-12",
+        "assignmentReceivedDate": "2023-01-11",
+        "assignmentRecordedDate": "2023-01-11",
+        "assignorBag": [
+          {
+            "assignorName": "LIU, TIM",
+            "executionDate": "2023-01-09"
+          }
+        ],
+        "attorneyDocketNumber": "WWP-PA799",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "8888 KEYSTONE CROSSING",
+          "addressLineThreeText": "INDIANAPOLIS, IN 46240",
+          "addressLineTwoText": "SUITE 1300",
+          "correspondentNameText": "JOSEPH A. BRUCE"
+        },
+        "frameNumber": 381,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "062350/0381",
+        "reelNumber": 62350
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "8888 Keystone Crossing",
+        "addressLineTwoText": "Suite 1300",
+        "cityName": "Indianapolis",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "IN",
+        "geographicRegionName": "INDIANA",
+        "nameLineOneText": "Bruce Stone LLP",
+        "postalCode": "46240"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-25",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-25",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-01-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-01-20",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-01-19",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-01-19",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-01-20",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-01-20",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-01-11",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-01-11",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-01-11",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-01-11",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-05T09:11:44",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29882179_D1050408.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29882179_D1050408.xml",
+      "zipFileName": "ipg241105.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T04:00:05",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8888 KEYSTONE CROSSING, SUITE 1300",
+              "cityName": "INDIANAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IN",
+              "geographicRegionName": "INDIANA",
+              "nameLineOneText": "BRUCE STONE LLP",
+              "postalCode": "46240"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "BRUCE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-230-4343"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 90028,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "8888 Keystone Crossing",
+            "addressLineTwoText": "Suite 1300",
+            "cityName": "Indianapolis",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "IN",
+            "geographicRegionName": "INDIANA",
+            "nameLineOneText": "Bruce Stone LLP",
+            "postalCode": "46240"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8888 KEYSTONE CROSSING, SUITE 1300",
+              "cityName": "INDIANAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IN",
+              "geographicRegionName": "INDIANA",
+              "nameLineOneText": "BRUCE STONE LLP",
+              "postalCode": "46240"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "BRUCE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-230-4343"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/413"
+}

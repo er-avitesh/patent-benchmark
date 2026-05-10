@@ -1,0 +1,351 @@
+{
+  "applicant": "Xiamen Galenpoo Kitchen & Bathroom Technology Co., Ltd.",
+  "application_number": "29912306",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29912306_D1051295.xml",
+  "filing_date": "2023-09-15",
+  "grant_date": "2024-11-12",
+  "invention_title": "SHOWER HEAD",
+  "label": "positive",
+  "patent_number": "D1051295",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Xiamen Galenpoo Kitchen & Bathroom Technology Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Xiamen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Xiamen Galenpoo Kitchen & Bathroom Technology Co.,",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9589,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-23",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 186261,
+      "docketNumber": "H-XMXH-00601-DUS",
+      "effectiveFilingDate": "2023-09-15",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BIRD, MATTHEW D",
+      "filingDate": "2023-09-15",
+      "firstApplicantName": "Xiamen Galenpoo Kitchen & Bathroom Technology Co., Ltd.",
+      "firstInventorName": "Xiaoling YAN",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-12",
+      "groupArtUnitNumber": "2938",
+      "inventionTitle": "SHOWER HEAD",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Xiamen, FJ",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Xiaoling YAN",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Xiamen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Xiaoling YAN",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Xiaoling",
+          "inventorNameText": "Xiaoling YAN",
+          "lastName": "YAN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051295",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "213",
+      "uspcSymbolText": "D23/213"
+    },
+    "applicationNumberText": "29912306",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "3/F-1, NO. 1 HULI INDUSTRIAL PARK, MEIXI ROAD",
+              "addressLineTwoText": "TONG\u2019AN DISTRICT",
+              "cityName": "XIAMEN",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN",
+              "postalCode": "361000"
+            },
+            "assigneeNameText": "XIAMEN GALENPOO KITCHEN & BATHROOM TECHNOLOGY CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/68777/882",
+        "assignmentMailedDate": "2024-10-07",
+        "assignmentReceivedDate": "2024-10-03",
+        "assignmentRecordedDate": "2024-10-03",
+        "assignorBag": [
+          {
+            "assignorName": "YAN, XIAOLING",
+            "executionDate": "2023-09-15"
+          }
+        ],
+        "attorneyDocketNumber": "H-XMXH-00601-DUS",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "64 BANK ST",
+          "addressLineTwoText": "ABINGTON, MA 02351",
+          "correspondentNameText": "QIANQIAN WU"
+        },
+        "frameNumber": 882,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "068777/0882",
+        "reelNumber": 68777
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "64 Bank St",
+        "cityName": "Abington",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MA",
+        "geographicRegionName": "MASSACHUSETTS",
+        "nameLineOneText": "QQW-2",
+        "postalCode": "02351"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "TCPB",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Printer Rush- No mailing"
+      },
+      {
+        "eventCode": "PUBTC",
+        "eventDate": "2024-09-28",
+        "eventDescriptionText": "Pubs Case Remand to TC"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-08",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-09-15",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-09-15",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-09-15",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-09-15",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-12T09:08:00",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29912306_D1051295.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29912306_D1051295.xml",
+      "zipFileName": "ipg241112.zip"
+    },
+    "lastIngestionDateTime": "2026-04-16T02:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 BANK STREET",
+              "cityName": "ABINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "postalCode": "02351"
+            }
+          ],
+          "firstName": "QIANQIAN",
+          "lastName": "WU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-580-1293"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 186261,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "64 Bank St",
+            "cityName": "Abington",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MA",
+            "geographicRegionName": "MASSACHUSETTS",
+            "nameLineOneText": "QQW-2",
+            "postalCode": "02351"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 BANK STREET",
+              "cityName": "ABINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "postalCode": "02351"
+            }
+          ],
+          "firstName": "QIANQIAN",
+          "lastName": "WU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-580-1293"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/213"
+}

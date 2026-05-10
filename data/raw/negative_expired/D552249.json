@@ -1,0 +1,446 @@
+{
+  "applicant": null,
+  "application_number": "29255662",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-02 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-03-10",
+  "grant_date": "2007-10-02",
+  "invention_title": "SPERM SAMPLER",
+  "label": "negative",
+  "patent_number": "D552249",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8194,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-12",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 60468,
+      "docketNumber": "14100-300 US",
+      "effectiveFilingDate": "2006-03-10",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "LEE, CHRISTOPHER",
+      "filingDate": "2006-03-10",
+      "firstInventorName": "Tsutomu Matsuura",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-02",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "SPERM SAMPLER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Tsutomu  Matsuura",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Tsutomu",
+          "inventorNameText": "Tsutomu Matsuura",
+          "lastName": "Matsuura"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D552249",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "216",
+      "uspcSymbolText": "D24/216"
+    },
+    "applicationNumberText": "29255662",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "37-4 HON-CHO 5-CHOME",
+              "cityName": "TOKYO, NAKANO-KU",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "164-0012"
+            },
+            "assigneeNameText": "TENGA CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17895/730",
+        "assignmentMailedDate": "2006-07-07",
+        "assignmentReceivedDate": "2006-05-24",
+        "assignmentRecordedDate": "2006-05-22",
+        "assignorBag": [
+          {
+            "assignorName": "MATSUURA, TSUTOMU",
+            "executionDate": "2006-03-31"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "8765 AERO DRIVE, SUITE 312",
+          "addressLineTwoText": "SAN DIEGO, CALIFORNIA 92123",
+          "correspondentNameText": "MASUVALLEY & PARTNERS, PETER MARTINEZ"
+        },
+        "frameNumber": 730,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "017895/0730",
+        "reelNumber": 17895
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "9560 Candida St., Suite 102",
+        "cityName": "SAN DIEGO",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "MASUVALLEY & PARTNERS",
+        "postalCode": "92126"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-12",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-05-02",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "X/DR",
+        "eventDate": "2007-04-16",
+        "eventDescriptionText": "Correction - Drawing NOT Required"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-04-16",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-04-13",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MN/DR",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail  Formal Drawings Required"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/DR",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Formal Drawings Required"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-11-21",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-11-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-05-30",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-05-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-05-22",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-05-22",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-03-10",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T02:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2281 W. 190TH STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "TORRANCE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "INSKEEP INTELLECTUAL PROPERTY GROUP, INC.",
+              "postalCode": "90504"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "INSKEEP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33910",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "310-755-7800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "221 E. WALNUT STREET",
+              "addressLineTwoText": "SUITE 227",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VESTED LAW LLP",
+              "postalCode": "91101"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40092",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-994-4500"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-795-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 2393",
+              "cityName": "COLUMBIA FALLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "nameLineOneText": "LAW OFFICE OF PETER MARTINEZ, ESQ.",
+              "postalCode": "59912"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "MARTINEZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42845",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-449-0612"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2281 W. 190TH STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "TORRANCE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "INSKEEP INTELLECTUAL PROPERTY GROUP, INC.",
+              "postalCode": "90504"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "FREDERICKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51703",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "310-755-7800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7965 STONE CREEK DRIVE",
+              "addressLineTwoText": "SUITE 10",
+              "cityName": "CHANHASSEN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "INSKEEP INTELLECTUAL PROPERTY GROUP",
+              "postalCode": "55317"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "GILBERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63621",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "952-351-9801"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "256 VALVERDE AVENUE",
+              "cityName": "BREA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "92821"
+            }
+          ],
+          "firstName": "PEYALI",
+          "lastName": "DUTTA CHOWDHURY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "73406",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "413-537-4733"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "121 S 8TH STREET",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "SCHWEGMAN, LUNDBERG & WOESSNER, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ZACHARY",
+          "lastName": "HERMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77800",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-961-7354"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20415 AETNA STREET",
+              "cityName": "WOODLAND HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LAW OFFICE OF PETER MARTINEZ, ESQ.",
+              "postalCode": "91367"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "MARTINEZ",
+          "middleName": "RAPHAEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42845",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-449-0612"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/216"
+}

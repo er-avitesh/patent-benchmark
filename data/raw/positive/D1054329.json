@@ -1,0 +1,530 @@
+{
+  "applicant": "Strongback Mobility AG",
+  "application_number": "29838875",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241217/29838875_D1054329.xml",
+  "filing_date": "2022-05-16",
+  "grant_date": "2024-12-17",
+  "invention_title": "Ergonomic Rollator",
+  "label": "positive",
+  "patent_number": "D1054329",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Strongback Mobility AG",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Feusisberg",
+              "countryCode": "CH",
+              "countryName": "SWITZERLAND",
+              "nameLineOneText": "Strongback Mobility AG",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2045,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-27",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 145584,
+      "docketNumber": "111238.000010",
+      "effectiveFilingDate": "2022-05-16",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "FOWLER, AARON C",
+      "filingDate": "2022-05-16",
+      "firstApplicantName": "Strongback Mobility AG",
+      "firstInventorName": "Laurence Lougee",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-17",
+      "groupArtUnitNumber": "2933",
+      "inventionTitle": "Ergonomic Rollator",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Laurence  Lougee",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Lougee, Laurence",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Laurence",
+          "inventorNameText": "Laurence Lougee",
+          "lastName": "Lougee"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1054329",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "130",
+      "uspcSymbolText": "D12/130"
+    },
+    "applicationNumberText": "29838875",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1 International Place",
+        "addressLineTwoText": "Suite 3700",
+        "cityName": "Boston",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MA",
+        "geographicRegionName": "MASSACHUSETTS",
+        "nameLineOneText": "Prince Lobel Tye LLP",
+        "nameLineTwoText": "Matthew Vella",
+        "postalCode": "02110"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-27",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MP327-P",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Mail Acknowledgement of Priority Papers-Pub"
+      },
+      {
+        "eventCode": "P327-P",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Acknowledgement of Priority Papers-Pub"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2024-10-12",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "FLRCPT.U",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Filing Receipt - Updated"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2024-08-12",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "LTDR",
+        "eventDate": "2024-08-12",
+        "eventDescriptionText": "Incoming Letter Pertaining to the Drawings"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-08-12",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "PST_CRD",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Mail Post Card"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-06-04",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-06-03",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2024-06-03",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-06-03",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-03-01",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-03-01",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-02-07",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-09-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-05-19",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2022-05-19",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-05-18",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-05-18",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-05-19",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-05-19",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-05-16",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-05-16",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2022-05-18",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-05-16",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-05-16",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "202130749955.8",
+        "filingDate": "2021-11-15",
+        "ipOfficeName": "CHINA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-17T09:08:19",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241217/29838875_D1054329.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29838875_D1054329.xml",
+      "zipFileName": "ipg241217.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T11:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 ATLANTIC AVENUE",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "WOLF GREENFIELD",
+              "postalCode": "02210-220"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "FOSTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30052",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-646-8225"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "114 TURNPIKE ROAD",
+              "addressLineTwoText": "SUITE 108",
+              "cityName": "WESTBOROUGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "DINGMAN IP LAW, PC",
+              "postalCode": "01581"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "DINGMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32729",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "508-898-9495"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 UNION STREET",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "JIM HALL LAW",
+              "postalCode": "02108"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "HALL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48730",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "413-546-1674"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "857-263-8642"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "357 S COAST HWY",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "LAGUNA BEACH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "PRINCE LOBEL TYE LLP",
+              "postalCode": "92651"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "VELLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50204",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-232-6375"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTHERN AVE",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "GOODWIN PROCTER, LLP",
+              "postalCode": "02210"
+            }
+          ],
+          "firstName": "SUHRID",
+          "lastName": "WADEKAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65595",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-570-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "265 FRANKLIN STREET",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "MCCARTER & ENGLISH, LLP",
+              "postalCode": "02110"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "SEEVE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71721",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-449-6500"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/130"
+}

@@ -1,0 +1,3132 @@
+{
+  "applicant": null,
+  "application_number": "29250311",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-11-09",
+  "grant_date": "2007-12-11",
+  "invention_title": "MOTORCYCLE TIRE",
+  "label": "negative",
+  "patent_number": "D557197",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 2013,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-21",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 23373,
+      "docketNumber": "Q98348",
+      "effectiveFilingDate": "2006-11-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "CADMUS, STACIA A",
+      "filingDate": "2006-11-09",
+      "firstInventorName": "Daita ITOI",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-11",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "MOTORCYCLE TIRE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Chuo-ku",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Daita  ITOI",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Daita",
+          "inventorNameText": "Daita ITOI",
+          "lastName": "ITOI"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557197",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "535",
+      "uspcSymbolText": "D12/535"
+    },
+    "applicationNumberText": "29250311",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "10-1, KYOBASHI 1-CHOME",
+              "cityName": "CHUO-KU, TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "BRIDGESTONE CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18836/224",
+        "assignmentMailedDate": "2007-02-01",
+        "assignmentReceivedDate": "2007-01-26",
+        "assignmentRecordedDate": "2007-01-23",
+        "assignorBag": [
+          {
+            "assignorName": "ITOI, DAITA",
+            "executionDate": "2006-11-22"
+          }
+        ],
+        "attorneyDocketNumber": "Q98348",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N.W.",
+          "addressLineThreeText": "WASHINGTON, DC 20037",
+          "addressLineTwoText": "SUITE 800",
+          "correspondentNameText": "SUGHRUE MION, PLLC"
+        },
+        "frameNumber": 224,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018836/0224",
+        "reelNumber": 18836
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "2000 PENNSYLVANIA AVENUE, N.W.",
+        "addressLineTwoText": "SUITE 9000",
+        "cityName": "WASHINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "SUGHRUE MION, PLLC",
+        "postalCode": "20006"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-21",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-09",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-28",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-28",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-05-31",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-14",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-01-31",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2007-01-23",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-01-29",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-01-30",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2007-01-23",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2007-01-23",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-11-09",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2006-11838",
+        "filingDate": "2006-05-10",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-21T07:10:00",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "KASPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "MANDIR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32156",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "BOLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32197",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CALLAHAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32607",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7387"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "BRETT",
+          "lastName": "SYLVESTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32765",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE., NW STE. 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "HANNON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32778",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "KRAMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7951"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N W",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "DZWONCZYK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36787",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "RABENA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38584",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7472"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "J",
+          "lastName": "LYTLE",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39283",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "CARL",
+          "lastName": "PELLEGRINI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40766",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7485"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION ZINN MACPEAK AND SEAS",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "LIPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41157",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7425"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUCHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "SUSAN",
+          "lastName": "PAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41239",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7373"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "ELLEN",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43042",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "RAJA",
+          "lastName": "SALIBA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43078",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7468"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NORTHWEST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "BIRD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7584"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW STE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION ZINN MACPEAK AND SEAS PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "KEIKO",
+          "lastName": "TAKAGI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "47121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "8TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-181"
+            }
+          ],
+          "firstName": "SUNHEE",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53892",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7588"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "TASKA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54666",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3217"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "11040 POWDER HORN DR.",
+              "cityName": "POTOMAC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20854"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "EMERY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55154",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-299-2385"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "SEXTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7422"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "HUI",
+          "lastName": "WAUTERS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7430"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "KUNZENDORF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58308",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7375"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, SPIVAK, MCCLLELAND, MAIER, & NEVSTADT",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SOUMYA",
+          "lastName": "PANDA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60447",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-7053"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3358"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "SEOK WON",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61124",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RAUCCI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61444",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "FADI",
+          "lastName": "KIBLAWI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "EBENESAR",
+          "lastName": "THOMAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62499",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3235"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE. NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "NEW ORLEANS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "LA",
+              "geographicRegionName": "LOUISIANA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "BARRAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7906"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW STE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "NELSON",
+          "lastName": "RUNKLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE, NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "YERETSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7440"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N. W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "IL NAM",
+          "lastName": "KOH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68485",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7508"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 S WASHINGTON STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF PLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "REPPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68517",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1725 QUEENS LANE, APT 184",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22201"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "NEGLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70362",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "863-207-22201"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "LAPENSE",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-1811"
+            }
+          ],
+          "firstName": "MAKI",
+          "lastName": "SAITOH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "DEAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72682",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7470"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "TYLER",
+          "lastName": "DEL ROSARIO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72943",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-2257"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "AIYDA",
+          "lastName": "GHAHRAMANI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "73409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7429"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "DAEGUNN",
+          "lastName": "JEI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73454",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-731-3882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "YEJIN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73602",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7433"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, LLP",
+              "postalCode": "20037-3213"
+            }
+          ],
+          "firstName": "SUJIN",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "HYUNSEOK",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74833",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7434"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "LAWRENCE",
+          "lastName": "RACHUBA",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75180",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7945"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "GLEB",
+          "lastName": "SAVICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-448-4242"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "YOUNG SUN",
+          "lastName": "KWON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7513"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JAVIER",
+          "lastName": "LICEAGA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JAE SEOK",
+          "lastName": "AHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78937",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7367"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "KALEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80511",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-2247"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "109 ANCHORAGE RD UNIT 2201",
+              "cityName": "OXFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MS",
+              "geographicRegionName": "MISSISSIPPI",
+              "postalCode": "38655"
+            }
+          ],
+          "firstName": "EMMANUEL",
+          "lastName": "PSIHOUNTAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-850-0023"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80904",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "22843 SCHEER ROAD",
+              "cityName": "FRANKFORT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "postalCode": "60423"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TOMCZAK",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81698",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "815-690-2338"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW, SUITE 9000",
+              "cityName": "WASHINGTON, D.C.",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "DEREK",
+          "lastName": "TRUE",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82017",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7931"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JANVI",
+          "lastName": "SHAH",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1355",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23373,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "2000 PENNSYLVANIA AVENUE, N.W.",
+            "addressLineTwoText": "SUITE 9000",
+            "cityName": "WASHINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "SUGHRUE MION, PLLC",
+            "postalCode": "20006"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "RABENA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38584",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7472"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CALLAHAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32607",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7387"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUCHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "SUSAN",
+          "lastName": "PAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41239",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7373"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "LAPENSE",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW STE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "NELSON",
+          "lastName": "RUNKLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NORTHWEST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "BIRD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7584"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "YEJIN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73602",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7433"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "BOLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32197",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "PAWLOWSKI",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76716",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "RAJA",
+          "lastName": "SALIBA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43078",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7468"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "ELLEN",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43042",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N FRANKLIN ST #3200",
+              "cityName": "TAMPA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "BURR & FORMAN LLP",
+              "postalCode": "33602"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "POKOTYLO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81176",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "808-798-7206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1100 NEW YORK AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STERNE, KESSLER, GOLDSTEIN & FOX P.L.L.C.",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "HELVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-772-8675"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "641 SOUTH PLAINS ROAD",
+              "cityName": "LITCHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "postalCode": "06759"
+            }
+          ],
+          "firstName": "HENRY",
+          "lastName": "ZINN",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83218",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-329-3549"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "AIYDA",
+          "lastName": "GHAHRAMANI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "73409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7429"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE. NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "NEW ORLEANS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "LA",
+              "geographicRegionName": "LOUISIANA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "BARRAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7906"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10367 GREENSTONE LANE",
+              "cityName": "CULPEPER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22701"
+            }
+          ],
+          "firstName": "JEFF",
+          "lastName": "BURKE",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63242",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7370"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "322 CHICK SPRINGS RD",
+              "cityName": "GREENVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "SC",
+              "geographicRegionName": "SOUTH CAROLINA",
+              "postalCode": "29609"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "ARNOLD",
+          "middleName": "H",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "84276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "864-505-7624"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW STE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION ZINN MACPEAK AND SEAS PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "KEIKO",
+          "lastName": "TAKAGI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "47121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE., NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-1811"
+            }
+          ],
+          "firstName": "KENNY",
+          "lastName": "TRUONG",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "84171",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7915"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-1811"
+            }
+          ],
+          "firstName": "MAKI",
+          "lastName": "SAITOH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "HYUNSEOK",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74833",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7434"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "KUNZENDORF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58308",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7375"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "TYLER",
+          "lastName": "DEL ROSARIO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72943",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-2257"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW, SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC.",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JUN FEI",
+          "lastName": "ZHONG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75643",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7935"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "J",
+          "lastName": "LYTLE",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39283",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE, NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "YERETSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7440"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1725 QUEENS LANE, APT 184",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22201"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "NEGLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70362",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "863-207-22201"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "CARL",
+          "lastName": "PELLEGRINI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40766",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7485"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, LLP",
+              "postalCode": "20037-3213"
+            }
+          ],
+          "firstName": "SUJIN",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "11040 POWDER HORN DR.",
+              "cityName": "POTOMAC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20854"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "EMERY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55154",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-299-2385"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON, D.C.",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "GORDON",
+          "middleName": "E",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "65200",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7908"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE., NW STE. 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "HANNON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32778",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "DAEGUNN",
+          "lastName": "JEI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73454",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-731-3882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4700 OLDE FORGE CT.",
+              "cityName": "FAIRFAX",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22032"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "HWANG",
+          "middleName": "WONSUK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69501",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-477-0890"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "JAE SEOK",
+          "lastName": "AHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78937",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7367"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVE NW",
+              "addressLineTwoText": "STE 9000",
+              "cityName": "WASHINGTON DC",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "NOAH",
+          "lastName": "KIM",
+          "middleName": "MINGYU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77390",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7946"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, N W",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "DZWONCZYK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36787",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "8TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-181"
+            }
+          ],
+          "firstName": "SUNHEE",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53892",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7588"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "FADI",
+          "lastName": "KIBLAWI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RAUCCI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61444",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "GLEB",
+          "lastName": "SAVICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-448-4242"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "HUI",
+          "lastName": "WAUTERS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7430"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 9000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006-1811"
+            }
+          ],
+          "firstName": "XUFENG",
+          "lastName": "HOU",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "800130",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7917"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, SPIVAK, MCCLLELAND, MAIER, & NEVSTADT",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SOUMYA",
+          "lastName": "PANDA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60447",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-7053"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "YOUNG SUN",
+          "lastName": "KWON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-7513"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "SEOK WON",
+          "lastName": "LEE",
+          "middleName": "STUART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61124",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "BRETT",
+          "lastName": "SYLVESTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32765",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "KRAMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7951"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "LAWRENCE",
+          "lastName": "RACHUBA",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75180",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7945"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4035 RIDGE TOP ROAD, SUITE 230",
+              "cityName": "FAIRFAX",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "KILE PARK REED & HOUTTEMAN PLLC",
+              "postalCode": "22030"
+            }
+          ],
+          "firstName": "SIMON",
+          "lastName": "OH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "67820",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-659-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION ZINN MACPEAK AND SEAS",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "LIPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41157",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7425"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "TASKA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54666",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3217"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 PENNSYLVANIA AVENUE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "KALEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80511",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-2247"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "109 ANCHORAGE RD UNIT 2201",
+              "cityName": "OXFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MS",
+              "geographicRegionName": "MISSISSIPPI",
+              "postalCode": "38655"
+            }
+          ],
+          "firstName": "EMMANUEL",
+          "lastName": "PSIHOUNTAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-850-0023"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "MANDIR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32156",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-293-7060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE NW",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "EBENESAR",
+          "lastName": "THOMAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62499",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3235"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-3358"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "DEAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72682",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7470"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/535"
+}

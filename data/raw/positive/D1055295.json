@@ -1,0 +1,447 @@
+{
+  "applicant": "SHENZHEN RUI TRADE E-COMMERCE CO., LTD.",
+  "application_number": "29938210",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29938210_D1055295.xml",
+  "filing_date": "2024-04-19",
+  "grant_date": "2024-12-24",
+  "invention_title": "WRIST BRACE",
+  "label": "positive",
+  "patent_number": "D1055295",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "SHENZHEN RUI TRADE E-COMMERCE CO., LTD.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "SHENZHEN",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "SHENZHEN RUI TRADE E-COMMERCE CO., LTD.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 1194,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 134422,
+      "docketNumber": "LEI3US0726SZCH24-FP28321",
+      "effectiveFilingDate": "2024-04-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "STRUBLE, ELIZABETH SWEENEY",
+      "filingDate": "2024-04-19",
+      "firstApplicantName": "SHENZHEN RUI TRADE E-COMMERCE CO., LTD.",
+      "firstInventorName": "Eric WOO",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2925",
+      "inventionTitle": "WRIST BRACE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "SHENZHEN",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Eric WOO",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "SHENZHEN",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Eric WOO",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Eric",
+          "inventorNameText": "Eric WOO",
+          "lastName": "WOO"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055295",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "190",
+      "uspcSymbolText": "D24/190"
+    },
+    "applicationNumberText": "29938210",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "721C4, HAIYUAN INNOVATION CENTER",
+              "addressLineTwoText": "NO. 8 FU'AN AVE., HEHUA COMMUNITY, PINGHU STREET, LONGGANG DISTRICT",
+              "cityName": "SHENZHEN",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN"
+            },
+            "assigneeNameText": "SHENZHEN RUI TRADE E-COMMERCE CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/67158/569",
+        "assignmentMailedDate": "2024-04-22",
+        "assignmentReceivedDate": "2024-04-19",
+        "assignmentRecordedDate": "2024-04-19",
+        "assignorBag": [
+          {
+            "assignorName": "WOO, ERIC",
+            "executionDate": "2024-04-15"
+          }
+        ],
+        "attorneyDocketNumber": "LEI3US0726SZCH24",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "PMB # 1008",
+          "addressLineThreeText": "WALNUT CREEK, CA 94598",
+          "addressLineTwoText": "1839 YGNACIO VALLEY ROAD",
+          "correspondentNameText": "LEONG C. LEI"
+        },
+        "frameNumber": 569,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "067158/0569",
+        "reelNumber": 67158
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "PMB # 1008, 1839 YGNACIO VALLEY ROAD",
+        "cityName": "WALNUT CREEK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "Leong C Lei",
+        "postalCode": "94598"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-07",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-07",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "AF/D",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Affidavit(s) (Rule 131 or 132) or Exhibit(s) Received"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-06-18",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-05-23",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-05-03",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-04-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-04-23",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-04-23",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-04-23",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-04-24",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-04-24",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2024-04-22",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:11",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29938210_D1055295.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29938210_D1055295.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T16:26:34",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1867 YGNACIO VALLEY RD",
+              "addressLineTwoText": "PMB 1008",
+              "cityName": "WALNUT CREEK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "A AND J INTRNTL PATENT OFFICE",
+              "postalCode": "94598"
+            }
+          ],
+          "firstName": "LEONG",
+          "lastName": "LEI",
+          "middleName": "CHI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50402",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-561-4607"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 134422,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "PMB # 1008, 1839 YGNACIO VALLEY ROAD",
+            "cityName": "WALNUT CREEK",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "Leong C Lei",
+            "postalCode": "94598"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1867 YGNACIO VALLEY RD",
+              "addressLineTwoText": "PMB 1008",
+              "cityName": "WALNUT CREEK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "A AND J INTRNTL PATENT OFFICE",
+              "postalCode": "94598"
+            }
+          ],
+          "firstName": "LEONG",
+          "lastName": "LEI",
+          "middleName": "CHI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50402",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-561-4607"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/190"
+}

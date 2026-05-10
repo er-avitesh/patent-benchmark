@@ -1,0 +1,394 @@
+{
+  "applicant": null,
+  "application_number": "29242255",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-11-08",
+  "grant_date": "2007-11-13",
+  "invention_title": "OUTDOOR LIGHTING",
+  "label": "negative",
+  "patent_number": "D555281",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 6086,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 156,
+      "docketNumber": "82094-6002399R0/GEVERS",
+      "effectiveFilingDate": "2005-11-08",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "HEFLIN, CLARE E",
+      "filingDate": "2005-11-08",
+      "firstInventorName": "Marius Quintana-Creus",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "OUTDOOR LIGHTING",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Barcelona",
+              "countryCode": "ES",
+              "countryName": "SPAIN",
+              "nameLineOneText": "Marius  Quintana-Creus",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "ES",
+          "firstName": "Marius",
+          "inventorNameText": "Marius Quintana-Creus",
+          "lastName": "Quintana-Creus"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Barcelona",
+              "countryCode": "ES",
+              "countryName": "SPAIN",
+              "nameLineOneText": "Mario  Quintana-Serrahima",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "ES",
+          "firstName": "Mario",
+          "inventorNameText": "Mario Quintana-Serrahima",
+          "lastName": "Quintana-Serrahima"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555281",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "71",
+      "uspcSymbolText": "D26/71"
+    },
+    "applicationNumberText": "29242255",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "RUE DE LISAMBO 67",
+              "cityName": "B-0119 BRUSSELS",
+              "countryName": "BELGIUM",
+              "geographicRegionCode": "BEX",
+              "ictCountryCode": "BE"
+            },
+            "assigneeNameText": "SCHREDER, S.A."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17642/908",
+        "assignmentMailedDate": "2006-05-19",
+        "assignmentReceivedDate": "2006-03-09",
+        "assignmentRecordedDate": "2006-03-02",
+        "assignorBag": [
+          {
+            "assignorName": "QUINTANA-CREUS, MARIUS",
+            "executionDate": "2006-02-17"
+          },
+          {
+            "assignorName": "QUINTANA-SERRAHIMA, MARIO",
+            "executionDate": "2006-02-17"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "KIRSCHSTEIN, OTTINGER, ISRAEL, ET AL",
+          "addressLineThreeText": "NEW YORK, NY 10017-6105",
+          "addressLineTwoText": "489 FIFTH AVENUE",
+          "correspondentNameText": "ALAN ISRAEL"
+        },
+        "frameNumber": 908,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017642/0908",
+        "reelNumber": 17642
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "66 Palmer Avenue",
+        "addressLineTwoText": "Suite 49B",
+        "cityName": "Bronxville",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Kirschstein, Israel, Schiffmiller & Pieroni, P.C.",
+        "postalCode": "10708"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "C600",
+        "eventDate": "2007-09-04",
+        "eventDescriptionText": "Supplemental Papers - Oath or Declaration"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-11",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-04",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-31",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-24",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2006-03-02",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-08-14",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-08-14",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-08-14",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-08-14",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-03-02",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-03-02",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-12-02",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-11-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "000338710-0003",
+        "filingDate": "2005-05-09",
+        "ipOfficeName": "EUROPEAN PATENT OFFICE (EPO)"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T12:35:50",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "INACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "551 FIFTH AVE FLOOR 28TH",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "KIRSCHSTEIN OTTINGER ISRAEL AND SCHIFFMILLER PC",
+              "postalCode": "10176"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "KIRSCHSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "17244",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-697-3750"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "425 FIFTH AVENUE",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "KIRSCHSTEIN, ISRAEL, SCHIFFMILLER & PIERONI, P.C.",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "ISRAEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27564",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-697-3750"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "425 FIFTH AVENUE",
+              "addressLineTwoText": "FIFTH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "KIRSCHSTEIN, ISRAEL, SCHIFFMILLER & PIERONI, P.C.",
+              "postalCode": "10016-222"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "SCHIFFMILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-697-3750"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "425 FIFTH AVENUE",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "KIRSCHSTEIN, ISRAEL, SCHIFFMILLER & PIERONI, P.C.",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "ISRAEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27564",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-697-3750"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "425 FIFTH AVENUE",
+              "addressLineTwoText": "FIFTH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "KIRSCHSTEIN, ISRAEL, SCHIFFMILLER & PIERONI, P.C.",
+              "postalCode": "10016-222"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "SCHIFFMILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-697-3750"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/71"
+}

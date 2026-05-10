@@ -1,0 +1,361 @@
+{
+  "applicant": null,
+  "application_number": "29253600",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-08-28 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-02-09",
+  "grant_date": "2007-08-28",
+  "invention_title": "I- SHAPED ORAL DEVICE",
+  "label": "negative",
+  "patent_number": "D549829",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1435,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-08",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "docketNumber": "0-06-038",
+      "effectiveFilingDate": "2006-02-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "HANSON, CHARLES D",
+      "filingDate": "2006-02-09",
+      "firstInventorName": "Ahron Jodaikin",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-08-28",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "I- SHAPED ORAL DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Kiryat Telstone",
+              "countryCode": "IL",
+              "countryName": "ISRAEL",
+              "nameLineOneText": "Ahron  Jodaikin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "IL",
+          "firstName": "Ahron",
+          "inventorNameText": "Ahron Jodaikin",
+          "lastName": "Jodaikin"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Kiryat Telstone",
+              "countryCode": "IL",
+              "countryName": "ISRAEL",
+              "nameLineOneText": "Hilary  Jodaikin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "IL",
+          "firstName": "Hilary",
+          "inventorNameText": "Hilary Jodaikin",
+          "lastName": "Jodaikin"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D549829",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "101",
+      "uspcSymbolText": "D24/101"
+    },
+    "applicationNumberText": "29253600",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "P.O. BOX 146, ROAD TOWN",
+              "cityName": "TORTOLA",
+              "countryName": "VIRGIN ISLANDS, BRITISH",
+              "geographicRegionCode": "VGX",
+              "ictCountryCode": "VG"
+            },
+            "assigneeNameText": "COLL PARTNERS LTD. OF TRIDENT CHAMBERS"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17733/494",
+        "assignmentMailedDate": "2006-06-07",
+        "assignmentReceivedDate": "2006-04-04",
+        "assignmentRecordedDate": "2006-03-29",
+        "assignorBag": [
+          {
+            "assignorName": "JODAIKIN, AHRON",
+            "executionDate": "2006-03-27"
+          },
+          {
+            "assignorName": "JODAIKIN, HILARY",
+            "executionDate": "2006-03-27"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ROACH BROWN MCCARTHY & GRUBER, P.C.",
+          "addressLineThreeText": "BUFFALO, NEW YORK 14202",
+          "addressLineTwoText": "420 MAIN STREET-1620 LIBERTY BUILDING",
+          "correspondentNameText": "KEVIN D. MCCARTHY"
+        },
+        "frameNumber": 494,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017733/0494",
+        "reelNumber": 17733
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8 HARAV BLOCH STREET",
+              "cityName": "KIRYAT YEARIM",
+              "countryName": "ISRAEL",
+              "geographicRegionCode": "ILX",
+              "ictCountryCode": "IL",
+              "postalCode": "90838"
+            },
+            "assigneeNameText": "COLLDENT Y.A. LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/27418/745",
+        "assignmentMailedDate": "2011-12-21",
+        "assignmentReceivedDate": "2011-12-20",
+        "assignmentRecordedDate": "2011-12-20",
+        "assignorBag": [
+          {
+            "assignorName": "COLL PARTNERS LTD.",
+            "executionDate": "2011-12-01"
+          }
+        ],
+        "attorneyDocketNumber": "0-07-138(2054407ETAL+4)",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ROACH BROWN MCCARTHY & GRUBER, P.C.",
+          "addressLineThreeText": "BUFFALO, NY 14202",
+          "addressLineTwoText": "1920 LIBERTY BUILDING - 424 MAIN STREET",
+          "correspondentNameText": "KEVIN D. MCCARTHY"
+        },
+        "frameNumber": 745,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "027418/0745",
+        "reelNumber": 27418
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1620 Liberty Building",
+        "addressLineTwoText": "420 Main Street",
+        "cityName": "Buffalo",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Kevin D. McCarthy",
+        "nameLineTwoText": "Roach Brown McCarthy & Gruber, P.C.",
+        "postalCode": "14202"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-08-28",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-07-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "MEXIN",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-15",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EXIN",
+        "eventDate": "2007-05-11",
+        "eventDescriptionText": "Interview Summary Record"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-04-25",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.NE",
+        "eventDate": "2007-04-17",
+        "eventDescriptionText": "Response after Final Action"
+      },
+      {
+        "eventCode": "MCTFR",
+        "eventDate": "2007-02-22",
+        "eventDescriptionText": "Mail Final Rejection (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTFR",
+        "eventDate": "2007-02-17",
+        "eventDescriptionText": "Final Rejection"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2006-12-19",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2006-12-14",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2006-10-04",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2006-09-28",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-31",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-06-16",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-06-16",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-03",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-03-29",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-03-29",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-02-09",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T21:00:05",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1920 LIBERTY BUILDING",
+              "addressLineTwoText": "424 MAIN STREET",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ROACH, BROWN, MCCARTHY & GRUBER, P.C.",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "MCCARTHY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35278",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-852-0400"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/101"
+}

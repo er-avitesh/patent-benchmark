@@ -1,0 +1,517 @@
+{
+  "applicant": null,
+  "application_number": "29262666",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-18 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-07-10",
+  "grant_date": "2007-12-18",
+  "invention_title": "PORTABLE COMPUTER",
+  "label": "negative",
+  "patent_number": "D557695",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 6654,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-28",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 23364,
+      "docketNumber": "CHEN3992/EM",
+      "effectiveFilingDate": "2006-07-10",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "NUNN, FREDA S",
+      "filingDate": "2006-07-10",
+      "firstInventorName": "Wen-Xiang Cheng",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-18",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "PORTABLE COMPUTER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taipei City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Wen-Xiang  Cheng",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Wen-Xiang",
+          "inventorNameText": "Wen-Xiang Cheng",
+          "lastName": "Cheng"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taipei City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Hua-Yu  Huang",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Hua-Yu",
+          "inventorNameText": "Hua-Yu Huang",
+          "lastName": "Huang"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taipei City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Ying-Fung  Lau",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "HK",
+          "firstName": "Ying-Fung",
+          "inventorNameText": "Ying-Fung Lau",
+          "lastName": "Lau"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taipei City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Yun-Ju  Chen",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Yun-Ju",
+          "inventorNameText": "Yun-Ju Chen",
+          "lastName": "Chen"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557695",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "315",
+      "uspcSymbolText": "D14/315"
+    },
+    "applicationNumberText": "29262666",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "4F., NO. 150, LI-TE RD., PEITOU",
+              "cityName": "TAIPEI CITY",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW",
+              "postalCode": "R.O.C."
+            },
+            "assigneeNameText": "ASUSTEK COMPUTER INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19723/150",
+        "assignmentMailedDate": "2007-08-21",
+        "assignmentReceivedDate": "2007-08-16",
+        "assignmentRecordedDate": "2007-08-13",
+        "assignorBag": [
+          {
+            "assignorName": "CHEN, YUN-JU",
+            "executionDate": "2006-06-07"
+          },
+          {
+            "assignorName": "HUANG, HUA-YU",
+            "executionDate": "2006-06-07"
+          },
+          {
+            "assignorName": "LAU, YING-FUNG",
+            "executionDate": "2006-06-07"
+          },
+          {
+            "assignorName": "CHENG, WEN-XIANG",
+            "executionDate": "2006-06-13"
+          }
+        ],
+        "attorneyDocketNumber": "CHEN3992/EM",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "625 SLATERS LANE",
+          "addressLineThreeText": "ALEXANDRIA, VA 22314",
+          "addressLineTwoText": "FOURTH FLOOR",
+          "correspondentNameText": "BACON & THOMAS, PLLC"
+        },
+        "frameNumber": 150,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "019723/0150",
+        "reelNumber": 19723
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "201 N. Union St.",
+        "addressLineTwoText": "Suite 320",
+        "cityName": "Alexandria",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "BACON & THOMAS, PLLC",
+        "postalCode": "22314"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-18",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-28",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-10-09",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-09",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-09",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-08-03",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-08-03",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-08-02",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-10",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-07-10",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T04:00:01",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. UNION ST., STE. 320",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON & THOMAS, PLLC",
+              "postalCode": "22314-2650"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MOORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28974",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. UNION ST., STE. 320",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON & THOMAS PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "URCIA",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. UNION STREET",
+              "addressLineTwoText": "SUITE 320",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON & THOMAS, PLLC",
+              "postalCode": "22314-2649"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SCHAEFER",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47921",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. UNION ST., STE. 320",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON & THOMAS, PLLC",
+              "postalCode": "22314-2650"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MOORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28974",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8120 LAKE PLEASANT DRIVE",
+              "cityName": "SPRINGFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "J. ERNEST KENNEY, LLC",
+              "postalCode": "22153"
+            }
+          ],
+          "firstName": "J",
+          "lastName": "KENNEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "19179",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-989-0009"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 N. UNION ST., STE. 320",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON & THOMAS PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "URCIA",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "625 SLATERS LANE, 4TH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON AND THOMAS",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "FICHTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26382",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "DECEASED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "625 SLATERS LANE, FOURTH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON AND THOMAS PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EUGENE",
+          "lastName": "MAR",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "25893",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "625 SLATERS LN",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BACON AND THOMAS",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "DE BENEDICTIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28502",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-683-0500"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/315"
+}

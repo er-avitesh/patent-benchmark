@@ -1,0 +1,622 @@
+{
+  "applicant": null,
+  "application_number": "29258400",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-04 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-20",
+  "grant_date": "2007-12-04",
+  "invention_title": "GENE AMPLIFICATION APPARATUS",
+  "label": "negative",
+  "patent_number": "D556914",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8013,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-14",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 207,
+      "docketNumber": "AK-517XX",
+      "effectiveFilingDate": "2006-04-20",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "CAVANNA, MARK",
+      "filingDate": "2006-04-20",
+      "firstInventorName": "Yasutoshi Okamoto",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-04",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "GENE AMPLIFICATION APPARATUS",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-fu",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Yasutoshi  Okamoto",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Yasutoshi",
+          "inventorNameText": "Yasutoshi Okamoto",
+          "lastName": "Okamoto"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-fu",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Hidehiko  Sato",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Hidehiko",
+          "inventorNameText": "Hidehiko Sato",
+          "lastName": "Sato"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-fu",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Akihiro  Mochizuki",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Akihiro",
+          "inventorNameText": "Akihiro Mochizuki",
+          "lastName": "Mochizuki"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D556914",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "233",
+      "uspcSymbolText": "D24/233"
+    },
+    "applicationNumberText": "29258400",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "5-5, KEIHANHONDORI 2-CHOME",
+              "addressLineTwoText": "MORIGUCHI-SHI",
+              "cityName": "OSAKA-FU",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "SANYO ELECTRIC CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17867/949",
+        "assignmentMailedDate": "2006-07-03",
+        "assignmentReceivedDate": "2006-06-27",
+        "assignmentRecordedDate": "2006-06-27",
+        "assignorBag": [
+          {
+            "assignorName": "MOCHIZUKI, AKIHIRO",
+            "executionDate": "2006-05-08"
+          },
+          {
+            "assignorName": "OKAMOTO, YASUTOSHI",
+            "executionDate": "2006-05-08"
+          },
+          {
+            "assignorName": "SATO, HIDEHIKO",
+            "executionDate": "2006-05-08"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "TEN POST OFFICE SQUARE",
+          "addressLineTwoText": "BOSTON, MA 02109",
+          "correspondentNameText": "WEOMGARTEM. SCJIRGOM ET AL."
+        },
+        "frameNumber": 949,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "017867/0949",
+        "reelNumber": 17867
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2131-1",
+              "addressLineTwoText": "MINAMIGATA",
+              "cityName": "TOON-SHI,EHIME",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "791-0395"
+            },
+            "assigneeNameText": "PANASONIC HEALTHCARE CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/28199/301",
+        "assignmentMailedDate": "2012-05-15",
+        "assignmentReceivedDate": "2012-05-14",
+        "assignmentRecordedDate": "2012-05-14",
+        "assignorBag": [
+          {
+            "assignorName": "SANYO ELECTRIC CO., LTD.",
+            "executionDate": "2012-05-07"
+          }
+        ],
+        "attorneyDocketNumber": "MEIGI",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1130 CONNECTICUT AVE., N.W., SUITE 1100",
+          "addressLineTwoText": "WASHINGTON, DC 20036",
+          "correspondentNameText": "PANASONIC PATENT CENTER"
+        },
+        "frameNumber": 301,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "028199/0301",
+        "reelNumber": 28199
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1006, OAZA KADOMA, KADOMA-SHI",
+              "cityName": "OSAKA",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "571-8501"
+            },
+            "assigneeNameText": "PANASONIC CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/32480/663",
+        "assignmentMailedDate": "2014-03-21",
+        "assignmentReceivedDate": "2014-03-19",
+        "assignmentRecordedDate": "2014-03-19",
+        "assignorBag": [
+          {
+            "assignorName": "PANASONIC HEALTHCARE CO., LTD.",
+            "executionDate": "2014-03-01"
+          }
+        ],
+        "attorneyDocketNumber": "MEIGI-PHC",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2-1-61, SHIROMI, CHUO-KU",
+          "addressLineThreeText": "OSAKA, 540-6207 JAPAN",
+          "addressLineTwoText": "7F OBP PANASONIC TOWER",
+          "correspondentNameText": "PANASONIC CORPORATION"
+        },
+        "frameNumber": 663,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "032480/0663",
+        "reelNumber": 32480
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6F,TOKYO GINKO KYOKAI BUILDING, 1-3-1 MARUNOUCHI, CHIYODA-KU",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "100-0005"
+            },
+            "assigneeNameText": "PHC HOLDINGS CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/32785/520",
+        "assignmentMailedDate": "2014-05-01",
+        "assignmentReceivedDate": "2014-04-29",
+        "assignmentRecordedDate": "2014-04-29",
+        "assignorBag": [
+          {
+            "assignorName": "PANASONIC CORPORATION",
+            "executionDate": "2014-03-31"
+          }
+        ],
+        "attorneyDocketNumber": "MEIGI-PHC",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2-1-61, SHIROMI, CHUO-KU",
+          "addressLineThreeText": "OSAKA, 540-6207 JAPAN",
+          "addressLineTwoText": "7F OBP PANASONIC TOWER",
+          "correspondentNameText": "PANASONIC CORPORATION"
+        },
+        "frameNumber": 520,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "032785/0520",
+        "reelNumber": 32785
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6F,TOKYO GINKO KYOKAI BUILDING, 1-3-1 MARUNOUCHI, CHIYODA-KU",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "100-0005"
+            },
+            "assigneeNameText": "PANASONIC HEALTHCARE HOLDINGS CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/32785/556",
+        "assignmentMailedDate": "2014-05-01",
+        "assignmentReceivedDate": "2014-04-29",
+        "assignmentRecordedDate": "2014-04-29",
+        "assignorBag": [
+          {
+            "assignorName": "PHC HOLDINGS CO., LTD.",
+            "executionDate": "2014-03-31"
+          }
+        ],
+        "attorneyDocketNumber": "MEIGI-PHC",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "2-1-61, SHIROMI, CHUO-KU",
+          "addressLineThreeText": "OSAKA, 540-6207 JAPAN",
+          "addressLineTwoText": "7F OBP PANASONIC TOWER",
+          "correspondentNameText": "PANASONIC CORPORATION"
+        },
+        "frameNumber": 556,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "032785/0556",
+        "reelNumber": 32785
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2-38-5 NISHISHIMBASHI, MINATO-KU,",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "105-8433"
+            },
+            "assigneeNameText": "PHC HOLDINGS CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/46459/854",
+        "assignmentMailedDate": "2018-07-26",
+        "assignmentReceivedDate": "2018-06-29",
+        "assignmentRecordedDate": "2018-06-29",
+        "assignorBag": [
+          {
+            "assignorName": "PANASONIC HEALTHCARE HOLDINGS CO., LTD.",
+            "executionDate": "2018-04-01"
+          }
+        ],
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "LIBERATION HOUSE",
+          "addressLineThreeText": "ST HELIER, JE1 1BL JERSEY",
+          "addressLineTwoText": "CASTLE STREET",
+          "correspondentNameText": "CPA GLOBAL LIMITED"
+        },
+        "frameNumber": 854,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "046459/0854",
+        "reelNumber": 46459
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "60 State Street",
+        "addressLineTwoText": "Suite 1100",
+        "cityName": "BOSTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MA",
+        "geographicRegionName": "MASSACHUSETTS",
+        "nameLineOneText": "PRETI FLAHERTY BELIVEAU & PACHIOS LLP",
+        "nameLineTwoText": "Suite 1100",
+        "postalCode": "02109"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-04",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-14",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-08-15",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-08-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-08-10",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-12-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2006-04-20",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-07-10",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-11",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-05-10",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-20",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2005-030925",
+        "filingDate": "2005-10-21",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T21:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 STATE STREET",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "PRETI FLAHERTY",
+              "postalCode": "02109"
+            }
+          ],
+          "firstName": "STANLEY",
+          "lastName": "SCHURGIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "20979",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-226-3800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PO BOX 1318",
+              "cityName": "CONCORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NH",
+              "geographicRegionName": "NEW HAMPSHIRE",
+              "nameLineOneText": "PRETI FLAHERTY",
+              "postalCode": "03303-131"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "BOURQUE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35457",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "603-410-1530"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8609 WESTWOOD CENTER DR.",
+              "addressLineTwoText": "SUITE 110",
+              "cityName": "VIENNA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "RESOLUTE LEGAL, PLLC",
+              "postalCode": "22182"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "DRUAN",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64021",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-455-6212"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 207,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "60 State Street",
+            "addressLineTwoText": "Suite 1100",
+            "cityName": "BOSTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MA",
+            "geographicRegionName": "MASSACHUSETTS",
+            "nameLineOneText": "PRETI FLAHERTY BELIVEAU & PACHIOS LLP",
+            "nameLineTwoText": "Suite 1100",
+            "postalCode": "02109"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 STATE STREET",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "PRETI FLAHERTY",
+              "postalCode": "02109"
+            }
+          ],
+          "firstName": "STANLEY",
+          "lastName": "SCHURGIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "20979",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-226-3800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PO BOX 1318",
+              "cityName": "CONCORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NH",
+              "geographicRegionName": "NEW HAMPSHIRE",
+              "nameLineOneText": "PRETI FLAHERTY",
+              "postalCode": "03303-131"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "BOURQUE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35457",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "603-410-1530"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8609 WESTWOOD CENTER DR.",
+              "addressLineTwoText": "SUITE 110",
+              "cityName": "VIENNA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "RESOLUTE LEGAL, PLLC",
+              "postalCode": "22182"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "DRUAN",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64021",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-455-6212"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/233"
+}

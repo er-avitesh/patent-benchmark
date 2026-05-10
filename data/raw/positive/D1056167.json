@@ -1,0 +1,360 @@
+{
+  "applicant": "Foshan Youbu Medical Equipment Co., Ltd.",
+  "application_number": "29783452",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29783452_D1056167.xml",
+  "filing_date": "2021-05-13",
+  "grant_date": "2024-12-31",
+  "invention_title": "Auxiliary Rack for Close Stool",
+  "label": "positive",
+  "patent_number": "D1056167",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Foshan Youbu Medical Equipment Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Foshan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Foshan Youbu Medical Equipment Co., Ltd.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 6076,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 51548,
+      "docketNumber": "205-11-USDP",
+      "effectiveFilingDate": "2021-05-13",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro"
+      },
+      "examinerNameText": "DELEHANTY, ROBERT A",
+      "filingDate": "2021-05-13",
+      "firstApplicantName": "Foshan Youbu Medical Equipment Co., Ltd.",
+      "firstInventorName": "Chang Jiang",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2925",
+      "inventionTitle": "Auxiliary Rack for Close Stool",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Foshan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "geographicRegionCode": "GD",
+              "nameLineOneText": "Chang  Jiang",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Foshan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Jiang, Chang",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Chang",
+          "inventorNameText": "Chang Jiang",
+          "lastName": "Jiang"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1056167",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "311",
+      "uspcSymbolText": "D23/311"
+    },
+    "applicationNumberText": "29783452",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "555 SKOKIE BLVD., SUITE 500",
+        "cityName": "NORTHBROOK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "IL",
+        "geographicRegionName": "ILLINOIS",
+        "nameLineOneText": "LAMPEL LAW, P.C.",
+        "postalCode": "60062"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "FLRCPT.C",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Filing Receipt - Corrected"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-18",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MP327-P",
+        "eventDate": "2024-08-21",
+        "eventDescriptionText": "Mail Acknowledgement of Priority Papers-Pub"
+      },
+      {
+        "eventCode": "P327-P",
+        "eventDate": "2024-08-19",
+        "eventDescriptionText": "Acknowledgement of Priority Papers-Pub"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-28",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-07-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-05-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2021-05-17",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-05-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2021-05-15",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-05-14",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-05-14",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-05-17",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-05-17",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-05-13",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2021-05-13",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2021-05-14",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-05-13",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-05-13",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "202030758809.7",
+        "filingDate": "2020-12-14",
+        "ipOfficeName": "CHINA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:14",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29783452_D1056167.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29783452_D1056167.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T11:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SKOKIE BOULEVARD, SUITE 500",
+              "cityName": "NORTHBROOK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "LAMPEL & ASSOCIATES, P.C.",
+              "postalCode": "60062"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "LAMPEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "847-845-4345"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 51548,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "555 SKOKIE BLVD., SUITE 500",
+            "cityName": "NORTHBROOK",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "IL",
+            "geographicRegionName": "ILLINOIS",
+            "nameLineOneText": "LAMPEL LAW, P.C.",
+            "postalCode": "60062"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 SKOKIE BOULEVARD, SUITE 500",
+              "cityName": "NORTHBROOK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "LAMPEL & ASSOCIATES, P.C.",
+              "postalCode": "60062"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "LAMPEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "847-845-4345"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/311"
+}

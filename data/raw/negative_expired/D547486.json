@@ -1,0 +1,381 @@
+{
+  "applicant": null,
+  "application_number": "29230919",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-07-24 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-05-31",
+  "grant_date": "2007-07-24",
+  "invention_title": "LAMPS",
+  "label": "negative",
+  "patent_number": "D547486",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3317,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-07-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "docketNumber": "40487/GM/CB",
+      "effectiveFilingDate": "2005-05-31",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "BROOKS, LINDA G",
+      "filingDate": "2005-05-31",
+      "firstInventorName": "Dante Vittorino Donegani",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-07-24",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "LAMPS",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Milano",
+              "countryCode": "IT",
+              "countryName": "ITALY",
+              "nameLineOneText": "Dante Vittorino Donegani",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "IT",
+          "firstName": "Dante",
+          "inventorNameText": "Dante Vittorino Donegani",
+          "lastName": "Donegani",
+          "middleName": "Vittorino"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Milano",
+              "countryCode": "IT",
+              "countryName": "ITALY",
+              "nameLineOneText": "Giovanni  Lauda",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "IT",
+          "firstName": "Giovanni",
+          "inventorNameText": "Giovanni Lauda",
+          "lastName": "Lauda"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D547486",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "104",
+      "uspcSymbolText": "D26/104"
+    },
+    "applicationNumberText": "29230919",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "VIA DELLA RUPE, 35",
+              "cityName": "MEZZOLOMBARDO",
+              "countryName": "ITALY",
+              "geographicRegionCode": "ITX",
+              "ictCountryCode": "IT",
+              "postalCode": "38017"
+            },
+            "assigneeNameText": "ELETTRICA ROTALIANA S.R.L."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16826/791",
+        "assignmentMailedDate": "2005-11-29",
+        "assignmentReceivedDate": "2005-08-04",
+        "assignmentRecordedDate": "2005-07-29",
+        "assignorBag": [
+          {
+            "assignorName": "DONEGANI, DANTE VITTORINO",
+            "executionDate": "2005-06-28"
+          },
+          {
+            "assignorName": "LAUDA, GIOVANNI",
+            "executionDate": "2005-06-28"
+          }
+        ],
+        "attorneyDocketNumber": "40487/GM/CB",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "GUIDO MODIANO",
+          "addressLineThreeText": "MILANO, ITALY 20123",
+          "addressLineTwoText": "VIA MERAVIGLI, 16",
+          "correspondentNameText": "MODIANO & ASSOCIATI"
+        },
+        "frameNumber": 791,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "016826/0791",
+        "reelNumber": 16826
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Via Meravigli, 16",
+        "cityName": "Milano",
+        "countryCode": "IT",
+        "countryName": "ITALY",
+        "nameLineOneText": "MODIANO & ASSOCIATI",
+        "postalCode": "20123"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-07-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-07-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-06-13",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-06-01",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-03-26",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-03-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-03-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MM327",
+        "eventDate": "2006-11-16",
+        "eventDescriptionText": "Mail Miscellaneous Communication to Applicant"
+      },
+      {
+        "eventCode": "M327",
+        "eventDate": "2006-11-13",
+        "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2006-10-27",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2006-10-23",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2006-10-23",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2006-10-23",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "NINA",
+        "eventDate": "2006-09-22",
+        "eventDescriptionText": "Mail Notice of Informal or Non-Responsive Amendment"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2006-08-08",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.I.",
+        "eventDate": "2006-08-03",
+        "eventDescriptionText": "Informal or Non-Responsive Amendment after Examiner Action"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2006-08-03",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2006-08-03",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2006-03-24",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2006-03-20",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2005-07-29",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-09-01",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-09-01",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-08-08",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-08-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2005-07-29",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-07-29",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-06-22",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-05-31",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "263306",
+        "filingDate": "2004-12-02",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T00:00:01",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "16 VIA MERAVIGLI",
+              "cityName": "MILANO",
+              "nameLineOneText": "MODIANO JOSIF PISANTY AND STAUB",
+              "postalCode": "20123"
+            }
+          ],
+          "firstName": "GUIDO",
+          "lastName": "MODIANO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "19928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "011-390-2 8590 7777"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1, 36 LINGFIELD ROAD",
+              "cityName": "LONDON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "nameLineOneText": "INTELLECTUAL PROPERTY CONSULTING LTD",
+              "postalCode": "SW19 4PZ"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "O'BYRNE",
+          "middleName": "JOSEPH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "36625",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "077-629-99144"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "16 VIA MERAVIGLI",
+              "cityName": "MILANO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IT",
+              "nameLineOneText": "MODIANO AND ASSOCIATI",
+              "postalCode": "20123"
+            }
+          ],
+          "firstName": "ALBERT",
+          "lastName": "JOSIF",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "22917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "003-902-85907777"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/104"
+}

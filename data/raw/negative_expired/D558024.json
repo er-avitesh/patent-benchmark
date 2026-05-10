@@ -1,0 +1,868 @@
+{
+  "applicant": null,
+  "application_number": "29267378",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-10-12",
+  "grant_date": "2007-12-25",
+  "invention_title": "LOCK",
+  "label": "negative",
+  "patent_number": "D558024",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4204,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 15075,
+      "docketNumber": "055188-0130",
+      "effectiveFilingDate": "2006-10-12",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "SIEGEL, MITCHELL",
+      "filingDate": "2006-10-12",
+      "firstInventorName": "John Tremble",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "LOCK",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "John  Tremble",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "John",
+          "inventorNameText": "John Tremble",
+          "lastName": "Tremble"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Dusseldorf",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Oliver  Grabes",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Oliver",
+          "inventorNameText": "Oliver Grabes",
+          "lastName": "Grabes"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Tim  Hulford",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Tim",
+          "inventorNameText": "Tim Hulford",
+          "lastName": "Hulford"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558024",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "330",
+      "uspcSymbolText": "D8/330"
+    },
+    "applicationNumberText": "29267378",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1010 54TH AVENUE EAST",
+              "cityName": "TACOMA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "95411"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18807/251",
+        "assignmentMailedDate": "2007-01-25",
+        "assignmentReceivedDate": "2007-01-25",
+        "assignmentRecordedDate": "2007-01-25",
+        "assignorBag": [
+          {
+            "assignorName": "TREMBLE, JOHN",
+            "executionDate": "2006-11-28"
+          }
+        ],
+        "attorneyDocketNumber": "055188-0130",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "777 EAST WISCONSIN AVENUE",
+          "addressLineThreeText": "MILWAUKEE, WI 53202-5306",
+          "addressLineTwoText": "FOLEY & LARDNER LLP",
+          "correspondentNameText": "JAMES A. WILKE"
+        },
+        "frameNumber": 251,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "018807/0251",
+        "reelNumber": 18807
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "10027 MAIN STREET",
+              "cityName": "BOTHELL",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "98011"
+            },
+            "assigneeNameText": "CARBON DESIGN GROUP"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18807/258",
+        "assignmentMailedDate": "2007-01-25",
+        "assignmentReceivedDate": "2007-01-25",
+        "assignmentRecordedDate": "2007-01-25",
+        "assignorBag": [
+          {
+            "assignorName": "GRABES, OLIVER",
+            "executionDate": "2007-01-04"
+          },
+          {
+            "assignorName": "HULFORD, TIM",
+            "executionDate": "2007-01-09"
+          }
+        ],
+        "attorneyDocketNumber": "055188-0130",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "777 EAST WISCONSIN AVENUE",
+          "addressLineThreeText": "MILWAUKEE, WI 53202-5306",
+          "addressLineTwoText": "FOLEY & LARDNER LLP",
+          "correspondentNameText": "JAMES A. WILKE"
+        },
+        "frameNumber": 258,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "018807/0258",
+        "reelNumber": 18807
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1010 54TH AVENUE EAST",
+              "cityName": "TACOMA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "95411"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18807/268",
+        "assignmentMailedDate": "2007-01-25",
+        "assignmentReceivedDate": "2007-01-25",
+        "assignmentRecordedDate": "2007-01-25",
+        "assignorBag": [
+          {
+            "assignorName": "CARBON DESIGN GROUP",
+            "executionDate": "2007-01-18"
+          }
+        ],
+        "attorneyDocketNumber": "055188-0130",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "777 EAST WISCONSIN AVENUE",
+          "addressLineThreeText": "MILWAUKEE, WI 53202-5306",
+          "addressLineTwoText": "FOLEY & LARDNER LLP",
+          "correspondentNameText": "JAMES A. WILKE"
+        },
+        "frameNumber": 268,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "018807/0268",
+        "reelNumber": 18807
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1010 54TH AVENUE EAST",
+              "cityName": "TACOMA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "98424"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING INCORPORATED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19465/400",
+        "assignmentMailedDate": "2007-06-25",
+        "assignmentReceivedDate": "2007-06-21",
+        "assignmentRecordedDate": "2007-06-21",
+        "assignorBag": [
+          {
+            "assignorName": "TREMBLE, JOHN",
+            "executionDate": "2007-06-13"
+          }
+        ],
+        "attorneyDocketNumber": "055188-0130",
+        "conveyanceText": "CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNEE'S NAME TO MILGARD MANUFACTURING INCORPORATED PREVIOUSLY RECORDED ON  REEL 018807 FRAME 0251. ASSIGNOR(S) HEREBY CONFIRMS THE CORRECT ASSIGNEE'S NAME IS MILGARD MANUFACTURING INCORPORATED AS NOTED ON THE CORRECTIVE ASSIGNMENT.",
+        "correspondenceAddress": {
+          "addressLineOneText": "777 E. WISCONSIN AVENUE",
+          "addressLineTwoText": "MILWAUKEE, WI 53202",
+          "correspondentNameText": "JAMES A. WILKE C/O FOLEY & LARDNER LLP"
+        },
+        "frameNumber": 400,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "019465/0400",
+        "reelNumber": 19465
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1010 54TH AVENUE EAST",
+              "cityName": "TACOMA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "98424"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING INCORPORATED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19465/432",
+        "assignmentMailedDate": "2007-06-25",
+        "assignmentReceivedDate": "2007-06-21",
+        "assignmentRecordedDate": "2007-06-21",
+        "assignorBag": [
+          {
+            "assignorName": "CARBON DESIGN GROUP",
+            "executionDate": "2007-06-19"
+          }
+        ],
+        "attorneyDocketNumber": "055188-0130",
+        "conveyanceText": "CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNEE'S NAME TO MILGARD MANUFACTURING INCORPORATED PREVIOUSLY RECORDED ON  REEL 018807 FRAME 0268. ASSIGNOR(S) HEREBY CONFIRMS THE CORRECT ASSIGNEE'S NAME IS MILGARD MANUFACTURING INCORPORATED AS NOTED ON THE CORRECTIVE ASSIGNMENT.",
+        "correspondenceAddress": {
+          "addressLineOneText": "777 E. WISCONSIN AVENUE",
+          "addressLineTwoText": "MILWAUKEE, WI 53202",
+          "correspondentNameText": "JAMES A. WILKE C/O FOLEY & LARDNER LLP"
+        },
+        "frameNumber": 432,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 6,
+        "reelAndFrameNumber": "019465/0432",
+        "reelNumber": 19465
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE LIGHT STREET",
+              "addressLineTwoText": "13TH FLOOR",
+              "cityName": "BALTIMORE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "ictCountryCode": "US",
+              "ictStateCode": "MD",
+              "postalCode": "21202"
+            },
+            "assigneeNameText": "MANUFACTURERS AND TRADERS TRUST COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/50944/761",
+        "assignmentMailedDate": "2019-11-08",
+        "assignmentReceivedDate": "2019-11-06",
+        "assignmentRecordedDate": "2019-11-06",
+        "assignorBag": [
+          {
+            "assignorName": "MI WINDOWS AND DOORS, LLC",
+            "executionDate": "2019-11-06"
+          },
+          {
+            "assignorName": "MILGARD MANUFACTURING INCORPORATED",
+            "executionDate": "2019-11-06"
+          }
+        ],
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "BANK OF AMERICA PLAZA",
+          "addressLineThreeText": "CHARLOTTE, NC 28280-4000",
+          "addressLineTwoText": "101 SOUTH TRYON STREET, SUITE 4000",
+          "correspondentNameText": "ALSTON & BIRD LLP"
+        },
+        "frameNumber": 761,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "050944/0761",
+        "reelNumber": 50944
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE LIGHT STREET",
+              "addressLineTwoText": "13TH FLOOR",
+              "cityName": "BALTIMORE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "ictCountryCode": "US",
+              "ictStateCode": "MD",
+              "postalCode": "21202"
+            },
+            "assigneeNameText": "MANUFACTURERS AND TRADERS TRUST COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/50945/297",
+        "assignmentMailedDate": "2019-11-08",
+        "assignmentReceivedDate": "2019-11-06",
+        "assignmentRecordedDate": "2019-11-06",
+        "assignorBag": [
+          {
+            "assignorName": "MI WINDOWS AND DOORS, LLC",
+            "executionDate": "2019-11-06"
+          },
+          {
+            "assignorName": "MILGARD MANUFACTURING INCORPORATED",
+            "executionDate": "2019-11-06"
+          }
+        ],
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "BANK OF AMERICA PLAZA",
+          "addressLineThreeText": "CHARLOTTE, NC 28280-4000",
+          "addressLineTwoText": "101 SOUTH TRYON STREET, SUITE 4000",
+          "correspondentNameText": "ALSTON & BIRD LLP"
+        },
+        "frameNumber": 297,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "050945/0297",
+        "reelNumber": 50945
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1209 ORANGE STREET",
+              "cityName": "WILMINGTON",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "ictCountryCode": "US",
+              "ictStateCode": "DE",
+              "postalCode": "19801"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/51485/206",
+        "assignmentMailedDate": "2020-01-13",
+        "assignmentReceivedDate": "2020-01-06",
+        "assignmentRecordedDate": "2020-01-06",
+        "assignorBag": [
+          {
+            "assignorName": "MILGARD MANUFACTURING INCORPORATED",
+            "executionDate": "2019-12-23"
+          }
+        ],
+        "attorneyDocketNumber": "107894-0048",
+        "conveyanceText": "ENTITY CONVERSION - CORPORATION TO LLC",
+        "correspondenceAddress": {
+          "addressLineOneText": "100 LENOX DRIVE",
+          "addressLineThreeText": "LAWRENCEVILLE, NJ 08648",
+          "addressLineTwoText": "SUITE 200",
+          "correspondentNameText": "ELLIOTT J STEIN"
+        },
+        "frameNumber": 206,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 9,
+        "reelAndFrameNumber": "051485/0206",
+        "reelNumber": 51485
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "20 KING STREET WEST, 4TH FLOOR",
+              "cityName": "TORONTO",
+              "countryName": "CANADA",
+              "geographicRegionCode": "CAX",
+              "ictCountryCode": "CA",
+              "postalCode": "M5H 1C4"
+            },
+            "assigneeNameText": "ROYAL BANK OF CANADA, AS COLLATERAL AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/54815/679",
+        "assignmentMailedDate": "2021-01-06",
+        "assignmentReceivedDate": "2020-12-21",
+        "assignmentRecordedDate": "2020-12-21",
+        "assignorBag": [
+          {
+            "assignorName": "MILGARD MANUFACTURING LLC",
+            "executionDate": "2020-12-18"
+          }
+        ],
+        "attorneyDocketNumber": "1305636 PAT IPSA TL",
+        "conveyanceText": "PATENT SECURITY AGREEMENT (TERM LOAN)",
+        "correspondenceAddress": {
+          "addressLineOneText": "200 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10166",
+          "addressLineTwoText": "PAUL HASTINGS LLP",
+          "correspondentNameText": "ALANA GRAMER"
+        },
+        "frameNumber": 679,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "054815/0679",
+        "reelNumber": 54815
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "20 KING STREET WEST, 4TH FLOOR",
+              "cityName": "TORONTO",
+              "countryName": "CANADA",
+              "geographicRegionCode": "CAX",
+              "ictCountryCode": "CA",
+              "postalCode": "M5H 1C4"
+            },
+            "assigneeNameText": "ROYAL BANK OF CANADA, AS COLLATERAL AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/54815/708",
+        "assignmentMailedDate": "2021-01-06",
+        "assignmentReceivedDate": "2020-12-21",
+        "assignmentRecordedDate": "2020-12-21",
+        "assignorBag": [
+          {
+            "assignorName": "MILGARD MANUFACTURING LLC",
+            "executionDate": "2020-12-18"
+          }
+        ],
+        "attorneyDocketNumber": "1305636 PAT IPSA ABL",
+        "conveyanceText": "PATENT SECURITY AGREEMENT (ABL)",
+        "correspondenceAddress": {
+          "addressLineOneText": "200 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10166",
+          "addressLineTwoText": "PAUL HASTINGS LLP",
+          "correspondentNameText": "ALANA GRAMER"
+        },
+        "frameNumber": 708,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "054815/0708",
+        "reelNumber": 54815
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "650 W MARKET STREET",
+              "cityName": "GRATZ",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17030"
+            },
+            "assigneeNameText": "MI WINDOWS AND DOORS, LLC"
+          },
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "650 W MARKET STREET",
+              "cityName": "GRATZ",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17030"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/54815/958",
+        "assignmentMailedDate": "2021-01-06",
+        "assignmentReceivedDate": "2020-12-21",
+        "assignmentRecordedDate": "2020-12-21",
+        "assignorBag": [
+          {
+            "assignorName": "MANUFACTURERS AND TRADERS TRUST COMPANY",
+            "executionDate": "2020-12-18"
+          }
+        ],
+        "attorneyDocketNumber": "1305636 PAT REL TL",
+        "conveyanceText": "TERMINATION AND RELEASE OF SECURITY INTEREST IN PATENTS AND TRADEMARKS (TERM LOAN)",
+        "correspondenceAddress": {
+          "addressLineOneText": "200 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10166",
+          "addressLineTwoText": "PAUL HASTINGS LLP",
+          "correspondentNameText": "ALANA GRAMER"
+        },
+        "frameNumber": 958,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 19,
+        "reelAndFrameNumber": "054815/0958",
+        "reelNumber": 54815
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "650 W MARKET STREET",
+              "cityName": "GRATZ",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17030"
+            },
+            "assigneeNameText": "MI WINDOWS AND DOORS, LLC"
+          },
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "650 W MARKET STREET",
+              "cityName": "GRATZ",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17030"
+            },
+            "assigneeNameText": "MILGARD MANUFACTURING LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/54816/1",
+        "assignmentMailedDate": "2021-01-06",
+        "assignmentReceivedDate": "2020-12-21",
+        "assignmentRecordedDate": "2020-12-21",
+        "assignorBag": [
+          {
+            "assignorName": "MANUFACTURERS AND TRADERS TRUST COMPANY",
+            "executionDate": "2020-12-18"
+          }
+        ],
+        "attorneyDocketNumber": "1305636 PAT REL REV",
+        "conveyanceText": "TERMINATION AND RELEASE OF SECURITY INTEREST IN PATENTS AND TRADEMARKS (REVOLVER)",
+        "correspondenceAddress": {
+          "addressLineOneText": "200 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10166",
+          "addressLineTwoText": "PAUL HASTINGS LLP",
+          "correspondentNameText": "ALANA GRAMER"
+        },
+        "frameNumber": 1,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 19,
+        "reelAndFrameNumber": "054816/0001",
+        "reelNumber": 54816
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. Box 1645",
+        "cityName": "Milwaukee",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "WI",
+        "geographicRegionName": "WISCONSIN",
+        "nameLineOneText": "Rathe Lindenbaum LLP",
+        "postalCode": "53201"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2022-08-24",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-11",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-26",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-26",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-02-07",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-01-31",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-02-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2007-01-25",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-10-26",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-10-12",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T12:11:24",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10611 W. HAWTHORNE FARMS LANE",
+              "cityName": "MEQUON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "RATHE LINDENBAUM, LLP",
+              "postalCode": "53097"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "RATHE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "262-478-9353"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "777 E. WISCONSIN AVENUE",
+              "cityName": "MILWAUKEE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "FOLEY & LARDNER LLP",
+              "postalCode": "53217"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "LINDENBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40365",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "414-297-5772"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 15075,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. Box 1645",
+            "cityName": "Milwaukee",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "WI",
+            "geographicRegionName": "WISCONSIN",
+            "nameLineOneText": "Rathe Lindenbaum LLP",
+            "postalCode": "53201"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "777 E. WISCONSIN AVENUE",
+              "cityName": "MILWAUKEE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "FOLEY & LARDNER LLP",
+              "postalCode": "53217"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "LINDENBAUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40365",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "414-297-5772"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10611 W. HAWTHORNE FARMS LANE",
+              "cityName": "MEQUON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "RATHE LINDENBAUM, LLP",
+              "postalCode": "53097"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "RATHE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "262-478-9353"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/330"
+}

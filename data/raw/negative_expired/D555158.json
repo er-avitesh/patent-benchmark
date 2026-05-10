@@ -1,0 +1,244 @@
+{
+  "applicant": null,
+  "application_number": "29269024",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-11-17",
+  "grant_date": "2007-11-13",
+  "invention_title": "MEDIA PORT BLOCKER DEVICE",
+  "label": "negative",
+  "patent_number": "D555158",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7191,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 7277,
+      "docketNumber": "711-D-001",
+      "effectiveFilingDate": "2006-11-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "KEARNEY, KAREN ELIZABETH",
+      "filingDate": "2006-11-17",
+      "firstInventorName": "Raymond Lo",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "MEDIA PORT BLOCKER DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wan Chai",
+              "countryCode": "HK",
+              "countryName": "HONG KONG",
+              "nameLineOneText": "Raymond  Lo",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "HK",
+          "firstName": "Raymond",
+          "inventorNameText": "Raymond Lo",
+          "lastName": "Lo"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555158",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "356",
+      "uspcSymbolText": "D14/356"
+    },
+    "applicationNumberText": "29269024",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "270 Madison Avenue",
+        "addressLineTwoText": "Suite 1403",
+        "cityName": "NEW YORK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Gottlieb, Rackman & Reisman, P.C.",
+        "nameLineTwoText": "Gloria Tsui-Yip, Esq.",
+        "postalCode": "10016"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-17",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-07",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-09-04",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-07",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-27",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-27",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-01-29",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-12-15",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-12-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-12-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-11-17",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T08:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "270 MADISON AVENUE",
+              "addressLineTwoText": "SUITE 1403",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "GOTTLIEB, RACKMAN & REISMAN, P.C.",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "GLORIA",
+          "lastName": "TSUI-YIP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42188",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-684-3900"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1350 BROADWAY, SUITE 802",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "MISKIN & TSUI-YIP, LLP",
+              "postalCode": "10018"
+            }
+          ],
+          "firstName": "HOWARD",
+          "lastName": "MISKIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "18999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-268-0900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "270 MADISON AVENUE",
+              "addressLineTwoText": "SUITE 1403",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "GOTTLIEB, RACKMAN & REISMAN, P.C.",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "GLORIA",
+          "lastName": "TSUI-YIP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42188",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-684-3900"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/356"
+}

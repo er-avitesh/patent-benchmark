@@ -1,0 +1,1418 @@
+{
+  "applicant": "Pura Scents, Inc.",
+  "application_number": "29871529",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241217/29871529_D1054542.xml",
+  "filing_date": "2023-02-22",
+  "grant_date": "2024-12-17",
+  "invention_title": "SCENT DISPENSER",
+  "label": "positive",
+  "patent_number": "D1054542",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Pura Scents, Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 8331,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-27",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 86012,
+      "docketNumber": "10283-08661 DES US",
+      "effectiveFilingDate": "2023-02-22",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "OBRIEN, DAVID WILLIAM",
+      "filingDate": "2023-02-22",
+      "firstApplicantName": "Pura Scents, Inc.",
+      "firstInventorName": "Auston Tesch",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-17",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "SCENT DISPENSER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Vineyard",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Tesch, Auston",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Auston  Tesch",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Auston",
+          "inventorNameText": "Auston Tesch",
+          "lastName": "Tesch"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Nephi",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Probst, Caleb",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Caleb  Probst",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Caleb",
+          "inventorNameText": "Caleb Probst",
+          "lastName": "Probst"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Saratoga Springs",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Cooper, Christopher Michael",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Christopher Michael Cooper",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Christopher",
+          "inventorNameText": "Christopher Michael Cooper",
+          "lastName": "Cooper",
+          "middleName": "Michael"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "American Fork",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Cook, Clint",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Clint  Cook",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Clint",
+          "inventorNameText": "Clint Cook",
+          "lastName": "Cook"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Lehi",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Hardcastle, Cody",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Cody  Hardcastle",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Cody",
+          "inventorNameText": "Cody Hardcastle",
+          "lastName": "Hardcastle"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Freitag, David",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "David  Freitag",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "David",
+          "inventorNameText": "David Freitag",
+          "lastName": "Freitag"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Fnu  Mayadevi",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Mayadevi, Fnu",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Fnu",
+          "inventorNameText": "Fnu Mayadevi",
+          "lastName": "Mayadevi"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Hannah  Trimble",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Salt Lake City",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Trimble, Hannah",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Hannah",
+          "inventorNameText": "Hannah Trimble",
+          "lastName": "Trimble"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Jared  Raulston",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Raulston, Jared",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jared",
+          "inventorNameText": "Jared Raulston",
+          "lastName": "Raulston"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Juan Carlos Altuna",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "South Jordan",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Altuna, Juan Carlos",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Juan",
+          "inventorNameText": "Juan Carlos Altuna",
+          "lastName": "Altuna",
+          "middleName": "Carlos"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Payson",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Grant, Mason",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Mason  Grant",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Mason",
+          "inventorNameText": "Mason Grant",
+          "lastName": "Grant"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Baird, Michael",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Michael  Baird",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Michael",
+          "inventorNameText": "Michael Baird",
+          "lastName": "Baird"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "West Valley City",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Celeste Chubak",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Celeste Chubak",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Celeste",
+          "inventorNameText": "Celeste Chubak",
+          "lastName": "Chubak"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pleasant Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Trevor  Davis",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "American Fork",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "Davis, Trevor",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Trevor",
+          "inventorNameText": "Trevor Davis",
+          "lastName": "Davis"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1054542",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "366",
+      "uspcSymbolText": "D23/366"
+    },
+    "applicationNumberText": "29871529",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2100 PLEASANT GROVE BLVD, SUITE 600",
+              "cityName": "PLEASANT GROVE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "ictCountryCode": "US",
+              "ictStateCode": "UT",
+              "postalCode": "84062"
+            },
+            "assigneeNameText": "PURA SCENTS, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/62769/694",
+        "assignmentMailedDate": "2023-02-24",
+        "assignmentReceivedDate": "2023-02-22",
+        "assignmentRecordedDate": "2023-02-22",
+        "assignorBag": [
+          {
+            "assignorName": "BAIRD, MICHAEL",
+            "executionDate": "2023-01-31"
+          },
+          {
+            "assignorName": "CHUBAK, MICHAYLO",
+            "executionDate": "2023-01-31"
+          },
+          {
+            "assignorName": "DAVIS, TREVOR",
+            "executionDate": "2023-01-31"
+          },
+          {
+            "assignorName": "FREITAG, DAVID",
+            "executionDate": "2023-01-31"
+          },
+          {
+            "assignorName": "HARDCASTLE, CODY",
+            "executionDate": "2023-01-31"
+          },
+          {
+            "assignorName": "ALTUNA, JUAN CARLOS",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "COOK, CLINT",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "COOPER, CHRISTOPHER MICHAEL",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "GRANT, MASON",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "MAYADEVI, FNU",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "PROBST, CALEB",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "RAULSTON, JARED",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "TESCH, AUSTON",
+            "executionDate": "2023-02-01"
+          },
+          {
+            "assignorName": "TRIMBLE, HANNAH",
+            "executionDate": "2023-02-08"
+          }
+        ],
+        "attorneyDocketNumber": "10283-08661 DES",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "555 BRYANT STREET, SUITE 820",
+          "addressLineTwoText": "PALO ALTO, CA 94301",
+          "correspondentNameText": "VLP LAW GROUP LLP"
+        },
+        "frameNumber": 694,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "062769/0694",
+        "reelNumber": 62769
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2024-12-02",
+        "childApplicationNumberText": "29975895",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D1090807",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationNumberText": "29871529"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "555 Bryant Street",
+        "addressLineTwoText": "Suite 820",
+        "cityName": "Palo Alto",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "VLP Law Group LLP",
+        "postalCode": "94301"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-17",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-28",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-27",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-07-14",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-04-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-04-12",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-04-05",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-01-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "FLRCPT.U",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "Filing Receipt - Updated"
+      },
+      {
+        "eventCode": "R48ACLT",
+        "eventDate": "2023-09-21",
+        "eventDescriptionText": "Letter Accepting Correction of Inventorship Under Rule 1.48"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-01",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-02-27",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-17T09:08:20",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241217/29871529_D1054542.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29871529_D1054542.xml",
+      "zipFileName": "ipg241217.zip"
+    },
+    "lastIngestionDateTime": "2026-04-23T10:59:57",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4107 ALPINE ROAD",
+              "cityName": "PORTOLA VALLEY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "94028"
+            }
+          ],
+          "firstName": "DIANNE",
+          "lastName": "REED",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-446-3320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 52268",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "02205-226"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "THIBODEAU",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31671",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-925-5520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "19900 PRICE AVE",
+              "cityName": "CUPERTINO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "95014"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "KWOK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33938",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-620-5501"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1461 CREEKVIEW LANE",
+              "cityName": "BLUE BELL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "VLP LAW GROUP, LLP",
+              "postalCode": "19422"
+            }
+          ],
+          "firstName": "DOREEN",
+          "lastName": "TRUJILLO",
+          "middleName": "Y",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "267-358-6839"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2901 W. COAST HWY",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "NEWPORT BEACH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP",
+              "postalCode": "92663"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "MULVILLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37194",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-531-6450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7683 SE 27TH STREET #145",
+              "cityName": "MERCER ISLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "98040"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "WHITE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43985",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-905-8188"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 BRYANT STREET",
+              "addressLineTwoText": "SUITE 820",
+              "cityName": "PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "94301"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "ROISE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47904",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-472-4068"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2050 MAIN STREET",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ORRICK, HERRINGTON & SUTCLIFFE, LLP",
+              "postalCode": "92614-8255"
+            }
+          ],
+          "firstName": "BRENDA",
+          "lastName": "CONNER",
+          "middleName": "J",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-567-6700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "138 E 12300 S",
+              "addressLineTwoText": "STE C-206",
+              "cityName": "DRAPER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "VLP LAW GROUP, LLP",
+              "postalCode": "84020"
+            }
+          ],
+          "firstName": "MICHEL",
+          "lastName": "BOHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "435-562-4445"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "138 EAST 12300 SOUTH",
+              "addressLineTwoText": "SUITE C-206",
+              "cityName": "DRAPER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS LLP",
+              "postalCode": "84020"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "NORSETH",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64821",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "435-294-2709"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN ST.,",
+              "addressLineTwoText": "SUITE 250",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS, LLP",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "LANCE",
+          "lastName": "TOPHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-258-9839"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN STREET, SUITE 250",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "CARROLL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76510",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-258-9817"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 86012,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "555 Bryant Street",
+            "addressLineTwoText": "Suite 820",
+            "cityName": "Palo Alto",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "VLP Law Group LLP",
+            "postalCode": "94301"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4107 ALPINE ROAD",
+              "cityName": "PORTOLA VALLEY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "94028"
+            }
+          ],
+          "firstName": "DIANNE",
+          "lastName": "REED",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-446-3320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 BRYANT STREET, SUITE 820",
+              "cityName": "PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "94301"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "MEEHAN",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54705",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-251-4218"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2050 MAIN STREET",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ORRICK, HERRINGTON & SUTCLIFFE, LLP",
+              "postalCode": "92614-8255"
+            }
+          ],
+          "firstName": "BRENDA",
+          "lastName": "CONNER",
+          "middleName": "J",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-567-6700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN STREET, SUITE 250",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "CARROLL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76510",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-258-9817"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1461 CREEKVIEW LANE",
+              "cityName": "BLUE BELL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "VLP LAW GROUP, LLP",
+              "postalCode": "19422"
+            }
+          ],
+          "firstName": "DOREEN",
+          "lastName": "TRUJILLO",
+          "middleName": "Y",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "267-358-6839"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7683 SE 27TH STREET #145",
+              "cityName": "MERCER ISLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "98040"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "WHITE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43985",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-905-8188"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "19900 PRICE AVE",
+              "cityName": "CUPERTINO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "95014"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "KWOK",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33938",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-504-9097"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 BRYANT STREET",
+              "addressLineTwoText": "SUITE 820",
+              "cityName": "PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "94301"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "ROISE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47904",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-472-4068"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "138 EAST 12300 SOUTH",
+              "addressLineTwoText": "SUITE C-206",
+              "cityName": "DRAPER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS LLP",
+              "postalCode": "84020"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "NORSETH",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64821",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "435-294-2709"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 52268",
+              "cityName": "BOSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "VLP LAW GROUP LLP",
+              "postalCode": "02205-226"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "THIBODEAU",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31671",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-925-5520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2901 W. COAST HWY",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "NEWPORT BEACH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VLP LAW GROUP",
+              "postalCode": "92663"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "MULVILLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37194",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-531-6450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN ST.,",
+              "addressLineTwoText": "SUITE 250",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "PATENT LAW WORKS, LLP",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "LANCE",
+          "lastName": "TOPHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-258-9839"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "138 E 12300 S",
+              "addressLineTwoText": "STE C-206",
+              "cityName": "DRAPER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "VLP LAW GROUP, LLP",
+              "postalCode": "84020"
+            }
+          ],
+          "firstName": "MICHEL",
+          "lastName": "BOHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "435-562-4445"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/366"
+}

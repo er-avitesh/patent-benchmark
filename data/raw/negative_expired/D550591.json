@@ -1,0 +1,349 @@
+{
+  "applicant": null,
+  "application_number": "29261992",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-06-23",
+  "grant_date": "2007-09-11",
+  "invention_title": "MOTORCYCLE",
+  "label": "negative",
+  "patent_number": "D550591",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8961,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-22",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 2352,
+      "docketNumber": "D/4212-49",
+      "effectiveFilingDate": "2006-06-23",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "BROOKS, LINDA G",
+      "filingDate": "2006-06-23",
+      "firstInventorName": "Takayoshi Mugikura",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-11",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "MOTORCYCLE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo-to",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Takayoshi  Mugikura",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Takayoshi",
+          "inventorNameText": "Takayoshi Mugikura",
+          "lastName": "Mugikura"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D550591",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "110",
+      "uspcSymbolText": "D12/110"
+    },
+    "applicationNumberText": "29261992",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2500 SHINGAI, IWATA-SHI",
+              "cityName": "SHIZUOKA-KEN",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "YAMAHA HATSUDOKI KABUSHIKI KAISHA"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18005/963",
+        "assignmentMailedDate": "2006-07-26",
+        "assignmentReceivedDate": "2006-07-26",
+        "assignmentRecordedDate": "2006-07-26",
+        "assignorBag": [
+          {
+            "assignorName": "MUGIKURA, TAKAYOSHI",
+            "executionDate": "2006-06-27"
+          }
+        ],
+        "attorneyDocketNumber": "D/4212-49 V1044",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1180 AVENUE OF THE AMERICAS",
+          "addressLineTwoText": "NEW YORK, NY 10036",
+          "correspondentNameText": "OSTROLENK, FABER, GERB & SOFFEN"
+        },
+        "frameNumber": 963,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018005/0963",
+        "reelNumber": 18005
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "270 Madison Avenue",
+        "addressLineTwoText": "Suite 1403",
+        "cityName": "NEW YORK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "OSTROLENK  FABER  LLP",
+        "postalCode": "10016-0601"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-13",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-04",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-03-29",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-03-29",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-01-08",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-02",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-07-27",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-07-27",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-07-27",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-07-17",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-06-23",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T19:11:28",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "OSTROLENK FABER GERB AND SOFFEN LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "FINDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30173",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-382-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "845 THIRD AVENUE",
+              "addressLineTwoText": "8TH FLOOR",
+              "cityName": "NEW YORK CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "OSTROLENK FABER LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "MAX",
+          "lastName": "MOSKOWITZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30576",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-596-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "845 THIRD AVENUE",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "OSTROLENK FABER LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "KOUROSH",
+          "lastName": "SALEHI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43898",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-596-0565"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 2352,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "270 Madison Avenue",
+            "addressLineTwoText": "Suite 1403",
+            "cityName": "NEW YORK",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "OSTROLENK  FABER  LLP",
+            "postalCode": "10016-0601"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "845 THIRD AVENUE",
+              "addressLineTwoText": "8TH FLOOR",
+              "cityName": "NEW YORK CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "OSTROLENK FABER LLP",
+              "postalCode": "10022"
+            }
+          ],
+          "firstName": "MAX",
+          "lastName": "MOSKOWITZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30576",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-596-0500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "270 MADISON AVENUE",
+              "addressLineTwoText": "SUITE 1403",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "OSTROLENK FABER LLP",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "KOUROSH",
+          "lastName": "SALEHI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43898",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-596-0565"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/110"
+}

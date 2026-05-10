@@ -1,0 +1,2278 @@
+{
+  "applicant": null,
+  "application_number": "29255884",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-02 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-03-13",
+  "grant_date": "2007-10-02",
+  "invention_title": "MATTOCK-SCOOPER TOOL HEAD",
+  "label": "negative",
+  "patent_number": "D551922",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1106,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-12",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 22045,
+      "docketNumber": "288903-00370",
+      "effectiveFilingDate": "2006-03-13",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LANE, SHERYL L",
+      "filingDate": "2006-03-13",
+      "firstInventorName": "John Grishaber",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-02",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "MATTOCK-SCOOPER TOOL HEAD",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Mt. Wolf",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "John  Grishaber",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "John",
+          "inventorNameText": "John Grishaber",
+          "lastName": "Grishaber"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Lebanon",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "Jeffrey M. Norton",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jeffrey",
+          "inventorNameText": "Jeffrey M. Norton",
+          "lastName": "Norton",
+          "middleName": "M."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Duncannon",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "Joshua O. Mullen",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Joshua",
+          "inventorNameText": "Joshua O. Mullen",
+          "lastName": "Mullen",
+          "middleName": "O."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D551922",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "11",
+      "uspcSymbolText": "D8/11"
+    },
+    "applicationNumberText": "29255884",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "465 RAILROAD AVENUE",
+              "cityName": "CAMP HILL",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17011"
+            },
+            "assigneeNameText": "AMES TRUE TEMPER, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17687/305",
+        "assignmentMailedDate": "2006-05-30",
+        "assignmentReceivedDate": "2006-03-21",
+        "assignmentRecordedDate": "2006-03-13",
+        "assignorBag": [
+          {
+            "assignorName": "MULLEN, JOSHUA O.",
+            "executionDate": "2006-03-07"
+          },
+          {
+            "assignorName": "NORTON, JEFFREY M.",
+            "executionDate": "2006-03-07"
+          },
+          {
+            "assignorName": "GRISHABER, JOHN",
+            "executionDate": "2006-03-08"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "PITTSBURGH, PA 15219",
+          "addressLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+          "addressLineThreeText": "44TH FLOOR",
+          "addressLineTwoText": "600 GRANT STREET",
+          "correspondentNameText": "DAVID C. JENKINS"
+        },
+        "frameNumber": 305,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "017687/0305",
+        "reelNumber": 17687
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "270 PARK AVENUE",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10017"
+            },
+            "assigneeNameText": "JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/25126/506",
+        "assignmentMailedDate": "2010-10-13",
+        "assignmentReceivedDate": "2010-10-13",
+        "assignmentRecordedDate": "2010-10-13",
+        "assignorBag": [
+          {
+            "assignorName": "AMES TRUE TEMPER, INC.",
+            "executionDate": "2010-09-30"
+          }
+        ],
+        "attorneyDocketNumber": "509265/1529",
+        "conveyanceText": "AMENDED AND RESTATED GRANT OF SECURITY INTEREST IN PATENT RIGHTS",
+        "correspondenceAddress": {
+          "addressLineOneText": "SIMPSON THACHER & BARTLETT LLP",
+          "addressLineThreeText": "NEW YORK, NY 10017",
+          "addressLineTwoText": "425 LEXINGTON AVENUE",
+          "correspondentNameText": "MINDY M. LOK, ESQ."
+        },
+        "frameNumber": 506,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 26,
+        "reelAndFrameNumber": "025126/0506",
+        "reelNumber": 25126
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "200 WEST STREET",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10282"
+            },
+            "assigneeNameText": "GOLDMAN SACHS LENDING PARTNERS, LLC AS COLLATERAL AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/25324/757",
+        "assignmentMailedDate": "2010-12-09",
+        "assignmentReceivedDate": "2010-11-08",
+        "assignmentRecordedDate": "2010-11-08",
+        "assignorBag": [
+          {
+            "assignorName": "AMES TRUE TEMPER, INC.",
+            "executionDate": "2010-09-30"
+          },
+          {
+            "assignorName": "CLOPAY BUILDING PRODUCTS COMPANY, INC.",
+            "executionDate": "2010-09-30"
+          },
+          {
+            "assignorName": "CLOPAY PLASTIC PRODUCTS COMPANY, INC.",
+            "executionDate": "2010-09-30"
+          }
+        ],
+        "attorneyDocketNumber": "36291",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "21 TADCASTER CIRCLE",
+          "addressLineThreeText": "WALDORF, MD 20602",
+          "addressLineTwoText": "ATTN: PENELOPE J.A. AGODOA",
+          "correspondentNameText": "IP RESEARCH PLUS, INC."
+        },
+        "frameNumber": 757,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 36,
+        "reelAndFrameNumber": "025324/0757",
+        "reelNumber": 25324
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "465 RAILROAD AVENUE",
+              "cityName": "CAMP HILL",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17011"
+            },
+            "assigneeNameText": "AMES TRUE TEMPER, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/25990/749",
+        "assignmentMailedDate": "2011-03-22",
+        "assignmentReceivedDate": "2011-03-21",
+        "assignmentRecordedDate": "2011-03-21",
+        "assignorBag": [
+          {
+            "assignorName": "GOLDMAN SACHS LENDING PARTNERS LLC",
+            "executionDate": "2011-03-17"
+          }
+        ],
+        "attorneyDocketNumber": "376527-113860",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2440 W. EL CAMINO REAL",
+          "addressLineThreeText": "MOUNTAIN VIEW, CA 94040",
+          "addressLineTwoText": "SUITE 700",
+          "correspondentNameText": "DECHERT LLP"
+        },
+        "frameNumber": 749,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 32,
+        "reelAndFrameNumber": "025990/0749",
+        "reelNumber": 25990
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8585 DUKE BLVD.",
+              "cityName": "MASON",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "ictCountryCode": "US",
+              "ictStateCode": "OH",
+              "postalCode": "45050"
+            },
+            "assigneeNameText": "AMES TRUE TEMPER, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26159/253",
+        "assignmentMailedDate": "2011-04-21",
+        "assignmentReceivedDate": "2011-04-20",
+        "assignmentRecordedDate": "2011-04-20",
+        "assignorBag": [
+          {
+            "assignorName": "JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT",
+            "executionDate": "2011-03-18"
+          }
+        ],
+        "attorneyDocketNumber": "509265/1574",
+        "conveyanceText": "TERMINATION AND RELEASE OF SECURITY INTEREST IN PATENT RIGHTS",
+        "correspondenceAddress": {
+          "addressLineOneText": "SIMPSON THACHER & BARTLETT LLP",
+          "addressLineThreeText": "NEW YORK, NY 10017",
+          "addressLineTwoText": "425 LEXINGTON AVENUE",
+          "correspondentNameText": "MARCELA ROBLEDO, ESQ."
+        },
+        "frameNumber": 253,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 26,
+        "reelAndFrameNumber": "026159/0253",
+        "reelNumber": 26159
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "P.O. BOX 2558",
+              "cityName": "HOUSTON",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "ictCountryCode": "US",
+              "ictStateCode": "TX",
+              "postalCode": "77252"
+            },
+            "assigneeNameText": "JPMORGAN CHASE BANK, N.A., AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26163/645",
+        "assignmentMailedDate": "2011-04-21",
+        "assignmentReceivedDate": "2011-04-21",
+        "assignmentRecordedDate": "2011-04-21",
+        "assignorBag": [
+          {
+            "assignorName": "AMES TRUE TEMPER, INC.",
+            "executionDate": "2011-03-18"
+          }
+        ],
+        "attorneyDocketNumber": "509265/1574",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "SIMPSON THACHER & BARTLETT LLP",
+          "addressLineThreeText": "NEW YORK, NY 10017",
+          "addressLineTwoText": "425 LEXINGTON AVENUE",
+          "correspondentNameText": "MARCELA ROBLEDO, ESQ."
+        },
+        "frameNumber": 645,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 20,
+        "reelAndFrameNumber": "026163/0645",
+        "reelNumber": 26163
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "465 RAILROAD AVENUE",
+              "cityName": "CAMP HILL",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "PA",
+              "postalCode": "17011"
+            },
+            "assigneeNameText": "THE AMES COMPANIES, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/32982/963",
+        "assignmentMailedDate": "2014-05-30",
+        "assignmentReceivedDate": "2014-05-22",
+        "assignmentRecordedDate": "2014-05-22",
+        "assignorBag": [
+          {
+            "assignorName": "AMES TRUE TEMPER, INC.",
+            "executionDate": "2014-04-28"
+          }
+        ],
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "LIBERATION HOUSE",
+          "addressLineThreeText": "ST HELIER, JE1 1BL JERSEY",
+          "addressLineTwoText": "CASTLE STREET",
+          "correspondentNameText": "CPA GLOBAL LIMITED"
+        },
+        "frameNumber": 963,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "032982/0963",
+        "reelNumber": 32982
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "101 N. TRYON STREET, 5TH FLOOR",
+              "addressLineTwoText": "MAIL CODE: NC1-001-05-45",
+              "cityName": "CHARLOTTE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "ictCountryCode": "US",
+              "ictStateCode": "NC",
+              "postalCode": "28255-0001"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/48433/51",
+        "assignmentMailedDate": "2019-02-27",
+        "assignmentReceivedDate": "2019-02-26",
+        "assignmentRecordedDate": "2019-02-26",
+        "assignorBag": [
+          {
+            "assignorName": "JPMORGAN CHASE BANK, N.A.",
+            "executionDate": "2019-02-22"
+          }
+        ],
+        "conveyanceText": "NOTICE OF SUCCESSION OF AGENCY",
+        "correspondenceAddress": {
+          "addressLineOneText": "4400 EASTON COMMONS WAY",
+          "addressLineThreeText": "COLUMBUS, OH 43219",
+          "addressLineTwoText": "SUITE 125",
+          "correspondentNameText": "CT CORPORATION"
+        },
+        "frameNumber": 51,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 19,
+        "reelAndFrameNumber": "048433/0051",
+        "reelNumber": 48433
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "150 W 2nd St. Suite 400N",
+        "cityName": "Royal Oak",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "Brooks Kushman P.C.",
+        "postalCode": "48067"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2018-12-14",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-12",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-07-27",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-27",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-04-25",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-04-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-03-13",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T12:11:24",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SYROWIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27956",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "HEINL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "601 S. FIGUEROA STREET",
+              "addressLineTwoText": "SUITE 2080",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "90017-578"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "RUNK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30679",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "562-708-3520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, SUITE 2200",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "NEMAZI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30876",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER,  22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "CONGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31209",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2771"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE,TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "ABBATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31936",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "HALAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2735"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 WEST SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SZUMA",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "ANGILERI",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36733",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "BIR",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38383",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BRODBINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38392",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C., LAW FIRM",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "SANGEETA",
+          "lastName": "SHAH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38614",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "KALLIS",
+          "middleName": "N",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41102",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 N. TOWN CENTER DR.",
+              "addressLineTwoText": "STE 100",
+              "cityName": "LAS VEGAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NV",
+              "geographicRegionName": "NEVADA",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "89144"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "KOHLI",
+          "middleName": "N",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43726",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "702-473-3780"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARC",
+          "lastName": "LORELLI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43759",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "MANSFIELD",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43773",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "STUENKEL",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44364",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "JAKUBOWSKI",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5935 SW AMBERWOOD AVE.",
+              "cityName": "CORVALLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97333"
+            }
+          ],
+          "firstName": "JEFF",
+          "lastName": "LIMON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "45418",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "541-220-0591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "MIETZEL",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46929",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "PROSCIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47010",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LEROY",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48158",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CUNNINGHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48722",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "BIENEMAN",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51472",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-244-0676"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TURNER",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52306",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "STASA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55644",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, SUITE 2200",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "SULTANA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "FRANCIS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59511",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-769-2802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 TOWN CENTER",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BEJIN BIENEMAN PLC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "LEONARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-604-6490"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "SMITH",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59669",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BERNARD",
+          "lastName": "TOMSA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "REID",
+          "lastName": "BALDWIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61791",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2717"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN  PC",
+              "postalCode": "48075-123"
+            }
+          ],
+          "firstName": "ISAAC",
+          "lastName": "SLUTSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64620",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-229-2733"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48075-123"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "BOWLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64705",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "RONDINI",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. 2ND STREET",
+              "addressLineTwoText": "SUITE 200N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "TIFFANY",
+          "lastName": "FIDLER",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W SECOND ST",
+              "addressLineTwoText": "STE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "HART",
+          "middleName": "T",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65804",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-960-4341"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "SMITH",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2734"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RIVER PLACE DRIVE",
+              "addressLineTwoText": "SUITE 1775",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BURRIS LAW, PLLC",
+              "postalCode": "48207-429"
+            }
+          ],
+          "firstName": "ABHA",
+          "lastName": "FADIPE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-393-5415"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "KONZ",
+          "middleName": "G",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68910",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2928"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BERTINO",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ISHEETA",
+          "lastName": "LAXMANAN",
+          "middleName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73312",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2803"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P. C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ALENA",
+          "lastName": "MARCONI",
+          "middleName": "VACKOVA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73680",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2851 CHARLEVOIX DRIVE SE, SUITE 207",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GARDNER LIAN DURKHAUT & ONDERSON LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "BRYCE",
+          "lastName": "WHITWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77154",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "618-616-1473"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "nameLineTwoText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DUSTIN",
+          "lastName": "ZAK",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2884"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "MUHAMMAD",
+          "lastName": "SIWANI",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81324",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-516-4860"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 TOWN CENTER",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BEJIN BIENEMAN PLC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "MACKENZIE",
+          "middleName": "A.",
+          "nameSuffix": "IV",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-528-6948"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CAMERON",
+          "lastName": "ANSTESS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82069",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-929-7561"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FANQI",
+          "lastName": "MENG",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L0647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 3705,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "600 Grant Street, 44th Floor",
+            "addressLineTwoText": "US Steel Tower",
+            "cityName": "Pittsburgh",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "PA",
+            "geographicRegionName": "PENNSYLVANIA",
+            "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT LLC",
+            "postalCode": "15219"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "MAZZA",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76673",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6058"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN AND MELLOTT LLC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "NATHANIEL",
+          "lastName": "WILKS",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62867",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6993"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO LIBERTY PLACE, 50 S. 16TH STREET",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "19102"
+            }
+          ],
+          "firstName": "DEBORA",
+          "lastName": "PLEHN-DUJOWICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65732",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-851-8492"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO LIBERTY PLACE, 22ND FLOOR",
+              "addressLineTwoText": "50 SOUTH 16TH STREET",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "19428"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "BOYLE",
+          "middleName": "A. M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76332",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-851-8480"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET 44TH FLOOR",
+              "addressLineTwoText": "US STEEL TOWER",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "GRANT",
+          "lastName": "COFFIELD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52758",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6965"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET 44TH FLOOR",
+              "addressLineTwoText": "US STEEL TOWER",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "BUCCHIANERI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "LISA",
+          "lastName": "GEARY",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60077",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-1932"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 S. 16TH STREET",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS",
+              "postalCode": "19102"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "VOGELBACKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58877",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-851-8504"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "430 DAVIS DRIVE",
+              "addressLineTwoText": "SUITE 150",
+              "cityName": "MORRISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "KACVINSKY DAISAK BLUNI PLLC",
+              "postalCode": "27560"
+            }
+          ],
+          "firstName": "TREVOR",
+          "lastName": "BANNISTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66190",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-636-4767"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN AND MELLOTT, LLC",
+              "nameLineTwoText": "U.S. STEEL TOWER",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "CAROL",
+          "lastName": "MARMO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39761",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-374-4043"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-1933"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT ST.",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS, ET AL.",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "NOLAND",
+          "lastName": "CHEUNG",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39138",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MAYA",
+          "lastName": "CHERIYAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS ET AL",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "CODY",
+          "lastName": "MADISON",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80889",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1555 CORAOPOLIS HEIGHTS ROAD",
+              "cityName": "MOON TOWNSHIP",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "NOVA CHEMICALS INC.",
+              "postalCode": "15108"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "MATZ",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "45504",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-490-4794"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO LIBERTY PLACE",
+              "addressLineTwoText": "50 S. 16TH STREET, 22ND FLOOR",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "19102"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "GORNISH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57513",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-851-8469"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 GRANT STREET",
+              "addressLineTwoText": "44TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "PHILIP",
+          "lastName": "LEVY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-566-6000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/11"
+}

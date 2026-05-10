@@ -1,0 +1,221 @@
+{
+  "applicant": null,
+  "application_number": "29808119",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29808119_D1049700.xml",
+  "filing_date": "2021-09-17",
+  "grant_date": "2024-11-05",
+  "invention_title": "Pillow",
+  "label": "positive",
+  "patent_number": "D1049700",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4348,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-16",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "docketNumber": "KC36927",
+      "effectiveFilingDate": "2021-09-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "FOLKART, JULIA SAMANTHA",
+      "filingDate": "2021-09-17",
+      "firstInventorName": "Jingang YANG",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-05",
+      "groupArtUnitNumber": "2926",
+      "inventionTitle": "Pillow",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Sichuan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Jingang  YANG",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Sichuan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "YANG, Jingang",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Jingang",
+          "inventorNameText": "Jingang YANG",
+          "lastName": "YANG"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1049700",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "601",
+      "uspcSymbolText": "D6/601"
+    },
+    "applicationNumberText": "29808119",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "RM 908, BLK 49",
+        "addressLineTwoText": "HENG FA CHUEN",
+        "cityName": "CHAI WAN",
+        "countryCode": "HK",
+        "countryName": "HONG KONG",
+        "nameLineOneText": "Jingang YANG"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-04",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-04",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "MODPD33",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Mail NTC.USIFEE-NOTICE REGUARDING UNSIGNED 85B FORM"
+      },
+      {
+        "eventCode": "ODPD33",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "NTC.USIFEE-NOTICE REGUARDING UNSIGNED 85B FORM"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-05-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-05-16",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-01-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2021-10-06",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "FLRCPT.C",
+        "eventDate": "2021-10-05",
+        "eventDescriptionText": "Filing Receipt - Corrected"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2021-09-30",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-10-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-09-20",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-09-20",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-09-20",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-09-20",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2021-09-20",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-09-17",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-09-17",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "202130466727.X",
+        "filingDate": "2021-07-22",
+        "ipOfficeName": "CHINA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-05T09:11:42",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29808119_D1049700.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29808119_D1049700.xml",
+      "zipFileName": "ipg241105.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T11:00:02"
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/601"
+}

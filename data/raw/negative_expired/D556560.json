@@ -1,0 +1,2094 @@
+{
+  "applicant": null,
+  "application_number": "29253279",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-04 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-02-03",
+  "grant_date": "2007-12-04",
+  "invention_title": "FIXTURE FOR INSTALLING A SIDING PANEL",
+  "label": "negative",
+  "patent_number": "D556560",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 9738,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-14",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 7055,
+      "docketNumber": "D29312",
+      "effectiveFilingDate": "2006-02-03",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LANE, SHERYL L",
+      "filingDate": "2006-02-03",
+      "firstInventorName": "Norio Tsuda",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-04",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "FIXTURE FOR INSTALLING A SIDING PANEL",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Higashiosaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Norio  Tsuda",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Norio",
+          "inventorNameText": "Norio Tsuda",
+          "lastName": "Tsuda"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D556560",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "382",
+      "uspcSymbolText": "D8/382"
+    },
+    "applicationNumberText": "29253279",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2-27, SHIROMI 1-CHOME, CHUO-KU",
+              "cityName": "OSAKA-SHI, OSAKA",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "KUBOTA MATSUSHITADENKO EXTERIOR WORKS, LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17683/493",
+        "assignmentMailedDate": "2006-05-26",
+        "assignmentReceivedDate": "2006-03-30",
+        "assignmentRecordedDate": "2006-03-28",
+        "assignorBag": [
+          {
+            "assignorName": "TSUDA, NORIO",
+            "executionDate": "2006-03-14"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "RESTON, VA 20191",
+          "addressLineOneText": "D29312",
+          "addressLineThreeText": "1940 ROLAND CLARKE PLACE",
+          "addressLineTwoText": "GREENBLUM & BENSTEIN, P.L.C.",
+          "correspondentNameText": "BRUCE H. BERNSTEIN"
+        },
+        "frameNumber": 493,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017683/0493",
+        "reelNumber": 17683
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2-27, SHIROMI 1-CHOME, CHUO-KU,",
+              "cityName": "OSAKA-SHI",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "KMEW CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/25544/119",
+        "assignmentMailedDate": "2010-12-29",
+        "assignmentReceivedDate": "2010-12-28",
+        "assignmentRecordedDate": "2010-12-28",
+        "assignorBag": [
+          {
+            "assignorName": "KUBOTA MATSUSHITADENKO EXTERIOR WORKS, LTD.",
+            "executionDate": "2010-10-26"
+          }
+        ],
+        "attorneyDocketNumber": "J237603",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+          "addressLineTwoText": "RESTON, VA 20191",
+          "correspondentNameText": "GREENBLUM & BERNSTEIN, P.L.C."
+        },
+        "frameNumber": 119,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 15,
+        "reelAndFrameNumber": "025544/0119",
+        "reelNumber": 25544
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+        "cityName": "RESTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+        "postalCode": "20191"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-04",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2007-11-16",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-14",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-25",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-28",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-06-26",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-06-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-14",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-05-03",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-10-30",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2006-05-26",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2006-05-03",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-05-03",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-05-03",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-04-06",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-07",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-04-06",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2006-03-28",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-03-28",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-02-24",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-02-03",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2005-22740",
+        "filingDate": "2005-08-04",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T02:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "NEIL",
+          "lastName": "GREENBLUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28394",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "HOLLANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "JACOBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28861",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARK PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "HARRY",
+          "lastName": "GWINNELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29000",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "BERNSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "ROYLANCE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "31296",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "FINK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31827",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "ROWLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32674",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191 X4414"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ARNOLD",
+          "lastName": "TURK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "MUELLER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "35043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1875 EYE STREET, NW",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NOVAK DRUCE CONNELLY BOVE & QUIGG LPP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "WATKINS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "36715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-572-9687"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "LYDDANE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41568",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "BRAIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42357",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JILL",
+          "lastName": "BROWNING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42364",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "MYERS-PAYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42920",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "SALEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43077",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "BOSHNICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44550",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "GROMADA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44727",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7383"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MOON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48214",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "21022 ROCKY KNOLL SQUARE",
+              "addressLineTwoText": "APT 400",
+              "cityName": "ASHBURN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "20147"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "STONER",
+          "middleName": "H.",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55915",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-402-4492"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "CHIRNOMAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ENOCH",
+          "lastName": "PEAVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57686",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "BOUSQUET",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57771",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ALI",
+          "lastName": "IMAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58755",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARK PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20791"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59834",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 SOUTH WASHINGTON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF & BERRIDGE",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "PREBYL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60256",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "POLLICOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60311",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "HARKCOM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62956",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BONNAMY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63649",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "WALTER",
+          "lastName": "SCHLAPKOHL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64416",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SOK",
+          "lastName": "HONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "NAOKO",
+          "lastName": "OHASHI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SELENE",
+          "lastName": "HAEDI",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69592",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191-141"
+            }
+          ],
+          "firstName": "TAI",
+          "lastName": "KONDO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75484",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PL",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "EBERT-ZAVOS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75670",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PL",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "AVERY",
+          "lastName": "FOLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191-141"
+            }
+          ],
+          "firstName": "KALISH",
+          "lastName": "BELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80896",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 7055,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+            "cityName": "RESTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+            "postalCode": "20191"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "BOUSQUET",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57771",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SOK",
+          "lastName": "HONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "CHIRNOMAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "POLLICOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60311",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 SOUTH WASHINGTON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF & BERRIDGE",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "PREBYL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60256",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MOON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48214",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERSTEIN, P.L.C.",
+              "postalCode": "20181"
+            }
+          ],
+          "firstName": "LYNNE",
+          "lastName": "BROWNE",
+          "middleName": "H.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83639",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BONNAMY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63649",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "MYERS-PAYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42920",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "HOLLANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1875 EYE STREET, NW",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NOVAK DRUCE CONNELLY BOVE & QUIGG LPP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "WATKINS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "36715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-572-9687"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PL",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "EBERT-ZAVOS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75670",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "JACOBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28861",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ALI",
+          "lastName": "IMAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58755",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191-141"
+            }
+          ],
+          "firstName": "TAI",
+          "lastName": "KONDO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75484",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 PENNSYLVANIA AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "SUGHRUE MION, PLLC",
+              "postalCode": "20037-321"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "GROMADA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44727",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-663-7383"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JILL",
+          "lastName": "BROWNING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42364",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "BERNSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29027",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "ROYLANCE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "31296",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "NAOKO",
+          "lastName": "OHASHI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ENOCH",
+          "lastName": "PEAVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57686",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "BOSHNICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44550",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARK PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN PLC",
+              "postalCode": "20791"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59834",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "NEIL",
+          "lastName": "GREENBLUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28394",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PL",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "AVERY",
+          "lastName": "FOLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191-141"
+            }
+          ],
+          "firstName": "KALISH",
+          "lastName": "BELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80896",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "SALEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43077",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "FINK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31827",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "HELMER",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40475",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARK PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "HARRY",
+          "lastName": "GWINNELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29000",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM AND BERNSTEIN, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "MUELLER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "35043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "BRAIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42357",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 ROLAND CLARKE PLACE",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "GREENBLUM & BERNSTEIN, P.L.C.",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "WALTER",
+          "lastName": "SCHLAPKOHL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64416",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-716-1191"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/382"
+}

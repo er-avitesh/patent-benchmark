@@ -1,0 +1,1367 @@
+{
+  "applicant": null,
+  "application_number": "29235871",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-08-08",
+  "grant_date": "2007-12-11",
+  "invention_title": "BUTTERFLY IMPACT WRENCH",
+  "label": "negative",
+  "patent_number": "D557097",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1695,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-21",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 321,
+      "docketNumber": "SHO 8886",
+      "effectiveFilingDate": "2005-08-08",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "MURPHY, AUSTIN",
+      "filingDate": "2005-08-08",
+      "firstInventorName": "Tomokazu Izumisawa",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-11",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "BUTTERFLY IMPACT WRENCH",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Tomokazu  Izumisawa",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Tomokazu",
+          "inventorNameText": "Tomokazu Izumisawa",
+          "lastName": "Izumisawa"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557097",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "61",
+      "uspcSymbolText": "D8/61"
+    },
+    "applicationNumberText": "29235871",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6-36-9-6 CHOME",
+              "addressLineTwoText": "AKABANE-NISHI KITA-KU",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "115"
+            },
+            "assigneeNameText": "SP AIR KABUSHIKI KAISHA"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16659/803",
+        "assignmentMailedDate": "2005-10-19",
+        "assignmentReceivedDate": "2005-10-19",
+        "assignmentRecordedDate": "2005-10-19",
+        "assignorBag": [
+          {
+            "assignorName": "IZUMISAWA, TOMOKAZU",
+            "executionDate": "2005-10-11"
+          }
+        ],
+        "attorneyDocketNumber": "SHO 8886  (KFJ/MLT)",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ONE METROPOLITAN SQUARE BLDG., 16TH FL.",
+          "addressLineTwoText": "ST. LOUIS, MO 63102",
+          "correspondentNameText": "KURT F. JAMES"
+        },
+        "frameNumber": 803,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "016659/0803",
+        "reelNumber": 16659
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "20-1, OSADANOCHO 1-CHOME, FUKUCHIYAMA-SHI",
+              "cityName": "KYOTO-FU",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "620-0853"
+            },
+            "assigneeNameText": "VESSEL FUKUCHIYAMA CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/53717/431",
+        "assignmentMailedDate": "2020-09-10",
+        "assignmentReceivedDate": "2020-09-07",
+        "assignmentRecordedDate": "2020-09-07",
+        "assignorBag": [
+          {
+            "assignorName": "SP AIR KABUSHIKI KAISHA",
+            "executionDate": "2020-05-01"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "LIBERATION HOUSE",
+          "addressLineThreeText": "ST HELIER, JE1 1BL JERSEY",
+          "addressLineTwoText": "CASTLE STREET",
+          "correspondentNameText": "CPA GLOBAL LIMITED"
+        },
+        "frameNumber": 431,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "053717/0431",
+        "reelNumber": 53717
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "7700 FORSYTH BOULEVARD, SUITE 1100",
+        "cityName": "ST LOUIS",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MO",
+        "geographicRegionName": "MISSOURI",
+        "nameLineOneText": "STINSON LLP",
+        "postalCode": "63105"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2007-11-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-21",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-28",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-28",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-08-03",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-08-02",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2005-11-08",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-05-30",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-02-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-11-17",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-11-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2005-11-08",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2005-11-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2005-11-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-10-24",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-10-24",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2005-10-19",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-10-19",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-08-23",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-08-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T21:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33716",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON MORRISON HECKER LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "PENNY",
+          "lastName": "SLICER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34017",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-842-8600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BLVD.",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BAIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36736",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "ST LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "VINCENT",
+          "lastName": "KEIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON MORRISON HECKER, L. L. P.",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "JUDITH",
+          "lastName": "CARLSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41904",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-842-8600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "JANET",
+          "lastName": "HENDRICKSON",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55258",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT STREET",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "CRONIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61338",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2416"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADAR, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CONWAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61381",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 SOUTH MANLPY ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "FOLEY & MARSFIELD",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "KRIEGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61808",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-925-5700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "844 DIVERSEY DRIVE",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "postalCode": "63126"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SCHROEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63573",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-918-1351"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS  LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "EVERDING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67087",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LEONARD STREET LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69561",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2421"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 N. BROADWAY, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "POLLMANN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LEONARD STREET LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "MORGAN",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73963",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS, LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "LEVITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1625 N. WATERFRONT PARKWAY, SUITE 300",
+              "cityName": "WICHITA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "67206-662"
+            }
+          ],
+          "firstName": "EMMALIE",
+          "lastName": "GULLEDGE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80237",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "316-268-7988"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT STREET",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "NATALIE",
+          "lastName": "BROCK",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82020",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2634"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 321,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "7700 FORSYTH BOULEVARD, SUITE 1100",
+            "cityName": "ST LOUIS",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MO",
+            "geographicRegionName": "MISSOURI",
+            "nameLineOneText": "STINSON LLP",
+            "postalCode": "63105"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LEONARD STREET LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "MORGAN",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73963",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 N. BROADWAY, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "POLLMANN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT STREET",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "NATALIE",
+          "lastName": "BROCK",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82020",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2634"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33716",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "225 S. MERAMEC AVENUE, SUITE 725",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "THE SMALL PATENT LAW GROUP, LLC",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "PHILIP",
+          "lastName": "HOF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72606",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-584-4098"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1007 E 23RD AVE",
+              "cityName": "NORTH KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "postalCode": "64116"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "LAYCOCK",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82351",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-548-8041"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS  LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "EVERDING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67087",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LEONARD STREET LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "TURNER",
+          "middleName": "W",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69561",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2421"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 ROSS AVE.",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "DARLENE",
+          "lastName": "GHAVIMI-ALAGHA",
+          "middleName": "F.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "737-802-1533"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT ST STE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "ROSSTON",
+          "lastName": "EUBANK",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83559",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2735"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1625 N. WATERFRONT PARKWAY",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "WICHITA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "STINSON",
+              "postalCode": "67206-6620"
+            }
+          ],
+          "firstName": "MARIA",
+          "lastName": "JIMENEZ",
+          "middleName": "V.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83735",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "316-268-7933"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT STREET",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BOLLIER",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82605",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-3206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "ST LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "VINCENT",
+          "lastName": "KEIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BLVD.",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LEONARD STREET LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "B",
+          "lastName": "EIDSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-863-0800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADAR, 17TH FLOOR",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CONWAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61381",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "JULIE",
+          "lastName": "MEGLAN",
+          "middleName": "V.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83563",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-863-0800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "844 DIVERSEY DRIVE",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "postalCode": "63126"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SCHROEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63573",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-918-1351"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 NORTH BROADWAY",
+              "addressLineTwoText": "17TH FLOOR",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "SENNIGER POWERS, LLP",
+              "postalCode": "63102"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "LEVITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 SOUTH MANLPY ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "FOLEY & MARSFIELD",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "KRIEGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61808",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-925-5700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BLVD.",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BAIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36736",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "CLAYTON",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81595",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7629"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WALNUT STREET",
+              "addressLineTwoText": "SUITE 2900",
+              "cityName": "KANSAS CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "64106"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "CRONIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61338",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "816-691-2416"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BLVD., SUITE 1100",
+              "cityName": "SAINT LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "REESER",
+          "middleName": "B",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45548",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7681"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7700 FORSYTH BOULEVARD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ST. LOUIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "STINSON LLP",
+              "postalCode": "63105"
+            }
+          ],
+          "firstName": "JANET",
+          "lastName": "HENDRICKSON",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55258",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-345-7020"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/61"
+}

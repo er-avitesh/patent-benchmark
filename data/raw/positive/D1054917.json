@@ -1,0 +1,301 @@
+{
+  "applicant": "Kia Corporation",
+  "application_number": "35520662",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/35520662_D1054917.xml",
+  "filing_date": "2024-03-04",
+  "grant_date": "2024-12-24",
+  "invention_title": "Automobile",
+  "label": "positive",
+  "patent_number": "D1054917",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Kia Corporation",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Kia Corporation",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        },
+        {
+          "applicantNameText": "HYUNDAI MOTOR COMPANY",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "HYUNDAI MOTOR COMPANY",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2158,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "effectiveFilingDate": "2024-03-04",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BROWN, MELODY NOEL",
+      "filingDate": "2024-03-04",
+      "firstApplicantName": "Kia Corporation",
+      "firstInventorName": "Ju Hoon PARK",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2917",
+      "internationalRegistrationNumber": "DM236512",
+      "internationalRegistrationPublicationDate": "2024-04-26",
+      "inventionTitle": "Automobile",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Ju Hoon PARK",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Ju Hoon PARK",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Ju Hoon",
+          "inventorNameText": "Ju Hoon PARK",
+          "lastName": "PARK"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "nameLineOneText": "Hong Seok CHOI",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Incheon",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hong Seok CHOI",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Hong Seok",
+          "inventorNameText": "Hong Seok CHOI",
+          "lastName": "CHOI"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "nameLineOneText": "Byoung Oh CHOI",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Yongin-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Byoung Oh CHOI",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Byoung Oh",
+          "inventorNameText": "Byoung Oh CHOI",
+          "lastName": "CHOI"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1054917",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "86",
+      "uspcSymbolText": "D12/86"
+    },
+    "applicationNumberText": "35520662",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "5th Floor, KDIC Bldg., 30 Cheonggyecheon-ro",
+        "addressLineTwoText": "Jung-gu",
+        "cityName": "Seoul",
+        "countryCode": "KR",
+        "countryName": "KOREA, REPUBLIC OF",
+        "nameLineOneText": "BAE, KIM & LEE IP",
+        "postalCode": "04521"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "TSTGR",
+        "eventDate": "2024-12-26",
+        "eventDescriptionText": "Transmit Statement of Grant to I.B. (Hague)"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-26",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "STGR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Statement Of Grant (Hague)"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "IFEEHA",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Data Received from I.B. (Hague)"
+      },
+      {
+        "eventCode": "TN/=.HA",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Transmit Notice of Allowance to I.B. (Hague)"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-05-01",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "NWREIBHA",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Receipt of New Application from I.B. (Hague)"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "30-2023-0038492",
+        "filingDate": "2023-09-27",
+        "ipOfficeName": "REPUBLIC OF KOREA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:09",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/35520662_D1054917.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "35520662_D1054917.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T08:00:04"
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/86"
+}

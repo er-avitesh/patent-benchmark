@@ -1,0 +1,527 @@
+{
+  "applicant": null,
+  "application_number": "29272257",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-16 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-02-05",
+  "grant_date": "2007-10-16",
+  "invention_title": "FRONT FACE OF A VEHICLE WHEEL",
+  "label": "negative",
+  "patent_number": "D553067",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7392,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-26",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "docketNumber": "8224.061",
+      "effectiveFilingDate": "2007-02-05",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "CADMUS, STACIA A",
+      "filingDate": "2007-02-05",
+      "firstInventorName": "Marco Muzzarelli",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-16",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "FRONT FACE OF A VEHICLE WHEEL",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gardena",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Marco  Muzzarelli",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Marco",
+          "inventorNameText": "Marco Muzzarelli",
+          "lastName": "Muzzarelli"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553067",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "211",
+      "uspcSymbolText": "D12/211"
+    },
+    "applicationNumberText": "29272257",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "16200 SOUTH FIGUEROA STREET",
+              "cityName": "GARDENA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "90248"
+            },
+            "assigneeNameText": "CLAUS ETTENSBERGER CORP."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19301/976",
+        "assignmentMailedDate": "2007-05-16",
+        "assignmentReceivedDate": "2007-05-16",
+        "assignmentRecordedDate": "2007-05-16",
+        "assignorBag": [
+          {
+            "assignorName": "MUZZARELLI, MARCO",
+            "executionDate": "2007-04-24"
+          }
+        ],
+        "attorneyDocketNumber": "8224.061",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "6550 ROCK SPRING DRIVE",
+          "addressLineThreeText": "BETHESDA, MD 20817",
+          "addressLineTwoText": "SUITE 240",
+          "correspondentNameText": "BERENATO, WHITE & STAVISH"
+        },
+        "frameNumber": 976,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "019301/0976",
+        "reelNumber": 19301
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Suite 240",
+        "addressLineTwoText": "6550 Rock Spring Drive",
+        "cityName": "Bethesda",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MD",
+        "geographicRegionName": "MARYLAND",
+        "nameLineOneText": "BERENATO, WHITE & STAVISH",
+        "postalCode": "20817"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-29",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-09",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-06-21",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-05-30",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2007-05-17",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2007-05-17",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2007-03-06",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-02-05",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-13T06:33:29",
+    "recordAttorney": {
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 28410,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "7918 Jones Branch Drive",
+            "addressLineTwoText": "Suite 500",
+            "cityName": "McLean",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "Calderon Safran & Wright P.C. (formerly Berenato)",
+            "postalCode": "22102"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6550 ROCK SPRING DRIVE",
+              "addressLineTwoText": "SUITE 240",
+              "cityName": "BETHESDA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BERENATO, WHITE & STAVISH, LLC",
+              "postalCode": "20817"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "BERENATO",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30546",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-896-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6550 ROCK SPRING DRIVE",
+              "addressLineTwoText": "SUITE 240",
+              "cityName": "BETHESDA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BERENATO & WHITE, LLC",
+              "postalCode": "20817"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "AYVAZOV",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "37483",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-896-0607"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE,",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CALDERON, SAFRAN & WRIGHT, P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "MAURICE",
+          "lastName": "HAFF",
+          "middleName": "W.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62224",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "ROBERTS, MLOTKOWSKI, SAFRAN",
+              "nameLineTwoText": "COLE & CALDERON, P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "RUPAM",
+          "lastName": "BHAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65151",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "ROBERTS, MLOTKOWSKI SAFRAN & COLE P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "ROBERTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3272"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CALDERON SAFRAN & COLE P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "CORINNE",
+          "lastName": "POULIQUEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35753",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "ROBERTS MLOTKOWSKI SAFRAN",
+              "nameLineTwoText": "COLE & CALDERON, P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "CALDERON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38093",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "011 49(89) 924-09 0"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-677-3011"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 36",
+              "cityName": "BELLEVUE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "postalCode": "98009"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BOLAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-445-7978"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "ROBERTS MLOTKOWSKI SAFRAN COLE",
+              "nameLineTwoText": "& CALDERON, P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SAFRAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27997",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3273"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CALDERON SAFRAN & WRIGHT P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "ETAN",
+          "lastName": "CHATLYNNE",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59795",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3269"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7918 JONES BRANCH DRIVE",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "ROBERTS MLOTKOWSKI SAFRAN",
+              "nameLineTwoText": "COLE & CALDERON, P.C.",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "WRIGHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58267",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-584-3270"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/211"
+}

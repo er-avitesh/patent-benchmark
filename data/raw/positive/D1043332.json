@@ -1,0 +1,386 @@
+{
+  "applicant": null,
+  "application_number": "29805696",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240924/29805696_D1043332.xml",
+  "filing_date": "2021-08-30",
+  "grant_date": "2024-09-24",
+  "invention_title": "Gift Box",
+  "label": "positive",
+  "patent_number": "D1043332",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 6377,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-09-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 195478,
+      "docketNumber": "29381SHD-US",
+      "effectiveFilingDate": "2021-08-30",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SHIELDS, RHEA M",
+      "filingDate": "2021-08-30",
+      "firstInventorName": "Shenxin Wang",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-09-24",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "Gift Box",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Shantou City, Guangdong Province",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Shenxin  Wang",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Shantou City",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Wang, Shenxin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Shenxin",
+          "inventorNameText": "Shenxin Wang",
+          "lastName": "Wang"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1043332",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "420",
+      "uspcSymbolText": "D9/420"
+    },
+    "applicationNumberText": "29805696",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "64 Bank St",
+        "cityName": "ABINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MA",
+        "geographicRegionName": "MASSACHUSETTS",
+        "nameLineOneText": "PIIP",
+        "postalCode": "02351"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-09-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-09-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-08-23",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-08-23",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-05-22",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "PST_CRD",
+        "eventDate": "2024-05-29",
+        "eventDescriptionText": "Mail Post Card"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-05-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-05-22",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-05-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-05-14",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2024-05-14",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2024-03-09",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-10-08",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-09-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-09-01",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2021-09-01",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-08-31",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-08-31",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-09-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-09-01",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2021-08-31",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2021-08-30",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-08-30",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-08-30",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-08-30",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-09-30T18:00:35",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240924/29805696_D1043332.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29805696_D1043332.xml",
+      "zipFileName": "ipg240924.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T09:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 BANK STREET",
+              "cityName": "ABINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "postalCode": "02351"
+            }
+          ],
+          "firstName": "QIANQIAN",
+          "lastName": "WU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-580-1293"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 195478,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "64 Bank St",
+            "cityName": "ABINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MA",
+            "geographicRegionName": "MASSACHUSETTS",
+            "nameLineOneText": "PIIP",
+            "postalCode": "02351"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 BANK STREET",
+              "cityName": "ABINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "postalCode": "02351"
+            }
+          ],
+          "firstName": "QIANQIAN",
+          "lastName": "WU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-580-1293"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/420"
+}

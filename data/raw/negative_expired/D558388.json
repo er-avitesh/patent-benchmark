@@ -1,0 +1,292 @@
+{
+  "applicant": null,
+  "application_number": "29226598",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-03-30",
+  "grant_date": "2007-12-25",
+  "invention_title": "CEILING LIGHT FIXTURE",
+  "label": "negative",
+  "patent_number": "D558388",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1922,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "docketNumber": "12550.0108 USPD",
+      "effectiveFilingDate": "2005-03-30",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "RUDZINSKI, KEVIN KEITH",
+      "filingDate": "2005-03-30",
+      "firstInventorName": "Patrick H. Ward",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "CEILING LIGHT FIXTURE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "San Antonio",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "Patrick H. Ward",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Patrick",
+          "inventorNameText": "Patrick H. Ward",
+          "lastName": "Ward",
+          "middleName": "H."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558388",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "138",
+      "uspcSymbolText": "D26/138"
+    },
+    "applicationNumberText": "29226598",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "414 LIVE OAK",
+              "cityName": "SAN ANTONIO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "ictCountryCode": "US",
+              "ictStateCode": "TX",
+              "postalCode": "78202"
+            },
+            "assigneeNameText": "LUCIFER LIGHTING COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16442/235",
+        "assignmentMailedDate": "2005-08-24",
+        "assignmentReceivedDate": "2005-04-12",
+        "assignmentRecordedDate": "2005-03-30",
+        "assignorBag": [
+          {
+            "assignorName": "WARD, PATRICK H.",
+            "executionDate": "2005-03-30"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "STRASBURGER & PRICE, LLP",
+          "addressLineThreeText": "DALLAS, TX 75202",
+          "addressLineTwoText": "901 MAIN ST., SUITE 4300",
+          "correspondentNameText": "ALAN R. THIELE"
+        },
+        "frameNumber": 235,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "016442/0235",
+        "reelNumber": 16442
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Suite 4300",
+        "addressLineTwoText": "901 Main St.",
+        "cityName": "Dallas",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TX",
+        "geographicRegionName": "TEXAS",
+        "nameLineOneText": "Alan R. Thiele",
+        "nameLineTwoText": "Strasburger & Price, LLP",
+        "postalCode": "75202"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-11-12",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-08-07",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-08-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-08-03",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EXIN",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Interview Summary Record"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.NE",
+        "eventDate": "2007-07-16",
+        "eventDescriptionText": "Response after Final Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-07-16",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTFR",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Mail Final Rejection (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTFR",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Final Rejection"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-06-09",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2007-06-01",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2007-04-02",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2007-03-29",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-06-22",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-06-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2005-04-26",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-04-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2005-04-26",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-04-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-04-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-03-30",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-13T02:00:02",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "755 EAST MULBERRY",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "SAN ANTONIO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "ROSENTHAL, PAUERSTEIN, SANDOLOSKI, AGATHER, LLP",
+              "postalCode": "78212"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "THIELE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30694",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "210-244-8840"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/138"
+}

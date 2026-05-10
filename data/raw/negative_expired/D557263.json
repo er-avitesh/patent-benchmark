@@ -1,0 +1,829 @@
+{
+  "applicant": null,
+  "application_number": "29262721",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-07-10",
+  "grant_date": "2007-12-11",
+  "invention_title": "KEYBOARD WHICH IS CONNECTABLE TO AN ELECTRONIC DEVICE",
+  "label": "negative",
+  "patent_number": "D557263",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8421,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-21",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "docketNumber": "200-074",
+      "effectiveFilingDate": "2006-07-10",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "NUNN, FREDA S",
+      "filingDate": "2006-07-10",
+      "firstInventorName": "Paul Griffin",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-11",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "KEYBOARD WHICH IS CONNECTABLE TO AN ELECTRONIC DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Nashville",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "Paul  Griffin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Paul",
+          "inventorNameText": "Paul Griffin",
+          "lastName": "Griffin"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557263",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "393",
+      "uspcSymbolText": "D14/393"
+    },
+    "applicationNumberText": "29262721",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "303 PEACHTREE STREET",
+              "addressLineTwoText": "23RD FLOOR",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30308"
+            },
+            "assigneeNameText": "SUNTRUST BANK"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/21985/320",
+        "assignmentMailedDate": "2008-12-17",
+        "assignmentReceivedDate": "2008-12-16",
+        "assignmentRecordedDate": "2008-12-16",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, INC.",
+            "executionDate": "2008-12-16"
+          }
+        ],
+        "attorneyDocketNumber": "566957-640006",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "1420 PEACHTREE STREET, N.E.",
+          "addressLineThreeText": "ATLANTA, GA 30309-3053",
+          "addressLineTwoText": "SUITE 800",
+          "correspondentNameText": "SIDNEY R. BROWN"
+        },
+        "frameNumber": 320,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "021985/0320",
+        "reelNumber": 21985
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2030 LINDELL AVE",
+              "cityName": "NASHVILLE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "37203"
+            },
+            "assigneeNameText": "GRIFFIN TECHNOLOGY, INC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/39502/517",
+        "assignmentMailedDate": "2016-08-24",
+        "assignmentReceivedDate": "2016-07-28",
+        "assignmentRecordedDate": "2016-07-28",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN, PAUL P",
+            "executionDate": "2009-02-11"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "PO BOX 210584",
+          "addressLineTwoText": "NASHVILLE, TN 37221",
+          "correspondentNameText": "JASON HORNKOHL"
+        },
+        "frameNumber": 517,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 24,
+        "reelAndFrameNumber": "039502/0517",
+        "reelNumber": 39502
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "300 GALLERIA PARKWAY",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30339"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/33566/605",
+        "assignmentMailedDate": "2014-08-20",
+        "assignmentReceivedDate": "2014-08-19",
+        "assignmentRecordedDate": "2014-08-19",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, INC.",
+            "executionDate": "2014-08-18"
+          }
+        ],
+        "attorneyDocketNumber": "2689-117",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "285 PEACHTREE CENTER AVENUE",
+          "addressLineThreeText": "ATLANTA, GA 30303",
+          "addressLineTwoText": "SUITE 1500",
+          "correspondentNameText": "RHONDA J. KENYERI, PARALEGAL - PHRD"
+        },
+        "frameNumber": 605,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 25,
+        "reelAndFrameNumber": "033566/0605",
+        "reelNumber": 33566
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2030 LINDELL AVENUE",
+              "cityName": "NASHVILLE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "37203"
+            },
+            "assigneeNameText": "GRIFFIN TECHNOLOGY, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/34077/94",
+        "assignmentMailedDate": "2014-11-03",
+        "assignmentReceivedDate": "2014-10-28",
+        "assignmentRecordedDate": "2014-10-28",
+        "assignorBag": [
+          {
+            "assignorName": "SUNTRUST BANK",
+            "executionDate": "2014-08-18"
+          }
+        ],
+        "attorneyDocketNumber": "2689.117",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "285 PEACHTREE CENTER AVENUE, N.E.",
+          "addressLineThreeText": "ATLANTA, GA 30303",
+          "addressLineTwoText": "15TH FLOOR - MIKE GROVE",
+          "correspondentNameText": "PARKER HUDSON RAINER & DOBBS, LLP"
+        },
+        "frameNumber": 94,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 11,
+        "reelAndFrameNumber": "034077/0094",
+        "reelNumber": 34077
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "311 SOUTH WACKER DRIVE, SUITE 6400",
+              "cityName": "CHICAGO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "ictCountryCode": "US",
+              "ictStateCode": "IL",
+              "postalCode": "60606"
+            },
+            "assigneeNameText": "MONROE CAPITAL MANAGEMENT ADVISORS LLC,"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/39609/848",
+        "assignmentMailedDate": "2016-09-02",
+        "assignmentReceivedDate": "2016-08-08",
+        "assignmentRecordedDate": "2016-08-08",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, LLC,",
+            "executionDate": "2016-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "035613-600006",
+        "conveyanceText": "PATENT SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "77 WEST WACKER DRIVE",
+          "addressLineThreeText": "CHICAGO, IL 60601",
+          "addressLineTwoText": "JONES DAY",
+          "correspondentNameText": "KARIN LEE"
+        },
+        "frameNumber": 848,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 16,
+        "reelAndFrameNumber": "039609/0848",
+        "reelNumber": 39609
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2030 LINDELL AVENUE",
+              "cityName": "NASHVILLE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "37203"
+            },
+            "assigneeNameText": "GRIFFIN TECHNOLOGY, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/39719/940",
+        "assignmentMailedDate": "2016-09-14",
+        "assignmentReceivedDate": "2016-08-08",
+        "assignmentRecordedDate": "2016-08-08",
+        "assignorBag": [
+          {
+            "assignorName": "BANK OF AMERICA, N.A.",
+            "executionDate": "2016-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "120089-505",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "150 3RD AVE. S.",
+          "addressLineThreeText": "NASHVILLE, TN 37201",
+          "addressLineTwoText": "SUITE 2800",
+          "correspondentNameText": "MARTHA B. ALLARD"
+        },
+        "frameNumber": 940,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 31,
+        "reelAndFrameNumber": "039719/0940",
+        "reelNumber": 39719
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6001 OAK CANYON",
+              "cityName": "IRVINE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92618"
+            },
+            "assigneeNameText": "GRIFFIN TECHNOLOGY, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/40447/873",
+        "assignmentMailedDate": "2016-11-30",
+        "assignmentReceivedDate": "2016-10-20",
+        "assignmentRecordedDate": "2016-10-20",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, INC.",
+            "executionDate": "2016-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "62895-032",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "695 TOWN CENTER DRIVE, 14 FLOOR",
+          "addressLineTwoText": "COSTA MESA, CA 92626",
+          "correspondentNameText": "MAYRA OROS"
+        },
+        "frameNumber": 873,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 32,
+        "reelAndFrameNumber": "040447/0873",
+        "reelNumber": 40447
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "2450 COLORADO AVENUE, SUITE 3000 WEST",
+              "cityName": "SANTA MONICA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "90404"
+            },
+            "assigneeNameText": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/47247/934",
+        "assignmentMailedDate": "2018-10-23",
+        "assignmentReceivedDate": "2018-07-10",
+        "assignmentRecordedDate": "2018-07-10",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, LLC",
+            "executionDate": "2018-07-06"
+          }
+        ],
+        "attorneyDocketNumber": "1989.400",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "55 EAST MONROE STREET, SUITE 3300",
+          "addressLineTwoText": "CHICAGO, IL 60603",
+          "correspondentNameText": "GOLDBERG KOHN LTD. C/O KRISTINA BUNKER"
+        },
+        "frameNumber": 934,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 17,
+        "reelAndFrameNumber": "047247/0934",
+        "reelNumber": 47247
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6001 OAK CANYON",
+              "cityName": "IRVINE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92618"
+            },
+            "assigneeNameText": "GRIFFIN TECHNOLOGY, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/49672/95",
+        "assignmentMailedDate": "2019-07-05",
+        "assignmentReceivedDate": "2019-06-03",
+        "assignmentRecordedDate": "2019-06-03",
+        "assignorBag": [
+          {
+            "assignorName": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT",
+            "executionDate": "2019-05-21"
+          }
+        ],
+        "attorneyDocketNumber": "056894-0010",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST IN PATENTS AT REEL/FRAME NO. 47247/0934",
+        "correspondenceAddress": {
+          "addressLineOneText": "355 SOUTH GRAND AVENUE",
+          "addressLineTwoText": "LOS ANGELES, CA 90071-1560",
+          "correspondentNameText": "LATHAM & WATKINS LLP"
+        },
+        "frameNumber": 95,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 15,
+        "reelAndFrameNumber": "049672/0095",
+        "reelNumber": 49672
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7255 WOODMONT AVENUE, SUITE 200*",
+              "cityName": "BETHESDA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "ictCountryCode": "US",
+              "ictStateCode": "MD",
+              "postalCode": "20814"
+            },
+            "assigneeNameText": "MIDCAP FUNDING IV TRUST"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/50129/814",
+        "assignmentMailedDate": "2019-08-23",
+        "assignmentReceivedDate": "2019-08-12",
+        "assignmentRecordedDate": "2019-05-22",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, LLC",
+            "executionDate": "2019-05-21"
+          },
+          {
+            "assignorName": "INCASE DESIGNS CORP.",
+            "executionDate": "2019-05-21"
+          },
+          {
+            "assignorName": "INCIPIO TECHNOLOGIES, INC.",
+            "executionDate": "2019-05-21"
+          },
+          {
+            "assignorName": "INCIPIO, LLC",
+            "executionDate": "2019-05-21"
+          }
+        ],
+        "attorneyDocketNumber": "186687-0117",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2005 MARKET STREET",
+          "addressLineThreeText": "PHILADELPHIA, PA 19103-7018",
+          "addressLineTwoText": "SUITE 2600",
+          "correspondentNameText": "JUHEIRRY MORALES-IRIZARRY"
+        },
+        "frameNumber": 814,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 113,
+        "reelAndFrameNumber": "050129/0814",
+        "reelNumber": 50129
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "9 W BROAD STREET",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "STAMFORD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "ictCountryCode": "US",
+              "ictStateCode": "CT",
+              "postalCode": "06902"
+            },
+            "assigneeNameText": "SIENA LENDING GROUP LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/57112/57",
+        "assignmentMailedDate": "2021-08-09",
+        "assignmentReceivedDate": "2021-08-06",
+        "assignmentRecordedDate": "2021-08-06",
+        "assignorBag": [
+          {
+            "assignorName": "ARMOR ACQUISITION LLC",
+            "executionDate": "2021-08-06"
+          }
+        ],
+        "attorneyDocketNumber": "140690-01121",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ONE LOGAN SQUARE",
+          "addressLineThreeText": "PHILADELPHIA, PA 19103",
+          "addressLineTwoText": "8TH FLOOR",
+          "correspondentNameText": "TIMOTHY D. PECSENYE (140690-01121)"
+        },
+        "frameNumber": 57,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 80,
+        "reelAndFrameNumber": "057112/0057",
+        "reelNumber": 57112
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1775 FLIGHT WAY, SUITE 300",
+              "cityName": "TUSTIN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92782"
+            },
+            "assigneeNameText": "ARMOR ACQUISITION LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/58899/428",
+        "assignmentMailedDate": "2022-02-07",
+        "assignmentReceivedDate": "2021-11-19",
+        "assignmentRecordedDate": "2021-11-19",
+        "assignorBag": [
+          {
+            "assignorName": "GRIFFIN TECHNOLOGY, LLC",
+            "executionDate": "2021-08-06"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "55 E. MONROE STREET, SUITE 3800",
+          "addressLineTwoText": "CHICAGO, IL 60603",
+          "correspondentNameText": "UMAIR A. QADEER"
+        },
+        "frameNumber": 428,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 37,
+        "reelAndFrameNumber": "058899/0428",
+        "reelNumber": 58899
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1775 FLIGHT WAY, SUITE 300",
+              "cityName": "TUSTIN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92782"
+            },
+            "assigneeNameText": "VINCI BRANDS LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/59912/179",
+        "assignmentMailedDate": "2022-05-17",
+        "assignmentReceivedDate": "2022-05-09",
+        "assignmentRecordedDate": "2022-05-09",
+        "assignorBag": [
+          {
+            "assignorName": "ARMOR ACQUISITION LLC",
+            "executionDate": "2021-08-24"
+          }
+        ],
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "55 E. MONROE STREET, SUITE 3800",
+          "addressLineTwoText": "CHICAGO, IL 60603",
+          "correspondentNameText": "UMAIR A. QADEER"
+        },
+        "frameNumber": 179,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 13,
+        "reelAndFrameNumber": "059912/0179",
+        "reelNumber": 59912
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "767 FIFTH AVENUE, 37TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10153"
+            },
+            "assigneeNameText": "ACS GROUP ACQUISITION LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/70610/783",
+        "assignmentMailedDate": "2025-03-26",
+        "assignmentReceivedDate": "2025-03-24",
+        "assignmentRecordedDate": "2025-03-24",
+        "assignorBag": [
+          {
+            "assignorName": "VINCI BRANDS LLC",
+            "executionDate": "2023-12-01"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "17 E. MONROE STREET, SUITE 114",
+          "addressLineTwoText": "CHICAGO, IL 60603",
+          "correspondentNameText": "UMAIR A. QADEER"
+        },
+        "frameNumber": 783,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 36,
+        "reelAndFrameNumber": "070610/0783",
+        "reelNumber": 70610
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1370 BROADWAY, 9TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10018"
+            },
+            "assigneeNameText": "VEVEY LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/70610/873",
+        "assignmentMailedDate": "2025-03-26",
+        "assignmentReceivedDate": "2025-03-24",
+        "assignmentRecordedDate": "2025-03-24",
+        "assignorBag": [
+          {
+            "assignorName": "ACS GROUP ACQUISITION LLC",
+            "executionDate": "2023-12-01"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "17 E. MONROE STREET, SUITE 114",
+          "addressLineTwoText": "CHICAGO, IL 60603",
+          "correspondentNameText": "UMAIR A. QADEER"
+        },
+        "frameNumber": 873,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 36,
+        "reelAndFrameNumber": "070610/0873",
+        "reelNumber": 70610
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2007-09-24",
+        "childApplicationNumberText": "29291981",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D567240",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29262721"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "804 Swaps Lane",
+        "cityName": "Knoxville",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TN",
+        "geographicRegionName": "TENNESSEE",
+        "nameLineOneText": "Michael E. McKee",
+        "nameLineTwoText": "Attorney at Law",
+        "postalCode": "37923"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-21",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-08",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-02",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-29",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-09-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2007-08-02",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2007-07-20",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-10",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-07-10",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T22:00:04",
+    "recordAttorney": {
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 54006,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "804 SWAPS LANE",
+            "cityName": "KNOXVILLE",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "TN",
+            "geographicRegionName": "TENNESSEE",
+            "nameLineOneText": "MICHAEL E. MCKEE",
+            "postalCode": "37923"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "804 SWAPS LANE",
+              "cityName": "KNOXVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "postalCode": "37923"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "MCKEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30296",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "865-694-0961"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/393"
+}

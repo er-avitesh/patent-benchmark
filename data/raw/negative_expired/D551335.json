@@ -1,0 +1,387 @@
+{
+  "applicant": null,
+  "application_number": "29249806",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-18 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-10-23",
+  "grant_date": "2007-09-18",
+  "invention_title": "COMBINATION CEILING FAN AND LIGHT FIXTURE",
+  "label": "negative",
+  "patent_number": "D551335",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1999,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-29",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 51738,
+      "docketNumber": "31175330-001721",
+      "effectiveFilingDate": "2006-10-23",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "LICHTENSTEIN, LISA P",
+      "filingDate": "2006-10-23",
+      "firstInventorName": "Mark Gajewski",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-18",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "COMBINATION CEILING FAN AND LIGHT FIXTURE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Corona",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Mark  Gajewski",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Avila Beach",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Mark  Gajewski",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Mark",
+          "inventorNameText": "Mark Gajewski",
+          "lastName": "Gajewski"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D551335",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "377",
+      "uspcSymbolText": "D23/377"
+    },
+    "applicationNumberText": "29249806",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1151 WEST BRADFORD COURT",
+              "cityName": "CORONA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92882"
+            },
+            "assigneeNameText": "MINKA LIGHTING, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18574/715",
+        "assignmentMailedDate": "2006-12-01",
+        "assignmentReceivedDate": "2006-12-01",
+        "assignmentRecordedDate": "2006-12-01",
+        "assignorBag": [
+          {
+            "assignorName": "GAJEWSKI, MARK",
+            "executionDate": "2006-10-13"
+          }
+        ],
+        "attorneyDocketNumber": "31175330-001721",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "711 LOUISIANA",
+          "addressLineThreeText": "HOUSTON, TX 77002",
+          "addressLineTwoText": "SUITE 3400",
+          "correspondentNameText": "LISA H. MEYERHOFF"
+        },
+        "frameNumber": 715,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 30,
+        "reelAndFrameNumber": "018574/0715",
+        "reelNumber": 18574
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1900 N. Pearl Street",
+        "addressLineTwoText": "Suite 1500",
+        "cityName": "Dallas",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TX",
+        "geographicRegionName": "TEXAS",
+        "nameLineOneText": "BAKER & MCKENZIE LLP (formerly Houston account)",
+        "postalCode": "75201"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-18",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-29",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-05-16",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-04-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-03-27",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-03-27",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-03-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-11-29",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-11-15",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-11-16",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-10-23",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T20:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2001 ROSS AVE., STE. 2300",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENZIE, LLP",
+              "postalCode": "75021"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "MCCORMACK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36601",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2001 ROSS AVENUE, STE. 2300",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENZIE, LLP",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "FLAIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37323",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2300 TRAMMELL CROW CENTER",
+              "addressLineTwoText": "2001 ROSS AVENUE",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENZIE",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "WELLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3006"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2001 ROSS AVENUE",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENIZE",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "SREENIVAS",
+          "lastName": "VEDANTAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66876",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3000"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "700 MILAM STREET, SUITE 1400",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "SEYFARTH SHAW LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "LISA",
+          "lastName": "MEYERHOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36869",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-238-1874"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 N. DAIRY ASHFORD",
+              "addressLineTwoText": "SUITE E324E",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "SHELL USA, INC.",
+              "postalCode": "77079"
+            }
+          ],
+          "firstName": "CONSTANCE",
+          "lastName": "PIELECH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "46991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "832-337-2493"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/377"
+}

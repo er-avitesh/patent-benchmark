@@ -1,0 +1,354 @@
+{
+  "applicant": "ZTARX CORPORATION LIMITED",
+  "application_number": "29836092",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29836092_D1050503.xml",
+  "filing_date": "2022-04-25",
+  "grant_date": "2024-11-05",
+  "invention_title": "INFLATABLE LIGHT",
+  "label": "positive",
+  "patent_number": "D1050503",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "ZTARX CORPORATION LIMITED",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "ZTARX CORPORATION LIMITED",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 4760,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-16",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 128477,
+      "docketNumber": "JZH3US220953",
+      "effectiveFilingDate": "2022-04-25",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "ANDERSON, LIV CHRISTINE",
+      "filingDate": "2022-04-25",
+      "firstApplicantName": "ZTARX CORPORATION LIMITED",
+      "firstInventorName": "SONGPING CHEN",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-05",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "INFLATABLE LIGHT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "SONGPING  CHEN",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "SONGPING  CHEN",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "SONGPING",
+          "inventorNameText": "SONGPING CHEN",
+          "lastName": "CHEN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1050503",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "24",
+      "uspcSymbolText": "D26/24"
+    },
+    "applicationNumberText": "29836092",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ROOM 317, 3RD FLOOR, FACTORY BUILDING, NO. 108, HUARONG ROAD, GAOFENG COMMUNITY, DALANG STREET, LONGHUA NEW DISTRICT",
+              "cityName": "SHENZHEN",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN"
+            },
+            "assigneeNameText": "ZTARX CORPORATION LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/59690/17",
+        "assignmentMailedDate": "2022-04-26",
+        "assignmentReceivedDate": "2022-04-25",
+        "assignmentRecordedDate": "2022-04-25",
+        "assignorBag": [
+          {
+            "assignorName": "CHEN, SONGPING",
+            "executionDate": "2022-04-25"
+          }
+        ],
+        "attorneyDocketNumber": "JZH3US220953",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "28039 SCOTT RD",
+          "addressLineThreeText": "MURRIETA, CA 92563",
+          "addressLineTwoText": "SUITE D-180",
+          "correspondentNameText": "CHEW PATENTS GROUP (JUMPY)"
+        },
+        "frameNumber": 17,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "059690/0017",
+        "reelNumber": 59690
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Room 1913, 19th Floor, 7008 North Road,",
+        "addressLineTwoText": "South Tower, Tongye Building, Futian District,",
+        "cityName": "Shenzhen, Guangdong",
+        "countryCode": "CN",
+        "countryName": "CHINA",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "Nancy Zheng",
+        "postalCode": "518049"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-09-02",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "A.PE",
+        "eventDate": "2024-09-02",
+        "eventDescriptionText": "Preliminary Amendment"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-06-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-06-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-04-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2022-04-27",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-04-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-04-26",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-04-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-04-27",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-04-25",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2022-04-26",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-04-25",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-04-25",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-05T09:11:44",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29836092_D1050503.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29836092_D1050503.xml",
+      "zipFileName": "ipg241105.zip"
+    },
+    "lastIngestionDateTime": "2026-04-22T12:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "16767 BERNARDO CENTER DRIVE, #27178",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "92198"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "CHENG",
+          "middleName": "CHIWU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "909-436-5796"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 128477,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "Room 1913, 19th Floor, 7008 North Road,",
+            "addressLineTwoText": "South Tower, Tongye Building, Futian District,",
+            "cityName": "Shenzhen, Guangdong",
+            "countryCode": "CN",
+            "countryName": "CHINA",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "Nancy Zheng",
+            "postalCode": "518049"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "16767 BERNARDO CENTER DRIVE, #27178",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "92198"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "CHENG",
+          "middleName": "CHIWU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "909-436-5796"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/24"
+}

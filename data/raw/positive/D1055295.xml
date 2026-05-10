@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v47-2022-02-17.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.7 2022-02-17" file="USD1055295-20241224.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20241203" date-publ="20241224">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D1055295</doc-number>
+<kind>S1</kind>
+<date>20241224</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29938210</doc-number>
+<date>20240419</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>14</edition>
+<main-classification>2402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D24190</main-classification>
+</classification-national>
+<invention-title id="d2e53">Wrist brace</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5980476</doc-number>
+<kind>A</kind>
+<name>Wiederrich</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61F 5/0118</classification-cpc-text>
+<classification-national><country>US</country><main-classification>602 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D441082</doc-number>
+<kind>S</kind>
+<name>Ruscitti</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D665470</doc-number>
+<kind>S</kind>
+<name>Galbraith</name>
+<date>20120800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21683</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D767774</doc-number>
+<kind>S</kind>
+<name>Wellendorf</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D802154</doc-number>
+<kind>S</kind>
+<name>Ceccarelli</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D900326</doc-number>
+<kind>S</kind>
+<name>Woo</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D902415</doc-number>
+<kind>S</kind>
+<name>Eriksson</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D935626</doc-number>
+<kind>S</kind>
+<name>Zhang</name>
+<date>20211100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D980436</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20230300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D1004785</doc-number>
+<kind>S</kind>
+<name>Dillingham</name>
+<date>20231100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D1012299</doc-number>
+<kind>S</kind>
+<name>Liao</name>
+<date>20240100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2008/0086069</doc-number>
+<kind>A1</kind>
+<name>Busuttil</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61F 5/0118</classification-cpc-text>
+<classification-national><country>US</country><main-classification>602 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2015/0374528</doc-number>
+<kind>A1</kind>
+<name>Mueller</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61F 5/0118</classification-cpc-text>
+<classification-national><country>US</country><main-classification>602 21</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2018/0055672</doc-number>
+<kind>A1</kind>
+<name>Erwin</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61F 5/0118</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2023/0346583</doc-number>
+<kind>A1</kind>
+<name>Smakman</name>
+<date>20231100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61F 5/05866</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>CN</country>
+<doc-number>308600895</doc-number>
+<date>20240400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>GB</country>
+<doc-number>6213939</doc-number>
+<date>20220600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>GB</country>
+<doc-number>6219210</doc-number>
+<date>20220800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>GB</country>
+<doc-number>6252166</doc-number>
+<date>20230100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>KR</country>
+<doc-number>301201034.0000</doc-number>
+<date>20230100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>WO</country>
+<doc-number>D232778-001</doc-number>
+<date>20231100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>&#x201c;Featol: Resting Hand Splint Stroke Hand Night Immobilizer.&#x201d; Found online May 29, 2024 at amazon.com. Reference dated Nov. 1, 2023. Retrieved from https://www.amazon.com/FEATOL-Immobilizer-Removable-Tendinitis-Functional-Brace-Right/dp/B0CM9GTYM5.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>&#x201c;Featol: Wrist Brace with Thumb Support.&#x201d; Found online May 29, 2024 at amazon.com. Reference dated Sep. 13, 2023. Retrieved from https://www.amazon.com/FEATOL-Dequervains-Tendonitis-Pain-Finger-Thumb-Support-Right/dp/B0CHXZNW22.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>&#x201c;Medibot: Wrist Brace and Thumb Spica Splint.&#x201d; Found online May 29, 2024 at amazon.com. Reference dated Dec. 18, 2018. Retrieved from https://www.amazon.com/Quervains-Tenosynovitis-Tendonitis-Arthritis-Support/dp/B07R8PS3RR.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>&#x201c;Osk: Soft Functional Resting Hand Splint for Flexion Contractures.&#x201d; Found online May 29, 2024 at amazon.com. Reference dated Nov. 3, 2020. Retrieved from https://www.amazon.com/Functional-Resting-Splint-Flexion-Contractures/dp/B08MT4ZRRZ?th=1.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D24155</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24188</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24189</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24190</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24191</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24192</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24200</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24206</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24209</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D29113</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D29114</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D291201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D291202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2610</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2621</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2627</main-classification>
+</classification-national>
+<classification-cpc-text>A61F 5/0118</classification-cpc-text>
+<classification-cpc-text>A61F 5/013</classification-cpc-text>
+<classification-cpc-text>A61F 5/048</classification-cpc-text>
+<classification-cpc-text>A61F 5/3761</classification-cpc-text>
+<classification-cpc-text>A61F 5/3723</classification-cpc-text>
+<classification-cpc-text>A61F 5/373</classification-cpc-text>
+<classification-cpc-text>A61F 5/3738</classification-cpc-text>
+<classification-cpc-text>A61F 5/05866</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SHENZHEN RUI TRADE E-COMMERCE CO., LTD.</orgname>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Woo</last-name>
+<first-name>Eric</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SHENZHEN RUI TRADE E-COMMERCE CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Hamilton</last-name>
+<first-name>Kendra Leslie</first-name>
+<department>2925</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Struble</last-name>
+<first-name>Elizabeth S</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="199.98mm" wi="158.75mm" file="USD1055295-20241224-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="235.97mm" wi="88.82mm" file="USD1055295-20241224-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="235.80mm" wi="86.87mm" file="USD1055295-20241224-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="236.73mm" wi="83.65mm" file="USD1055295-20241224-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="236.39mm" wi="82.21mm" file="USD1055295-20241224-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="236.47mm" wi="78.49mm" file="USD1055295-20241224-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="236.73mm" wi="78.32mm" file="USD1055295-20241224-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a perspective view of a wrist brace showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is another perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a front elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a rear elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a left side elevational view thereof; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a right side elevational view thereof.</p>
+<p id="p-0007" num="0007">The broken lines in the drawings depict portions of the wrist brace that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a wrist brace as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

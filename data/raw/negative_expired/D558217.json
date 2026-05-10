@@ -1,0 +1,1035 @@
+{
+  "applicant": null,
+  "application_number": "29264281",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-08",
+  "grant_date": "2007-12-25",
+  "invention_title": "DISPLAY WITH GRAPHIC USER INTERFACE",
+  "label": "negative",
+  "patent_number": "D558217",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3874,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 21171,
+      "docketNumber": "1927.1012",
+      "effectiveFilingDate": "2006-08-08",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LEE, ANGELA J",
+      "filingDate": "2006-08-08",
+      "firstInventorName": "Giang-Yoon Kwon",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "DISPLAY WITH GRAPHIC USER INTERFACE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Guri-city",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Giang-Yoon  Kwon",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "KR",
+          "firstName": "Giang-Yoon",
+          "inventorNameText": "Giang-Yoon Kwon",
+          "lastName": "Kwon"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Sung-Hee  Kim",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "KR",
+          "firstName": "Sung-Hee",
+          "inventorNameText": "Sung-Hee Kim",
+          "lastName": "Kim"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hye-Sang  Jun",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "KR",
+          "firstName": "Hye-Sang",
+          "inventorNameText": "Hye-Sang Jun",
+          "lastName": "Jun"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-City",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Mi-Su  Jung",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "KR",
+          "firstName": "Mi-Su",
+          "inventorNameText": "Mi-Su Jung",
+          "lastName": "Jung"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Jee-Young  Her",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "KR",
+          "firstName": "Jee-Young",
+          "inventorNameText": "Jee-Young Her",
+          "lastName": "Her"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558217",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "486",
+      "uspcSymbolText": "D14/486"
+    },
+    "applicationNumberText": "29264281",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "416, MAETAN-DONG, YEONGTONG-GU",
+              "cityName": "SUWON-SI, GYEONGGI-DO 443-742",
+              "countryName": "KOREA, REPUBLIC OF",
+              "geographicRegionCode": "KRX",
+              "ictCountryCode": "KR"
+            },
+            "assigneeNameText": "SAMSUNG ELECTRONICS CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18172/616",
+        "assignmentMailedDate": "2006-08-25",
+        "assignmentReceivedDate": "2006-08-14",
+        "assignmentRecordedDate": "2006-08-08",
+        "assignorBag": [
+          {
+            "assignorName": "HER, JEE-YOUNG",
+            "executionDate": "2006-08-04"
+          },
+          {
+            "assignorName": "JUN, HYE-SANG",
+            "executionDate": "2006-08-04"
+          },
+          {
+            "assignorName": "JUNG, MI-SU",
+            "executionDate": "2006-08-04"
+          },
+          {
+            "assignorName": "KIM, SUNG-HEE",
+            "executionDate": "2006-08-04"
+          },
+          {
+            "assignorName": "KWON, GIANG-YOON",
+            "executionDate": "2006-08-04"
+          }
+        ],
+        "attorneyDocketNumber": "1927.1012",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ATTENTION:  WILLIAM F. HERBERT",
+          "addressLineThreeText": "WASHINGTON, D.C. 20005",
+          "addressLineTwoText": "1201 NEW YORK AVE., N.W., SUITE 700",
+          "correspondentNameText": "STAAS & HALSEY LLP"
+        },
+        "frameNumber": 616,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018172/0616",
+        "reelNumber": 18172
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "900 19th Street NW, Suite 201",
+        "cityName": "WASHINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "STAAS & HALSEY LLP",
+        "postalCode": "20006"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-23",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-23",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-17",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-17",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-05-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-29",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-10-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-28",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2006-08-08",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-08-18",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-08-18",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-08-18",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-08-21",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "30-2006-0005036",
+        "filingDate": "2006-02-10",
+        "ipOfficeName": "REPUBLIC OF KOREA"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T22:09:21",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "PITCHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "GARVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28607",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "GOLLHOFER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31106",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "GENE",
+          "lastName": "GARNER",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34172",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "KRAVETZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35230",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "HENRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36162",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MEHDI",
+          "lastName": "SHEIKERZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41307",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "904-358-3777"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVE NW",
+              "addressLineTwoText": "FLOOR 7",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "JONES",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-744-5247"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "TEMNIT",
+          "lastName": "AFEWORK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "58202",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-454-1551"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVE. NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY, LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "SONNY",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65889",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, N.W.",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "LINES",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71259",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-454-1567"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2400 VIRGINA AVE, NW",
+              "addressLineTwoText": "APT C915",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20037"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "FARNSWORTH",
+          "middleName": "W.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82006",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-561-9675"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 MORSE STREET NE, APT. A807",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20002"
+            }
+          ],
+          "firstName": "GRADY",
+          "lastName": "MCGINNITY",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83103",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "615-947-6475"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 21171,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "900 19th Street NW, Suite 201",
+            "cityName": "WASHINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "STAAS & HALSEY LLP",
+            "postalCode": "20006"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, N.W.",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "LINES",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71259",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-454-1567"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "HENRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36162",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "MEHDI",
+          "lastName": "SHEIKERZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41307",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "904-358-3777"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVE NW",
+              "addressLineTwoText": "FLOOR 7",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "JONES",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-744-5247"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "GARVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28607",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVE. NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY, LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "SONNY",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65889",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "114 MORGAN COURT",
+              "cityName": "CHARLOTTESVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22903"
+            }
+          ],
+          "firstName": "JEREMY",
+          "lastName": "UNTERBORN",
+          "middleName": "F.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "84273",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-698-3770"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "900 19TH STREET, NW",
+              "addressLineTwoText": "SUITE 201",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "GENE",
+          "lastName": "GARNER",
+          "middleName": "M",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34172",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1527"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "TEMNIT",
+          "lastName": "AFEWORK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "58202",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-454-1551"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "23755 LORAIN ROAD, SUITE 200",
+              "cityName": "NORTH OLMSTED",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "RANKIN HILL AND CLARK LLP",
+              "postalCode": "44070"
+            }
+          ],
+          "firstName": "TAEYUN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68858",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-566-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 MORSE STREET NE, APT. A807",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20002"
+            }
+          ],
+          "firstName": "GRADY",
+          "lastName": "MCGINNITY",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83103",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "615-947-6475"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "7TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "PITCHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "GOLLHOFER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31106",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 NEW YORK AVENUE, NW",
+              "addressLineTwoText": "SUITE 700",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STAAS & HALSEY LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "KRAVETZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35230",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-434-1500"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/486"
+}

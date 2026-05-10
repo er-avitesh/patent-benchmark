@@ -1,0 +1,726 @@
+{
+  "applicant": "HONDA MOTOR CO., LTD.",
+  "application_number": "29874857",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29874857_D1055822.xml",
+  "filing_date": "2023-04-26",
+  "grant_date": "2024-12-31",
+  "invention_title": "INSTRUMENT PANEL FOR AUTOMOBILE",
+  "label": "positive",
+  "patent_number": "D1055822",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "HONDA MOTOR CO., LTD.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "HONDA MOTOR CO., LTD.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9592,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 36163,
+      "docketNumber": "61-1138",
+      "effectiveFilingDate": "2023-04-26",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BETTON, KATRINA ANN",
+      "filingDate": "2023-04-26",
+      "firstApplicantName": "HONDA MOTOR CO., LTD.",
+      "firstInventorName": "Douglas Chan",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "INSTRUMENT PANEL FOR AUTOMOBILE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Torrance",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Douglas Chan",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Torrance",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Douglas Chan",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Douglas",
+          "inventorNameText": "Douglas Chan",
+          "lastName": "Chan"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Torrance",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Eun Jin Lee",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "nameLineOneText": "Eun Jin Lee",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Eun",
+          "inventorNameText": "Eun Jin Lee",
+          "lastName": "Lee",
+          "middleName": "Jin"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055822",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "192",
+      "uspcSymbolText": "D12/192"
+    },
+    "applicationNumberText": "29874857",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 1-1, MINAMI-AOYAMA 2-CHOME",
+              "addressLineTwoText": "MINATO-KU",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP",
+              "postalCode": "107-8556"
+            },
+            "assigneeNameText": "HONDA MOTOR CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/64201/358",
+        "assignmentMailedDate": "2023-07-11",
+        "assignmentReceivedDate": "2023-07-10",
+        "assignmentRecordedDate": "2023-07-10",
+        "assignorBag": [
+          {
+            "assignorName": "CHAN, DOUGLAS",
+            "executionDate": "2023-04-27"
+          },
+          {
+            "assignorName": "LEE, EUN JIN",
+            "executionDate": "2023-04-27"
+          }
+        ],
+        "attorneyDocketNumber": "61-1138",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+          "addressLineThreeText": "GAITHERSBURG, MD 20878",
+          "addressLineTwoText": "SUITE 660",
+          "correspondentNameText": "PLUMSEA LAW GROUP, LLC"
+        },
+        "frameNumber": 358,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "064201/0358",
+        "reelNumber": 64201
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "849 Quince Orchard Blvd.",
+        "addressLineTwoText": "Suite F",
+        "cityName": "Gaithersburg",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MD",
+        "geographicRegionName": "MARYLAND",
+        "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+        "postalCode": "20878"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-10",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-09-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-07-11",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-07-11",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.U",
+        "eventDate": "2023-07-12",
+        "eventDescriptionText": "Filing Receipt - Updated"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-05-11",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-04-26",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-04-26",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-04-26",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-04-26",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:13",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29874857_D1055822.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29874857_D1055822.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-15T16:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "FISHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32133",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "240-380-2465"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 E JOPPA RD",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "STANLEY BLACK AND DECKER, INC.",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "SHAPIRO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33120",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-3254"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "PATRICIA",
+          "lastName": "HONG",
+          "middleName": "EUNMEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 1404",
+              "cityName": "ALEXANDRIA,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BURNS, DOANE, SWECKER",
+              "nameLineTwoText": "& MATHIS, L.L.P.",
+              "postalCode": "223130000"
+            },
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "WENDI",
+          "lastName": "WEINSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34456",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 7999",
+              "cityName": "FREDRICKSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PATENT PORTFOLIO BUILDERS",
+              "postalCode": "22404"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "WILLINGHAN",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41377",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "540-361-1863 X 134"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6710 A ROCKLEDGE DR",
+              "addressLineTwoText": "STE 400",
+              "cityName": "BETHESDA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20817"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41434",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "849 QUINCE ORCHARD BLVD",
+              "addressLineTwoText": "SUITE F",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "ARNHEIM",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43475",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "JEREMY",
+          "lastName": "THISSELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56065",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20342 KIAWAH ISLAND DRIVE",
+              "cityName": "ASHBURN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "20147"
+            }
+          ],
+          "firstName": "JENNIFER",
+          "lastName": "THISSELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59042",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-726-0443"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "GIBSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59058",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4413 SPICEWOOD SPRINGS ROAD",
+              "addressLineTwoText": "SUITE 205",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "78731"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "WILLATT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59128",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6710 A ROCKLEDGE DR",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "BETHESDA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20817"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "DANGREMOND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60466",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6710 A ROCKLEDGE DR",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "BETHESDA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20817"
+            }
+          ],
+          "firstName": "JESSE",
+          "lastName": "STONE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62632",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "656 QUINCE ORCHARD ROAD",
+              "addressLineTwoText": "SUITE 660",
+              "cityName": "GAITHERSBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "PLUMSEA LAW GROUP, LLC",
+              "postalCode": "20878"
+            }
+          ],
+          "firstName": "AISHA",
+          "lastName": "MOINUDDIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68820",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-365-9040"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/192"
+}

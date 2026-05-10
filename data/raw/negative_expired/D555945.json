@@ -1,0 +1,439 @@
+{
+  "applicant": null,
+  "application_number": "29257523",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-27 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-05",
+  "grant_date": "2007-11-27",
+  "invention_title": "TABLE FOOT",
+  "label": "negative",
+  "patent_number": "D555945",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7815,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-07",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "docketNumber": "113175-00006",
+      "effectiveFilingDate": "2006-04-05",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "SEEGER, JANICE E",
+      "filingDate": "2006-04-05",
+      "firstInventorName": "Errol Pearsons",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-27",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "TABLE FOOT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Grand Haven",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Errol  Pearsons",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Errol",
+          "inventorNameText": "Errol Pearsons",
+          "lastName": "Pearsons"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Holland",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Paul  Koning",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Paul",
+          "inventorNameText": "Paul Koning",
+          "lastName": "Koning"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555945",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "495",
+      "uspcSymbolText": "D6/495"
+    },
+    "applicationNumberText": "29257523",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "323 EAST ROOSEVELT AVENUE",
+              "cityName": "ZEELAND",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "ictCountryCode": "US",
+              "ictStateCode": "MI",
+              "postalCode": "49464"
+            },
+            "assigneeNameText": "GIBRALTAR INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17725/876",
+        "assignmentMailedDate": "2006-06-05",
+        "assignmentReceivedDate": "2006-04-12",
+        "assignmentRecordedDate": "2006-04-05",
+        "assignorBag": [
+          {
+            "assignorName": "KONING, PAUL",
+            "executionDate": "2006-03-29"
+          },
+          {
+            "assignorName": "PEARSON, ERROL",
+            "executionDate": "2006-04-03"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "150 W. JEFFERSON, SUITE 2500",
+          "addressLineTwoText": "DETROIT, MI 48226",
+          "correspondentNameText": "ROBERT KELLEY ROTH"
+        },
+        "frameNumber": 876,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017725/0876",
+        "reelNumber": 17725
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2007-11-21",
+        "childApplicationNumberText": "29297897",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D569663",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29257523"
+      },
+      {
+        "childApplicationFilingDate": "2007-11-21",
+        "childApplicationNumberText": "29297899",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D569136",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29257523"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Suite 2500",
+        "addressLineTwoText": "150 West Jefferson Ave",
+        "cityName": "Detroit",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "Miller, Canfield, Paddock and Stone P.L.C.",
+        "nameLineTwoText": "c/o Robert Kelley Roth",
+        "postalCode": "48226"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-27",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-07",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-06-15",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2007-05-08",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2007-04-30",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-05-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-26",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T02:00:02",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W JEFFERSON STE 2500",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "MILLER CANFIELD PADDOCK AND STONE",
+              "postalCode": "48226"
+            }
+          ],
+          "firstName": "MARJORY",
+          "lastName": "BASILE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28181",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-496-7596"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "781 CHESTNUT RIDGE ROAD, LEGAL IP - GREENBAG ROAD",
+              "cityName": "MORGANTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WV",
+              "geographicRegionName": "WEST VIRGINIA",
+              "nameLineOneText": "MYLAN, INC.",
+              "postalCode": "26505"
+            }
+          ],
+          "firstName": "CATHERINE",
+          "lastName": "PRODY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "304-554-5614"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 TRADE CENTRE WAY",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "KALAMAZOO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "HONIGMAN LLP",
+              "postalCode": "49002-040"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "O'BRIEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50852",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "269-337-7704"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "940 MONROE NW",
+              "addressLineTwoText": "SUITE 250",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "KOERKE & CRAMPTON PC",
+              "postalCode": "49503"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "GAFFIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-458-7900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "125 CAMBRIDGEPARK DRIVE",
+              "addressLineTwoText": "SUITE 315",
+              "cityName": "CAMBRIDGE",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "IP SUPA PLLC",
+              "postalCode": "02238"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "ROTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36660",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-230-2414"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 TRADE CENTRE WAY",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "KALAMAZOO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "HONIGMAN, MILLER, SCHWARTZ & COHN",
+              "postalCode": "49002-040"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "WEBER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55888",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "269-337-7700"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/495"
+}

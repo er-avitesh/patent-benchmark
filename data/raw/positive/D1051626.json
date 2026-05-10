@@ -1,0 +1,2887 @@
+{
+  "applicant": "KOKUYO CO., LTD.",
+  "application_number": "29819488",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29819488_D1051626.xml",
+  "filing_date": "2021-12-15",
+  "grant_date": "2024-11-19",
+  "invention_title": "Chair",
+  "label": "positive",
+  "patent_number": "D1051626",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "KOKUYO CO., LTD.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "KOKUYO CO., LTD.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9324,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-30",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 28289,
+      "docketNumber": "4605-2107544",
+      "effectiveFilingDate": "2021-12-15",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "WOLFLEY, MARK DAVID",
+      "filingDate": "2021-12-15",
+      "firstApplicantName": "KOKUYO CO., LTD.",
+      "firstInventorName": "Yojiro Kinoshita",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-19",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "Chair",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Kinoshita, Yojiro",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Osaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Yojiro  Kinoshita",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yojiro",
+          "inventorNameText": "Yojiro Kinoshita",
+          "lastName": "Kinoshita"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Osaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Maeda, Ryoma",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Osaka-shi",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Ryoma  Maeda",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Ryoma",
+          "inventorNameText": "Ryoma Maeda",
+          "lastName": "Maeda"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051626",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "364",
+      "uspcSymbolText": "D6/364"
+    },
+    "applicationNumberText": "29819488",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1-1, OIMAZATO-MINAMI 6-CHOME, HIGASHINARI-KU, OSAKA",
+              "cityName": "OSAKA-SHI",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "KOKUYO CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/58398/435",
+        "assignmentMailedDate": "2021-12-17",
+        "assignmentReceivedDate": "2021-12-15",
+        "assignmentRecordedDate": "2021-12-15",
+        "assignorBag": [
+          {
+            "assignorName": "KINOSHITA, YOJIRO",
+            "executionDate": "2021-12-01"
+          },
+          {
+            "assignorName": "MAEDA, RYOMA",
+            "executionDate": "2021-12-03"
+          }
+        ],
+        "attorneyDocketNumber": "4605-2107544",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "ONE GATEWAY CENTER",
+          "addressLineThreeText": "PITTSBURGH, PA 15222",
+          "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+          "correspondentNameText": "THE WEBB LAW FIRM, P.C."
+        },
+        "frameNumber": 435,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "058398/0435",
+        "reelNumber": 58398
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "420 FT. DUQUESNE BLVD,  SUITE 1200",
+        "addressLineTwoText": "ONE GATEWAY CENTER",
+        "cityName": "PITTSBURGH",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "PA",
+        "geographicRegionName": "PENNSYLVANIA",
+        "nameLineOneText": "THE WEBB LAW FIRM, P.C.",
+        "postalCode": "15222"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MM327-D",
+        "eventDate": "2024-08-22",
+        "eventDescriptionText": "Mail PUB   other miscellaneous communication to applicant"
+      },
+      {
+        "eventCode": "M327-D",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "PUB Other miscellaneous communication to applicant"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-09",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-07-09",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-05",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-06-18",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-03-15",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-03-07",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-02-29",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-02-29",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-02-28",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2022-03-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2022-03-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-01-31",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2021-12-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2021-12-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2021-12-20",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-12-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2021-12-17",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-12-16",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-12-16",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-12-17",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-12-17",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2021-12-15",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2021-12-15",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-12-15",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-12-15",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-12-15",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2021-012909D",
+        "filingDate": "2021-06-16",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-19T09:08:20",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29819488_D1051626.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29819488_D1051626.xml",
+      "zipFileName": "ipg241119.zip"
+    },
+    "lastIngestionDateTime": "2026-04-14T12:54:47",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD,",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "FREDERICK",
+          "lastName": "COLEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BOULEVARD, SUITE1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "LINDA",
+          "lastName": "PINGITORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30414",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD",
+              "addressLineTwoText": "SUITE 1200, ONE GATEWAY CENTER",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MCILVAINE",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ANN",
+          "lastName": "CANNONI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35972",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KENT",
+          "lastName": "BALDAUF",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "NOTZEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36882",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KIRK",
+          "lastName": "MILES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JESSE",
+          "lastName": "HIRSHMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40016",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MICHELE",
+          "lastName": "YODER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "41562",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FORT DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "CRIMALDI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41690",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-227-3088"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT.. DUQUESNE BOULEVARD, SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "DEBORAH",
+          "lastName": "ALTMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42259",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "FRANKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42552",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "PREPELKA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43016",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "225 5TH AVENUE",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "REED SMITH, LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "COYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-288-7210"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "SCHUSTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BOSCO",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51489",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3873 NE 22ND WAY",
+              "cityName": "LIGHTHOUSE POINT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "NICHOLAS R. LEWIS, P.A.",
+              "postalCode": "33064"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "LEWIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55380",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "954-662-8664"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "LARA",
+          "lastName": "QUEEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55502",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "312-263-3990"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WOLSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56236",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "CLARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60465",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "MACE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "KOMOROWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JULIE",
+          "lastName": "HEITZENRATER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64443",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "3122367516"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BOULEVARD SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "MARTINCHEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66211",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "+1 970 778 4063"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "BROOKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BOJAN",
+          "lastName": "POPOVIC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66737",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NEIL",
+          "lastName": "FRIEDRICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67280",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "CZAJKOWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67319",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "SHERWIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67923",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "JACKSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68157",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "PASSODELIS",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68355",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "EHRET",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69743",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT.. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "GRESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71295",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "VANVLIET",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71738",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MAXIMILIAN",
+          "lastName": "MEESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BOULEVARD, SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KATHRYN",
+          "lastName": "HANAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 MEETING ROCK DRIVE",
+              "cityName": "ATKINSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NH",
+              "geographicRegionName": "NEW HAMPSHIRE",
+              "postalCode": "03811"
+            }
+          ],
+          "firstName": "ANGUS",
+          "lastName": "KNOWLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77581",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "603-845-9521"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD.,  SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15108"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MURRAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-889-2623"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "LUCAS",
+          "lastName": "SPANO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79506",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-760-7087"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NINA",
+          "lastName": "REGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "724-689-9905"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "FISHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80275",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "169 PORTSMOUTH STREET",
+              "addressLineTwoText": "B-62",
+              "cityName": "CONCORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NH",
+              "geographicRegionName": "NEW HAMPSHIRE",
+              "postalCode": "03301"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "SULLIVAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81136",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-502-5308"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FORT DUQUESNE BLVD.",
+              "addressLineTwoText": "ONE GATEWAY CENTER, 12TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "KOCENT",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81652",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8436 POST ROAD",
+              "cityName": "ALLISON PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "15101"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "BIANCONI",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82148",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-860-2391"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRIDGET",
+          "lastName": "KANE",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 28289,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "420 FT. DUQUESNE BLVD,  SUITE 1200",
+            "addressLineTwoText": "ONE GATEWAY CENTER",
+            "cityName": "PITTSBURGH",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "PA",
+            "geographicRegionName": "PENNSYLVANIA",
+            "nameLineOneText": "THE WEBB LAW FIRM, P.C.",
+            "postalCode": "15222"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MAXIMILIAN",
+          "lastName": "MEESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1621 EUCLID AVENUE",
+              "addressLineTwoText": "FLOOR 19",
+              "cityName": "CLEVELAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "RENNER OTTO",
+              "postalCode": "44115"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "RESSER",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67869",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-736-3187"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "FISHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80275",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRIDGET",
+          "lastName": "KANE",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3873 NE 22ND WAY",
+              "cityName": "LIGHTHOUSE POINT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "NICHOLAS R. LEWIS, P.A.",
+              "postalCode": "33064"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "LEWIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55380",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "954-662-8664"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT.. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "GRESE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71295",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "NOTZEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36882",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MICHELE",
+          "lastName": "YODER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "41562",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "PREPELKA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43016",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56236",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KENT",
+          "lastName": "BALDAUF",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "EHRET",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69743",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "MACE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ALANNAH",
+          "lastName": "BINOTTO",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83389",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-973-3353"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD. SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "GETTY",
+          "middleName": "J",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81184",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "KOMOROWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "FRANKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42552",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "BROOKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "SCHUSTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43908",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NINA",
+          "lastName": "REGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "724-689-9905"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD",
+              "addressLineTwoText": "SUITE 1200, ONE GATEWAY CENTER",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MCILVAINE",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KIRK",
+          "lastName": "MILES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37891",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT.. DUQUESNE BOULEVARD, SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "DEBORAH",
+          "lastName": "ALTMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42259",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BOSCO",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51489",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "LARA",
+          "lastName": "QUEEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55502",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "312-263-3990"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BOJAN",
+          "lastName": "POPOVIC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66737",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD. SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "SULLIVAN",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81136",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-502-5308"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "SHERWIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67923",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BOULEVARD, SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "KATHRYN",
+          "lastName": "HANAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "ANN",
+          "lastName": "CANNONI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35972",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "CZAJKOWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67319",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8436 POST ROAD",
+              "cityName": "ALLISON PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "15101"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "BIANCONI",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82148",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-860-2391"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD,",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "FREDERICK",
+          "lastName": "COLEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "CLARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60465",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 MEETING ROCK DRIVE",
+              "cityName": "ATKINSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NH",
+              "geographicRegionName": "NEW HAMPSHIRE",
+              "postalCode": "03811"
+            }
+          ],
+          "firstName": "ANGUS",
+          "lastName": "KNOWLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77581",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "603-845-9521"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD.,  SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15108"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MURRAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-889-2623"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "225 5TH AVENUE",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "REED SMITH, LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "COYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-288-7210"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "17 RUPERT LANE",
+              "cityName": "NEW KENSINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "15068"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "WINTER",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "724-822-1829"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "LUCAS",
+          "lastName": "SPANO",
+          "middleName": "P.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79506",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-760-7087"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FT. DUQUESNE BOULEVARD",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "nameLineTwoText": "ONE GATEWAY CENTER",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NEIL",
+          "lastName": "FRIEDRICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67280",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WOLSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FORT DUQUESNE BLVD.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "CRIMALDI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41690",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-227-3088"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BOULEVARD SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "MARTINCHEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66211",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "+1 970 778 4063"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "PASSODELIS",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68355",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "420 FORT DUQUESNE BLVD.",
+              "addressLineTwoText": "ONE GATEWAY CENTER, 12TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "KOCENT",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81652",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE GATEWAY CENTER",
+              "addressLineTwoText": "420 FT. DUQUESNE BLVD., SUITE 1200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THE WEBB LAW FIRM",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "JACKSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68157",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-471-8815"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/364"
+}

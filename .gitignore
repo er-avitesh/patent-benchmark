@@ -10,9 +10,9 @@ venv/
 .pytest_cache/
 
 # Bulky artifacts — regenerable from scripts + config
-data/raw/
-data/processed/
-raw_responses/
+# data/raw/
+# data/processed/
+# raw_responses/
 
 # But DO commit the manifests, candidates, parsed results
 # (they're the textual record of the study)

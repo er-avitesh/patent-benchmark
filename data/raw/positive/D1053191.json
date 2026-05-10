@@ -1,0 +1,3842 @@
+{
+  "applicant": "SAMSUNG ELECTRONICS CO., LTD.",
+  "application_number": "29851963",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241203/29851963_D1053191.xml",
+  "filing_date": "2022-09-01",
+  "grant_date": "2024-12-03",
+  "invention_title": "PORTABLE DISPLAY DEVICE",
+  "label": "positive",
+  "patent_number": "D1053191",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "SAMSUNG ELECTRONICS CO., LTD.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "SAMSUNG ELECTRONICS CO., LTD.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9931,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-13",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 23413,
+      "docketNumber": "CNK0459US",
+      "effectiveFilingDate": "2022-09-01",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SWANGIN, ALTAIRA J",
+      "filingDate": "2022-09-01",
+      "firstApplicantName": "SAMSUNG ELECTRONICS CO., LTD.",
+      "firstInventorName": "Dhojin HAN",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-03",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "PORTABLE DISPLAY DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "HAN, Dhojin",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Dhojin  HAN",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Dhojin",
+          "inventorNameText": "Dhojin HAN",
+          "lastName": "HAN"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "KIM, Jaehyung",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Jaehyung  KIM",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jaehyung",
+          "inventorNameText": "Jaehyung KIM",
+          "lastName": "KIM"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1053191",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "374",
+      "uspcSymbolText": "D14/374"
+    },
+    "applicationNumberText": "29851963",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "129, SAMSUNG-RO, YEONGTONG-GU",
+              "addressLineTwoText": "SUWON-SI",
+              "cityName": "GYEONGGI-DO",
+              "countryName": "KOREA, REPUBLIC OF",
+              "geographicRegionCode": "KRX",
+              "ictCountryCode": "KR",
+              "postalCode": "16677"
+            },
+            "assigneeNameText": "SAMSUNG ELECTRONICS CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/60970/875",
+        "assignmentMailedDate": "2022-09-05",
+        "assignmentReceivedDate": "2022-09-01",
+        "assignmentRecordedDate": "2022-09-01",
+        "assignorBag": [
+          {
+            "assignorName": "HAN, DHOJIN",
+            "executionDate": "2022-04-21"
+          },
+          {
+            "assignorName": "KIM, JAEHYUNG",
+            "executionDate": "2022-04-21"
+          }
+        ],
+        "attorneyDocketNumber": "CNK0459US",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "20 CHURCH STREET",
+          "addressLineThreeText": "HARTFORD, CT 06103",
+          "addressLineTwoText": "22ND FLOOR",
+          "correspondentNameText": "CANTOR COLBURN LLP"
+        },
+        "frameNumber": 875,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "060970/0875",
+        "reelNumber": 60970
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "20 Church Street",
+        "addressLineTwoText": "22nd Floor",
+        "cityName": "Hartford",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CT",
+        "geographicRegionName": "CONNECTICUT",
+        "nameLineOneText": "CANTOR COLBURN LLP",
+        "postalCode": "06103"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-03",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-03",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-03",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-03",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-03",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-14",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-07-03",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-07-05",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-07-03",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "PST_CRD",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Mail Post Card"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-03-06",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-10-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "FLRCPT.R",
+        "eventDate": "2022-10-17",
+        "eventDescriptionText": "Filing Receipt - Replacement"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-10-10",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2022-09-14",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-09-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-09-07",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-09-07",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-09-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-09-08",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "30-2022-0008279",
+        "filingDate": "2022-03-02",
+        "ipOfficeName": "REPUBLIC OF KOREA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-03T09:07:04",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241203/29851963_D1053191.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29851963_D1053191.xml",
+      "zipFileName": "ipg241203.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T05:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "VICTOR",
+          "lastName": "LIBERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24224",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "CANTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31152",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA STE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            },
+            {
+              "addressLineOneText": "SUITE 700",
+              "cityName": "HOUSTON,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "MADAN, MOSSMAN & SRIRAM, P.C.",
+              "nameLineTwoText": "2603 AUGUSTA DRIVE",
+              "postalCode": "770570000"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "MADAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33011",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-493-2442"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "KARL",
+          "lastName": "BARR",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33155",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5318 W. VAN BUREN STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "postalCode": "60644"
+            }
+          ],
+          "firstName": "KARL",
+          "lastName": "VICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33288",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-259-6850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "MURPHY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33979",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RYE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "PHILMORE",
+          "lastName": "COLBURN",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35101",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "CHRISTINE",
+          "lastName": "BENINATI",
+          "middleName": "WILKES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37967",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 DOW CENTER",
+              "cityName": "MIDLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "THE DOW CHEMICAL COMPANY",
+              "postalCode": "48674"
+            }
+          ],
+          "firstName": "SUSAN",
+          "lastName": "ZERULL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38367",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "989-636-8858"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "FOX",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38807",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "GARABEDIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39197",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "175 NOAH LANE",
+              "cityName": "TOLLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "postalCode": "06084"
+            },
+            {
+              "cityName": "PITTSFORD,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "3 LANGSTON PT.",
+              "postalCode": "145340000"
+            }
+          ],
+          "firstName": "KAREN",
+          "lastName": "JALBERT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "39237",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-325-5553"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-817-3761"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "LEAH",
+          "lastName": "REIMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39341",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "SANA",
+          "lastName": "PRATT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "39441",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W BIG BEAVER RD, SUITE 370",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "BOEHM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41624",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, N.E., SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "HAGERTY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            },
+            {
+              "cityName": "WILLINGTON,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "P O BOX 214",
+              "nameLineTwoText": "103 PINNEY HILL RD.",
+              "postalCode": "062790000"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "MERRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-548-2811"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH ST",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "19103"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "BARRERA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44522",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-481-1772"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "HERBERT",
+          "lastName": "BEDINGFIELD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44530",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "LESLIE-ANNE",
+          "lastName": "MAXWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44778",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "LENT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44867",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "96103"
+            }
+          ],
+          "firstName": "ROBERTA",
+          "lastName": "PELLETIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "LAWRENCE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "O'BRIEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47314",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 GRIFFIN RD S",
+              "cityName": "BLOOMFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06002"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "DREXLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47535",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "46 WASHINGTON STREET",
+              "cityName": "MIDDLETOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "THE LAW OFFICES OF STEVEN MCHUGH, LLC",
+              "postalCode": "06457"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "MCHUGH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47784",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-343-9454"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOUR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "T.",
+          "lastName": "BOMZER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48770",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA DR.",
+              "addressLineTwoText": "SUITE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "RODRIGUES",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50604",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "306 INDUSTRIAL PARK ROAD",
+              "addressLineTwoText": "SUITE 206",
+              "cityName": "MIDDLETOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "MKG, LLC",
+              "postalCode": "06457"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "RYAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-632-7200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ASAF",
+          "lastName": "BATELMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52600",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "SAMEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53546",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929 EXT.122"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "WATERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22 ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "AMY",
+          "lastName": "BIZON-COPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53993",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "ZERHUSEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "HOWARD",
+          "lastName": "LEVY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55378",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BARON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56025",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929 EXT. 12"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "GIBSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JENAE",
+          "lastName": "GUREFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 GRIFFIN ROAD SOUTH",
+              "cityName": "BLOOMFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06002"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "WIMPE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59990",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, N.E., SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DUANE",
+          "lastName": "MINLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60098",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA, SUITE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "JONES",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60120",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130 X 5108"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EUGENE",
+          "lastName": "KWON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "75 BEATTIE PLACE",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "GREENVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "SC",
+              "geographicRegionName": "SOUTH CAROLINA",
+              "nameLineOneText": "DORITY MANNING",
+              "postalCode": "29607"
+            }
+          ],
+          "firstName": "KOICHIRO",
+          "lastName": "NAKAMURA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62970",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "864-271-1592"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "HOWENSTINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63263",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22 FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DANIELLE",
+          "lastName": "DOUGHERTY",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64440",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE ST, N.E.",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "MIA",
+          "lastName": "FIEDLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64885",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "703-685-0573"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "WASSER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65989",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "SAMANTHA",
+          "lastName": "BURCH",
+          "middleName": "STEPHANIE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "919 18TH STREET, NW",
+              "addressLineTwoText": "SUITE 440",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STANZIONE & KIM, LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MATTEO",
+          "lastName": "PEDINI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66733",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-1900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "HAYTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67093",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2525 PONCE DE LEON BLVD",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "MIAMI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "MCCARTER & ENGLISH LLP",
+              "postalCode": "33134"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "KINCAID",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "862-229-3087"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE ST NW # 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "YONG",
+          "lastName": "TANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68435",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "DENNIS",
+          "lastName": "JAKIELA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAEGYOO",
+          "lastName": "JANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68540",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084-4116"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "SANDOVAL",
+          "middleName": "EDWARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71006",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "TUCKER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71398",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-807-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22TH FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "HERREL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "ROMAGNANO",
+          "middleName": "F.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76034",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "508-868-7832"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SUNG WOOK",
+          "lastName": "KOOH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 ROCKCASTLE DRIVE",
+              "cityName": "CARY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "postalCode": "27519"
+            }
+          ],
+          "firstName": "NARESH",
+          "lastName": "RAMIREDDY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83021",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "210-601-7199"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23413,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "20 Church Street",
+            "addressLineTwoText": "22nd Floor",
+            "cityName": "Hartford",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CT",
+            "geographicRegionName": "CONNECTICUT",
+            "nameLineOneText": "CANTOR COLBURN LLP",
+            "postalCode": "06103"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "306 INDUSTRIAL PARK ROAD",
+              "addressLineTwoText": "SUITE 206",
+              "cityName": "MIDDLETOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "MKG, LLC",
+              "postalCode": "06457"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "RYAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-632-7200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, N.E., SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DUANE",
+          "lastName": "MINLEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60098",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ASAF",
+          "lastName": "BATELMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52600",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "TUCKER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71398",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-807-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "WASSER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65989",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "FOX",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38807",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "HAYTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67093",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "GARABEDIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39197",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EUGENE",
+          "lastName": "KWON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "O'BRIEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47314",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 GRIFFIN ROAD SOUTH",
+              "cityName": "BLOOMFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06002"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "WIMPE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59990",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "WATERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE ST NE",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "KINCAID",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "470-597-1357"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "HOWARD",
+          "lastName": "LEVY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55378",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "CHRISTINE",
+          "lastName": "BENINATI",
+          "middleName": "WILKES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37967",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W BIG BEAVER RD, SUITE 370",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "BOEHM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41624",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "MERRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-548-2811"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084-4116"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "SANDOVAL",
+          "middleName": "EDWARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71006",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "VICTOR",
+          "lastName": "LIBERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24224",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "LAWRENCE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "14322 E CHERYL DR",
+              "cityName": "SCOTTSDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "postalCode": "85259"
+            }
+          ],
+          "firstName": "RUSLAN",
+          "lastName": "ARBIT",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82196",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "707-797-7418"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-3207"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BRODOWSKI",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41640",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BARON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56025",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929 EXT. 12"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "DENNIS",
+          "lastName": "JAKIELA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "SANA",
+          "lastName": "PRATT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "39441",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH ST",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "19103"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "BARRERA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44522",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-481-1772"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTER COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "EUNHYE",
+          "lastName": "CHU",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "800086",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOUR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "T.",
+          "lastName": "BOMZER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48770",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAEGYOO",
+          "lastName": "JANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68540",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "GIBSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "HOWENSTINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63263",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "75 BEATTIE PLACE",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "GREENVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "SC",
+              "geographicRegionName": "SOUTH CAROLINA",
+              "nameLineOneText": "DORITY MANNING",
+              "postalCode": "29607"
+            }
+          ],
+          "firstName": "KOICHIRO",
+          "lastName": "NAKAMURA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62970",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "864-271-1592"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "ZERHUSEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "HUDYMA",
+          "middleName": "PAUL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60084",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22 ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "AMY",
+          "lastName": "BIZON-COPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53993",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "919 18TH STREET, NW",
+              "addressLineTwoText": "SUITE 440",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STANZIONE & KIM, LLP",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "MATTEO",
+          "lastName": "PEDINI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66733",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-775-1900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103-320"
+            }
+          ],
+          "firstName": "LEAH",
+          "lastName": "REIMER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39341",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE ST, N.E.",
+              "addressLineTwoText": "SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "MIA",
+          "lastName": "FIEDLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64885",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "703-685-0573"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE SOUTH MAIN STREET",
+              "addressLineTwoText": "SUITE 1300",
+              "cityName": "DAYTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "DINSMORE & SHOHL, LLP",
+              "postalCode": "45402"
+            }
+          ],
+          "firstName": "JENNIFER",
+          "lastName": "LUNN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75765",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "937-449-6459"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "96103"
+            }
+          ],
+          "firstName": "ROBERTA",
+          "lastName": "PELLETIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "PHILMORE",
+          "lastName": "COLBURN",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35101",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA STE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "MADAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33011",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-493-2442"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE ST NW # 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "YONG",
+          "lastName": "TANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "68435",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "STAUDT",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79957",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "CANTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31152",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "KARL",
+          "lastName": "BARR",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33155",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5318 W. VAN BUREN STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "postalCode": "60644"
+            }
+          ],
+          "firstName": "KARL",
+          "lastName": "VICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33288",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-259-6850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "ROMAGNANO",
+          "middleName": "F.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76034",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "508-868-7832"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 DOW CENTER",
+              "cityName": "MIDLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "THE DOW CHEMICAL COMPANY",
+              "postalCode": "48674"
+            }
+          ],
+          "firstName": "SUSAN",
+          "lastName": "ZERULL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38367",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "989-636-8858"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "SAMANTHA",
+          "lastName": "BURCH",
+          "middleName": "STEPHANIE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA, SUITE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "JONES",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60120",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130 X 5108"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SUNG WOOK",
+          "lastName": "KOOH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2603 AUGUSTA DR.",
+              "addressLineTwoText": "SUITE 1270",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "77057"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "RODRIGUES",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50604",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-266-1130"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH ST.",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "MCFADDEN",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80854",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 510",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JENAE",
+          "lastName": "GUREFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-236-4500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RYE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 PEACHTREE STREET, N.E., SUITE 2050",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "HAGERTY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-607-9991"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "LENT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44867",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "MURPHY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33979",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 GRIFFIN RD S",
+              "cityName": "BLOOMFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06002"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "DREXLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47535",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "LESLIE-ANNE",
+          "lastName": "MAXWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44778",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN, LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "SAMEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53546",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929 EXT.122"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET, 22TH FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "HERREL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 CHURCH STREET",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "HARTFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "06103"
+            }
+          ],
+          "firstName": "LEROY",
+          "lastName": "ASHLEY",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83950",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "860-286-2929"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/374"
+}

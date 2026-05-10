@@ -1,0 +1,620 @@
+{
+  "applicant": null,
+  "application_number": "29262556",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-07-06",
+  "grant_date": "2007-09-25",
+  "invention_title": "BOTTLE",
+  "label": "negative",
+  "patent_number": "D551554",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4582,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 21589,
+      "docketNumber": "RC 281372",
+      "effectiveFilingDate": "2006-07-06",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "HILL, SHANDA C",
+      "filingDate": "2006-07-06",
+      "firstInventorName": "Carie A. Davis",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-25",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "BOTTLE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Atlanta",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "Carie A. Davis",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Carie",
+          "inventorNameText": "Carie A. Davis",
+          "lastName": "Davis",
+          "middleName": "A."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Atlanta",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "Courtney E. Cook",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Courtney",
+          "inventorNameText": "Courtney E. Cook",
+          "lastName": "Cook",
+          "middleName": "E."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Stockbridge",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "Darryl J. Dawson",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Darryl",
+          "inventorNameText": "Darryl J. Dawson",
+          "lastName": "Dawson",
+          "middleName": "J."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D551554",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "528",
+      "uspcSymbolText": "D9/528"
+    },
+    "applicationNumberText": "29262556",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE COCA-COLA PLAZA, NW",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30310"
+            },
+            "assigneeNameText": "COCA-COLA COMPANY, THE"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18046/7",
+        "assignmentMailedDate": "2006-08-03",
+        "assignmentReceivedDate": "2006-07-13",
+        "assignmentRecordedDate": "2006-07-06",
+        "assignorBag": [
+          {
+            "assignorName": "COOK, COURTNEY E.",
+            "executionDate": "2006-06-28"
+          },
+          {
+            "assignorName": "DAVIS, CARIE A.",
+            "executionDate": "2006-06-28"
+          },
+          {
+            "assignorName": "DAWSON, DARRYL J.",
+            "executionDate": "2006-06-28"
+          }
+        ],
+        "attorneyDocketNumber": "RC 281372",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "ATLANTA, GA 30301",
+          "addressLineOneText": "THE COCA-COLA COMPANY",
+          "addressLineThreeText": "P.O. BOX 1734",
+          "addressLineTwoText": "NAT 19",
+          "correspondentNameText": "CHERYL J. TUBACH"
+        },
+        "frameNumber": 7,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "018046/0007",
+        "reelNumber": 18046
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P. O. BOX 1734",
+        "cityName": "ATLANTA",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "GA",
+        "geographicRegionName": "GEORGIA",
+        "nameLineOneText": "THE COCA-COLA COMPANY",
+        "nameLineTwoText": "PATENT & TECHNOLOGY DEPT--NAT 19",
+        "postalCode": "30301"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-25",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-13",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-05",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-01-04",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MN/DR",
+        "eventDate": "2007-01-04",
+        "eventDescriptionText": "Mail  Formal Drawings Required"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-01-04",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/DR",
+        "eventDate": "2006-12-26",
+        "eventDescriptionText": "Formal Drawings Required"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2006-12-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-12",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-03",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-07-27",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-07-28",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-07-06",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-13T06:33:29",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "400 INTERSTATE NORTH PKWY, SE",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "THOMAS KAYDEN HORSTEMEYER AND RISLEY LLP",
+              "postalCode": "30339"
+            }
+          ],
+          "firstName": "GINA",
+          "lastName": "SILVERIO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "770-933-9500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "91-1062 WAIKAPO'O STREET",
+              "cityName": "EWA BEACH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "HI",
+              "geographicRegionName": "HAWAII",
+              "nameLineOneText": "BATES AND BATES",
+              "postalCode": "96706"
+            }
+          ],
+          "firstName": "JIM",
+          "lastName": "PATTERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52103",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "808-371-0399"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE COCA-COLA PLAZA",
+              "addressLineTwoText": "NAT 20",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "THE COCA-COLA COMPANY",
+              "postalCode": "30313"
+            }
+          ],
+          "firstName": "YOOSUN",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54360",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-275-9034"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2002 SUMMIT BOULEVARD",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "WOODCOCK WASHBURN, LLP",
+              "postalCode": "30319"
+            }
+          ],
+          "firstName": "ANDREA",
+          "lastName": "BATES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54621",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-459-0050"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE COCA-COLA PLAZA, N.W.",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "THE COCA-COLA COMPANY",
+              "postalCode": "30313"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "SEEGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69450",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "727-278-9084"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "510 SCRANTON CT.",
+              "addressLineTwoText": "34TH FLOOR",
+              "cityName": "ALPHARETTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "NOTIO LAW GROUP",
+              "postalCode": "30022"
+            }
+          ],
+          "firstName": "LORI-ANN",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-736-7263"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6176 EAST MOLLOY ROAD",
+              "cityName": "EAST SYRACUSE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "BELDEN INC. (NYSE: BDC)",
+              "postalCode": "13057"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "DAY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43944",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "315-569-9485"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET N.E.",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "EVERSHEDS SUTHERLAND (US) LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "PAPPAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33205",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-853-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3100 CUMBERLAND BLVD.",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "J.M. HUBER CORPORATION",
+              "postalCode": "30339"
+            }
+          ],
+          "firstName": "CHERYL",
+          "lastName": "TUBACH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38346",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-247-7466"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3629 HABERSHAM ROAD NW",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "postalCode": "30305"
+            }
+          ],
+          "firstName": "IVOR",
+          "lastName": "LONGO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46879",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-643-6599"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "133 PEACHTREE STREET N.E.",
+              "addressLineTwoText": "41ST FLOOR",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "GEORGIA- PACIFIC LLC",
+              "postalCode": "30303"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "KRULJAC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44195",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-652-5854"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NEW YORK AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FINNEGAN, HENDERSON, FARABOW, GARRETT & DUNNER LLP",
+              "postalCode": "20001-441"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "PETERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26325",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-408-4003"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1875 EXPLORER STREET",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "FINNEGAN, HENDERSON, FARABOW, GARRETT & DUNNER, LL",
+              "postalCode": "20190"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "FOLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-203-2720"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET N.E.",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "EVERSHEDS SUTHERLAND (US) LLP",
+              "postalCode": "30309-399"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "WARREN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34272",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-853-8028"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/528"
+}

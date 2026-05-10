@@ -1,0 +1,428 @@
+{
+  "applicant": null,
+  "application_number": "29230315",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-23 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-05-19",
+  "grant_date": "2007-10-23",
+  "invention_title": "LATERAL POSITIONER",
+  "label": "negative",
+  "patent_number": "D553751",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7818,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-03",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 36536,
+      "docketNumber": "N310985.1US",
+      "effectiveFilingDate": "2005-05-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "CAVANNA, MARK",
+      "filingDate": "2005-05-19",
+      "firstInventorName": "Brad L. Penenberg",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-23",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "LATERAL POSITIONER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Beverly Hills",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Brad L. Penenberg",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Brad",
+          "inventorNameText": "Brad L. Penenberg",
+          "lastName": "Penenberg",
+          "middleName": "L."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Germantown",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "Stephen E. White",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Stephen",
+          "inventorNameText": "Stephen E. White",
+          "lastName": "White",
+          "middleName": "E."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553751",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "184",
+      "uspcSymbolText": "D24/184"
+    },
+    "applicationNumberText": "29230315",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1761 WOOD MILLS DR.",
+              "cityName": "CORDOVA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "38016"
+            },
+            "assigneeNameText": "WHITE SURGICAL INCORPORATED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16585/407",
+        "assignmentMailedDate": "2005-09-27",
+        "assignmentReceivedDate": "2005-05-25",
+        "assignmentRecordedDate": "2005-05-19",
+        "assignorBag": [
+          {
+            "assignorName": "WHITE, STEPHEN E.",
+            "executionDate": "2005-05-19"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "SUITE 800",
+          "addressLineThreeText": "MEMPHIS, TN 38120-4367",
+          "addressLineTwoText": "1715 AARON BRENNER DR.",
+          "correspondentNameText": "H. ROY BERKENSTOCK"
+        },
+        "frameNumber": 407,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "016585/0407",
+        "reelNumber": 16585
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1644 DOGWOOD CREEK DR.",
+              "cityName": "GERMANTOWN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "38139"
+            },
+            "assigneeNameText": "WHITE SURGICAL INCORPORATED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16400/585",
+        "assignmentMailedDate": "2005-08-15",
+        "assignmentReceivedDate": "2005-08-15",
+        "assignmentRecordedDate": "2005-08-15",
+        "assignorBag": [
+          {
+            "assignorName": "WHITE, STEPHEN E.",
+            "executionDate": "2005-05-19"
+          },
+          {
+            "assignorName": "PENENBERG, BRAD L.",
+            "executionDate": "2005-08-14"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1715 AARON BRENNER DR.",
+          "addressLineThreeText": "MEMPHIS, TN 38120-4367",
+          "addressLineTwoText": "SUITE 800",
+          "correspondentNameText": "H. ROY BERKENSTOCK"
+        },
+        "frameNumber": 585,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "016400/0585",
+        "reelNumber": 16400
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "400 West Market Street",
+        "addressLineTwoText": "Suite 2000",
+        "cityName": "Louisville",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "KY",
+        "geographicRegionName": "KENTUCKY",
+        "nameLineOneText": "WYATT, TARRANT & COMBS, LLP",
+        "nameLineTwoText": "Attention: Lynn Minton, Paralegal",
+        "postalCode": "40202"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-23",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-03",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-20",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-20",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-06",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-06",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-11-06",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-10-19",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2006-09-25",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2006-09-19",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-10-19",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-10-19",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-08-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-08-25",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2005-08-18",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-08-18",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-06-16",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-05-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T16:23:18",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "500 WEST JEFFERSON STREET",
+              "addressLineTwoText": "SUITE 2800",
+              "cityName": "LOUISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KY",
+              "geographicRegionName": "KENTUCKY",
+              "nameLineOneText": "WYATT, TARRANT & COMBS, LLP",
+              "postalCode": "40202"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "WILLIAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "502-589-5235"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PNC PLAZA",
+              "addressLineTwoText": "500 W. JEFFERSON ST., SUITE 2800",
+              "cityName": "LOUISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KY",
+              "geographicRegionName": "KENTUCKY",
+              "nameLineOneText": "WYATT, TARRANT & COMBS, LLC",
+              "postalCode": "40202"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "HALL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57339",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "502-562-7355"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "400 W. MARKET STREET",
+              "addressLineTwoText": "SUITE 2000",
+              "cityName": "LOUISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KY",
+              "geographicRegionName": "KENTUCKY",
+              "nameLineOneText": "BRICKER GRAYDON WYATT LLP",
+              "postalCode": "40202"
+            }
+          ],
+          "firstName": "MAX",
+          "lastName": "BRIDGES",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76099",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "502-562-7248"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PO BOX 210287",
+              "cityName": "NASHVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "SCHELLING IP LAW, PLLC",
+              "postalCode": "37221"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "SCHELLING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48335",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "615-414-0478"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "DECEASED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1715 AARON BRENNER DR STE 800",
+              "cityName": "MEMPHIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "WYATT TARRANT AND COMBS LLP",
+              "postalCode": "38120"
+            }
+          ],
+          "firstName": "HOWARD",
+          "lastName": "BERKENSTOCK",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24719",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "901-537-1000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/184"
+}

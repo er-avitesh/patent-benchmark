@@ -1,0 +1,351 @@
+{
+  "applicant": "Jianhua Yang",
+  "application_number": "29939628",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29939628_D1050551.xml",
+  "filing_date": "2024-04-28",
+  "grant_date": "2024-11-05",
+  "invention_title": "Hold the Moon Astronaut Projection Lamp",
+  "label": "positive",
+  "patent_number": "D1050551",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Jianhua Yang",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Chenzhou",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Yang, Jianhua",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jianhua",
+          "lastName": "Yang"
+        }
+      ],
+      "applicationConfirmationNumber": 1156,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-16",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 185322,
+      "docketNumber": "MAX00008USD",
+      "effectiveFilingDate": "2024-04-28",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "ROTOLO, ANTHONY VINCENT",
+      "filingDate": "2024-04-28",
+      "firstApplicantName": "Jianhua Yang",
+      "firstInventorName": "Jianhua YANG",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-05",
+      "groupArtUnitNumber": "2932",
+      "inventionTitle": "Hold the Moon Astronaut Projection Lamp",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Chenzhou",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "YANG,Jianhua",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Chenzhou",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "YANG,Jianhua",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jianhua",
+          "inventorNameText": "Jianhua YANG",
+          "lastName": "YANG"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1050551",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "99",
+      "uspcSymbolText": "D26/99"
+    },
+    "applicationNumberText": "29939628",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1600 Perrineville Rd",
+        "addressLineTwoText": "Suite 2-400",
+        "cityName": "Monroe Township",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NJ",
+        "geographicRegionName": "NEW JERSEY",
+        "nameLineOneText": "Nitin Kaushik",
+        "postalCode": "08831"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-03",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-03",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-26",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-26",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-07-16",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-05-10",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2024-05-06",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-05T09:11:45",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241105/29939628_D1050551.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29939628_D1050551.xml",
+      "zipFileName": "ipg241105.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 LERER LANE",
+              "cityName": "STATEN ISLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10307"
+            }
+          ],
+          "firstName": "NITIN",
+          "lastName": "KAUSHIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80417",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-560-7265"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 185322,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1600 Perrineville Rd",
+            "addressLineTwoText": "Suite 2-400",
+            "cityName": "Monroe Township",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NJ",
+            "geographicRegionName": "NEW JERSEY",
+            "nameLineOneText": "Nitin Kaushik",
+            "postalCode": "08831"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 PERRINEVILLE RD",
+              "addressLineTwoText": "STE 2-400",
+              "cityName": "MONROE TOWNSHIP",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "08831"
+            }
+          ],
+          "firstName": "NITIN",
+          "lastName": "KAUSHIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80417",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-560-7265"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/99"
+}

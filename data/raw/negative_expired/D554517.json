@@ -1,0 +1,1544 @@
+{
+  "applicant": null,
+  "application_number": "29258143",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-06 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-17",
+  "grant_date": "2007-11-06",
+  "invention_title": "CONTAINER",
+  "label": "negative",
+  "patent_number": "D554517",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3601,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-17",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 277,
+      "docketNumber": "CUM01 P306",
+      "effectiveFilingDate": "2006-04-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "OSWECKI, ELIZABETH J",
+      "filingDate": "2006-04-17",
+      "firstInventorName": "Kurt V. Breitlander",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-06",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "CONTAINER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Murfreesboro",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "Kurt V. Breitlander",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Kurt",
+          "inventorNameText": "Kurt V. Breitlander",
+          "lastName": "Breitlander",
+          "middleName": "V."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D554517",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "558",
+      "uspcSymbolText": "D9/558"
+    },
+    "applicationNumberText": "29258143",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE SWAN DRIVE",
+              "cityName": "SMYRNA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "ictCountryCode": "US",
+              "ictStateCode": "TN",
+              "postalCode": "37167"
+            },
+            "assigneeNameText": "CUMBERLAND SWAN HOLDINGS, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17785/176",
+        "assignmentMailedDate": "2006-06-14",
+        "assignmentReceivedDate": "2006-04-24",
+        "assignmentRecordedDate": "2006-04-17",
+        "assignorBag": [
+          {
+            "assignorName": "BREITLANDER, KURT V.",
+            "executionDate": "2006-03-22"
+          }
+        ],
+        "attorneyDocketNumber": "CUM01 P306",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "GRAND RAPIDS, MI 49501",
+          "addressLineOneText": "PRICE, HENEVELD, COOPER, DEWITT &",
+          "addressLineThreeText": "POST OFFICE BOX 2567",
+          "addressLineTwoText": "LITTON, LLP",
+          "correspondentNameText": "MR. H. W. REICK"
+        },
+        "frameNumber": 176,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "017785/0176",
+        "reelNumber": 17785
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8515 PAGE AVE.",
+              "cityName": "ST. LOUIS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "ictCountryCode": "US",
+              "ictStateCode": "MO",
+              "postalCode": "63114"
+            },
+            "assigneeNameText": "VI-JON, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/29301/843",
+        "assignmentMailedDate": "2012-11-16",
+        "assignmentReceivedDate": "2012-11-15",
+        "assignmentRecordedDate": "2012-11-15",
+        "assignorBag": [
+          {
+            "assignorName": "CUMBERLAND SWAN HOLDINGS, INC.",
+            "executionDate": "2006-12-31"
+          }
+        ],
+        "attorneyDocketNumber": "9226-3",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "ARMSTRONG TEASDALE LLP",
+          "addressLineThreeText": "ST. LOUIS, MO 63105",
+          "addressLineTwoText": "7700 FORSYTH BLVD., SUITE 1800",
+          "correspondentNameText": "DAVID B. JENNINGS"
+        },
+        "frameNumber": 843,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 14,
+        "reelAndFrameNumber": "029301/0843",
+        "reelNumber": 29301
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "135 S. LASALLE STREET",
+              "addressLineTwoText": "SUITE 927",
+              "cityName": "CHICAGO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "ictCountryCode": "US",
+              "ictStateCode": "IL",
+              "postalCode": "60603"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/29711/304",
+        "assignmentMailedDate": "2013-01-30",
+        "assignmentReceivedDate": "2013-01-29",
+        "assignmentRecordedDate": "2013-01-29",
+        "assignorBag": [
+          {
+            "assignorName": "VI-JON, INC.",
+            "executionDate": "2013-01-28"
+          }
+        ],
+        "conveyanceText": "PATENT SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "ONE STATE STREET",
+          "addressLineThreeText": "HARTFORD, CT 06103",
+          "addressLineTwoText": "BINGHAM MCCUTCHEN LLP",
+          "correspondentNameText": "MICHELLE WALTERS FOURNIER"
+        },
+        "frameNumber": 304,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "029711/0304",
+        "reelNumber": 29711
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "101 N. TRYON STREET",
+              "cityName": "CHARLOTTE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "ictCountryCode": "US",
+              "ictStateCode": "NC",
+              "postalCode": "28255"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/53574/16",
+        "assignmentMailedDate": "2020-08-25",
+        "assignmentReceivedDate": "2020-08-24",
+        "assignmentRecordedDate": "2020-08-24",
+        "assignorBag": [
+          {
+            "assignorName": "VI-JON, INC.",
+            "executionDate": "2020-08-21"
+          }
+        ],
+        "attorneyDocketNumber": "1256965",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1025 VERMONT AVE NW, SUITE 1130",
+          "addressLineThreeText": "WASHINGTON, DC 20005",
+          "addressLineTwoText": "COGENCY GLOBAL INC.",
+          "correspondentNameText": "JOANNA MCCALL"
+        },
+        "frameNumber": 16,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "053574/0016",
+        "reelNumber": 53574
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8800 PAGE AVENUE",
+              "cityName": "ST. LOUIS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "ictCountryCode": "US",
+              "ictStateCode": "MO",
+              "postalCode": "63114"
+            },
+            "assigneeNameText": "VI-JON, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/54027/115",
+        "assignmentMailedDate": "2020-10-13",
+        "assignmentReceivedDate": "2020-10-08",
+        "assignmentRecordedDate": "2020-10-08",
+        "assignorBag": [
+          {
+            "assignorName": "VI-JON, INC.",
+            "executionDate": "2020-08-21"
+          }
+        ],
+        "attorneyDocketNumber": "9226-3",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "7700 FORSYTH BLVD, STE 1800",
+          "addressLineThreeText": "ST. LOUIS, MO 63105",
+          "addressLineTwoText": "SUITE 1800",
+          "correspondentNameText": "PATENT DOCKET DEPT ARMSTRONG TEASDALE LLP"
+        },
+        "frameNumber": 115,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "054027/0115",
+        "reelNumber": 54027
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8800 PAGE AVENUE",
+              "cityName": "ST. LOUIS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "ictCountryCode": "US",
+              "ictStateCode": "MO",
+              "postalCode": "63114"
+            },
+            "assigneeNameText": "VI-JON, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/55503/270",
+        "assignmentMailedDate": "2021-03-08",
+        "assignmentReceivedDate": "2021-03-04",
+        "assignmentRecordedDate": "2021-03-04",
+        "assignorBag": [
+          {
+            "assignorName": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+            "executionDate": "2021-03-03"
+          }
+        ],
+        "attorneyDocketNumber": "017625.005273",
+        "conveyanceText": "RELEASE OF INTELLECTUAL PROPERTY COLLATERAL RECORDED AT REEL/FRAME: 053574/0016",
+        "correspondenceAddress": {
+          "addressLineOneText": "100 NORTH TRYON STREET",
+          "addressLineThreeText": "CHARLOTTE, NC 28202",
+          "addressLineTwoText": "SUITE 4700, ATTN: IP DEPARTMENT",
+          "correspondentNameText": "MOORE & VAN ALLEN PLLC"
+        },
+        "frameNumber": 270,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 14,
+        "reelAndFrameNumber": "055503/0270",
+        "reelNumber": 55503
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8800 PAGE AVENUE",
+              "cityName": "ST. LOUIS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "ictCountryCode": "US",
+              "ictStateCode": "MO",
+              "postalCode": "63114"
+            },
+            "assigneeNameText": "VI-JON, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/55503/361",
+        "assignmentMailedDate": "2021-03-08",
+        "assignmentReceivedDate": "2021-03-04",
+        "assignmentRecordedDate": "2021-03-04",
+        "assignorBag": [
+          {
+            "assignorName": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+            "executionDate": "2021-03-03"
+          }
+        ],
+        "attorneyDocketNumber": "017625.005273",
+        "conveyanceText": "RELEASE OF INTELLECTUAL PROPERTY COLLATERAL RECORDED AT REEL/FRAME: 029711/0304",
+        "correspondenceAddress": {
+          "addressLineOneText": "100 NORTH TRYON STREET",
+          "addressLineThreeText": "CHARLOTTE, NC 28202",
+          "addressLineTwoText": "SUITE 4700, ATTN: IP DEPARTMENT",
+          "correspondentNameText": "MOORE & VAN ALLEN PLLC"
+        },
+        "frameNumber": 361,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 13,
+        "reelAndFrameNumber": "055503/0361",
+        "reelNumber": 55503
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "135 SOUTH LASALLE STREET",
+              "addressLineTwoText": "MAIL CODE: IL4-135-09-61",
+              "cityName": "CHICAGO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "ictCountryCode": "US",
+              "ictStateCode": "IL",
+              "postalCode": "60603"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/55514/532",
+        "assignmentMailedDate": "2021-03-08",
+        "assignmentReceivedDate": "2021-03-05",
+        "assignmentRecordedDate": "2021-03-05",
+        "assignorBag": [
+          {
+            "assignorName": "VI-JON, LLC",
+            "executionDate": "2021-03-03"
+          }
+        ],
+        "attorneyDocketNumber": "017625.005273",
+        "conveyanceText": "PATENT SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "100 NORTH TRYON STREET",
+          "addressLineThreeText": "CHARLOTTE, NC 28202",
+          "addressLineTwoText": "SUITE 4700, ATTN: IP DEPARTMENT",
+          "correspondentNameText": "MOORE & VAN ALLEN PLLC"
+        },
+        "frameNumber": 532,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "055514/0532",
+        "reelNumber": 55514
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "8800 PAGE AVENUE",
+              "cityName": "ST. LOUIS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "ictCountryCode": "US",
+              "ictStateCode": "MO",
+              "postalCode": "63114"
+            },
+            "assigneeNameText": "VI-JON, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/66050/610",
+        "assignmentMailedDate": "2024-01-09",
+        "assignmentReceivedDate": "2024-01-08",
+        "assignmentRecordedDate": "2024-01-08",
+        "assignorBag": [
+          {
+            "assignorName": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+            "executionDate": "2023-12-27"
+          }
+        ],
+        "attorneyDocketNumber": "27241.00011",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1850 K STREET, NW, SUITE 1100",
+          "addressLineThreeText": "WASHINGTON, DC 20006",
+          "addressLineTwoText": "MILBANK, LLP",
+          "correspondentNameText": "JAVIER J. RAMOS, ESQ."
+        },
+        "frameNumber": 610,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "066050/0610",
+        "reelNumber": 66050
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "3400 INNOVATION CT. SE",
+        "addressLineTwoText": "P O BOX 2567",
+        "cityName": "GRAND RAPIDS",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "PRICE HENEVELD LLP",
+        "postalCode": "49501"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "VFEE",
+        "eventDate": "2008-11-05",
+        "eventDescriptionText": "Reverse Issue Fee"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2008-11-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-06",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-31",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-31",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-06-25",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-11",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-11",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-31",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-04-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-05-26",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-05-15",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-05-16",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T21:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "TERRY",
+          "lastName": "CALLAGHAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "34559",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVENUE, S.E.",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD, LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "GRZELAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35169",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "UNDERWOOD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35727",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD COOPER DE WITT AND LITTON",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "KAPTEYN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41883",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "GIPSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "AINSWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45808",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501-256"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HAGES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57110",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PO BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "BUDD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57937",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR, S.E.",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD COOPER DEWITT & LITTON",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "CHESLEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58329",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61871",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR S.E.",
+              "addressLineTwoText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "STARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63220",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "PO BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "HOOVLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73871",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVE SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "CAITLYN",
+          "lastName": "SILVERBLATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501-256"
+            }
+          ],
+          "firstName": "ALANNAH",
+          "lastName": "WITHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77767",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVE SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WILLARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78583",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2600 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "DICKERSON WRIGHT",
+              "postalCode": "48084-331"
+            }
+          ],
+          "firstName": "RUSSELL",
+          "lastName": "FRANKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-513-7079"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVE SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "QUINN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81562",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "161-697-78283"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4465 KENNETH DR. UNIT D-205",
+              "cityName": "OKEMOS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "48864"
+            }
+          ],
+          "firstName": "COLLIN",
+          "lastName": "KERKSTRA",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82590",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-617-1524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3400 INNOVATION COURT SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49512"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "ADDONIZIO",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 277,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "3400 INNOVATION CT. SE",
+            "addressLineTwoText": "P O BOX 2567",
+            "cityName": "GRAND RAPIDS",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MI",
+            "geographicRegionName": "MICHIGAN",
+            "nameLineOneText": "PRICE HENEVELD LLP",
+            "postalCode": "49501"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "AINSWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45808",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2600 W. BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "DICKERSON WRIGHT",
+              "postalCode": "48084-331"
+            }
+          ],
+          "firstName": "RUSSELL",
+          "lastName": "FRANKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-513-7079"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD COOPER DE WITT AND LITTON",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "KAPTEYN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41883",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR S.E.",
+              "addressLineTwoText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "STARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63220",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3400 INNOVATION CT SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "49512"
+            }
+          ],
+          "firstName": "COLLIN",
+          "lastName": "KERKSTRA",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82590",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-617-1524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVENUE, S.E.",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD, LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "GRZELAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35169",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "PO BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "HOOVLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73871",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3400 INNOVATION CT, GRAND RAPIDS, MI 49512",
+              "addressLineTwoText": "PO BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "AUSTIN",
+          "lastName": "KAMER",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82405",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "UNDERWOOD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35727",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "GIPSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3400 INNOVATION COURT SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49512"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "ADDONIZIO",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83422",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3400 INNOVATION CT",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49512"
+            }
+          ],
+          "firstName": "ALYSSA",
+          "lastName": "SHERRY",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83557",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "216-390-0876"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501-256"
+            }
+          ],
+          "firstName": "ALANNAH",
+          "lastName": "WITHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77767",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "TERRY",
+          "lastName": "CALLAGHAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "34559",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR, S.E.",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD COOPER DEWITT & LITTON",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "CHESLEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58329",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "PO BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "BUDD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57937",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR SE",
+              "addressLineTwoText": "P O BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61871",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 2567",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49501-256"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HAGES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57110",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "695 KENMOOR AVE SE",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PRICE HENEVELD LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "CAITLYN",
+          "lastName": "SILVERBLATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "616-949-9610"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/558"
+}

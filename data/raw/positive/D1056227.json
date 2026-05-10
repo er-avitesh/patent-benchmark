@@ -1,0 +1,382 @@
+{
+  "applicant": null,
+  "application_number": "29910062",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29910062_D1056227.xml",
+  "filing_date": "2023-08-15",
+  "grant_date": "2024-12-31",
+  "invention_title": "HAND WARMER",
+  "label": "positive",
+  "patent_number": "D1056227",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7585,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 184200,
+      "docketNumber": "2023-PA-5019",
+      "effectiveFilingDate": "2023-08-15",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "LAYMON, WAN",
+      "filingDate": "2023-08-15",
+      "firstInventorName": "GAOYU LIU",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "HAND WARMER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "LIU,GAOYU",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "LIU,GAOYU",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "GAOYU",
+          "inventorNameText": "GAOYU LIU",
+          "lastName": "LIU"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1056227",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "206",
+      "uspcSymbolText": "D24/206"
+    },
+    "applicationNumberText": "29910062",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "11601  Shadow Creek Pkwy Suite 111-406",
+        "cityName": "Pearland",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TX",
+        "geographicRegionName": "TEXAS",
+        "nameLineOneText": "IPspeedy Intellectual Property Inc.",
+        "postalCode": "77584"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-23",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2023-09-29",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-09-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-09-28",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-09-28",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-09-29",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-09-29",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2023-09-28",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "202330482211.3",
+        "filingDate": "2023-07-31",
+        "ipOfficeName": "CHINA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:14",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29910062_D1056227.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29910062_D1056227.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T11:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "17829 FERNWAY RD",
+              "cityName": "SHAKER HEIGHTS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "44122"
+            }
+          ],
+          "firstName": "GEORGI",
+          "lastName": "KOROBANOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74310",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-464-3948"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2153 BUFORD TOWN DR",
+              "cityName": "BUFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "JEEN IP LAW, LLC",
+              "postalCode": "30518"
+            }
+          ],
+          "firstName": "JEENAM",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-528-3699"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 184200,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "11601  Shadow Creek Pkwy Suite 111-406",
+            "cityName": "Pearland",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "TX",
+            "geographicRegionName": "TEXAS",
+            "nameLineOneText": "IPspeedy Intellectual Property Inc.",
+            "postalCode": "77584"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "17829 FERNWAY RD",
+              "cityName": "SHAKER HEIGHTS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "44122"
+            }
+          ],
+          "firstName": "GEORGI",
+          "lastName": "KOROBANOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74310",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-464-3948"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2153 BUFORD TOWN DR",
+              "cityName": "BUFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "JEEN IP LAW, LLC",
+              "postalCode": "30518"
+            }
+          ],
+          "firstName": "JEENAM",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-528-3699"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7610 APRIL COURT",
+              "cityName": "NORTH RICHLAND HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "76182"
+            }
+          ],
+          "firstName": "ABD ALMONEM",
+          "lastName": "DOOLAANEA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83079",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "430-295-6803"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/206"
+}

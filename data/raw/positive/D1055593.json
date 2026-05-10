@@ -1,0 +1,256 @@
+{
+  "applicant": "EUROMOBILE INTERIORES S/A",
+  "application_number": "35520750",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/35520750_D1055593.xml",
+  "filing_date": "2024-03-04",
+  "grant_date": "2024-12-31",
+  "invention_title": "Side table",
+  "label": "positive",
+  "patent_number": "D1055593",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "EUROMOBILE INTERIORES S/A",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "OSASCO",
+              "countryCode": "BR",
+              "countryName": "BRAZIL",
+              "nameLineOneText": "EUROMOBILE INTERIORES S/A",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2158,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "effectiveFilingDate": "2024-03-04",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "CHRISTEON, MICHELLE MARQUART",
+      "filingDate": "2024-03-04",
+      "firstApplicantName": "EUROMOBILE INTERIORES S/A",
+      "firstInventorName": "Patricia Anastassiadis",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2915",
+      "internationalRegistrationNumber": "DM236556",
+      "internationalRegistrationPublicationDate": "2024-05-03",
+      "inventionTitle": "Side table",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "S\u00e2o Paulo",
+              "countryCode": "BR",
+              "countryName": "BRAZIL",
+              "nameLineOneText": "Patricia Anastassiadis",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "S\u00e2o Paulo",
+              "countryCode": "BR",
+              "countryName": "BRAZIL",
+              "nameLineOneText": "Patricia Anastassiadis",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Patricia",
+          "inventorNameText": "Patricia Anastassiadis",
+          "lastName": "Anastassiadis"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055593",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "691.1",
+      "uspcSymbolText": "D6/691.1"
+    },
+    "applicationNumberText": "35520750",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "AV DOS REMEDIOS, 609",
+        "addressLineTwoText": "SAO PAULO",
+        "cityName": "OSASCO",
+        "countryCode": "BR",
+        "countryName": "BRAZIL",
+        "nameLineOneText": "EUROMOBILE INTERIORES S/A",
+        "postalCode": "06298-004"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "TSTGR",
+        "eventDate": "2025-01-02",
+        "eventDescriptionText": "Transmit Statement of Grant to I.B. (Hague)"
+      },
+      {
+        "eventCode": "STGR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Statement Of Grant (Hague)"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-25",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-25",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "IFEEHA",
+        "eventDate": "2024-11-22",
+        "eventDescriptionText": "Issue Fee Data Received from I.B. (Hague)"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2024-09-23",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2024-09-21",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "PUBTC",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Pubs Case Remand to TC"
+      },
+      {
+        "eventCode": "TN/=.HA",
+        "eventDate": "2024-09-03",
+        "eventDescriptionText": "Transmit Notice of Allowance to I.B. (Hague)"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-03",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-31",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-05-09",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-05-09",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-05-09",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-05-09",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-03-04",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "NWREIBHA",
+        "eventDate": "2024-05-06",
+        "eventDescriptionText": "Receipt of New Application from I.B. (Hague)"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-05-06",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-05-06",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:11",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/35520750_D1055593.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "35520750_D1055593.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T08:00:04"
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/691.1"
+}

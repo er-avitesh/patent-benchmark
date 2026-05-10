@@ -1,0 +1,434 @@
+{
+  "applicant": "Ningbo Zhenhai Keyda Magnet Co., Ltd.",
+  "application_number": "29946257",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241008/29946257_D1045582.xml",
+  "filing_date": "2024-06-07",
+  "grant_date": "2024-10-08",
+  "invention_title": "Magnet Hook",
+  "label": "positive",
+  "patent_number": "D1045582",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Ningbo Zhenhai Keyda Magnet Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ningbo",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Ningbo Zhenhai Keyda Magnet Co., Ltd.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 8593,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-09-18",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 199448,
+      "docketNumber": "0121-0014/NBZH1001DUS",
+      "effectiveFilingDate": "2024-06-07",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "UNDERWOOD, CYNTHIA R",
+      "filingDate": "2024-06-07",
+      "firstApplicantName": "Ningbo Zhenhai Keyda Magnet Co., Ltd.",
+      "firstInventorName": "Mingmin CHEN",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-10-08",
+      "groupArtUnitNumber": "2918",
+      "inventionTitle": "Magnet Hook",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ningbo",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "CHEN,Mingmin",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Ningbo",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "CHEN,Mingmin",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Mingmin",
+          "inventorNameText": "Mingmin CHEN",
+          "lastName": "CHEN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1045582",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "367",
+      "uspcSymbolText": "D8/367"
+    },
+    "applicationNumberText": "29946257",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 216 JIUSHUFANG ROAD",
+              "addressLineTwoText": "LUOTUO STREET, ZHENHAI DISTRICT",
+              "cityName": "NINGBO",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN"
+            },
+            "assigneeNameText": "NINGBO ZHENHAI KEYDA MAGNET CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/67651/555",
+        "assignmentMailedDate": "2024-06-08",
+        "assignmentReceivedDate": "2024-06-07",
+        "assignmentRecordedDate": "2024-06-07",
+        "assignorBag": [
+          {
+            "assignorName": "CHEN, MINGMIN",
+            "executionDate": "2024-06-07"
+          }
+        ],
+        "attorneyDocketNumber": "0121-0014/NBZH1001DUS",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "IPPIVOT PATENT AGENCY",
+          "addressLineThreeText": "FAIRFAX, VA 22033",
+          "addressLineTwoText": "4000 LEGATO RD STE 1100",
+          "correspondentNameText": "ALEX HU"
+        },
+        "frameNumber": 555,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "067651/0555",
+        "reelNumber": 67651
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2024-08-05",
+        "childApplicationNumberText": "29956031",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D1050864",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationNumberText": "29946257"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "4000 Legato Road",
+        "addressLineTwoText": "Suite 1100",
+        "cityName": "Fairfax",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "ipPivot IP Agency",
+        "nameLineTwoText": "Winston",
+        "postalCode": "22033"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-06-13",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-06-13",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-09-18",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-09-18",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-08-23",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-08-23",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-08",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-18",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2024-07-18",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-07-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-07-03",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-07-02",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-07-01",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-06-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-06-10",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-06-10",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-06-11",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-06-11",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2024-06-10",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-10-08T08:10:09",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241008/29946257_D1045582.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29946257_D1045582.xml",
+      "zipFileName": "ipg241008.zip"
+    },
+    "lastIngestionDateTime": "2026-04-15T02:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4000 LEGATO ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "FAIRFAX",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "IPPIVOT PATENT AGENCY",
+              "postalCode": "22033"
+            }
+          ],
+          "firstName": "ALEX",
+          "lastName": "HU",
+          "middleName": "CHIHKUEI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77909",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-306-2230"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 199448,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "4000 Legato Road",
+            "addressLineTwoText": "Suite 1100",
+            "cityName": "Fairfax",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "ipPivot IP Agency",
+            "nameLineTwoText": "Winston",
+            "postalCode": "22033"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4000 LEGATO ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "FAIRFAX",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "IPPIVOT PATENT AGENCY",
+              "postalCode": "22033"
+            }
+          ],
+          "firstName": "ALEX",
+          "lastName": "HU",
+          "middleName": "CHIHKUEI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77909",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-306-2230"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/367"
+}

@@ -1,0 +1,336 @@
+{
+  "applicant": "Zhongshan Mingcai Intelligent Lighting Technology Co., Ltd",
+  "application_number": "29955332",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29955332_D1051473.xml",
+  "filing_date": "2024-07-31",
+  "grant_date": "2024-11-12",
+  "invention_title": "Floor Lamp",
+  "label": "positive",
+  "patent_number": "D1051473",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Zhongshan Mingcai Intelligent Lighting Technology Co., Ltd",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Zhongshan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Zhongshan Mingcai Intelligent Lighting Technology",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2325,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-23",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 182605,
+      "docketNumber": "240718_FloorLamp",
+      "effectiveFilingDate": "2024-07-31",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SAMUEL, CLINT A",
+      "filingDate": "2024-07-31",
+      "firstApplicantName": "Zhongshan Mingcai Intelligent Lighting Technology Co., Ltd",
+      "firstInventorName": "Shuangfei Song",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-12",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "Floor Lamp",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Zhuhai",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Shuangfei Song",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Zhuhai, Guangdong",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Shuangfei Song",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Shuangfei",
+          "inventorNameText": "Shuangfei Song",
+          "lastName": "Song"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051473",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "93",
+      "uspcSymbolText": "D26/93"
+    },
+    "applicationNumberText": "29955332",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1323 W Middlefield Rd",
+        "cityName": "Mountain View",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "Vladimir Postnikov",
+        "postalCode": "94043"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-08-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-08-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-08-05",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-12T09:08:01",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29955332_D1051473.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29955332_D1051473.xml",
+      "zipFileName": "ipg241112.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 TOMPKINS ST.",
+              "cityName": "BINGHAMTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "13903-221"
+            }
+          ],
+          "firstName": "VLADIMIR",
+          "lastName": "POSTNIKOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "570-661-1858"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 182605,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1323 W Middlefield Rd",
+            "cityName": "Mountain View",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "Vladimir Postnikov",
+            "postalCode": "94043"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "64 TOMPKINS ST.",
+              "cityName": "BINGHAMTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "13903-221"
+            }
+          ],
+          "firstName": "VLADIMIR",
+          "lastName": "POSTNIKOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "570-661-1858"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/93"
+}

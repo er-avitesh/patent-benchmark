@@ -1,0 +1,250 @@
+{
+  "applicant": null,
+  "application_number": "29272384",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-30 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-02-07",
+  "grant_date": "2007-10-30",
+  "invention_title": "CHAIR HAVING A SWINGING SEAT",
+  "label": "negative",
+  "patent_number": "D553871",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 5880,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-10",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 21907,
+      "docketNumber": "28800.021",
+      "effectiveFilingDate": "2007-02-07",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "DE, MIMOSA",
+      "filingDate": "2007-02-07",
+      "firstInventorName": "Arsho Diramarian",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-30",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "CHAIR HAVING A SWINGING SEAT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Pasadena",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Arsho  Diramarian",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Arsho",
+          "inventorNameText": "Arsho Diramarian",
+          "lastName": "Diramarian"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553871",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "372",
+      "uspcSymbolText": "D6/372"
+    },
+    "applicationNumberText": "29272384",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1737 E. WASHINGTON BLVD.",
+              "addressLineTwoText": "NO. 5",
+              "cityName": "PASADENA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "91104"
+            },
+            "assigneeNameText": "COMFORT CHAIR, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18960/703",
+        "assignmentMailedDate": "2007-03-05",
+        "assignmentReceivedDate": "2007-02-27",
+        "assignmentRecordedDate": "2007-02-07",
+        "assignorBag": [
+          {
+            "assignorName": "DIRAMARIAN, ARSHO",
+            "executionDate": "2007-02-02"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "SUITE 220",
+          "addressLineThreeText": "TARZANA, CA 91356-3346",
+          "addressLineTwoText": "18757 BURBANK BOULEVARD",
+          "correspondentNameText": "THOMAS I. ROZSA, ESQ."
+        },
+        "frameNumber": 703,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "018960/0703",
+        "reelNumber": 18960
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "18757 BURBANK BOULEVARD",
+        "addressLineTwoText": "SUITE 220",
+        "cityName": "TARZANA",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "ROZSA LAW GROUP LC",
+        "postalCode": "91356-3346"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-30",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-18",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-09",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-09",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-05-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-04-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-03-15",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-03-02",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-03-05",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-02-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-15T05:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "18757 BURBANK BOULEVARD, SUITE 220",
+              "cityName": "TARZANA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ROZSA LAW GROUP LC",
+              "postalCode": "91356-334"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "ROZSA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "818-783-0990"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "18757 BURBANK BOULEVARD, SUITE 220",
+              "cityName": "TARZANA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ROZSA LAW GROUP LC",
+              "postalCode": "91356-334"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "ROZSA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29210",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "818-783-0990"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/372"
+}

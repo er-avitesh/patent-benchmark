@@ -1,0 +1,435 @@
+{
+  "applicant": null,
+  "application_number": "29265261",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-29",
+  "grant_date": "2007-11-13",
+  "invention_title": "DOOR LOCK ESCUTCHEON",
+  "label": "negative",
+  "patent_number": "D554974",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8347,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 23400,
+      "docketNumber": "VX062752",
+      "effectiveFilingDate": "2006-08-29",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "GOODWIN, MARK ALAN",
+      "filingDate": "2006-08-29",
+      "firstInventorName": "Chia-Chi Huang",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "DOOR LOCK ESCUTCHEON",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Kaohsiung Hsien",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Chia-Chi  Huang",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Chia-Chi",
+          "inventorNameText": "Chia-Chi Huang",
+          "lastName": "Huang"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D554974",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "350",
+      "uspcSymbolText": "D8/350"
+    },
+    "applicationNumberText": "29265261",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 55-10, BEENCHOU RD.",
+              "cityName": "KANGSHAN CHEN, KAOHSIUNG HSIEN",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW"
+            },
+            "assigneeNameText": "TAIWAN FU HSING INDUSTRIAL CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18255/687",
+        "assignmentMailedDate": "2006-09-15",
+        "assignmentReceivedDate": "2006-09-06",
+        "assignmentRecordedDate": "2006-08-29",
+        "assignorBag": [
+          {
+            "assignorName": "HUANG, CHIA-CHI",
+            "executionDate": "2006-08-22"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "RESTON, VA 20191",
+          "addressLineOneText": "POSZ LAW GROUP, PLC",
+          "addressLineThreeText": "SUITE 101",
+          "addressLineTwoText": "12040 SOUTH LAKES DRIVE",
+          "correspondentNameText": "R. EUGENE VARNDELL, JR."
+        },
+        "frameNumber": 687,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018255/0687",
+        "reelNumber": 18255
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+        "addressLineTwoText": "SUITE 202",
+        "cityName": "RESTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "POSZ LAW GROUP, PLC",
+        "postalCode": "20191"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-18",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-06",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-14",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-14",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2006-12-07",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-09-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-09-15",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-09-14",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-09-15",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-29",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-13T06:33:29",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "RALPH",
+          "lastName": "VARNDELL",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29728",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTHLAKES DR.  STE 101",
+              "cityName": "RESTON",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BARLOW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32377",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "CYNTHIA",
+          "lastName": "STEPHENSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36880",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "ALTMILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "POSZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37701",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "ALPERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59926",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "THERESE",
+          "lastName": "VARNDELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67612",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 S. LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "EMILY",
+          "lastName": "SENN",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79384",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12040 SOUTH LAKES DRIVE",
+              "addressLineTwoText": "SUITE 101",
+              "cityName": "RESTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "POSZ LAW GROUP, PLC",
+              "postalCode": "20191"
+            }
+          ],
+          "firstName": "RALPH",
+          "lastName": "VARNDELL",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29728",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-707-9110"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/350"
+}

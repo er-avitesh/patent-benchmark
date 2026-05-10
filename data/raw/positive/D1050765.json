@@ -1,0 +1,377 @@
+{
+  "applicant": null,
+  "application_number": "29951213",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29951213_D1050765.xml",
+  "filing_date": "2024-07-08",
+  "grant_date": "2024-11-12",
+  "invention_title": "Reading Pillow",
+  "label": "positive",
+  "patent_number": "D1050765",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4603,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-23",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 195993,
+      "docketNumber": "FB2024064D",
+      "effectiveFilingDate": "2024-07-08",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "FOLKART, JULIA SAMANTHA",
+      "filingDate": "2024-07-08",
+      "firstInventorName": "Yuyang Chen",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-12",
+      "groupArtUnitNumber": "2926",
+      "inventionTitle": "Reading Pillow",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ningbo",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Chen,Yuyang",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Ningbo",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Chen,Yuyang",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yuyang",
+          "inventorNameText": "Yuyang Chen",
+          "lastName": "Chen"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1050765",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "601",
+      "uspcSymbolText": "D6/601"
+    },
+    "applicationNumberText": "29951213",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "50 West Broadway",
+        "addressLineTwoText": "Suite 900",
+        "cityName": "Salt Lake City",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "UT",
+        "geographicRegionName": "UTAH",
+        "nameLineOneText": "Kunzler Needham & Hilton",
+        "postalCode": "84101"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-07-15",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-07-15",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-19",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-07-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-07-23",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-07-18",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-07-16",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-07-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-07-10",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-07-10",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-07-11",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-07-11",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2024-07-10",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-07-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-12T09:07:58",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29951213_D1050765.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29951213_D1050765.xml",
+      "zipFileName": "ipg241112.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY, 10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KUNZLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "PITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80514",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 195993,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "50 West Broadway",
+            "addressLineTwoText": "Suite 900",
+            "cityName": "Salt Lake City",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "UT",
+            "geographicRegionName": "UTAH",
+            "nameLineOneText": "Kunzler Needham & Hilton",
+            "postalCode": "84101"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "PITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80514",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY, 10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KUNZLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/601"
+}

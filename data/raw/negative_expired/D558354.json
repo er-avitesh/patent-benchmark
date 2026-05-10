@@ -1,0 +1,745 @@
+{
+  "applicant": null,
+  "application_number": "29272574",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-02-09",
+  "grant_date": "2007-12-25",
+  "invention_title": "PACIFIER",
+  "label": "negative",
+  "patent_number": "D558354",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3252,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 38137,
+      "docketNumber": "207,978",
+      "effectiveFilingDate": "2007-02-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "KRAKOWER, SUSAN E",
+      "filingDate": "2007-02-09",
+      "firstInventorName": "Peter Roehrig",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "PACIFIER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Vienna",
+              "countryCode": "AT",
+              "countryName": "AUSTRIA",
+              "nameLineOneText": "Peter  Roehrig",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "AT",
+          "firstName": "Peter",
+          "inventorNameText": "Peter Roehrig",
+          "lastName": "Roehrig"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558354",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "194",
+      "uspcSymbolText": "D24/194"
+    },
+    "applicationNumberText": "29272574",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "LORENZ-MANDL-GASSE 50",
+              "cityName": "1160 VIENNA",
+              "countryName": "AUSTRIA",
+              "geographicRegionCode": "ATX",
+              "ictCountryCode": "AT"
+            },
+            "assigneeNameText": "MAM  BABYARTIKEL GESELLSCHAFT M.B.H."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18965/660",
+        "assignmentMailedDate": "2007-03-06",
+        "assignmentReceivedDate": "2007-02-27",
+        "assignmentRecordedDate": "2007-02-09",
+        "assignorBag": [
+          {
+            "assignorName": "ROEHRIG, PETER",
+            "executionDate": "2007-02-05"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "666 THIRD AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10017-5621",
+          "addressLineTwoText": "10TH FLOOR",
+          "correspondentNameText": "ABELMAN FRAYNE & SCHWAB"
+        },
+        "frameNumber": 660,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018965/0660",
+        "reelNumber": 18965
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "405 LEXINGTON AVENUE,",
+        "addressLineTwoText": "Floor 48",
+        "cityName": "NEW YORK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "AMSTER, ROTHSTEIN & EBENSTEIN LLP",
+        "postalCode": "10174"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-11-02",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-09-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-09-07",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-09-05",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-18",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-03-17",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2007-02-09",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-03-07",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-03-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-02-12",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "000574504-0001",
+        "filingDate": "2006-08-14",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T16:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "TOREN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "19468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "J.",
+          "lastName": "DAINOW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "22959",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-949-9022"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SCHWAB",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24490",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9215"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "405 LEXINGTON AVENUE",
+              "addressLineTwoText": "48TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "AMSTER ROTHSTEIN & EBERSTEIN",
+              "postalCode": "10174"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "SPATH",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-336-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "ZINCHUK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "30541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9383"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "68 DARTMOUTH ST",
+              "cityName": "FOREST HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "DOUGLAS J GILBERT",
+              "postalCode": "11375"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "GILBERT",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30840",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "718-793-3028"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "NORMAN",
+          "lastName": "HANSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30946",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9240"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "COPPOLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41493",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-949-9022"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "405 LEXINGTON AVENUE, 48TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "AMSTER ROTHSTEIN & EBENSTEIN",
+              "postalCode": "10174"
+            },
+            {
+              "cityName": "RED BANK,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "THOMASON, MOSER AND PATTERSON, P.C.",
+              "nameLineTwoText": "2-40 BRIDGE AVENUE",
+              "postalCode": "077010000"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "HERTZBERG",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41834",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-336-8060"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-352-9766"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "605 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "WOLF, GREENFIELD & SACKS",
+              "postalCode": "10158"
+            }
+          ],
+          "firstName": "STEFAN",
+          "lastName": "KNIRR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65474",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-849-3359"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SCHWAB",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24490",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9215"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "291 ROOSEVELT AVENUE",
+              "cityName": "FRANKLIN SQUARE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "11010"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "CATANZARO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25837",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "516-413-5790"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "405 LEXINGTON AVENUE",
+              "addressLineTwoText": "48TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "AMSTER ROTHSTEIN & EBERSTEIN",
+              "postalCode": "10174"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "SPATH",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-336-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE, 10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "JAY",
+          "lastName": "CINAMON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24156",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9232"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE NORTH LEXINGTON AVENUE, SUITE 1200",
+              "cityName": "WHITE PLAINS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LEASON ELLIS LLP",
+              "postalCode": "10601"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "NATOLI",
+          "middleName": "JAMES FRANCIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36223",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "914-821-3087"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "COPPOLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41493",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-949-9022"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "TOREN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "19468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "405 LEXINGTON AVENUE, 48TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "AMSTER ROTHSTEIN & EBENSTEIN",
+              "postalCode": "10174"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "HERTZBERG",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41834",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-336-8060"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-352-9766"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "J.",
+          "lastName": "DAINOW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "22959",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-949-9022"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "666 THIRD AVENUE",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ABELMAN, FRAYNE & SCHWAB",
+              "postalCode": "10017-562"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "ZINCHUK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "30541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-885-9383"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/194"
+}

@@ -1,0 +1,1029 @@
+{
+  "applicant": "Textron Aviation Inc.",
+  "application_number": "29870462",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29870462_D1055839.xml",
+  "filing_date": "2023-01-27",
+  "grant_date": "2024-12-31",
+  "invention_title": "Articulating Cup Holders",
+  "label": "positive",
+  "patent_number": "D1055839",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Textron Aviation Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wichita",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 5438,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 46287,
+      "docketNumber": "014129",
+      "effectiveFilingDate": "2023-01-27",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "AMERSON, LAVON MICHAEL",
+      "filingDate": "2023-01-27",
+      "firstApplicantName": "Textron Aviation Inc.",
+      "firstInventorName": "Karen Tamasi Cooper",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "Articulating Cup Holders",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Andover",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "Cooper, Karen Tamasi",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Andover",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "Karen Tamasi Cooper",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Karen",
+          "inventorNameText": "Karen Tamasi Cooper",
+          "lastName": "Cooper",
+          "middleName": "Tamasi"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wichita",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "Williams, Merril Binford",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Wichita",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "Merril Binford Williams",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Merril",
+          "inventorNameText": "Merril Binford Williams",
+          "lastName": "Williams",
+          "middleName": "Binford"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055839",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "419",
+      "uspcSymbolText": "D12/419"
+    },
+    "applicationNumberText": "29870462",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE CESSNA BOULEVARD",
+              "cityName": "WICHITA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "ictCountryCode": "US",
+              "ictStateCode": "KS",
+              "postalCode": "67215"
+            },
+            "assigneeNameText": "TEXTRON AVIATION INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/62506/178",
+        "assignmentMailedDate": "2023-01-30",
+        "assignmentReceivedDate": "2023-01-27",
+        "assignmentRecordedDate": "2023-01-27",
+        "assignorBag": [
+          {
+            "assignorName": "COOPER, KAREN TAMASI",
+            "executionDate": "2023-01-25"
+          },
+          {
+            "assignorName": "WILLIAMS, MERRIL BINFORD",
+            "executionDate": "2023-01-26"
+          }
+        ],
+        "attorneyDocketNumber": "014129",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "12980 METCALF AVENUE, SUITE 180",
+          "addressLineTwoText": "OVERLAND PARK, KS 66213",
+          "correspondentNameText": "MAGGIE JILES"
+        },
+        "frameNumber": 178,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "062506/0178",
+        "reelNumber": 62506
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "40 WESTMINSTER STREET",
+              "cityName": "PROVIDENCE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "RI",
+              "geographicRegionName": "RHODE ISLAND",
+              "ictCountryCode": "US",
+              "ictStateCode": "RI",
+              "postalCode": "02903"
+            },
+            "assigneeNameText": "TEXTRON AVIATION RHODE ISLAND INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/66601/215",
+        "assignmentMailedDate": "2024-03-01",
+        "assignmentReceivedDate": "2024-02-15",
+        "assignmentRecordedDate": "2024-02-15",
+        "assignorBag": [
+          {
+            "assignorName": "TEXTRON AVIATION INC.",
+            "executionDate": "2023-12-31"
+          }
+        ],
+        "attorneyDocketNumber": "014438",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "7285 W 132ND STREET",
+          "addressLineThreeText": "OVERLAND PARK, KS 66213",
+          "addressLineTwoText": "SUITE 340",
+          "correspondentNameText": "MARGARET JILES"
+        },
+        "frameNumber": 215,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "066601/0215",
+        "reelNumber": 66601
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "40 WESTMINSTER STREET",
+              "cityName": "PROVIDENCE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "RI",
+              "geographicRegionName": "RHODE ISLAND",
+              "ictCountryCode": "US",
+              "ictStateCode": "RI",
+              "postalCode": "02903"
+            },
+            "assigneeNameText": "TEXTRON INNOVATIONS INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/66601/359",
+        "assignmentMailedDate": "2024-03-01",
+        "assignmentReceivedDate": "2024-02-15",
+        "assignmentRecordedDate": "2024-02-15",
+        "assignorBag": [
+          {
+            "assignorName": "TEXTRON AVIATION RHODE ISLAND INC.",
+            "executionDate": "2023-12-31"
+          }
+        ],
+        "attorneyDocketNumber": "014438",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "7285 W 132ND STREET",
+          "addressLineThreeText": "OVERLAND PARK, KS 66213",
+          "addressLineTwoText": "SUITE 340",
+          "correspondentNameText": "MARGARET JILES"
+        },
+        "frameNumber": 359,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "066601/0359",
+        "reelNumber": 66601
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "7285 W. 132nd Street",
+        "addressLineTwoText": "Suite 340",
+        "cityName": "Overland Park",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "KS",
+        "geographicRegionName": "KANSAS",
+        "nameLineOneText": "AVEK IP, LLC (OP Orig)",
+        "postalCode": "66213"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-18",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MM327",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Mail Miscellaneous Communication to Applicant"
+      },
+      {
+        "eventCode": "M327",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-12-31",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-01-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-01-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-01-31",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-01-27",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29870462_D1055839.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29870462_D1055839.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-28T14:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "910 E. ST. LOUIS",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "SPRINGFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "LATHROP & GAGE, LLP",
+              "postalCode": "65806"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39718",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "417-886-2000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST., SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "SCHWARTZ",
+          "middleName": "WAYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46482",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-839-0035"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "MARSHALL",
+          "lastName": "HONEYMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48114",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-209-3456"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "ALLEN",
+          "lastName": "POPLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "6175265000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3841"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND STREET, STE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "HISSAN",
+          "lastName": "ANIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65943",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND ST.",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "ANNA",
+          "lastName": "QUINN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72744",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3843"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "BETH",
+          "lastName": "FELIX",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "720-407-2221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST.",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BENOIT",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76383",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-955-3711"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET, SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "JORGE",
+          "lastName": "MARANTO DAVILA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET, SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "WANGXUE",
+          "lastName": "DENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3844"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST",
+              "addressLineTwoText": "#340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "CHAPPELL",
+          "middleName": "T",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-530-3218"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 46287,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "7285 W. 132nd Street",
+            "addressLineTwoText": "Suite 340",
+            "cityName": "Overland Park",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "KS",
+            "geographicRegionName": "KANSAS",
+            "nameLineOneText": "AVEK IP, LLC (OP Orig)",
+            "postalCode": "66213"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET, SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "JORGE",
+          "lastName": "MARANTO DAVILA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET, SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "WANGXUE",
+          "lastName": "DENG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3844"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7225 RENNER RD.",
+              "addressLineTwoText": "SUITE 201",
+              "cityName": "SHAWNEE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "LAW OFFICE OF MARK BROWN, LLC",
+              "postalCode": "66217"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "DEBACKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69769",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-248-4477"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "910 E. ST. LOUIS",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "SPRINGFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "LATHROP & GAGE, LLP",
+              "postalCode": "65806"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39718",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "417-886-2000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND STREET, STE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "HISSAN",
+          "lastName": "ANIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65943",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND ST.",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "ANNA",
+          "lastName": "QUINN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72744",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3843"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST",
+              "addressLineTwoText": "#340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "CHAPPELL",
+          "middleName": "T",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-530-3218"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "BETH",
+          "lastName": "FELIX",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "720-407-2221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP, LLC",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "ALLEN",
+          "lastName": "POPLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "6175265000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-303-3841"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W. 132ND STREET",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "MARSHALL",
+          "lastName": "HONEYMAN",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48114",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-209-3456"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST., SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "SCHWARTZ",
+          "middleName": "WAYNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46482",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-839-0035"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7285 W 132ND ST.",
+              "addressLineTwoText": "SUITE 340",
+              "cityName": "OVERLAND PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "KS",
+              "geographicRegionName": "KANSAS",
+              "nameLineOneText": "AVEK IP",
+              "postalCode": "66213"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BENOIT",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76383",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "913-955-3711"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/419"
+}

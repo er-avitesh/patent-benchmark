@@ -1,0 +1,1679 @@
+{
+  "applicant": null,
+  "application_number": "29285957",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-30 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-04-17",
+  "grant_date": "2007-10-30",
+  "invention_title": "PACKAGE INSERT",
+  "label": "negative",
+  "patent_number": "D553986",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 5793,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-10",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 25881,
+      "docketNumber": "1718-147A",
+      "effectiveFilingDate": "2007-04-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "HATTAN, SUSAN B",
+      "filingDate": "2007-04-17",
+      "firstInventorName": "Barry David Berger",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-30",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "PACKAGE INSERT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Barry David Berger",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Barry",
+          "inventorNameText": "Barry David Berger",
+          "lastName": "Berger",
+          "middleName": "David"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553986",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "456",
+      "uspcSymbolText": "D9/456"
+    },
+    "applicationNumberText": "29285957",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "227 WEST TRADE STREET, STE 1400",
+              "addressLineTwoText": "ATTN: LOAN ADMINISTRATION",
+              "cityName": "CHARLOTTE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "ictCountryCode": "US",
+              "ictStateCode": "NC",
+              "postalCode": "28202"
+            },
+            "assigneeNameText": "PATRIARCH PARTNERS AGENCY SERVICES LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/20035/435",
+        "assignmentMailedDate": "2007-10-30",
+        "assignmentReceivedDate": "2007-10-30",
+        "assignmentRecordedDate": "2007-10-30",
+        "assignorBag": [
+          {
+            "assignorName": "EX-CELL HOME FASHIONS, INC.",
+            "executionDate": "2007-10-08"
+          }
+        ],
+        "attorneyDocketNumber": "CSC # 265450",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "1133 AVENUE OF THE AMERICAS",
+          "addressLineThreeText": "NEW YORK, NY 10036",
+          "addressLineTwoText": "SUITE 3100",
+          "correspondentNameText": "CORPORATION SERVICE COMPANY"
+        },
+        "frameNumber": 435,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 6,
+        "reelAndFrameNumber": "020035/0435",
+        "reelNumber": 20035
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1133 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10036"
+            },
+            "assigneeNameText": "WACHOVIA BANK, NATIONAL ASSOCIATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/20174/123",
+        "assignmentMailedDate": "2007-11-30",
+        "assignmentReceivedDate": "2007-11-29",
+        "assignmentRecordedDate": "2007-11-29",
+        "assignorBag": [
+          {
+            "assignorName": "EX-CELL HOME FASHIONS, INC.",
+            "executionDate": "2007-10-23"
+          }
+        ],
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "230 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10169",
+          "addressLineTwoText": "OTTERBOURG, STEINDLER, HOUSTON & ROSEN",
+          "correspondentNameText": "MERCEDES FARINAS"
+        },
+        "frameNumber": 123,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 20,
+        "reelAndFrameNumber": "020174/0123",
+        "reelNumber": 20174
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "6 East 45th Street",
+        "addressLineTwoText": "7th Floor",
+        "cityName": "NEW YORK",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "EPSTEIN DRANGEL LLP",
+        "postalCode": "10017"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-30",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-12",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-20",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-16",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-05-22",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-05-09",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-05-10",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-04-18",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T22:00:04",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29285957",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2006-11-09",
+        "parentApplicationNumberText": "29268575",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D545192"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ADMIN SUSPENDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 E 42ND ST",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "JAMES AND FRANKLIN",
+              "postalCode": "10165"
+            }
+          ],
+          "firstName": "HAROLD",
+          "lastName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "15800",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-867-7260"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 EAST 42ND STREET, SUITE 2410",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "EPSTEIN DRANGEL BAZERMAN & JAMES, LLP",
+              "postalCode": "10165"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "EPSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26451",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-292-5390"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 826,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1120 SOUTH TRYON STREET",
+            "addressLineTwoText": "SUITE 300",
+            "cityName": "CHARLOTTE",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NC",
+            "geographicRegionName": "NORTH CAROLINA",
+            "nameLineOneText": "ALSTON & BIRD LLP",
+            "nameLineTwoText": "VANTAGE SOUTH END",
+            "postalCode": "28203-6818"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "90 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "NEAL",
+          "lastName": "MCLAUGHLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71108",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-210-9436"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD  LLP",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "SKELTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50893",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET, SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "KILLIAN",
+          "lastName": "STEER",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79551",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1078"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 W. PEACHTREE ST.",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "TSUI",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71055",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-4962"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 S. TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "STEVENS",
+          "middleName": "SCOTT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54762",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1025"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4533 WEDGE DRIVE",
+              "cityName": "PFAFFTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "postalCode": "27040"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "BELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-358-2073"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 S. TRYON STREET, SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28203-6818"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "ELLSWORTH",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 S. TRYON STREET, SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "GEGG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50857",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WEST PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "MCNIFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53305",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7452"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "THOMAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62200",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1446"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "nameLineTwoText": "VANTAGE SOUTH END",
+              "postalCode": "28203-681"
+            }
+          ],
+          "firstName": "CARTER",
+          "lastName": "REEB",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76323",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1441"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28203-681"
+            }
+          ],
+          "firstName": "MIRANDA",
+          "lastName": "SOOTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57126",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28202"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "ZIEGLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71676",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 PEACHTREE STREET NE",
+              "addressLineTwoText": "#3000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "TROUTMAN PEPPER HAMILTON SANDERS LLP",
+              "postalCode": "30308"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "PETTIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79100",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-885-3039"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 S. TRYON STREET, SUITE 4000",
+              "addressLineTwoText": "BANK OF AMERICA PLAZA",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "CONNOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34141",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1022"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON AND BIRD LLP",
+              "postalCode": "28203-6818"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "DOUGLAS",
+          "middleName": "T. L.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56950",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1119"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE ST.",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "KEITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63800",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2233"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 S. TRYON STREET, SUITE 4000",
+              "addressLineTwoText": "BANK OF AMERICA PLAZA",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "GUY",
+          "lastName": "GOSNELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34610",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 UNIVERSITY AVENUE",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "EAST PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "94303-228"
+            }
+          ],
+          "firstName": "SUSAN",
+          "lastName": "SATHER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44316",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-838-2069"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD, LLP",
+              "nameLineTwoText": "VANTAGE SOUTH END",
+              "postalCode": "28203-681"
+            }
+          ],
+          "firstName": "ALISON",
+          "lastName": "DAVIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74675",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "248-988-8363"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1327"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 W. PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "TESKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38337",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "90 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "10016"
+            }
+          ],
+          "firstName": "KWOK",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71819",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-210-9474"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "VANTAGE SOUTH END, 1120 S TRYON ST # 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON AND BIRD",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "KRISTINE",
+          "lastName": "PANNER",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1087"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WEST PEACHTREE STREET",
+              "addressLineTwoText": "ONE ATLANTIC CENTER",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309-342"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "COOPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38114",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404--88-1-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 ROSS AVENUE",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "YAO",
+          "lastName": "ZHU",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1168",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-922-3451"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 W. PEACHTREE ST.",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD, LLP",
+              "postalCode": "30309-342"
+            }
+          ],
+          "firstName": "ADEN",
+          "lastName": "DRAPER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69589",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-4834"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WEST PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "O'CONNOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69023",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7854"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WILLIAMS",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83753",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2261"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "KIRK",
+          "lastName": "EKENA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56672",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE SOUTH AT THE PLAZA",
+              "addressLineTwoText": "101 S TRYON ST. #4000",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "TYLER",
+          "lastName": "ESPY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75333",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "256-783-4562"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 W PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "nameLineTwoText": "ONE ATLANTIC CENTER",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "AKINTUNDE",
+          "lastName": "AKINBOLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79589",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7808"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 WEST PEACHTREE STREET",
+              "addressLineTwoText": "ONE ATLANTIC CENTER",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "DANE",
+          "lastName": "BALTICH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55274",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-4381"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 2ND ST",
+              "addressLineTwoText": "SUITE 2100",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "94105"
+            }
+          ],
+          "firstName": "DANA",
+          "lastName": "ZOTTOLA",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65942",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-838-2044"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 S. TRYON STREET, SUITE 4000",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "S",
+          "lastName": "PLEUNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28203-6818"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "TEAGUE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55670",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1212"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "55 2ND STREET, SUITE 2100",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "94105"
+            }
+          ],
+          "firstName": "JOAQUIN JOSE",
+          "lastName": "ESCAY",
+          "middleName": "DIOKNO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76587",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-243-1052"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON + BIRD LLP",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "SCHILLING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67258",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2225"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 S. TRYON STREET",
+              "addressLineTwoText": "SUITE 4000",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "TAULBEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35704",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE ATLANTIC CENTER",
+              "addressLineTwoText": "1201 WEST PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "WESLEY",
+          "lastName": "ACHEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-4930"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "619-235-0176"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE ST.",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "DIGIROLAMO",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82077",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2246"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1950 UNIVERSITY AVENUE",
+              "cityName": "EAST PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "94303"
+            }
+          ],
+          "firstName": "JOE",
+          "lastName": "LIEBESCHUETZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37505",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-838-2038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "28203-6818"
+            }
+          ],
+          "firstName": "CASEY",
+          "lastName": "HICKEY",
+          "middleName": "L",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78978",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1268"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 ROSS AVENUE, SUITE 2300",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "RODRIGUEZ",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71274",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-922-3476"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "543 MOUNTAIN AVENUE",
+              "cityName": "BOUND BROOK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "08805"
+            }
+          ],
+          "firstName": "DYLAN",
+          "lastName": "CASLER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77191",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "862-596-7877"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE ATLANTIC CENTER",
+              "addressLineTwoText": "1201 WEST PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309-342"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "LIGHTNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62156",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "nameLineTwoText": "VANTAGE SOUTH END",
+              "postalCode": "28203-681"
+            }
+          ],
+          "firstName": "ZACHARY",
+          "lastName": "HIGBEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67052",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "nameLineTwoText": "VANTAGE SOUTH END",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "CRISTIANO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70405",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1128"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 W. PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "30309-342"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "HAYNES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44754",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-881-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "950 F STREET N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "nameLineTwoText": "THE ATLANTIC BUILDING",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "DAVISON",
+          "middleName": "W",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57160",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-239-3933"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 SOUTH TRYON STREET",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "28203"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "BEIRNE",
+          "middleName": "S",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81777",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1410"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "555 FAYETTEVILLE STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "RALEIGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD",
+              "postalCode": "27601"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "POTEAT",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83922",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "919-862-2234"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 SOUTH TRYON STREET, SUITE 4000",
+              "addressLineTwoText": "BANK OF AMERICA PLAZA",
+              "cityName": "CHARLOTTE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "ALSTON & BIRD LLP",
+              "postalCode": "28280-400"
+            }
+          ],
+          "firstName": "KIRK",
+          "lastName": "BRADLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46571",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "704-444-1000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/456"
+}

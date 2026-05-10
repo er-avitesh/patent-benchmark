@@ -1,0 +1,1152 @@
+{
+  "applicant": "Netflix, Inc.",
+  "application_number": "29830558",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29830558_D1055965.xml",
+  "filing_date": "2022-03-14",
+  "grant_date": "2024-12-31",
+  "invention_title": "DISPLAY PANEL OF A PROGRAMMED COMPUTER SYSTEM WITH A GRAPHICAL USER INTERFACE",
+  "label": "positive",
+  "patent_number": "D1055965",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Netflix, Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Los Gatos",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Netflix, Inc.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 4651,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 143787,
+      "docketNumber": "191638-609601/US-DES",
+      "effectiveFilingDate": "2022-03-14",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "VOORHIES, RACHEL A.",
+      "filingDate": "2022-03-14",
+      "firstApplicantName": "Netflix, Inc.",
+      "firstInventorName": "Ratna S. Desai",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2923",
+      "inventionTitle": "DISPLAY PANEL OF A PROGRAMMED COMPUTER SYSTEM WITH A GRAPHICAL USER INTERFACE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oakland",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Ratna S. Desai",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Los Gatos",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Ratna S. Desai",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Ratna",
+          "inventorNameText": "Ratna S. Desai",
+          "lastName": "Desai",
+          "middleName": "S."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Los Gatos",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Vincent  DeAngelo",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "San Jose",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DeAngelo, Vincent",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Vincent",
+          "inventorNameText": "Vincent DeAngelo",
+          "lastName": "DeAngelo"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Bend",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "Fleischer, Jeremey",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Los Gatos",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Jeremey  Fleischer",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jeremey",
+          "inventorNameText": "Jeremey Fleischer",
+          "lastName": "Fleischer"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oakland",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Liu, Yu Chan",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Los Gatos",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Yu Chan  Liu",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yu Chan",
+          "inventorNameText": "Yu Chan Liu",
+          "lastName": "Liu"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Los Gatos",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Danelle  Vermeulen",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Vermeulen, Danelle",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Danelle",
+          "inventorNameText": "Danelle Vermeulen",
+          "lastName": "Vermeulen"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055965",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "488",
+      "uspcSymbolText": "D14/488"
+    },
+    "applicationNumberText": "29830558",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "100 WINCHESTER CIRCLE",
+              "cityName": "LOS GATOS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "95032"
+            },
+            "assigneeNameText": "NETFLIX, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/60467/447",
+        "assignmentMailedDate": "2022-07-16",
+        "assignmentReceivedDate": "2022-07-09",
+        "assignmentRecordedDate": "2022-07-09",
+        "assignorBag": [
+          {
+            "assignorName": "DESAI, RATNA S.",
+            "executionDate": "2022-03-14"
+          },
+          {
+            "assignorName": "FLEISCHER, JEREMEY",
+            "executionDate": "2022-03-14"
+          },
+          {
+            "assignorName": "LIU, YU CHAN",
+            "executionDate": "2022-03-14"
+          },
+          {
+            "assignorName": "DEANGELO, VINCENT",
+            "executionDate": "2022-03-15"
+          },
+          {
+            "assignorName": "VERMEULEN, DANELLE",
+            "executionDate": "2022-07-07"
+          }
+        ],
+        "attorneyDocketNumber": "36651-51484/US",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "FENWICK & WEST LLP",
+          "addressLineThreeText": "MOUNTAIN VIEW, CA 94041",
+          "addressLineTwoText": "801 CALIFORNIA STREET",
+          "correspondentNameText": "ROBERT A. HULSE"
+        },
+        "frameNumber": 447,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "060467/0447",
+        "reelNumber": 60467
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "360 North Green Street, Suite 1300",
+        "cityName": "Chicago",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "IL",
+        "geographicRegionName": "ILLINOIS",
+        "nameLineOneText": "Greenberg Traurig, LLP - Netflix, Inc.",
+        "nameLineTwoText": "Netflix, Inc.",
+        "postalCode": "60607"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "REAS",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Response to Reasons for Allowance"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "LTDR",
+        "eventDate": "2024-07-23",
+        "eventDescriptionText": "Incoming Letter Pertaining to the Drawings"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-07-26",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-07-23",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "MEXIN",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)"
+      },
+      {
+        "eventCode": "EXAT",
+        "eventDate": "2024-07-23",
+        "eventDescriptionText": "Interview Summary - Applicant Initiated - Telephonic"
+      },
+      {
+        "eventCode": "EXIN",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Interview Summary Record"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-25",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-25",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-04-25",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-04-25",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-04-19",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-06-23",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-10-13",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2022-10-13",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2022-10-06",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-05-18",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-03-16",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2022-03-16",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-03-15",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-03-15",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-03-16",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-03-16",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-03-16",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-03-14",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-03-14",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-03-14",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-03-14",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:13",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29830558_D1055965.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29830558_D1055965.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-23T07:59:14",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2101 L STREET, N.W.",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "GREENBERG TRAURIG LLP",
+              "postalCode": "20008"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "MCQUADE",
+          "middleName": "F.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31542",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-331-3187"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12750 SW MUDDY VALLEY RD",
+              "cityName": "MCMINNVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97128"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "BUTLER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "40932",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-474-2820"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4514 COLE AVENUE",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "FISHER BROYLES LLC",
+              "nameLineTwoText": "HIGHLAND PARK PLACE",
+              "postalCode": "75205"
+            }
+          ],
+          "firstName": "JENNIFER",
+          "lastName": "BROOKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51501",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-810-8644"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 S MAIN ST #1730",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "GREENBERG TRAURIG, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "HANKS",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-859-7962"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN STREET, 5TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "FISHERBROYLES, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56561",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "213-629-1033"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-285-5175"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN STREET",
+              "addressLineTwoText": "SUITE 1730",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "GREENBERG TRAURIG, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "WICKSTROM",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57199",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-478-6900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN, SUITE 1700",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "GREENBERG TRAURIG",
+              "postalCode": "84093"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "LUNT",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-864-6219"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RUSSELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61362",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2927"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 PARK PLAZA",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "MCDERMOTT WILL & EMERY",
+              "postalCode": "92614-255"
+            }
+          ],
+          "firstName": "AHSAN",
+          "lastName": "SHAIKH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61861",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-757-6304"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1096 SHADOWRIDGE DR.",
+              "cityName": "KAYSVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalCode": "84037"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "PULLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65586",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-513-5221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 PARK PLAZA, SUITE 1700",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "MCDERMOTT WILL & EMERY LLP",
+              "postalCode": "92614-255"
+            }
+          ],
+          "firstName": "ALLEN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-757-6065"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 S. MAIN STREET, 5TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "FISHER BROYLES, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "REBECCA",
+          "lastName": "KITZ",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70840",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-980-3399"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN STREET",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "FISHER BROYLES LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "JON",
+          "lastName": "BILLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71895",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-709-9817"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "77 WEST WACKER DRIVE, SUITE 3100",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "GREENBERG TRAURIG, LLP",
+              "postalCode": "60601"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "LEE",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72786",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-478-6900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5593 TAFT AVENUE",
+              "cityName": "OAKLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "94618"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "MEREDITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78143",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "561-504-2426"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN STREET",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "FISHERBROYLES, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "LOXLEY",
+          "lastName": "WANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79940",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "336-509-5942"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 143787,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "360 North Green Street, Suite 1300",
+            "cityName": "Chicago",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "IL",
+            "geographicRegionName": "ILLINOIS",
+            "nameLineOneText": "Greenberg Traurig, LLP - Netflix, Inc.",
+            "nameLineTwoText": "Netflix, Inc.",
+            "postalCode": "60607"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 S MAIN ST #1730",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "GREENBERG TRAURIG, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "HANKS",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-859-7962"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "77 WEST WACKER DRIVE, SUITE 3100",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "GREENBERG TRAURIG, LLP",
+              "postalCode": "60601"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "LEE",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72786",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-478-6900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN STREET",
+              "addressLineTwoText": "5TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "FISHERBROYLES, LLP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "LOXLEY",
+          "lastName": "WANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79940",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "336-509-5942"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1144 15TH STREET",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "GREENBERG TRAURIG",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "HEATH",
+          "lastName": "BRIGGS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54919",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-572-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4514 COLE AVENUE",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "FISHER BROYLES LLC",
+              "nameLineTwoText": "HIGHLAND PARK PLACE",
+              "postalCode": "75205"
+            }
+          ],
+          "firstName": "JENNIFER",
+          "lastName": "BROOKS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51501",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-810-8644"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 PARK PLAZA, SUITE 1700",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "MCDERMOTT WILL & EMERY LLP",
+              "postalCode": "92614-255"
+            }
+          ],
+          "firstName": "ALLEN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-757-6065"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 PENNSYLVANIA AVENUE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "CROWELL & MORING",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "RUSSELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61362",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-624-2927"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12750 SW MUDDY VALLEY RD",
+              "cityName": "MCMINNVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97128"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "BUTLER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "40932",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-474-2820"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "222 SOUTH MAIN, SUITE 1700",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "GREENBERG TRAURIG",
+              "postalCode": "84093"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "LUNT",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-864-6219"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/488"
+}

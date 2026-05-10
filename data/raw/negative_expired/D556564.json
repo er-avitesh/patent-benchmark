@@ -1,0 +1,309 @@
+{
+  "applicant": null,
+  "application_number": "29251183",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-04 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-01-03",
+  "grant_date": "2007-12-04",
+  "invention_title": "FRONT BUBBLE DISPLAY PACKAGE",
+  "label": "negative",
+  "patent_number": "D556564",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4038,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-14",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 24394,
+      "docketNumber": "P1711",
+      "effectiveFilingDate": "2006-01-03",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "HOLLAND, DERRICK EDWARD",
+      "filingDate": "2006-01-03",
+      "firstInventorName": "Noel Lee",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-04",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "FRONT BUBBLE DISPLAY PACKAGE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Las Vegas",
+              "geographicRegionCode": "NV",
+              "geographicRegionName": "NEVADA",
+              "nameLineOneText": "Noel  Lee",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Noel",
+          "inventorNameText": "Noel Lee",
+          "lastName": "Lee"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Fremont",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Kendrew  Lee",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "HK",
+          "firstName": "Kendrew",
+          "inventorNameText": "Kendrew Lee",
+          "lastName": "Lee"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D556564",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "415",
+      "uspcSymbolText": "D9/415"
+    },
+    "applicationNumberText": "29251183",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "455 VALLEY DRIVE",
+              "cityName": "BRISBANE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "94005"
+            },
+            "assigneeNameText": "MONSTER CABLE PRODUCTS, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17042/728",
+        "assignmentMailedDate": "2006-01-20",
+        "assignmentReceivedDate": "2006-01-20",
+        "assignmentRecordedDate": "2006-01-20",
+        "assignorBag": [
+          {
+            "assignorName": "LEE, MR. KENDREW",
+            "executionDate": "2005-12-30"
+          },
+          {
+            "assignorName": "LEE, MR. NOEL",
+            "executionDate": "2005-12-30"
+          }
+        ],
+        "attorneyDocketNumber": "P1711 (535-1389)",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "19 UPPER RAGSDALE DRIVE, SUITE 200",
+          "addressLineTwoText": "MONTEREY, CA 93940",
+          "correspondentNameText": "LARIVIERE, GRUBMAN & PAYNE, LLP"
+        },
+        "frameNumber": 728,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "017042/0728",
+        "reelNumber": 17042
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "39200 SIX MILE ROAD",
+              "addressLineTwoText": "MC 7578",
+              "cityName": "LIVONIA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "ictCountryCode": "US",
+              "ictStateCode": "MI",
+              "postalCode": "48152"
+            },
+            "assigneeNameText": "COMERICA BANK, A TEXAS BANKING ASSOCIATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/30141/317",
+        "assignmentMailedDate": "2013-04-04",
+        "assignmentReceivedDate": "2013-04-03",
+        "assignmentRecordedDate": "2013-04-03",
+        "assignorBag": [
+          {
+            "assignorName": "MONSTER, INC., FORMERLY KNOWN AS MONSTER CABLE PRODUCTS, INC.",
+            "executionDate": "2013-04-01"
+          }
+        ],
+        "attorneyDocketNumber": "125055-436",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "150 WEST JEFFERSON",
+          "addressLineThreeText": "DETROIT, MI 48226",
+          "addressLineTwoText": "SUITE 2500",
+          "correspondentNameText": "KIMBERLY A. BERGER"
+        },
+        "frameNumber": 317,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 11,
+        "reelAndFrameNumber": "030141/0317",
+        "reelNumber": 30141
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "455 VALLEY DRIVE",
+              "cityName": "BRISBANE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "94005"
+            },
+            "assigneeNameText": "NL FINANCE CO, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/34792/352",
+        "assignmentMailedDate": "2015-01-23",
+        "assignmentReceivedDate": "2015-01-21",
+        "assignmentRecordedDate": "2015-01-21",
+        "assignorBag": [
+          {
+            "assignorName": "COMERICA BANK",
+            "executionDate": "2015-01-15"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF RIGHTS IN GRANT OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "4365 EXECUTIVE DRIVE, SUITE 1100",
+          "addressLineThreeText": "SAN DIEGO, CA 92121",
+          "addressLineTwoText": "ATTENTION: SUSAN REYNHOLDS",
+          "correspondentNameText": "DLA PIPER LLP (US)"
+        },
+        "frameNumber": 352,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 15,
+        "reelAndFrameNumber": "034792/0352",
+        "reelNumber": 34792
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "318 Cayuga Street",
+        "cityName": "Salinas",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "JRG Attorneys at Law",
+        "postalCode": "93901"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-04",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-14",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-11-02",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-11-02",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-12",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-04-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-02-09",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-02-09",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-02-05",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-03-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-03-03",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2006-03-01",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-02-21",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-02-22",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2006-02-08",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-02-08",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-02-01",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-01-03",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T23:00:03"
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/415"
+}

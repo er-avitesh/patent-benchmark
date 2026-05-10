@@ -1,0 +1,1560 @@
+{
+  "applicant": "NIO TECHNOLOGY (ANHUI) CO., LTD",
+  "application_number": "29887168",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241126/29887168_D1052459.xml",
+  "filing_date": "2023-03-17",
+  "grant_date": "2024-11-26",
+  "invention_title": "MOTOR VEHICLE BODY",
+  "label": "positive",
+  "patent_number": "D1052459",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "NIO TECHNOLOGY (ANHUI) CO., LTD",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hefei City",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "NIO TECHNOLOGY (ANHUI) CO., LTD",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9556,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-06",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 159236,
+      "docketNumber": "8765-414",
+      "effectiveFilingDate": "2023-03-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BROWN, MELODY NOEL",
+      "filingDate": "2023-03-17",
+      "firstApplicantName": "NIO TECHNOLOGY (ANHUI) CO., LTD",
+      "firstInventorName": "Kris TOMASSON",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-26",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "MOTOR VEHICLE BODY",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hefei City, Anhui",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "TOMASSON,Kris",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Munich",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "TOMASSON,Kris",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Kris",
+          "inventorNameText": "Kris TOMASSON",
+          "lastName": "TOMASSON"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hefei City, Anhui",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "PHIPPS,Colin",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Shanghai",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "PHIPPS,Colin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Colin",
+          "inventorNameText": "Colin PHIPPS",
+          "lastName": "PHIPPS"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1052459",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "91",
+      "uspcSymbolText": "D12/91"
+    },
+    "applicationNumberText": "29887168",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "BUILDING F, HENGCHUANG INTELLIGENT SCIENCE AND TECHNOLOGY PARK",
+              "addressLineTwoText": "NO. 3963 SUSONG ROAD, ECONOMIC AND TECHNOLOGICAL DEVELOPMENT ZONE",
+              "cityName": "HEFEI CITY",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN",
+              "postalCode": "230601"
+            },
+            "assigneeNameText": "NIO TECHNOLOGY (ANHUI) CO., LTD"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/68345/552",
+        "assignmentMailedDate": "2024-08-21",
+        "assignmentReceivedDate": "2024-08-20",
+        "assignmentRecordedDate": "2024-08-20",
+        "assignorBag": [
+          {
+            "assignorName": "PHIPPS, COLIN",
+            "executionDate": "2023-09-19"
+          },
+          {
+            "assignorName": "TOMASSON, KRIS",
+            "executionDate": "2023-09-29"
+          }
+        ],
+        "attorneyDocketNumber": "8765-414",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "SHERIDAN ROSS P.C.",
+          "addressLineThreeText": "DENVER, CO 80202-5145",
+          "addressLineTwoText": "1560 BROADWAY, SUITE 1200",
+          "correspondentNameText": "MANDI LAMBERSON"
+        },
+        "frameNumber": 552,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "068345/0552",
+        "reelNumber": 68345
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1560 Broadway",
+        "addressLineTwoText": "Suite 1200",
+        "cityName": "Denver",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CO",
+        "geographicRegionName": "COLORADO",
+        "nameLineOneText": "Sheridan Ross P.C. (8765)",
+        "postalCode": "80202"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-07",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-16",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-15",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-15",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "C600",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Supplemental Papers - Oath or Declaration"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-07-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "MM327-O",
+        "eventDate": "2024-07-26",
+        "eventDescriptionText": "Mail PUBS Notice Requiring Inventors Oath or Declaration"
+      },
+      {
+        "eventCode": "M327-O",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "PUBS Notice Requiring Inventors Oath or Declaration"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2024-07-15",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-14",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2023-05-19",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-21",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-21",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "009177967-0001",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0002",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0003",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0004",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0005",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0006",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0007",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0008",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0009",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0010",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      },
+      {
+        "applicationNumberText": "009177967-0011",
+        "filingDate": "2022-09-19",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-26T09:10:44",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241126/29887168_D1052459.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29887168_D1052459.xml",
+      "zipFileName": "ipg241126.zip"
+    },
+    "lastIngestionDateTime": "2026-04-14T16:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STEET, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "BLAKELY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31328",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1063 HAWK CT",
+              "cityName": "LOUISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "postalCode": "80027"
+            }
+          ],
+          "firstName": "THERESA",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "32547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-668-7320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BRODAWAY STE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "KOVARIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33005",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2977"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STE. 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "SABRINA",
+          "lastName": "STAVISH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33374",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2972"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80204"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "SWARTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80102"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "KUGLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38942",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2992"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BRUNELLI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39617",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2980"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            },
+            {
+              "cityName": "DENVER,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "nameLineTwoText": "1560 BROADWAY, SUITE 1200",
+              "postalCode": "802020000"
+            }
+          ],
+          "firstName": "MIRIAM",
+          "lastName": "TRUDELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42499",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2970"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "720-748-8382"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "KNEPPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44189",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "TRAVER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202-514"
+            }
+          ],
+          "firstName": "DEAN",
+          "lastName": "REINHARDT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50225",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "719-439-4747"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202-515"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "DALEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3056"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "WEITZEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "ELLSWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "DOMITROVICH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "THAINE",
+          "lastName": "LENNOX-GENTLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65260",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BURKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66448",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ALISON",
+          "lastName": "MOY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3058"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "TYLER",
+          "lastName": "BOSCHERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70791",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3008"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BOMKAMP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71218",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3045"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY #1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DAMRON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3029"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2010 EL CAMINO REAL #2208",
+              "cityName": "SANTA CLARA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "95050"
+            }
+          ],
+          "firstName": "RUOXI",
+          "lastName": "SHAO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "814-502-8150"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "MARTINEZ",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82934",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 159236,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1560 Broadway",
+            "addressLineTwoText": "Suite 1200",
+            "cityName": "Denver",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CO",
+            "geographicRegionName": "COLORADO",
+            "nameLineOneText": "Sheridan Ross P.C. (8765)",
+            "postalCode": "80202"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80204"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "SWARTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "KNEPPER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44189",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2010 EL CAMINO REAL #2208",
+              "cityName": "SANTA CLARA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "95050"
+            }
+          ],
+          "firstName": "RUOXI",
+          "lastName": "SHAO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "814-502-8150"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "BOMKAMP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71218",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3045"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202-515"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "DALEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3056"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BRODAWAY STE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "KOVARIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33005",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2977"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1063 HAWK CT",
+              "cityName": "LOUISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "postalCode": "80027"
+            }
+          ],
+          "firstName": "THERESA",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "32547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-668-7320"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS, PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BRUNELLI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39617",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2980"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202-514"
+            }
+          ],
+          "firstName": "DEAN",
+          "lastName": "REINHARDT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50225",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "719-439-4747"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JARED",
+          "lastName": "MARTINEZ",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82934",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "ELLSWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "TYLER",
+          "lastName": "BOSCHERT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70791",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3008"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STEET, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "BLAKELY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31328",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "TRAVER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY #1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DAMRON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-764-3029"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "THAINE",
+          "lastName": "LENNOX-GENTLE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65260",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY STE. 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "SABRINA",
+          "lastName": "STAVISH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33374",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2972"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY, SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "MIRIAM",
+          "lastName": "TRUDELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42499",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-2970"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "720-748-8382"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS P.C.",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "DOMITROVICH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1560 BROADWAY",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "DENVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "nameLineOneText": "SHERIDAN ROSS PC",
+              "postalCode": "80202"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BURKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66448",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "303-863-9700"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/91"
+}
