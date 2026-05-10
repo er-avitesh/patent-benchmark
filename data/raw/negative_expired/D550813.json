@@ -1,0 +1,2555 @@
+{
+  "applicant": null,
+  "application_number": "29253832",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-02-14",
+  "grant_date": "2007-09-11",
+  "invention_title": "FAUCET",
+  "label": "negative",
+  "patent_number": "D550813",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4504,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-22",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 22850,
+      "docketNumber": "285840US3DESDIV",
+      "effectiveFilingDate": "2006-02-14",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "ANDOLL, GREGORY A",
+      "filingDate": "2006-02-14",
+      "firstInventorName": "Michael Lammel",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-11",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "FAUCET",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Aachen",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Michael  Lammel",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Michael",
+          "inventorNameText": "Michael Lammel",
+          "lastName": "Lammel"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Aachen",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Michael  Zeisel",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Michael",
+          "inventorNameText": "Michael Zeisel",
+          "lastName": "Zeisel"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D550813",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "238",
+      "uspcSymbolText": "D23/238"
+    },
+    "applicationNumberText": "29253832",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1940 DUKE STREET",
+        "cityName": "ALEXANDRIA",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+        "postalCode": "22314"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-07-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2007-07-30",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-07-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "VFEE",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Reverse Issue Fee"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2007-05-24",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-06-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "A.PE",
+        "eventDate": "2007-05-24",
+        "eventDescriptionText": "Preliminary Amendment"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-29",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2007-05-07",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2007-05-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2007-05-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-05-04",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ACPA",
+        "eventDate": "2007-04-27",
+        "eventDescriptionText": "Continuing Prosecution Application - Continuation (ACPA)"
+      },
+      {
+        "eventCode": "ABN9",
+        "eventDate": "2007-05-04",
+        "eventDescriptionText": "Disposal for a RCE / CPA / R129"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-05-04",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-05-03",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MP006",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Mail-Record Petition Decision of Granted to Withdraw from Issue"
+      },
+      {
+        "eventCode": "PET.",
+        "eventDate": "2007-04-24",
+        "eventDescriptionText": "Petition Entered"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-04-09",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-04-09",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-04-08",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-04-07",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN271",
+        "eventDate": "2007-04-06",
+        "eventDescriptionText": "Mail Response to 312 Amendment (PTO-271)"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-04-03",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-04-03",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-03",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "TCPB",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Printer Rush- No mailing"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "N271",
+        "eventDate": "2007-03-31",
+        "eventDescriptionText": "Response to Amendment under Rule 312"
+      },
+      {
+        "eventCode": "A.NA",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Amendment after Notice of Allowance (Rule 312)"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2007-03-27",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2007-03-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN271",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Mail Response to 312 Amendment (PTO-271)"
+      },
+      {
+        "eventCode": "N271",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Response to Amendment under Rule 312"
+      },
+      {
+        "eventCode": "A.NA",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Amendment after Notice of Allowance (Rule 312)"
+      },
+      {
+        "eventCode": "A.NA",
+        "eventDate": "2006-09-15",
+        "eventDescriptionText": "Amendment after Notice of Allowance (Rule 312)"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2006-11-01",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2006-11-01",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "SENT",
+        "eventDate": "2006-08-04",
+        "eventDescriptionText": "Workflow - File Sent to Contractor"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2006-07-19",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2006-07-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2006-07-12",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2006-07-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-02-14",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-07-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-07-05",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-02-14",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-02-14",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-02-14",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-05-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-03-03",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-03-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-02-14",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "130.883",
+        "filingDate": "2004-08-03",
+        "ipOfficeName": "SWITZERLAND"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T10:00:03",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29253832",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2005-02-02",
+        "parentApplicationNumberText": "29222515",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D526389"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "NORMAN",
+          "lastName": "OBLON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ARTHUR",
+          "lastName": "NEUSTADT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24854",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "GHOLZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26395",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6485"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT,. L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "KELLY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6403"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ECKHARD",
+          "lastName": "KUESTERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28870",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "POUS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29099",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "BAXTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32884",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT,  L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CARL",
+          "lastName": "SCHLIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "OLLIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "MCKINLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43794",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.REET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            },
+            {
+              "addressLineOneText": "FOURTH FLOOR",
+              "addressLineTwoText": "1755 JEFFERSON DAVIS HWY.",
+              "cityName": "ARLINGTON,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, SPIVAK, MC CLELLAND,",
+              "nameLineTwoText": "MAIER & NEUSTAUDT, P.C.",
+              "postalCode": "222020000"
+            }
+          ],
+          "firstName": "PHILIPPE",
+          "lastName": "SIGNORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43922",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EDWIN",
+          "lastName": "GARLEPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45330",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CUNNINGHAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45394",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-6563"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "AKIHIRO",
+          "lastName": "YAMAZAKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46155",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON MCCLELLAND MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "DOWNS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEFAN",
+          "lastName": "KOSCHMIEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50238",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6463"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "BERGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-3520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LONGO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53235",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DEREK",
+          "lastName": "LIGHTNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57298",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLEELLAND, MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BOGDAN",
+          "lastName": "ZINCHENKO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57473",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "LOVE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAY",
+          "lastName": "ROWE",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "58948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "HARRIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58969",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6209"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "MARINA",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59091",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6044"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59423",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6228"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6018 BOWES CREEK PL",
+              "cityName": "GAINESVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "JSPATENTS,LLC.",
+              "postalCode": "20155"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SIPOS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61985",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "617-868-8484"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-772-7206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62257",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SAMEER",
+          "lastName": "GOKHALE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-5936"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "TARCU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "YUKI",
+          "lastName": "ONOE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68563",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-2381"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "GRACE",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-1425"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "HARTMAN",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72359",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-7036"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "nameLineTwoText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "NAGUMO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78999",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CRISTINA",
+          "lastName": "LAI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79800",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-4533"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "ROSA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79918",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-2741"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1048 N DANVILLE ST",
+              "addressLineTwoText": "APT A",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22201"
+            }
+          ],
+          "firstName": "YUANYI",
+          "lastName": "ZHANG",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "800024",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-5928"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 MAIN STREET, 14TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KNOBBE, MARTENS, OLSON & BEAR, LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "LUKASZ",
+          "lastName": "KOZIOL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80087",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-849-3049"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "INACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHIKA",
+          "lastName": "IITOYO",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1331",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 22850,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1940 DUKE STREET",
+            "cityName": "ALEXANDRIA",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+            "postalCode": "22314"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "GRACE",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-1425"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59423",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6228"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SEUNG YUP",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78446",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-981-9948"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 MAIN STREET, 14TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KNOBBE, MARTENS, OLSON & BEAR, LLP",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "LUKASZ",
+          "lastName": "KOZIOL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80087",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-849-3049"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAY",
+          "lastName": "ROWE",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "58948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EVAN",
+          "lastName": "SMITH",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83359",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "GHOLZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26395",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6485"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KURT",
+          "lastName": "BERGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-3520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "MARINA",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59091",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6044"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "FUMIKA",
+          "lastName": "OGAWA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83305",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6382"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6018 BOWES CREEK PL",
+              "cityName": "GAINESVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "JSPATENTS,LLC.",
+              "postalCode": "20155"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SIPOS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61985",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "617-868-8484"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-772-7206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "ZWARTZ",
+          "middleName": "S.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83858",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "(425) 936-7329"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "YAN",
+          "lastName": "CONG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83913",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "OLLIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON MCCLELLAND MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "DOWNS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "POUS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29099",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3791 OLD BUCKINGHAM ROAD",
+              "cityName": "POWHATAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "23139"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "INGLEFIELD",
+          "middleName": "L.",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83672",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-314-8176"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DEREK",
+          "lastName": "LIGHTNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57298",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT,. L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "KELLY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6403"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "11810 SNOW PATCH WAY",
+              "cityName": "COLUMBIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "21044"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "LEE",
+          "middleName": "M. K.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59574",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-997-6956"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "2152996984"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SAMEER",
+          "lastName": "GOKHALE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-5936"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ARTHUR",
+          "lastName": "NEUSTADT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24854",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLEELLAND, MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "BOGDAN",
+          "lastName": "ZINCHENKO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57473",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST.REET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "PHILIPPE",
+          "lastName": "SIGNORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43922",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "YUKI",
+          "lastName": "ONOE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68563",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-2381"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "YUANYI",
+          "lastName": "ZHANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "84507",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "HARRIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58969",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6209"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEFAN",
+          "lastName": "KOSCHMIEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50238",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-6463"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "BAXTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32884",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "MCKINLEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43794",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "NORMAN",
+          "lastName": "OBLON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "24618",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CUNNINGHAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45394",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-6563"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "LOVE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "INACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHIKA",
+          "lastName": "IITOYO",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L1331",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "EDWIN",
+          "lastName": "GARLEPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45330",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "TARCU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ECKHARD",
+          "lastName": "KUESTERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28870",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT,  L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CARL",
+          "lastName": "SCHLIER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62257",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "HARTMAN",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72359",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-7036"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "ROSA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79918",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-2741"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1385 CLEAR CREEK DR",
+              "cityName": "ROCHESTER HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "48306"
+            }
+          ],
+          "firstName": "ALEC",
+          "lastName": "DORN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81115",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-881-4954"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE ST",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DOROTHY",
+          "lastName": "JONES",
+          "middleName": "K.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83441",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-2383"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, L.L.P.",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LONGO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53235",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-413-3000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/238"
+}

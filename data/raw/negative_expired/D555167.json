@@ -1,0 +1,2114 @@
+{
+  "applicant": null,
+  "application_number": "29248890",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-09-08",
+  "grant_date": "2007-11-13",
+  "invention_title": "ICON FOR A PORTION OF A DISPLAY SCREEN",
+  "label": "negative",
+  "patent_number": "D555167",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 9525,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 147148,
+      "docketNumber": "318236-US01-DP-CON",
+      "effectiveFilingDate": "2006-09-08",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "TUNG, MELANIE H",
+      "filingDate": "2006-09-08",
+      "firstInventorName": "Bryan Pieratt",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "ICON FOR A PORTION OF A DISPLAY SCREEN",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Bryan  Pieratt",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Bryan  Pieratt",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Bryan",
+          "inventorNameText": "Bryan Pieratt",
+          "lastName": "Pieratt"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Lynnwood",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Luciana Bordallo Misura",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Luciana Bordallo Misura",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "BR",
+          "firstName": "Luciana",
+          "inventorNameText": "Luciana Bordallo Misura",
+          "lastName": "Misura",
+          "middleName": "Bordallo"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Robert Kenneth Stein",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Robert Kenneth Stein",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Robert",
+          "inventorNameText": "Robert Kenneth Stein",
+          "lastName": "Stein",
+          "middleName": "Kenneth"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Robert Ward Massa",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Robert Ward Massa",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Robert",
+          "inventorNameText": "Robert Ward Massa",
+          "lastName": "Massa",
+          "middleName": "Ward"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Adrienne E. O'Donnell",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Adrienne E. O'Donnell",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Adrienne",
+          "inventorNameText": "Adrienne E. O'Donnell",
+          "lastName": "O'Donnell",
+          "middleName": "E."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Michael A. LaJoie",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Michael A. LaJoie",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Michael",
+          "inventorNameText": "Michael A. LaJoie",
+          "lastName": "LaJoie",
+          "middleName": "A."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seattle",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Jenny T. Lam",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Redmond",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Jenny T. Lam",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jenny",
+          "inventorNameText": "Jenny T. Lam",
+          "lastName": "Lam",
+          "middleName": "T."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555167",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "492",
+      "uspcSymbolText": "D14/492"
+    },
+    "applicationNumberText": "29248890",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "98052"
+            },
+            "assigneeNameText": "MICROSOFT CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18531/393",
+        "assignmentMailedDate": "2006-11-17",
+        "assignmentReceivedDate": "2006-11-17",
+        "assignmentRecordedDate": "2006-11-17",
+        "assignorBag": [
+          {
+            "assignorName": "LAJOIE, MICHAEL A.",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "LAM, JENNY T.",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "MISURA, LUCIANA BORDALLO",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "O'DONNELL, ADRIENNE E.",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "PIERATT, BRYAN",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "STEIN, ROBERT KENNETH",
+            "executionDate": "2006-09-07"
+          },
+          {
+            "assignorName": "MASSA, ROBERT WARD",
+            "executionDate": "2006-09-08"
+          }
+        ],
+        "attorneyDocketNumber": "013797.02468 JMF",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1001 G STREET NW, 11TH FLOOR",
+          "addressLineTwoText": "WASHINGTON, DC 20001-4597",
+          "correspondentNameText": "BANNER WITCOFF, LTD."
+        },
+        "frameNumber": 393,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "018531/0393",
+        "reelNumber": 18531
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "36 South State Street",
+        "addressLineTwoText": "Suite 1400",
+        "cityName": "Salt Lake City",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "UT",
+        "geographicRegionName": "UTAH",
+        "nameLineOneText": "Ray Quinney & Nebeker - Microsoft",
+        "postalCode": "84111"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2025-09-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2025-09-11",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2020-06-08",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2019-09-19",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2018-06-08",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "TCPB",
+        "eventDate": "2007-10-05",
+        "eventDescriptionText": "Printer Rush- No mailing"
+      },
+      {
+        "eventCode": "MM327",
+        "eventDate": "2007-10-05",
+        "eventDescriptionText": "Mail Miscellaneous Communication to Applicant"
+      },
+      {
+        "eventCode": "M327",
+        "eventDate": "2007-10-04",
+        "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count"
+      },
+      {
+        "eventCode": "PUBTC",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Pubs Case Remand to TC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-03",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-03-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-03-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-01-03",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-01-03",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2006-12-29",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-29",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-11-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2006-09-28",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "RRCDK",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Rocket Docket request"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-09-26",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-09-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-09-26",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-22T10:00:05",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29248890",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2006-08-18",
+        "parentApplicationNumberText": "29248521",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D575796"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICRSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052-639"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "WIGHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37759",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-2115"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3460 157TH AVENUE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "nameLineTwoText": "MICROSOFT BUILDING 8",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "GREGG",
+          "lastName": "WISDOM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40231",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-703-1293"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "CHATTERJEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "41398",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-647-6572"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 ENTERPRISE WAY",
+              "cityName": "SUNNYVALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "MOTOROLA MOBILITY",
+              "postalCode": "94089"
+            }
+          ],
+          "firstName": "RENEE",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650--27-9-9311"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-494-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "SPELLMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45124",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-707-9382"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MARQUIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46900",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-704-8572"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "ANAND",
+          "lastName": "GUPTA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-705-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3460 157TH AVE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052-539"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "CHURNA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48340",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-6189"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48577",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-707-3591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSFT CORPOATION",
+              "postalCode": "98005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "JARDINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-538-7123"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5600 148TH AVE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "nameLineTwoText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "SUNAH",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53198",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "142-542-14178"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "WEI-CHEN",
+          "lastName": "CHEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56665",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-0915"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "TAYLOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "EVANS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57652",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-705-4758"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "TIFFANY",
+          "lastName": "HEALY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57912",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6453"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "LIN",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58858",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "888-725-1047"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "HENRY",
+          "lastName": "GABRYJELSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62828",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-703-8116"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "MARCUS",
+          "lastName": "LEMMON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63664",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "317-575-7197"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-538-5753"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 WEST CALIFORNIA AVENUE",
+              "addressLineTwoText": "SUITE 110",
+              "cityName": "SUNNYVALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DICKINSON WRIGHT RLLP",
+              "postalCode": "94086"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "CHENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64473",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-701-6146"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 4800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PERKINS COIE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JESSICA",
+          "lastName": "MEYERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65049",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-359-8038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET, SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER P.C",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BULLOUGH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-323-3384"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "HALLSTROM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-323-3339"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "addressLineTwoText": "DANCHO",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98502"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66714",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-704-9664"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "PHONG",
+          "lastName": "DINH",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67475",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "126-940-86958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2379 CAVE HOLLOW WAY",
+              "cityName": "BOUNTIFUL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalCode": "84010"
+            }
+          ],
+          "firstName": "SARA",
+          "lastName": "MCFADDEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70513",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-989-6014"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 5TH AVE #6800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "SHOOK, HARDY & BACON L.L.P.",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "HEATHER",
+          "lastName": "HEDEEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-344-7606"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "HALLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71793",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-727-0232"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CARPENTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73862",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "RICHARDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12203 RIDGEMONT WAY N",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PATRICK CHINKIWSKY LAW OFFICE PLLC",
+              "postalCode": "98133"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "CHINKIWSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-224-7284"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "nameLineTwoText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "HONGHAO",
+          "lastName": "ZHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76097",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "142-572-22634"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 MAIN STREET",
+              "addressLineTwoText": "14TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KNOBBE MARTENS",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78119",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "BO",
+          "lastName": "NIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78669",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-722-0924"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5600 148TH AVE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "SHAYDA",
+          "lastName": "SCHULE",
+          "middleName": "S.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79003",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-999-1247"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 147148,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "36 South State Street",
+            "addressLineTwoText": "Suite 1400",
+            "cityName": "Salt Lake City",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "UT",
+            "geographicRegionName": "UTAH",
+            "nameLineOneText": "Ray Quinney & Nebeker - Microsoft",
+            "postalCode": "84111"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48577",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-707-3591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MARQUIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46900",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-704-8572"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "PHONG",
+          "lastName": "DINH",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67475",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "126-940-86958"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CARPENTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73862",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "CHATTERJEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "41398",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-647-6572"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2040 MAIN STREET",
+              "addressLineTwoText": "14TH FLOOR",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KNOBBE MARTENS",
+              "postalCode": "92614"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78119",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 WEST CALIFORNIA AVENUE",
+              "addressLineTwoText": "SUITE 110",
+              "cityName": "SUNNYVALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DICKINSON WRIGHT RLLP",
+              "postalCode": "94086"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "CHENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64473",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-701-6146"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "RICHARDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74599",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "nameLineTwoText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "HONGHAO",
+          "lastName": "ZHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76097",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "142-572-22634"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 ENTERPRISE WAY",
+              "cityName": "SUNNYVALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "MOTOROLA MOBILITY",
+              "postalCode": "94089"
+            }
+          ],
+          "firstName": "RENEE",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650--27-9-9311"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-494-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "EVANS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57652",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-705-4758"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICRSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052-639"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "WIGHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37759",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-2115"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSFT CORPOATION",
+              "postalCode": "98005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "JARDINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-538-7123"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 5TH AVE #6800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "SHOOK, HARDY & BACON L.L.P.",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "HEATHER",
+          "lastName": "HEDEEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-344-7606"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "BO",
+          "lastName": "NIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78669",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-722-0924"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "ANAND",
+          "lastName": "GUPTA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-705-8900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET, SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER P.C",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BULLOUGH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-323-3384"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "LIN",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58858",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "888-725-1047"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 4800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PERKINS COIE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JESSICA",
+          "lastName": "MEYERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65049",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-359-8038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "WEI-CHEN",
+          "lastName": "CHEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56665",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-0915"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "HALLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71793",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-727-0232"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "SPELLMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45124",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-707-9382"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12203 RIDGEMONT WAY N",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PATRICK CHINKIWSKY LAW OFFICE PLLC",
+              "postalCode": "98133"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "CHINKIWSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-224-7284"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5600 148TH AVE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "nameLineTwoText": "MICROSOFT CORPORATION",
+              "postalCode": "98052"
+            }
+          ],
+          "firstName": "SUNAH",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53198",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "142-542-14178"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER, P.C.",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "TAYLOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-532-1500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "36 SOUTH STATE STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "RAY QUINNEY & NEBEKER",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "HALLSTROM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-323-3339"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ARENT FOX, LLP",
+              "postalCode": "20006-534"
+            }
+          ],
+          "firstName": "TIFFANY",
+          "lastName": "HEALY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57912",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-857-6453"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3460 157TH AVE NE",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98052-539"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "CHURNA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48340",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-421-6189"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE MICROSOFT WAY",
+              "addressLineTwoText": "DANCHO",
+              "cityName": "REDMOND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "MICROSOFT CORPORATION",
+              "postalCode": "98502"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66714",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-704-9664"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/492"
+}

@@ -1,0 +1,546 @@
+{
+  "applicant": null,
+  "application_number": "29245426",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-30 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-12-22",
+  "grant_date": "2007-10-30",
+  "invention_title": "ROUTER",
+  "label": "negative",
+  "patent_number": "D553930",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8953,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-10",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 28268,
+      "docketNumber": "D-US-CS-1224",
+      "effectiveFilingDate": "2005-12-22",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "MURPHY, AUSTIN",
+      "filingDate": "2005-12-22",
+      "firstInventorName": "Nigel Robson",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-30",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "ROUTER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Gateshead",
+              "countryCode": "GB",
+              "countryName": "UNITED KINGDOM",
+              "nameLineOneText": "Nigel  Robson",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "GB",
+          "firstName": "Nigel",
+          "inventorNameText": "Nigel Robson",
+          "lastName": "Robson"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553930",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "67",
+      "uspcSymbolText": "D8/67"
+    },
+    "applicationNumberText": "29245426",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1207 DRUMMOND PLAZA",
+              "cityName": "NEWARK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "ictCountryCode": "US",
+              "ictStateCode": "DE",
+              "postalCode": "19711"
+            },
+            "assigneeNameText": "BLACK & DECKER INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17916/266",
+        "assignmentMailedDate": "2006-07-12",
+        "assignmentReceivedDate": "2006-05-25",
+        "assignmentRecordedDate": "2006-03-30",
+        "assignorBag": [
+          {
+            "assignorName": "ROBSON, NIGEL",
+            "executionDate": "2006-03-16"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "BLACK & DECKER CORPORATION",
+          "addressLineThreeText": "TOWSON, MD 21288",
+          "addressLineTwoText": "701 E. JOPPA ROAD - TW199",
+          "correspondentNameText": "WESLEY W. MULLER"
+        },
+        "frameNumber": 266,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017916/0266",
+        "reelNumber": 17916
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "701 East Joppa Road, MR045",
+        "cityName": "Towson",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MD",
+        "geographicRegionName": "MARYLAND",
+        "nameLineOneText": "Stanley Black & Decker, Inc.",
+        "postalCode": "21286"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-30",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-09",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-09",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-31",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-31",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-27",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-06-12",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-06-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2007-06-12",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2007-06-12",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2006-12-22",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "W/OA",
+        "eventDate": "2006-09-28",
+        "eventDescriptionText": "Pre-Exam Office Action Withdrawn"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-09-28",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-12-22",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-01-18",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "W/OA",
+        "eventDate": "2006-01-18",
+        "eventDescriptionText": "Pre-Exam Office Action Withdrawn"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-01-18",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-12-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "3021655",
+        "filingDate": "2005-06-22",
+        "ipOfficeName": "UNITED KINGDOM"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T14:03:25",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 EAST JOPPA ROAD",
+              "addressLineTwoText": "TW199",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "STANLEY BLACK & DECKER, INC.",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "ARONOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37770",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-3689"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 EAST JOPPA ROAD",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "STANLEY BLACK AND DECKER, INC.",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "ADAN",
+          "lastName": "AYALA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "38373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-2368"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 BECTON DR,  MC110",
+              "cityName": "FRANKLIN LAKES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "BECTON DICKINSON AND COMPANY",
+              "postalCode": "07417"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "SCHILDKRAUT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43092",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-847-7111"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6201 GREENLEIGH AVENUE",
+              "cityName": "MIDDLE RIVER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BLACK & DECKER",
+              "postalCode": "21220"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "MARKOW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46899",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-630-9429"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 E. JOPPA ROAD",
+              "addressLineTwoText": "MAIL STOP TW199",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "THE BLACK & DECKER CORPORATION",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "RHONDA",
+          "lastName": "BARTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47271",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-2886"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 EAST JOPPA RD",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BLACK & DECKER CORPORATION",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "KOFI",
+          "lastName": "SCHULTERBRANDT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50168",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-2881"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 EAST JOPPA ROAD",
+              "addressLineTwoText": "TW199",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BLACK & DECKER CORPORATION",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "JONATHON",
+          "lastName": "YUN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53823",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-3105"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 E. JOPPA ROAD",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "BLACK & DECKER",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "VALANCIUS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57574",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-716-3605"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1650 TYSONS BLVD., SUITE 400",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "MORRISON & FOERSTER LLP",
+              "postalCode": "22102"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "ROHANI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61782",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-760-7757"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE EAST WACKER DRIVE",
+              "addressLineTwoText": "SUITE 2020",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "THE LAW OFFICES OF CARL E. MYERS",
+              "postalCode": "60601"
+            }
+          ],
+          "firstName": "CARL",
+          "lastName": "MYERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62186",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-267-0406"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 E. JOPPA RD",
+              "addressLineTwoText": "MR-045",
+              "cityName": "TOWSON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "STANLEY BLACK & DECKER, INC.",
+              "postalCode": "21286"
+            }
+          ],
+          "firstName": "GABRIEL",
+          "lastName": "HABOUBI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66201",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "410-630-9431"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/67"
+}

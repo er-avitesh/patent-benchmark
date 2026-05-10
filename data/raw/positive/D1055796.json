@@ -1,0 +1,1168 @@
+{
+  "applicant": "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+  "application_number": "29899935",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29899935_D1055796.xml",
+  "filing_date": "2023-08-15",
+  "grant_date": "2024-12-31",
+  "invention_title": "VEHICLE REAR LOWER FASCIA",
+  "label": "positive",
+  "patent_number": "D1055796",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Detroit",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 4500,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 286,
+      "docketNumber": "P105896-PRI-DES-US01",
+      "effectiveFilingDate": "2023-08-15",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "MCCARTNEY, JOHN P",
+      "filingDate": "2023-08-15",
+      "firstApplicantName": "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+      "firstInventorName": "Eduardo Okamoto",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2937",
+      "inventionTitle": "VEHICLE REAR LOWER FASCIA",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Warren",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Okamoto,Eduardo",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Royal Oak",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Okamoto,Eduardo",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Eduardo",
+          "inventorNameText": "Eduardo Okamoto",
+          "lastName": "Okamoto"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Royal Oak",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Sullivan,Maxwell,A.",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Royal Oak",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Sullivan,Maxwell,A.",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Maxwell",
+          "inventorNameText": "Maxwell A. Sullivan",
+          "lastName": "Sullivan",
+          "middleName": "A."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055796",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "163",
+      "uspcSymbolText": "D12/163"
+    },
+    "applicationNumberText": "29899935",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C24-A68 P.O. BOX 300",
+              "cityName": "DETROIT",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "ictCountryCode": "US",
+              "ictStateCode": "MI",
+              "postalCode": "48265"
+            },
+            "assigneeNameText": "GM GLOBAL TECHNOLOGY OPERATIONS LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/64598/132",
+        "assignmentMailedDate": "2023-08-17",
+        "assignmentReceivedDate": "2023-08-15",
+        "assignmentRecordedDate": "2023-08-15",
+        "assignorBag": [
+          {
+            "assignorName": "SULLIVAN, MAXWELL A.",
+            "executionDate": "2023-08-01"
+          },
+          {
+            "assignorName": "OKAMOTO, EDUARDO",
+            "executionDate": "2023-08-02"
+          }
+        ],
+        "attorneyDocketNumber": "P105896-PRI-DES-US01",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "300 RENAISSANCE CENTER",
+          "addressLineThreeText": "DETROIT, MI 48265",
+          "addressLineTwoText": "MAIL CODE 482-C24-A68 P.O. BOX 300",
+          "correspondentNameText": "GENERAL MOTORS LLC, LEGAL STAFF"
+        },
+        "frameNumber": 132,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "064598/0132",
+        "reelNumber": 64598
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "MAIL CODE 482-C24-A68",
+        "addressLineTwoText": "P O BOX 300",
+        "cityName": "DETROIT",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "GENERAL MOTORS LLC",
+        "nameLineTwoText": "LEGAL STAFF",
+        "postalCode": "48265-3000"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-12-02",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-12-02",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-09-13",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-23",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-08-21",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-08-21",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-08-21",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-08-21",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29899935_D1055796.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29899935_D1055796.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-24T03:51:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS COMPANY",
+              "nameLineTwoText": "LEGAL STAFF - INTELLECTUAL PROPERTY",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "GORBATOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37839",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313--66-5-4719"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "BLANK ROME COMISKY & MCCAULEY LLP",
+              "nameLineTwoText": "900 17TH STREET NW SUITE 1000",
+              "postalCode": "200060000"
+            },
+            {
+              "addressLineOneText": "400 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC: 482-026-601",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "HOWARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-0688"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS, CORP.",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "LAURA",
+          "lastName": "HARGITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43989",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4710"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "DEVRIES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44654",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4969"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC #482-C23-3000",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LLC",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "LARRY",
+          "lastName": "SHELTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45100",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-3288"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "MAIL CODE 482-C23-B21",
+              "addressLineTwoText": "300 RENAISSANCE CENTER, P.O. BOX 300",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LLC",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "KAJANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47693",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-701-1356"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC#482-C22-A36",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS, LLP",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "WARDWELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48025",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-309-5084"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 GM RENAISSANCE CENTER P.O. BOX 300",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "RAVI",
+          "lastName": "MATHURA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4707"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 GM RENAISSANCE CENTER, P.O. BOX 300",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS CORPORATION",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "HUDYMA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60084",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4730"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "BONNIE",
+          "lastName": "SHAW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60493",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-567-3126"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "JONES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-2453"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTOR'S LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "CALIGIURI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66879",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-5774"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "TOWER 300, FLOOR 22",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "WILLOUGHBY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68410",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSAINCE CENTER",
+              "addressLineTwoText": "MC 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "LOHRUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-7692"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC#482-C22-A36",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "STEN",
+          "lastName": "SCHULER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73878",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-720-0443"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48243"
+            }
+          ],
+          "firstName": "CHINTAN",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74505",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-756-5042"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 286,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "MAIL CODE 482-C24-A68",
+            "addressLineTwoText": "P O BOX 300",
+            "cityName": "DETROIT",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MI",
+            "geographicRegionName": "MICHIGAN",
+            "nameLineOneText": "GENERAL MOTORS LLC",
+            "nameLineTwoText": "LEGAL STAFF",
+            "postalCode": "48265-3000"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS, CORP.",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "LAURA",
+          "lastName": "HARGITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43989",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4710"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC#482-C22-A36",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "STEN",
+          "lastName": "SCHULER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73878",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-720-0443"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 GM RENAISSANCE CENTER P.O. BOX 300",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "RAVI",
+          "lastName": "MATHURA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4707"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC #482-C23-3000",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LLC",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "LARRY",
+          "lastName": "SHELTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45100",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-3288"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "BONNIE",
+          "lastName": "SHAW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60493",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-567-3126"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 WEST BIG BEAVER ROAD",
+              "addressLineTwoText": "SUITE 1101",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "CANTOR COLBURN LLP",
+              "postalCode": "48084"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "HUDYMA",
+          "middleName": "PAUL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60084",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-524-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS COMPANY",
+              "nameLineTwoText": "LEGAL STAFF - INTELLECTUAL PROPERTY",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "GORBATOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37839",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313--66-5-4719"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "400 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC: 482-026-601",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "HOWARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-0688"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "MAIL CODE 482-C23-B21",
+              "addressLineTwoText": "300 RENAISSANCE CENTER, P.O. BOX 300",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LLC",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "KAJANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47693",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-701-1356"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48243"
+            }
+          ],
+          "firstName": "CHINTAN",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74505",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-756-5042"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MC#482-C22-A36",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS, LLP",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "WARDWELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48025",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-309-5084"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "DEVRIES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44654",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-4969"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSAINCE CENTER",
+              "addressLineTwoText": "MC 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "LOHRUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71715",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-7692"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "MAIL CODE 482-C23-B21",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "JONES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-2453"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "addressLineTwoText": "TOWER 300, FLOOR 22",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTORS",
+              "postalCode": "48265"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "WILLOUGHBY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68410",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-667-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RENAISSANCE CENTER",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GENERAL MOTOR'S LEGAL STAFF",
+              "postalCode": "48265-300"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "CALIGIURI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66879",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-665-5774"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/163"
+}

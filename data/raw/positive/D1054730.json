@@ -1,0 +1,460 @@
+{
+  "applicant": null,
+  "application_number": "29819556",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29819556_D1054730.xml",
+  "filing_date": "2021-12-16",
+  "grant_date": "2024-12-24",
+  "invention_title": "Chair",
+  "label": "positive",
+  "patent_number": "D1054730",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4393,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 160315,
+      "docketNumber": "218-42-USDP",
+      "effectiveFilingDate": "2021-12-16",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro"
+      },
+      "examinerNameText": "TORMA, CHRISTOPHER J",
+      "filingDate": "2021-12-16",
+      "firstInventorName": "Yukai He",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2936",
+      "inventionTitle": "Chair",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Zhoushan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Yukai  He",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Zhoushan",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Yukai  He",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yukai",
+          "inventorNameText": "Yukai He",
+          "lastName": "He"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1054730",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "378",
+      "uspcSymbolText": "D6/378"
+    },
+    "applicationNumberText": "29819556",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO.040, B1008 CENTRALIZED OFFICE",
+              "addressLineTwoText": "BUILDING 1(R&D BU, NO.8 XINGYE AVENUE, BONDED ZONE",
+              "cityName": "NINGBO",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN"
+            },
+            "assigneeNameText": "BRAVO UNION SUPPLY CHAIN MANAGEMENT CO., LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/68892/434",
+        "assignmentMailedDate": "2024-10-16",
+        "assignmentReceivedDate": "2024-10-15",
+        "assignmentRecordedDate": "2024-10-15",
+        "assignorBag": [
+          {
+            "assignorName": "HE, YUKAI",
+            "executionDate": "2024-10-11"
+          }
+        ],
+        "attorneyDocketNumber": "218-42-USDP",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2112, W. MARJORY AVE.",
+          "addressLineTwoText": "TAMPA, FL 33606",
+          "correspondentNameText": "ASHUTOSH CHOUDHARY"
+        },
+        "frameNumber": 434,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "068892/0434",
+        "reelNumber": 68892
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "2112 W. Marjory Ave",
+        "cityName": "Tampa",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "FL",
+        "geographicRegionName": "FLORIDA",
+        "nameLineOneText": "KA Filing LLC",
+        "postalCode": "33606"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-06",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-02",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-05-26",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-05-26",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-05-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-05-23",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-05-17",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-02-14",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2022-02-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MPEN",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Mail Pre-Exam Notice"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-02-03",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-02-03",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.U",
+        "eventDate": "2022-02-04",
+        "eventDescriptionText": "Filing Receipt - Updated"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2021-12-23",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2021-12-23",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2021-12-17",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-12-16",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-12-16",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:08",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29819556_D1054730.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29819556_D1054730.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T00:00:09",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "EXCLUDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2112 W. MARJORY AVENUE",
+              "cityName": "TAMPA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "postalCode": "33606-3104"
+            }
+          ],
+          "firstName": "WAYNE",
+          "lastName": "HARPER",
+          "middleName": "V",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55839",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "813-254-6902"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5684 NORTH RAINBOW LANE",
+              "cityName": "WATERFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "48329"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "TOPOLEWSKI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64011",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-630-6345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "48680 VINTAGE LANE",
+              "cityName": "MACOMB",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "postalCode": "48044"
+            }
+          ],
+          "firstName": "TODD",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71301",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "586-243-2588"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "YITZHAK SHAMIR STREET 9/37",
+              "cityName": "HERZLIYA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "nameLineOneText": "YONORI LTD.",
+              "postalCode": "4634864"
+            }
+          ],
+          "firstName": "JOSE",
+          "lastName": "CHERSON WEISSBROT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "718-705-0106"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/378"
+}

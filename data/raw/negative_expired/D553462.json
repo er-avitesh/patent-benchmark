@@ -1,0 +1,1633 @@
+{
+  "applicant": null,
+  "application_number": "29229873",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-23 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-05-11",
+  "grant_date": "2007-10-23",
+  "invention_title": "TOOL DISPENSER HAVING A SERRATED SPINE",
+  "label": "negative",
+  "patent_number": "D553462",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7191,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-03",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 26389,
+      "docketNumber": "JORC125177",
+      "effectiveFilingDate": "2005-05-11",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "NELSON, THORNTON C",
+      "filingDate": "2005-05-11",
+      "firstInventorName": "Nathan C. Cantlon",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-23",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "TOOL DISPENSER HAVING A SERRATED SPINE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Charlo",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "nameLineOneText": "Nathan C. Cantlon",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Nathan",
+          "inventorNameText": "Nathan C. Cantlon",
+          "lastName": "Cantlon",
+          "middleName": "C."
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ronan",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "nameLineOneText": "Jesse  Croft",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jesse",
+          "inventorNameText": "Jesse Croft",
+          "lastName": "Croft"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ronan",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "nameLineOneText": "W. Robert Cornwell",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "W.",
+          "inventorNameText": "W. Robert Cornwell",
+          "lastName": "Cornwell",
+          "middleName": "Robert"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ronan",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "nameLineOneText": "David  Tyler",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "David",
+          "inventorNameText": "David Tyler",
+          "lastName": "Tyler"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553462",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "71",
+      "uspcSymbolText": "D8/71"
+    },
+    "applicationNumberText": "29229873",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "950 EAST FOSTER WELLS ROAD",
+              "cityName": "PASCO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "99301"
+            },
+            "assigneeNameText": "JORE CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16372/289",
+        "assignmentMailedDate": "2005-08-09",
+        "assignmentReceivedDate": "2005-08-09",
+        "assignmentRecordedDate": "2005-08-09",
+        "assignorBag": [
+          {
+            "assignorName": "CANTLON, NATHAN C.",
+            "executionDate": "2005-07-06"
+          },
+          {
+            "assignorName": "CORNWELL, W. ROBERT",
+            "executionDate": "2005-07-06"
+          },
+          {
+            "assignorName": "CROFT, JESSE",
+            "executionDate": "2005-07-06"
+          },
+          {
+            "assignorName": "TYLER, DAVID",
+            "executionDate": "2005-07-06"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS",
+          "addressLineThreeText": "SEATTLE, WA 98101-2347",
+          "addressLineTwoText": "1420 FIFTH AVENUE, SUITE 2800",
+          "correspondentNameText": "JOHN D. DENKENBERGER, ESQ."
+        },
+        "frameNumber": 289,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "016372/0289",
+        "reelNumber": 16372
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "34837 INNOVATION DRIVE",
+              "cityName": "RONAN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MT",
+              "geographicRegionName": "MONTANA",
+              "ictCountryCode": "US",
+              "ictStateCode": "MT",
+              "postalCode": "59864"
+            },
+            "assigneeNameText": "ROCKY MOUNTAIN TWIST CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/51097/41",
+        "assignmentMailedDate": "2019-11-25",
+        "assignmentReceivedDate": "2019-11-22",
+        "assignmentRecordedDate": "2019-11-22",
+        "assignorBag": [
+          {
+            "assignorName": "JORE CORPORATION",
+            "executionDate": "2019-04-02"
+          }
+        ],
+        "attorneyDocketNumber": "JORC520155",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "1201 THIRD AVENUE",
+          "addressLineThreeText": "SEATTLE, WA 98101-3029",
+          "addressLineTwoText": "SUITE 3600",
+          "correspondentNameText": "JOHN D. DENKENBERGER"
+        },
+        "frameNumber": 41,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "051097/0041",
+        "reelNumber": 51097
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1201 Third Avenue",
+        "addressLineTwoText": "Suite 3600",
+        "cityName": "Seattle",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "WA",
+        "geographicRegionName": "WASHINGTON",
+        "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+        "postalCode": "98101"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-23",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-03",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-15",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-14",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-05-14",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-05-04",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2007-05-02",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2007-05-02",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-05-02",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2006-11-03",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2006-10-30",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-09-24",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-09-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-08-18",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-08-18",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2005-08-10",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-08-10",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-06-09",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-05-11",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T10:34:44",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JERALD",
+          "lastName": "NAGAE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29418",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "POOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "RENZONI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37919",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1218 THIRD AVE",
+              "addressLineTwoText": "SUITE 1809",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "WHITAKER LAW GROUP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "WHITAKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-436-8500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS, PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DENKENBERGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44060",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1420 FIFTH AVENUE, SUITE 2800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON AND KINDNESS, PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "STALLMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "LAURA",
+          "lastName": "CRUZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46649",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "CORY",
+          "lastName": "CLAASSEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50296",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1756"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 11379",
+              "cityName": "BAINBRIDGE ISLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "SHERBINA INTELLECTUAL PROPERTY LAW, PLLC",
+              "postalCode": "98110"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "SHERBINA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54443",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-319-3667"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "LLEWELLYN",
+          "lastName": "LAWSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57869",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THRID AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JADRAN",
+          "lastName": "MIHAILOVIC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57874",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1657"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "BALINT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SHELDON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62494",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 3RD AVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "COJK",
+              "nameLineTwoText": "COJK",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "MARGIE",
+          "lastName": "AOKI",
+          "middleName": "B.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62644",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "253-861-3668"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVE., SUITE 5400,",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "SEED INTELLECTUAL PROPERTY LAW GROUP LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "SANGEETA",
+          "lastName": "CHEEMA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "63400",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-694-4861"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "FITZPATRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66847",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "MELISSA",
+          "lastName": "NOWAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68088",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "+1 (905) 901 - 0034"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "LAUGHLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "MAKIKO",
+          "lastName": "COFFLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "159 HIPKINS ROAD",
+              "cityName": "WEST GROVE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BITWORKS, LLC",
+              "postalCode": "19390"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "CAMPBELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "74985",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "417-300-5601"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "CERNETIC",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75741",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 4900",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PERKINS COIE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JAKE",
+          "lastName": "FERDERER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-359-3554"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JULIE",
+          "lastName": "BOWMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80081",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1612"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 3RD AVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "TAYLOR",
+          "lastName": "FAIRCHILD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80481",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "253-293-1040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5520 170TH PL SW",
+              "cityName": "LYNNWOOD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "postalCode": "98037"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "RUPPEL",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82729",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-773-8546"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 26389,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1201 Third Avenue",
+            "addressLineTwoText": "Suite 3600",
+            "cityName": "Seattle",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "WA",
+            "geographicRegionName": "WASHINGTON",
+            "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+            "postalCode": "98101"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "POOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32928",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JULIE",
+          "lastName": "BOWMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80081",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1612"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 3RD AVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "TAYLOR",
+          "lastName": "FAIRCHILD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80481",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "253-293-1040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "BALINT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61038",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "LAUGHLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SHELDON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62494",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "CLAWSON",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83424",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1703"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "CERNETIC",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75741",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS, PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DENKENBERGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44060",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 3RD AVE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "COJK",
+              "nameLineTwoText": "COJK",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "MARGIE",
+          "lastName": "AOKI",
+          "middleName": "B.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62644",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "253-861-3668"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THRID AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JADRAN",
+          "lastName": "MIHAILOVIC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57874",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1657"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "CORY",
+          "lastName": "CLAASSEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50296",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1756"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "JERALD",
+          "lastName": "NAGAE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29418",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1420 FIFTH AVENUE, SUITE 2800",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON AND KINDNESS, PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "STALLMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "MELISSA",
+          "lastName": "NOWAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68088",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "+1 (905) 901 - 0034"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JAKE",
+          "lastName": "FERDERER",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1790"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVE., SUITE 5400,",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "SEED INTELLECTUAL PROPERTY LAW GROUP LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "SANGEETA",
+          "lastName": "CHEEMA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "63400",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-694-4861"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "RENZONI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37919",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "MAKIKO",
+          "lastName": "COFFLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "LLEWELLYN",
+          "lastName": "LAWSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57869",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5520 170TH PL SW",
+              "cityName": "LYNNWOOD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "postalCode": "98037"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "RUPPEL",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82729",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-773-8546"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1218 THIRD AVE",
+              "addressLineTwoText": "SUITE 1809",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "WHITAKER LAW GROUP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "WHITAKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42222",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-436-8500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC",
+              "postalCode": "98101-302"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "FITZPATRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66847",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-682-8100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 3RD AVE SUITE 3600",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "CHRISTENSEN O'CONNOR JOHNSON KINDNESS PLLC.",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "COLLEEN",
+          "lastName": "HUI",
+          "middleName": "H.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83895",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-695-1770"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/71"
+}

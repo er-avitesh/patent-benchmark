@@ -1,0 +1,637 @@
+{
+  "applicant": null,
+  "application_number": "29242141",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-09 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-03-28",
+  "grant_date": "2007-10-09",
+  "invention_title": "BED RAIL",
+  "label": "negative",
+  "patent_number": "D552529",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3551,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-19",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 10291,
+      "docketNumber": "65042-0508",
+      "effectiveFilingDate": "2005-11-04",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "CADMUS, STACIA A",
+      "filingDate": "2006-03-28",
+      "firstInventorName": "John E. Klinkman",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-09",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "BED RAIL",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Riley Township",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "John E. Klinkman",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "John",
+          "inventorNameText": "John E. Klinkman",
+          "lastName": "Klinkman",
+          "middleName": "E."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D552529",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "223",
+      "uspcSymbolText": "D12/223"
+    },
+    "applicationNumberText": "29242141",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "299 PARK AVENUE, 23RD FLOOR",
+              "cityName": "NEW YORK,",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10171"
+            },
+            "assigneeNameText": "ABLECO FINANCE LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18291/51",
+        "assignmentMailedDate": "2006-09-22",
+        "assignmentReceivedDate": "2006-09-22",
+        "assignmentRecordedDate": "2006-09-22",
+        "assignorBag": [
+          {
+            "assignorName": "CHAAS ACQUISITIONS, LLC",
+            "executionDate": "2006-09-06"
+          },
+          {
+            "assignorName": "SPORTRACK, LLC",
+            "executionDate": "2006-09-06"
+          },
+          {
+            "assignorName": "VALTEK, LLC",
+            "executionDate": "2006-09-06"
+          }
+        ],
+        "attorneyDocketNumber": "45140.00163",
+        "conveyanceText": "PATENT SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "515 SOUTH FLOWER STREET, 25TH FLOOR",
+          "addressLineTwoText": "LOS ANGELES, CA 90071",
+          "correspondentNameText": "PAUL HASTINGS JANOFSKY & WALKER LLP"
+        },
+        "frameNumber": 51,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 33,
+        "reelAndFrameNumber": "018291/0051",
+        "reelNumber": 18291
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "800 Tower Dr., Suite 610",
+        "cityName": "Troy",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "Fishman Stewart PLLC",
+        "postalCode": "48098"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-09",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-19",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-02",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-07-31",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-07-31",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-04-30",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-04-30",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-04-19",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2007-04-17",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-04-17",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2007-03-20",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2007-03-19",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2006-12-29",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-05-04",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-05",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-03",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-03-28",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "CLAIM",
+        "eventDate": "2006-03-28",
+        "eventDescriptionText": "Claim Preliminary Amendment"
+      },
+      {
+        "eventCode": "INC/",
+        "eventDate": "2006-02-02",
+        "eventDescriptionText": "Notice of Incomplete Application - Filing Date Not Assigned"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-01-26",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2006-01-26",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INC/",
+        "eventDate": "2005-11-30",
+        "eventDescriptionText": "Notice of Incomplete Application - Filing Date Not Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-11-04",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-15T22:00:01",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "39533 WOODWARD AVENUE",
+              "addressLineTwoText": "SUITE 140",
+              "cityName": "BLOOMFIELD HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "RADER FISHMAN AND GRAUER PLLC",
+              "postalCode": "48304"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "FISHMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31951",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STEWART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "31 TEATICKET HIGHWAY",
+              "addressLineTwoText": "SUITE 7",
+              "cityName": "EAST FALMOUTH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "02536"
+            }
+          ],
+          "firstName": "CECILY",
+          "lastName": "O'REGAN",
+          "middleName": "ANNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37448",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "cityName": "LIVONIA,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "18755 BLUE SKIES",
+              "postalCode": "48152"
+            },
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "GUENTHER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39698",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0660"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-455-3600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "39533 WOODWARD AVENUE SUITE 140",
+              "cityName": "BLOOMFIELD HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART, PLLC",
+              "postalCode": "48304"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "LAMBRECHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59263",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-593-3330"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "865 E LOMBARD ST.",
+              "cityName": "BALTIMORE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "MCLEAN LAW LLC",
+              "postalCode": "21202"
+            }
+          ],
+          "firstName": "KIMBERLY",
+          "lastName": "MCLEAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62378",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "443-220-7276"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "RATZMANN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62592",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-593-3345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "JEONG",
+          "lastName": "SEO",
+          "middleName": "H.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66340",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-204-0001"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "TAYLOR",
+          "middleName": "W.",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67035",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "KAMERON",
+          "lastName": "BONNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68799",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART, PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "NORMAN",
+          "lastName": "FREDA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-593-3349"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "DECEASED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2564 N. SQUIRREL RD",
+              "addressLineTwoText": "#223",
+              "cityName": "AUBURN HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "PATENT LEGAL COUNSEL, PLLC",
+              "postalCode": "48326"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "JARRELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52484",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-464-2404"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "800 TOWER DRIVE",
+              "addressLineTwoText": "SUITE 610",
+              "cityName": "TROY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "FISHMAN STEWART PLLC",
+              "postalCode": "48098"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STEWART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-594-0600"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/223"
+}

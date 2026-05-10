@@ -1,0 +1,427 @@
+{
+  "applicant": null,
+  "application_number": "29940096",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240917/29940096_D1042157.xml",
+  "filing_date": "2024-04-30",
+  "grant_date": "2024-09-17",
+  "invention_title": "Gun Cleaning Case",
+  "label": "positive",
+  "patent_number": "D1042157",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 6051,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-08-28",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 19307,
+      "docketNumber": "MTYB240429001USD",
+      "effectiveFilingDate": "2024-04-30",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "EL-NEMRI, OLIVIA B",
+      "filingDate": "2024-04-30",
+      "firstInventorName": "Shengchun ZHANG",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-09-17",
+      "groupArtUnitNumber": "2938",
+      "inventionTitle": "Gun Cleaning Case",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Zhejiang",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "ZHANG,Shengchun",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Zhejiang",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "ZHANG,Shengchun",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Shengchun",
+          "inventorNameText": "Shengchun ZHANG",
+          "lastName": "ZHANG"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1042157",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "680",
+      "uspcSymbolText": "D9/680"
+    },
+    "applicationNumberText": "29940096",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1003 Bishop Street",
+        "addressLineTwoText": "Suite 2700",
+        "cityName": "Honolulu",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "HI",
+        "geographicRegionName": "HAWAII",
+        "nameLineOneText": "Hawaii Patent Services",
+        "postalCode": "96813"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-05-13",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-05-13",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-08-28",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-07-22",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-07-15",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-07-13",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-23",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-23",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-23",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-06-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-06-21",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-06-14",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-06-06",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "MGRCDK",
+        "eventDate": "2024-05-14",
+        "eventDescriptionText": "Mail Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "GRCDK",
+        "eventDate": "2024-05-11",
+        "eventDescriptionText": "Rocket Docket Request Granted"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2024-05-07",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-09-30T17:59:41",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240917/29940096_D1042157.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29940096_D1042157.xml",
+      "zipFileName": "ipg240917.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "18325 ALLENTON WOODS CT.",
+              "cityName": "WILDWOOD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "THE FEDDE LAW FIRM",
+              "postalCode": "63069"
+            }
+          ],
+          "firstName": "KENTON",
+          "lastName": "FEDDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54701",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-378-8390"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "909 KAPIOLANI BLVD. SUITE 2901",
+              "cityName": "HONOLULU",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "HI",
+              "geographicRegionName": "HAWAII",
+              "nameLineOneText": "HAWAII PATENT SERVICES",
+              "postalCode": "96814"
+            }
+          ],
+          "firstName": "NATHANIEL",
+          "lastName": "FEDDE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59776",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "808-781-7933"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 19307,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1003 Bishop Street",
+            "addressLineTwoText": "Suite 2700",
+            "cityName": "Honolulu",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "HI",
+            "geographicRegionName": "HAWAII",
+            "nameLineOneText": "Hawaii Patent Services",
+            "postalCode": "96813"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "18325 ALLENTON WOODS CT.",
+              "cityName": "WILDWOOD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "THE FEDDE LAW FIRM",
+              "postalCode": "63069"
+            }
+          ],
+          "firstName": "KENTON",
+          "lastName": "FEDDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54701",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-378-8390"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1003 BISHOP STREET",
+              "addressLineTwoText": "SUITE 2700",
+              "cityName": "HONOLULU",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "HI",
+              "geographicRegionName": "HAWAII",
+              "nameLineOneText": "HAWAII PATENT SERVICES",
+              "postalCode": "96813"
+            }
+          ],
+          "firstName": "NATHANIEL",
+          "lastName": "FEDDE",
+          "middleName": "K",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59776",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "808-781-7933"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/680"
+}

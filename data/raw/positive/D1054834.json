@@ -1,0 +1,2074 @@
+{
+  "applicant": "iLOQ Oy",
+  "application_number": "29884995",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29884995_D1054834.xml",
+  "filing_date": "2023-02-17",
+  "grant_date": "2024-12-24",
+  "invention_title": "LOCK ACCESSORY",
+  "label": "positive",
+  "patent_number": "D1054834",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "iLOQ Oy",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oulu",
+              "countryCode": "FI",
+              "countryName": "FINLAND",
+              "nameLineOneText": "iLOQ Oy",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 5053,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 23117,
+      "docketNumber": "JR-227-555",
+      "effectiveFilingDate": "2023-02-17",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "EVANS, SYDNEY M",
+      "filingDate": "2023-02-17",
+      "firstApplicantName": "iLOQ Oy",
+      "firstInventorName": "Jari J\u00c4RVIKUONA",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2938",
+      "inventionTitle": "LOCK ACCESSORY",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oulu",
+              "countryCode": "FI",
+              "countryName": "FINLAND",
+              "nameLineOneText": "Jari  J\u00c4RVIKUONA",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Ylivieska",
+              "countryCode": "FI",
+              "countryName": "FINLAND",
+              "nameLineOneText": "J\u00c4RVIKUONA, Jari",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Jari",
+          "inventorNameText": "Jari J\u00c4RVIKUONA",
+          "lastName": "J\u00c4RVIKUONA"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1054834",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "343",
+      "uspcSymbolText": "D8/343"
+    },
+    "applicationNumberText": "29884995",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ELEKTRONIIKKATIE 10",
+              "cityName": "OULU",
+              "countryName": "FINLAND",
+              "geographicRegionCode": "FIX",
+              "ictCountryCode": "FI",
+              "postalCode": "90590"
+            },
+            "assigneeNameText": "ILOQ OY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/62733/467",
+        "assignmentMailedDate": "2023-02-20",
+        "assignmentReceivedDate": "2023-02-17",
+        "assignmentRecordedDate": "2023-02-17",
+        "assignorBag": [
+          {
+            "assignorName": "J\u00c4RVIKUONA, JARI",
+            "executionDate": "2023-02-14"
+          }
+        ],
+        "attorneyDocketNumber": "JR-227-555",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+          "addressLineTwoText": "ARLINGTON, VA 22203",
+          "correspondentNameText": "NIXON & VANDERHYE PC"
+        },
+        "frameNumber": 467,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "062733/0467",
+        "reelNumber": 62733
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+        "cityName": "ARLINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "NIXON & VANDERHYE, PC",
+        "postalCode": "22203"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-01",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-25",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-09-12",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "P574",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "PARALEGAL OR ELECTRONIC TERMINAL DISCLAIMER APPROVED"
+      },
+      {
+        "eventCode": "DIST",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Terminal Disclaimer Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-06-17",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-06-11",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-03",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-03",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-03",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-17",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-17",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-17",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-17",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:09",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29884995_D1054834.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29884995_D1054834.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-14T20:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "HAROLD",
+          "lastName": "BURNAM",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4027"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "DAVIDSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30251",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JEFFRY",
+          "lastName": "NELSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30481",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "FARIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG & THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "PATCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32925",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LASTOVA",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33149",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4025"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "DUANE",
+          "lastName": "BYERS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-786-7421"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SHEA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "PRESTA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35329",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "KAGEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36178",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4031"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "UPDEEP",
+          "lastName": "GILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37334",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "RHOA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37515",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "JENSEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37855",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            },
+            {
+              "cityName": "ALEXANDRIA,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF & BERRIDGE, P.L.C.",
+              "nameLineTwoText": "P.O. BOX 19928",
+              "postalCode": "223200000"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "BOWEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38009",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1100 NEW YORK AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STERNE, KESSLER, GOLDSTEIN & FOX",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "KENLEY",
+          "lastName": "HOOVER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "40302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-772-8773"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "RAYMOND",
+          "lastName": "MAH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG AND THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROLAND",
+          "lastName": "LONG",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "LARS",
+          "lastName": "GENIESER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46722",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20358 SENECA MEADOWS PKWY",
+              "cityName": "GERMANTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "INTREXON CORP.",
+              "postalCode": "20876"
+            }
+          ],
+          "firstName": "DOYLE",
+          "lastName": "SIEVER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "47088",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-556-9817"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "BEHNIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50215",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4072"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "SCHUTTER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "51094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE RD.",
+              "addressLineTwoText": "#1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE",
+              "nameLineTwoText": "NIXON & VANDERHYE",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "GOEHRING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4404"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG & THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KARI",
+          "lastName": "FOOTLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE RD #1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "MIKLOS",
+          "lastName": "GASZNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61314",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "513-634-0819"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4046"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 N. TROY ST.",
+              "addressLineTwoText": "UNIT 616",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22201"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "PACHOL",
+          "nameSuffix": "IV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "630-362-3458"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6815 30 RD N.",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22213"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KAUFFMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63199",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-258-5411"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE PC",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "XIAOXIANG",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "WILLIAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63716",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ISHAN",
+          "lastName": "WEERAKOON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4062"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE PC",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "CHAPIN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66712",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "VITALIY",
+          "lastName": "OREKHOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66731",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "COREY",
+          "lastName": "HAWSE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66849",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4101"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9667 PIERRPONT STREET",
+              "cityName": "BURKE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22015"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "BRADY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68190",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-231-2360"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "ROBERTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68565",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N GLEBE ROAD",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "DONGHUA",
+          "lastName": "DENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23117,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+            "cityName": "ARLINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "NIXON & VANDERHYE, PC",
+            "postalCode": "22203"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "LARS",
+          "lastName": "GENIESER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46722",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4040"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE PC",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "XIAOXIANG",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63566",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4038"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "BEHNIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50215",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4072"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9667 PIERRPONT STREET",
+              "cityName": "BURKE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22015"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "BRADY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68190",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-231-2360"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "WILLIAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63716",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "VITALIY",
+          "lastName": "OREKHOV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66731",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "UPDEEP",
+          "lastName": "GILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37334",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG AND THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ROLAND",
+          "lastName": "LONG",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "HAROLD",
+          "lastName": "BURNAM",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4027"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N GLEBE ROAD",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "DONGHUA",
+          "lastName": "DENG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "BOWEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38009",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG & THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "PATCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32925",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "209 MADISON STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "YOUNG & THOMPSON",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "KARI",
+          "lastName": "FOOTLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55187",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-521-2297"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "RAYMOND",
+          "lastName": "MAH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41426",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ISHAN",
+          "lastName": "WEERAKOON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66471",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4062"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "KAGEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36178",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4031"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LASTOVA",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33149",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4025"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6815 30 RD N.",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22213"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KAUFFMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63199",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-258-5411"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20358 SENECA MEADOWS PKWY",
+              "cityName": "GERMANTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "INTREXON CORP.",
+              "postalCode": "20876"
+            }
+          ],
+          "firstName": "DOYLE",
+          "lastName": "SIEVER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "47088",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "301-556-9817"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "SCHUTTER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "51094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "DAVIDSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30251",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "RHOA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37515",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE RD.",
+              "addressLineTwoText": "#1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE",
+              "nameLineTwoText": "NIXON & VANDERHYE",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "GOEHRING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52948",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4404"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE PC",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "CHAPIN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66712",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD",
+              "addressLineTwoText": "11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JEFFRY",
+          "lastName": "NELSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30481",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE RD #1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "MIKLOS",
+          "lastName": "GASZNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61314",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "513-634-0819"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4046"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 N. TROY ST.",
+              "addressLineTwoText": "UNIT 616",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22201"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "PACHOL",
+          "nameSuffix": "IV",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "630-362-3458"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SHEA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "COREY",
+          "lastName": "HAWSE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66849",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4101"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD",
+              "addressLineTwoText": "SUITE 1100",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "ROBERTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68565",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 NORTH GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE, P.C.",
+              "postalCode": "22203"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "FARIS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31352",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1100 NEW YORK AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "STERNE, KESSLER, GOLDSTEIN & FOX",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "KENLEY",
+          "lastName": "HOOVER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "40302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-772-8773"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/343"
+}

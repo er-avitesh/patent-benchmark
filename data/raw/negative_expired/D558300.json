@@ -1,0 +1,1177 @@
+{
+  "applicant": null,
+  "application_number": "29248204",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-02",
+  "grant_date": "2007-12-25",
+  "invention_title": "NOZZLE END CAP",
+  "label": "negative",
+  "patent_number": "D558300",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4478,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 25541,
+      "docketNumber": "21522.06US1",
+      "effectiveFilingDate": "2006-08-02",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "WEBSTER, ROBIN VALERY",
+      "filingDate": "2006-08-02",
+      "firstInventorName": "CRAIG RAPPIN",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "NOZZLE END CAP",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Long Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CRAIG  RAPPIN",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Long Grove",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "CRAIG  RAPPIN",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "CRAIG",
+          "inventorNameText": "CRAIG RAPPIN",
+          "lastName": "RAPPIN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558300",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "213",
+      "uspcSymbolText": "D23/213"
+    },
+    "applicationNumberText": "29248204",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "309 CARY POINT DRIVE, UNIT E",
+              "cityName": "CARY",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "ictCountryCode": "US",
+              "ictStateCode": "IL",
+              "postalCode": "60013"
+            },
+            "assigneeNameText": "ROLL, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18043/602",
+        "assignmentMailedDate": "2006-08-03",
+        "assignmentReceivedDate": "2006-08-02",
+        "assignmentRecordedDate": "2006-08-02",
+        "assignorBag": [
+          {
+            "assignorName": "RAPPIN, CRAIG",
+            "executionDate": "2006-07-31"
+          }
+        ],
+        "attorneyDocketNumber": "0004040.0006",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "191 N WACKER DRIVE, SUITE 1800",
+          "addressLineThreeText": "CHICAGO, IL 60606",
+          "addressLineTwoText": "ADAM K SACHAROFF",
+          "correspondentNameText": "MUCH SHELIST FREED DENENBERG AMENT & RUB"
+        },
+        "frameNumber": 602,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018043/0602",
+        "reelNumber": 18043
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "225 W. Randolph St.",
+        "addressLineTwoText": "Suite 2800",
+        "cityName": "Chicago",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "IL",
+        "geographicRegionName": "ILLINOIS",
+        "nameLineOneText": "Neal, Gerber & Eisenberg LLP",
+        "nameLineTwoText": "(Main NGE)",
+        "postalCode": "60606-1976"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PA..",
+        "eventDate": "2008-12-04",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2008-11-28",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-11-01",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-12",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-12",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-09-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-08-26",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-08-17",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-08-17",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-08-17",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-08-18",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-02",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-21T09:00:08",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8215 GREENWAY BLVD, SUITE 220",
+              "cityName": "MIDDLETON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "GREEN, GRIFFITH & BORG-BREEN LLP",
+              "postalCode": "53562"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "WARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32774",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-883-8060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MCDONOUGH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33734",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5282"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & ELSENBERG, LLP,",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "RADEMAKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35331",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8037"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "MASIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35602",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "KELBER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HARLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43658",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "LENZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "HOLBY",
+          "lastName": "ABERN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8428"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE ST",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62015",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-827-1092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "NAWSHABA",
+          "lastName": "SIDDIQUEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63742",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & ELSENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "O'CONNOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64732",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "225 WEST RANDOLPH STREET",
+              "addressLineTwoText": "SUITE 2800",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60606"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "VALENZO",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64873",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-2918"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO NORTH LASALLE STREET SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "WEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69452",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5267"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "703-770-7901"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CAMPBELL",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5357"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "TANVI",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70108",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE ST.",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602-380"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "TANKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73751",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5324"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "SHERLING",
+          "middleName": "B.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79824",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8423"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 25541,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "225 W. Randolph St.",
+            "addressLineTwoText": "Suite 2800",
+            "cityName": "Chicago",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "IL",
+            "geographicRegionName": "ILLINOIS",
+            "nameLineOneText": "Neal, Gerber & Eisenberg LLP",
+            "nameLineTwoText": "(Main NGE)",
+            "postalCode": "60606-1976"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "ADAM",
+          "lastName": "MASIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35602",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "HARLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43658",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "NAWSHABA",
+          "lastName": "SIDDIQUEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63742",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MCDONOUGH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33734",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5282"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "KELBER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8215 GREENWAY BLVD, SUITE 220",
+              "cityName": "MIDDLETON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "GREEN, GRIFFITH & BORG-BREEN LLP",
+              "postalCode": "53562"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "WARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32774",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-883-8060"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE ST.",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602-380"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "TANKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73751",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5324"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "HOLBY",
+          "lastName": "ABERN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47372",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8428"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69452",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5267"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "703-770-7901"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE ST",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62015",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-827-1092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & ELSENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "O'CONNOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64732",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG, LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "TANVI",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70108",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "LENZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44208",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "225 WEST RANDOLPH STREET",
+              "addressLineTwoText": "SUITE 2800",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60606"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "VALENZO",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64873",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-2918"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 N. LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & ELSENBERG, LLP,",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "RADEMAKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35331",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8037"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CAMPBELL",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-5357"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO NORTH LASALLE STREET SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL, GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "ANTHONY",
+          "lastName": "WEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 NORTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 1700",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "NEAL GERBER & EISENBERG LLP",
+              "postalCode": "60602"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "SHERLING",
+          "middleName": "B.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79824",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-269-8423"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/213"
+}

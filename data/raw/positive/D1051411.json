@@ -1,0 +1,328 @@
+{
+  "applicant": null,
+  "application_number": "29887532",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29887532_D1051411.xml",
+  "filing_date": "2023-03-22",
+  "grant_date": "2024-11-12",
+  "invention_title": "STIMULATION DEVICE",
+  "label": "positive",
+  "patent_number": "D1051411",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1974,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-23",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 142602,
+      "docketNumber": "1001-053",
+      "effectiveFilingDate": "2023-03-22",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "MAHARAJH, MICHAEL A",
+      "filingDate": "2023-03-22",
+      "firstInventorName": "Filip Sedic",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-12",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "STIMULATION DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Stockholm",
+              "countryCode": "SE",
+              "countryName": "SWEDEN",
+              "nameLineOneText": "Sedic,Filip",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Stockholm",
+              "countryCode": "SE",
+              "countryName": "SWEDEN",
+              "geographicRegionCode": "OT",
+              "nameLineOneText": "Sedic,Filip",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Filip",
+          "inventorNameText": "Filip Sedic",
+          "lastName": "Sedic"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051411",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "215",
+      "uspcSymbolText": "D24/215"
+    },
+    "applicationNumberText": "29887532",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "5799 FONTANOSO WAY",
+              "cityName": "SAN JOSE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "95138"
+            },
+            "assigneeNameText": "LELO INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/64861/87",
+        "assignmentMailedDate": "2023-09-12",
+        "assignmentReceivedDate": "2023-09-11",
+        "assignmentRecordedDate": "2023-09-11",
+        "assignorBag": [
+          {
+            "assignorName": "SEDIC, FILIP",
+            "executionDate": "2023-09-08"
+          }
+        ],
+        "attorneyDocketNumber": "1000-000",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1525 E. PAMA LANE",
+          "addressLineThreeText": "LAS VEGAS, NV 89119",
+          "addressLineTwoText": "SUITE 200",
+          "correspondentNameText": "EVAN FELDSTEIN"
+        },
+        "frameNumber": 87,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "064861/0087",
+        "reelNumber": 64861
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2024-10-03",
+        "childApplicationNumberText": "29966608",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D1109883",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationNumberText": "29887532"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1525 E. Pama Lane",
+        "addressLineTwoText": "Suite 200",
+        "cityName": "Las Vegas",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NV",
+        "geographicRegionName": "NEVADA",
+        "nameLineOneText": "Evan Feldstein",
+        "postalCode": "89119"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-03",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-03",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-18",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-09-16",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-09-13",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-09-10",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-09-08",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-24",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-24",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-03-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-12T09:08:00",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241112/29887532_D1051411.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29887532_D1051411.xml",
+      "zipFileName": "ipg241112.zip"
+    },
+    "lastIngestionDateTime": "2026-04-20T20:42:52",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1525 PAMA LANE",
+              "cityName": "LAS VEGAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NV",
+              "geographicRegionName": "NEVADA",
+              "nameLineOneText": "FOREO INC.",
+              "postalCode": "89119"
+            }
+          ],
+          "firstName": "EVAN",
+          "lastName": "FELDSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72119",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "419-376-1923"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/215"
+}

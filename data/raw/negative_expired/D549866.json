@@ -1,0 +1,213 @@
+{
+  "applicant": null,
+  "application_number": "29254017",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-08-28 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-02-16",
+  "grant_date": "2007-08-28",
+  "invention_title": "CEILING FAN LIGHT KIT",
+  "label": "negative",
+  "patent_number": "D549866",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8611,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-08",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "docketNumber": "BHT-3117-408",
+      "effectiveFilingDate": "2006-02-16",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "HEFLIN, CLARE E",
+      "filingDate": "2006-02-16",
+      "firstInventorName": "Peter Pan",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-08-28",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "CEILING FAN LIGHT KIT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taichung Hsien",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Peter  Pan",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Peter",
+          "inventorNameText": "Peter Pan",
+          "lastName": "Pan"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D549866",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "89",
+      "uspcSymbolText": "D26/89"
+    },
+    "applicationNumberText": "29254017",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 75, SEC. 3, CHUNG SHAN RD.",
+              "cityName": "TAN TZU HSIANG, TAICHUNG HSIEN",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW",
+              "postalCode": "427, R.O.C."
+            },
+            "assigneeNameText": "AIR COOL INDUSTRIAL CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17568/985",
+        "assignmentMailedDate": "2006-05-03",
+        "assignmentReceivedDate": "2006-02-22",
+        "assignmentRecordedDate": "2006-02-16",
+        "assignorBag": [
+          {
+            "assignorName": "PAN, PETER",
+            "executionDate": "2005-12-28"
+          }
+        ],
+        "attorneyDocketNumber": "bht-3117-408",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5205 LEESBURG PIKE",
+          "addressLineThreeText": "FALLS CHURCH, VA 22041-3401",
+          "addressLineTwoText": "SUITE 1404",
+          "correspondentNameText": "TROXELL LAW OFFICE PLLC"
+        },
+        "frameNumber": 985,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017568/0985",
+        "reelNumber": 17568
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "SUITE 1404",
+        "addressLineTwoText": "5205 LEESBURG PIKE",
+        "cityName": "FALLS CHURCH",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "TROXELL LAW OFFICE PLLC",
+        "postalCode": "22041"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-08-28",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-07-06",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-07-05",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-07-02",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-07-02",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-03-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-03-29",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-03-27",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-03-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-03-03",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-03-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-02-16",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T08:00:01",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "EXCLUDED",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5205 LEESBURG PIKE STE 1404",
+              "cityName": "FALLS CHURCH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "TROXELL LAW OFFICE PLLC",
+              "postalCode": "22041"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "TROXELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "26592",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-575-2711"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/89"
+}

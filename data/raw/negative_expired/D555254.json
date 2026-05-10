@@ -1,0 +1,2044 @@
+{
+  "applicant": null,
+  "application_number": "29280227",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-05-21",
+  "grant_date": "2007-11-13",
+  "invention_title": "ORTHOSIS",
+  "label": "negative",
+  "patent_number": "D555254",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 2296,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 22504,
+      "docketNumber": "68799-44",
+      "effectiveFilingDate": "2007-05-21",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "KRAKOWER, SUSAN E",
+      "filingDate": "2007-05-21",
+      "firstInventorName": "Donald R. Buethorn",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "ORTHOSIS",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Ferndale",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Donald R. Buethorn",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Ferndale",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "Donald R. Buethorn",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Donald",
+          "inventorNameText": "Donald R. Buethorn",
+          "lastName": "Buethorn",
+          "middleName": "R."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555254",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "192",
+      "uspcSymbolText": "D24/192"
+    },
+    "applicationNumberText": "29280227",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1360 SUNSET AVENUE",
+              "cityName": "FERNDALE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "ictCountryCode": "US",
+              "ictStateCode": "WA",
+              "postalCode": "98248-8913"
+            },
+            "assigneeNameText": "CASCADE DAFO, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19329/180",
+        "assignmentMailedDate": "2007-05-22",
+        "assignmentReceivedDate": "2007-05-22",
+        "assignmentRecordedDate": "2007-05-22",
+        "assignorBag": [
+          {
+            "assignorName": "BUETHORN, DONALD R.",
+            "executionDate": "2006-04-24"
+          }
+        ],
+        "attorneyDocketNumber": "68799-44",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1501 FOURTH AVENUE",
+          "addressLineThreeText": "SEATTLE, WA 98101-1688",
+          "addressLineTwoText": "STE 2600",
+          "correspondentNameText": "GEORGE C. RONDEAU, JR."
+        },
+        "frameNumber": 180,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "019329/0180",
+        "reelNumber": 19329
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "920 Fifth Ave., Suite 3300",
+        "cityName": "Seattle",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "WA",
+        "geographicRegionName": "WASHINGTON",
+        "nameLineOneText": "Davis Wright Tremaine LLP - Seattle",
+        "nameLineTwoText": "IP Docketing Dept.",
+        "postalCode": "98104-1610"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-21",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-31",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-30",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-30",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-06-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-06-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-05-21",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-22T01:00:04",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29280227",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2006-02-17",
+        "parentApplicationNumberText": "29254215",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D546956"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE., SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "RONDEAU",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28893",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8133"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE., SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "DANSKIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40981",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8379"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "WYCKOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46175",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-240-8600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "DAVISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47309",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8023"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "HEATHER",
+          "lastName": "COLBURN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50815",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8021"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DYLAN",
+          "lastName": "ADAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56289",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8339"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1080 MARSH ROAD",
+              "cityName": "MENLO PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KILPATRICK TOWNSEND & STOCKTON LLP",
+              "postalCode": "94025"
+            }
+          ],
+          "firstName": "ERNEST",
+          "lastName": "ELLENBERGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56529",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-326-2400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "YAMRON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59411",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "317-237-1000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-848-8066"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE",
+              "addressLineTwoText": "#3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "KUYPER",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59611",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8587"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101-304"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "BYER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62106",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8105"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVENUE",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE, LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "WILLIAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63231",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8876"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101-304"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "ADAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8002"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "GREG",
+          "lastName": "RABURN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65174",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8006"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE., SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JACK",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "C/O DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "CONNOR",
+          "lastName": "MCCUNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69726",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8195"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 CALIFORNIA ST # 2300",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "XUEZHEN",
+          "lastName": "TIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69889",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-276-4893"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE #3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "ROSENTHAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71111",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8132"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SCHLEIFER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72638",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8025"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K ST. NW",
+              "addressLineTwoText": "SUITE 500 EAST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LORENZEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75039",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4268"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BUNTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75578",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8486"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "857-300-4001"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 CALIFORNIA STREET",
+              "addressLineTwoText": "23RD FLOOR",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "LEON",
+          "lastName": "KONG",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75631",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-276-4862"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "NOAH",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77390",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4223"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE",
+              "addressLineTwoText": "STE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT & TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JEROME",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-665-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "SUITE 3300",
+              "addressLineTwoText": "920 FIFTH AVENUE",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "COLIN",
+          "lastName": "VAN DYKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77513",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8356"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K STREET NW",
+              "addressLineTwoText": "SUITE 500 EAST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "LICITRA",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78099",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4204"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE, LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "SHIN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78806",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8464"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "LAUNDER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78845",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-778-5241"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-1610"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "KYARAD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79500",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "321-203-9386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HOHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80486",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-622-3150"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5516 KIAM STREET",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "77007"
+            }
+          ],
+          "firstName": "DAMON",
+          "lastName": "SIMA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80803",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "701-429-8542"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE #3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MAREVAL",
+          "lastName": "ORTIZ CAMACHO",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8118"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DWIGHT ALEX",
+          "lastName": "TEJANO",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81492",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUIT 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVID WRIGHT TREMAINE, LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "TASHER",
+          "lastName": "WILLET",
+          "middleName": "N.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8788"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 22504,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "920 Fifth Ave., Suite 3300",
+            "cityName": "Seattle",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "WA",
+            "geographicRegionName": "WASHINGTON",
+            "nameLineOneText": "Davis Wright Tremaine LLP - Seattle",
+            "nameLineTwoText": "IP Docketing Dept.",
+            "postalCode": "98104-1610"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE., SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JACK",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65303",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE",
+              "addressLineTwoText": "#3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "KUYPER",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59611",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8587"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101-304"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "ADAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8002"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUIT 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVID WRIGHT TREMAINE, LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "TASHER",
+          "lastName": "WILLET",
+          "middleName": "N.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8788"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVENUE",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE, LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "WILLIAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63231",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8876"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1080 MARSH ROAD",
+              "cityName": "MENLO PARK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "KILPATRICK TOWNSEND & STOCKTON LLP",
+              "postalCode": "94025"
+            }
+          ],
+          "firstName": "ERNEST",
+          "lastName": "ELLENBERGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "56529",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-326-2400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE, LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "SHIN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78806",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8464"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE",
+              "addressLineTwoText": "STE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT & TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JEROME",
+          "lastName": "CHANG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-665-9610"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1251 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "41ST FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "NEIL",
+          "lastName": "SUPNEKAR",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78048",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "732-809-8497"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K STREET NW, SUITE 500 EAST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "SANDERS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58652",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 COMMERCE DR",
+              "cityName": "CRANFORD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "LERNER DAVID LITTENBERG KRUMHOLZ & MENTLIK LLP",
+              "postalCode": "07016"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "HAJJAR",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78094",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-518-6392"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE., SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "DANSKIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40981",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8379"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "576 BROADHOLLOW ROAD",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "CARTER, DELUCA & FARRELL LLP",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "JESSICA",
+          "lastName": "CASO",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80808",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "516-650-6298"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "YAMRON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59411",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "317-237-1000"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-848-8066"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE #3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MAREVAL",
+          "lastName": "ORTIZ CAMACHO",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81487",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8118"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "LAUNDER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78845",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-778-5241"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MAURICIO",
+          "lastName": "URIBE",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46206",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8026"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 CALIFORNIA ST # 2300",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "XUEZHEN",
+          "lastName": "TIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69889",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-276-4893"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "C/O DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "CONNOR",
+          "lastName": "MCCUNE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69726",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8195"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "21717 REYNOLDS DRIVE",
+              "cityName": "TORRANCE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "90503"
+            }
+          ],
+          "firstName": "KENDRICK",
+          "lastName": "LAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "71490",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "852-915-09858"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104-161"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HOHN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80486",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-622-3150"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DYLAN",
+          "lastName": "ADAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56289",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8339"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "HEATHER",
+          "lastName": "COLBURN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50815",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8021"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5516 KIAM STREET",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "77007"
+            }
+          ],
+          "firstName": "DAMON",
+          "lastName": "SIMA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80803",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "701-429-8542"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "MARIA",
+          "lastName": "ANDERSON",
+          "middleName": "L C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40574",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8222"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SCHLEIFER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72638",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8025"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K ST. NW",
+              "addressLineTwoText": "SUITE 500 EAST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LORENZEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75039",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4268"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVENUE, #3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "JOSEPHINE",
+          "lastName": "MILLS",
+          "middleName": "L.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83679",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "907-830-0408"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "GREG",
+          "lastName": "RABURN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65174",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8006"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DWIGHT ALEX",
+          "lastName": "TEJANO",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81492",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K STREET NW",
+              "addressLineTwoText": "SUITE 500 EAST",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "LICITRA",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78099",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4204"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE",
+              "addressLineTwoText": "SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101-304"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "BYER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62106",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8105"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 5TH AVE SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "GRZEGORZ",
+          "lastName": "PLICHTA",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8112"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1201 THIRD AVENUE, SUITE 2200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98101"
+            }
+          ],
+          "firstName": "BARRY",
+          "lastName": "DAVISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47309",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-757-8023"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "920 FIFTH AVENUE, SUITE 3300",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "WYCKOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46175",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-240-8600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1251 6TH AVE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "XIN",
+          "lastName": "SHAO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81886",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "646-856-5004"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/192"
+}

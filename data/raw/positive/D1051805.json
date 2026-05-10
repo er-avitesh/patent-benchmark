@@ -1,0 +1,941 @@
+{
+  "applicant": "GUANGZHOU ISSYZONE TECHNOLOGY CO.,LIMITED",
+  "application_number": "29887710",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29887710_D1051805.xml",
+  "filing_date": "2023-03-23",
+  "grant_date": "2024-11-19",
+  "invention_title": "Polarized sun visor",
+  "label": "positive",
+  "patent_number": "D1051805",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "GUANGZHOU ISSYZONE TECHNOLOGY CO.,LIMITED",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Guangzhou City",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "GUANGZHOU ISSYZONE TECHNOLOGY CO.,LIMITED",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 7986,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-30",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 36491,
+      "docketNumber": "202303-10",
+      "effectiveFilingDate": "2023-03-23",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BETTON, KATRINA ANN",
+      "filingDate": "2023-03-23",
+      "firstApplicantName": "GUANGZHOU ISSYZONE TECHNOLOGY CO.,LIMITED",
+      "firstInventorName": "Taiping Yang",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-19",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "Polarized sun visor",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Guangzhou City",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Taiping Yang",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Guangzhou City,Guangdong Province, OT",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Taiping Yang",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Taiping",
+          "inventorNameText": "Taiping Yang",
+          "lastName": "Yang"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051805",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "191",
+      "uspcSymbolText": "D12/191"
+    },
+    "applicationNumberText": "29887710",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ROOM 309,TAIRONG BUSINESS CENTER,BUILDING C10, NO. 63,XIZENG ROAD,LIWAN DISTRICT,",
+              "cityName": "GUANGZHOU CITY,GUANGDONG PROVINCE",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN",
+              "postalCode": "510000"
+            },
+            "assigneeNameText": "GUANGZHOU ISSYZONE TECHNOLOGY CO.,LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/63082/16",
+        "assignmentMailedDate": "2023-03-27",
+        "assignmentReceivedDate": "2023-03-23",
+        "assignmentRecordedDate": "2023-03-23",
+        "assignorBag": [
+          {
+            "assignorName": "YANG, TAIPING",
+            "executionDate": "2023-03-23"
+          }
+        ],
+        "attorneyDocketNumber": "202303-10",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "50 W. BROADWAY 10TH FLOOR",
+          "addressLineTwoText": "SALT LAKE CITY, UT 84101",
+          "correspondentNameText": "MICHAEL BARTHOLOMEW"
+        },
+        "frameNumber": 16,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "063082/0016",
+        "reelNumber": 63082
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "50 W. Broadway",
+        "addressLineTwoText": "Suite 900",
+        "cityName": "Salt Lake City",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "UT",
+        "geographicRegionName": "UTAH",
+        "nameLineOneText": "Kunzler Needham Hilton",
+        "postalCode": "84101"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-11",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-11",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-10",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-04-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-04-05",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-04-05",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-04-06",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-04-06",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-04-03",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-03-23",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-19T09:08:20",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/29887710_D1051805.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29887710_D1051805.xml",
+      "zipFileName": "ipg241119.zip"
+    },
+    "lastIngestionDateTime": "2026-04-17T02:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY, 10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KUNZLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "VICTORIA",
+          "lastName": "ROMNEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48177",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1771 W. OAKRIDGE DR.",
+              "cityName": "LEHI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "SILICON SLOPES IP",
+              "postalCode": "84043"
+            }
+          ],
+          "firstName": "ALEXIS",
+          "lastName": "NELSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52321",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-326-9806"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "27222 QUARTZ WAY",
+              "cityName": "SAN ANTONIO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "GRAFF LAW, PLLC",
+              "postalCode": "78260"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "GRAFF",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54134",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-313-6637"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1142 NORTH 70 EAST",
+              "cityName": "AMERICAN FORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER, NEEDHAM, MASSEY & THORPE",
+              "postalCode": "84003"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "THORPE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54491",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-692-0493"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "980 E 2680 N",
+              "cityName": "PROVO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalCode": "84604"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "BRISCOE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "603-545-0010"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-787-1757"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY, SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER & ASSOCIATES",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "NEEDHAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 W BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER, P.C.",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "HOPKINSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP, PC",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "MASSEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 W BROADWAY, STE 1000",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "HILTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66011",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "GEMPELER",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68728",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 W BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "ALANDRA",
+          "lastName": "ADAMS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77924",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "435-659-5214"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "PITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80514",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 36491,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "50 W. Broadway",
+            "addressLineTwoText": "Suite 900",
+            "cityName": "Salt Lake City",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "UT",
+            "geographicRegionName": "UTAH",
+            "nameLineOneText": "Kunzler Needham Hilton",
+            "postalCode": "84101"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1771 W. OAKRIDGE DR.",
+              "cityName": "LEHI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "SILICON SLOPES IP",
+              "postalCode": "84043"
+            }
+          ],
+          "firstName": "ALEXIS",
+          "lastName": "NELSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52321",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-326-9806"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 W BROADWAY, STE 1000",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "HILTON",
+          "middleName": "C",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66011",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP, PC",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "MASSEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 W BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER, P.C.",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "HOPKINSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "27222 QUARTZ WAY",
+              "cityName": "SAN ANTONIO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "GRAFF LAW, PLLC",
+              "postalCode": "78260"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "GRAFF",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54134",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-313-6637"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY, SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER & ASSOCIATES",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "BRUCE",
+          "lastName": "NEEDHAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56421",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER BEAN & ADAMSON",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "PITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80514",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "980 E 2680 N",
+              "cityName": "PROVO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalCode": "84604"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "BRISCOE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56302",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "603-545-0010"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-787-1757"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "GEMPELER",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68728",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1142 NORTH 70 EAST",
+              "cityName": "AMERICAN FORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER, NEEDHAM, MASSEY & THORPE",
+              "postalCode": "84003"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "THORPE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54491",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-692-0493"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "8 EAST BROADWAY",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84111"
+            }
+          ],
+          "firstName": "VICTORIA",
+          "lastName": "ROMNEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48177",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 WEST BROADWAY, 10TH FLOOR",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "KUNZLER LAW GROUP",
+              "postalCode": "84101"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KUNZLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38527",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-994-4646"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/191"
+}

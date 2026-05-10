@@ -1,0 +1,630 @@
+{
+  "applicant": null,
+  "application_number": "29278386",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-04 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-03-28",
+  "grant_date": "2007-12-04",
+  "invention_title": "ARMREST",
+  "label": "negative",
+  "patent_number": "D556479",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 7370,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-14",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 69638,
+      "docketNumber": "071901.1US(0245) (0335.D)",
+      "effectiveFilingDate": "2007-03-28",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "DE, MIMOSA",
+      "filingDate": "2007-03-28",
+      "firstInventorName": "Hsuan-Chin Tsai",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-04",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "ARMREST",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Min Hsiung County",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Hsuan-Chin  Tsai",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Hsuan-Chin",
+          "inventorNameText": "Hsuan-Chin Tsai",
+          "lastName": "Tsai"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D556479",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "501",
+      "uspcSymbolText": "D6/501"
+    },
+    "applicationNumberText": "29278386",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO. 27, CHERNG GONG 1ST ST., MIN HSIUNG COUNTY 621",
+              "cityName": "CHAI-YI HSIEN",
+              "countryName": "TAIWAN",
+              "geographicRegionCode": "TWX",
+              "ictCountryCode": "TW",
+              "postalCode": "R.O.C."
+            },
+            "assigneeNameText": "FUH SHYAN CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19075/445",
+        "assignmentMailedDate": "2007-03-28",
+        "assignmentReceivedDate": "2007-03-28",
+        "assignmentRecordedDate": "2007-03-28",
+        "assignorBag": [
+          {
+            "assignorName": "TSAI, HSUAN-CHIN",
+            "executionDate": "2007-03-28"
+          }
+        ],
+        "attorneyDocketNumber": "071901.1US(0245) (0335.D)",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "900 SECOND AVENUE SOUTH",
+          "addressLineThreeText": "MINNEAPOLIS, MN 55402",
+          "addressLineTwoText": "SUITE 820",
+          "correspondentNameText": "ALAN D. KAMRATH"
+        },
+        "frameNumber": 445,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "019075/0445",
+        "reelNumber": 19075
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "60 South 6th Street",
+        "addressLineTwoText": "Suite 2700",
+        "cityName": "Minneapolis",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MN",
+        "geographicRegionName": "MINNESOTA",
+        "nameLineOneText": "Best & Flanagan LLP",
+        "nameLineTwoText": "Attn: Alexander Farrell",
+        "postalCode": "55402"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-04",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-14",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-08",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-05-03",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2007-04-12",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-04-12",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2007-04-12",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2007-04-11",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2007-04-11",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-04-10",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-03-28",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-14T14:28:30",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "60 SOUTH 6TH STREET, SUITE 2700",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "BEST & FLANAGAN",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "FARRELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-843-5838"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23595,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "901 Marquette Ave",
+            "addressLineTwoText": "Suite 2100",
+            "cityName": "Minneapolis",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MN",
+            "geographicRegionName": "MINNESOTA",
+            "nameLineOneText": "DeWitt LLP (Minneapolis)",
+            "nameLineTwoText": "Intellectual Property Department",
+            "postalCode": "55402"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "25 W. MAIN STREET, SUITE 800",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT LLP",
+              "nameLineTwoText": "MADISON OFFICE",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "YANJUN",
+          "lastName": "MA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79360",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-252-9200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 MARQUETTE AVENUE",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "DEWITT LLP",
+              "nameLineTwoText": "2100 AT&T TOWER",
+              "postalCode": "55402-371"
+            }
+          ],
+          "firstName": "BRADLEY",
+          "lastName": "THORSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52288",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-305-1415"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2100 AT&T TOWER",
+              "addressLineTwoText": "901 MARQUETTE AVENUE",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "55402-371"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "STENDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56836",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-305-1400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4800 WELLS FARGO CENTER",
+              "addressLineTwoText": "90 SOUTH SEVENTH STREET",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "MOSS & BARNETT",
+              "postalCode": "55402-412"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "BIEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-347-0299"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 MARQUETTE AVENUE",
+              "addressLineTwoText": "SUITE 2100",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "POLLACK",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47001",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "914-843-4607"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "25 W. MAIN STREET",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "CRAIG",
+          "lastName": "FIESCHKO",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39668",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-395-6722"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 MARQUETTE AVENUE",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "DEWITT LLP",
+              "nameLineTwoText": "2100 AT&T TOWER",
+              "postalCode": "55402-371"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "CHADWICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41664",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-305-1426"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 MARQUETTE AVE",
+              "addressLineTwoText": "2100 AT&T TOWER",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "PAUL",
+          "lastName": "ONDERICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-305-1417"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 11297",
+              "cityName": "SHOREWOOD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "MIOTEK LLC",
+              "postalCode": "53211"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "MIOTKE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47798",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "414-617-4761"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "TWO EAST MIFFLIN STREET",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT ROSS & STEVENS, S.C.",
+              "postalCode": "53703-286"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "SARA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30492",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-395-6784"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "13935 BISHOP'S DR.",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "BROOKFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "53208"
+            }
+          ],
+          "firstName": "ELIZABETH",
+          "lastName": "NEAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59630",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "262-754-2855"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "25 W. MAIN STREET",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "BLASIOLE",
+          "middleName": "A",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64469",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-395-6758"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "80 SOUTH EIGHTH STREET",
+              "addressLineTwoText": "4800 IDS CENTER",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "PATTERSON THUENTE PEDERSEN, P.A.",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "GIRTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68613",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-349-5777"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "25 WEST MAIN STREET, SUITE 800",
+              "cityName": "MADISON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "nameLineOneText": "DEWITT LLP",
+              "postalCode": "53703"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "LEONE",
+          "middleName": "T",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37170",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "608-255-8891"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/501"
+}

@@ -1,0 +1,703 @@
+{
+  "applicant": null,
+  "application_number": "29247056",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-05-26",
+  "grant_date": "2007-12-25",
+  "invention_title": "HUB",
+  "label": "negative",
+  "patent_number": "D557928",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1175,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 23676,
+      "docketNumber": "16892",
+      "effectiveFilingDate": "2006-05-26",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "HANSON, CHARLES D",
+      "filingDate": "2006-05-26",
+      "firstInventorName": "Kwok Din Lau",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "HUB",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Chaiwan",
+              "countryCode": "HK",
+              "countryName": "HONG KONG",
+              "nameLineOneText": "Kwok Din Lau",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Chaiwan",
+              "countryCode": "HK",
+              "countryName": "HONG KONG",
+              "nameLineOneText": "Kwok Din Lau",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "HK",
+          "firstName": "Kwok",
+          "inventorNameText": "Kwok Din Lau",
+          "lastName": "Lau",
+          "middleName": "Din"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557928",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "407",
+      "uspcSymbolText": "D6/407"
+    },
+    "applicationNumberText": "29247056",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7B SZE HING LOONG",
+              "addressLineTwoText": "44 LEE CHUNG STREET",
+              "cityName": "CHAIWAN",
+              "countryName": "HONG KONG",
+              "geographicRegionCode": "HKX",
+              "ictCountryCode": "HK"
+            },
+            "assigneeNameText": "FINEST PRODUCTS LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17683/741",
+        "assignmentMailedDate": "2006-05-26",
+        "assignmentReceivedDate": "2006-05-26",
+        "assignmentRecordedDate": "2006-05-26",
+        "assignorBag": [
+          {
+            "assignorName": "LAU, KWOK DIN",
+            "executionDate": "2006-05-17"
+          }
+        ],
+        "attorneyDocketNumber": "16892",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "225 S. LAKE AVE., 9TH FLOOR",
+          "addressLineTwoText": "PASADENA, CA 91101",
+          "correspondentNameText": "DANTON K. MAK"
+        },
+        "frameNumber": 741,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017683/0741",
+        "reelNumber": 17683
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1100 Glendon Avenue",
+        "addressLineTwoText": "14th Floor",
+        "cityName": "PASADENA",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "Leech Tishman Fuscaldo & Lampl",
+        "nameLineTwoText": "Alan G. Towner",
+        "postalCode": "90024"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-08-29",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-12-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-08-29",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-08-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-08-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-07-13",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-07-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-06-14",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-06-15",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-06-13",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-06-13",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-06-14",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-05-26",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T14:45:13",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 CORSON STREET",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SHELDON, MAK, ROSE & ANDERSON, PC",
+              "postalCode": "91103"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "SCHROEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-358-1270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 CORSON STREET",
+              "addressLineTwoText": "THIRD FLOOR",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL, LLP",
+              "postalCode": "91103-384"
+            }
+          ],
+          "firstName": "DANTON",
+          "lastName": "MAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31695",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-796-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "301 GRANT ST 38TH FLOOR",
+              "addressLineTwoText": "ONE OXFORD CENTRE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "PIETRAGALLO GORDON ALFANO BOSICK & RASPANTI, LLP",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "TOWNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-263-4340"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "841 APOLLO STREET",
+              "addressLineTwoText": "SUITE 325",
+              "cityName": "EL SEGUNDO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LECCH TISHMAN FUSCALDO & LAMPL",
+              "postalCode": "90245"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "BABBITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39591",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "424-738-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "525 WILLIAM PENN PLACE",
+              "addressLineTwoText": "28TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "LAZZARA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41142",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-694-7289"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "cityName": "LOS ANGELES,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DARBY & DARBY , P.C.",
+              "nameLineTwoText": "707 WILSHIRE BLVD., SUITE 3200",
+              "postalCode": "900170000"
+            },
+            {
+              "addressLineOneText": "215 N. MARENGO AVENUE",
+              "addressLineTwoText": "SUITE 135",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL, LLP",
+              "postalCode": "91101"
+            }
+          ],
+          "firstName": "IVAN",
+          "lastName": "POSEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43865",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-527-7700"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-817-7500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE OXFORD CENTRE, 38TH FLOOR",
+              "addressLineTwoText": "301 GRANT STREET",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "PIETRAGALLO GORDON ALFANO BOSICK & RASPANTI, LLP",
+              "postalCode": "15219-640"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "PASSERIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-263-4369"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23676,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1100 Glendon Avenue",
+            "addressLineTwoText": "14th Floor",
+            "cityName": "PASADENA",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "Leech Tishman Fuscaldo & Lampl",
+            "nameLineTwoText": "Alan G. Towner",
+            "postalCode": "90024"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 CORSON STREET",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SHELDON, MAK, ROSE & ANDERSON, PC",
+              "postalCode": "91103"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "SCHROEDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "25373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-358-1270"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "301 GRANT ST 38TH FLOOR",
+              "addressLineTwoText": "ONE OXFORD CENTRE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "PIETRAGALLO GORDON ALFANO BOSICK & RASPANTI, LLP",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "TOWNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-263-4340"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "841 APOLLO STREET",
+              "addressLineTwoText": "SUITE 325",
+              "cityName": "EL SEGUNDO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LECCH TISHMAN FUSCALDO & LAMPL",
+              "postalCode": "90245"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "BABBITT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39591",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "424-738-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE OXFORD CENTRE, 38TH FLOOR",
+              "addressLineTwoText": "301 GRANT STREET",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "PIETRAGALLO GORDON ALFANO BOSICK & RASPANTI, LLP",
+              "postalCode": "15219-640"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "PASSERIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54363",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-263-4369"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "525 WILLIAM PENN PLACE",
+              "addressLineTwoText": "28TH FLOOR",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "LAZZARA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41142",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-694-7289"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "215 N. MARENGO AVENUE",
+              "addressLineTwoText": "SUITE 135",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL, LLP",
+              "postalCode": "91101"
+            }
+          ],
+          "firstName": "IVAN",
+          "lastName": "POSEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43865",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-527-7700"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-817-7500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1717 K STREET NW",
+              "addressLineTwoText": "SUITE 900",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "LEECH TISHMAN",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "FAGIN",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37615",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-838-8130"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "100 CORSON STREET",
+              "addressLineTwoText": "THIRD FLOOR",
+              "cityName": "PASADENA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LEECH TISHMAN FUSCALDO & LAMPL, LLP",
+              "postalCode": "91103-384"
+            }
+          ],
+          "firstName": "DANTON",
+          "lastName": "MAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31695",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "626-796-4000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/407"
+}

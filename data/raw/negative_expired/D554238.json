@@ -1,0 +1,2966 @@
+{
+  "applicant": null,
+  "application_number": "29199643",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-30 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2004-02-19",
+  "grant_date": "2007-10-30",
+  "invention_title": "COMPONENT OF A DEVICE FOR TRANSPORT OF LIQUID",
+  "label": "negative",
+  "patent_number": "D554238",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 8208,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-10",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 26694,
+      "docketNumber": "32128-201189",
+      "effectiveFilingDate": "2004-02-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "GOODMAN, ERIC L",
+      "filingDate": "2004-02-19",
+      "firstInventorName": "Peter Zielke",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-30",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "COMPONENT OF A DEVICE FOR TRANSPORT OF LIQUID",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Adorf",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Peter  Zielke",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Peter",
+          "inventorNameText": "Peter Zielke",
+          "lastName": "Zielke"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Schonwald",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Jurgen  Sporer",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "DE",
+          "firstName": "Jurgen",
+          "inventorNameText": "Jurgen Sporer",
+          "lastName": "Sporer"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D554238",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "262",
+      "uspcSymbolText": "D23/262"
+    },
+    "applicationNumberText": "29199643",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "RHENIUMHAUS",
+              "cityName": "REHAU",
+              "countryName": "GERMANY",
+              "geographicRegionCode": "DEX",
+              "ictCountryCode": "DE",
+              "postalCode": "95111"
+            },
+            "assigneeNameText": "REHAU AG & CO."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16889/337",
+        "assignmentMailedDate": "2005-12-14",
+        "assignmentReceivedDate": "2005-12-13",
+        "assignmentRecordedDate": "2005-12-13",
+        "assignorBag": [
+          {
+            "assignorName": "SPORER, JURGEN",
+            "executionDate": "2004-02-25"
+          },
+          {
+            "assignorName": "ZIELKE, PETER",
+            "executionDate": "2004-02-25"
+          }
+        ],
+        "attorneyDocketNumber": "32128-201189",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "VENABLE LLP",
+          "addressLineThreeText": "WASHINGTON, DC 20004",
+          "addressLineTwoText": "575 7TH STREET, NW",
+          "correspondentNameText": "ROBERT KINBERG"
+        },
+        "frameNumber": 337,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "016889/0337",
+        "reelNumber": 16889
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. BOX 34385",
+        "cityName": "WASHINGTON",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "VENABLE LLP",
+        "postalCode": "20043-9998"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-30",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-16",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-14",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-26",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-24",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-08-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-05-08",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-05-08",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2005-12-16",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "A.PE",
+        "eventDate": "2005-12-16",
+        "eventDescriptionText": "Preliminary Amendment"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-18",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-14",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-17",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2005-12-16",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "SES",
+        "eventDate": "2005-12-16",
+        "eventDescriptionText": "Small Entity Statement (37 CFR 1.27)"
+      },
+      {
+        "eventCode": "OATHDECL",
+        "eventDate": "2005-12-16",
+        "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2005-10-21",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "W/OA",
+        "eventDate": "2004-04-21",
+        "eventDescriptionText": "Pre-Exam Office Action Withdrawn"
+      },
+      {
+        "eventCode": "WABN",
+        "eventDate": "2005-08-24",
+        "eventDescriptionText": "Withdraw Publication/Pre-Exam Abandon"
+      },
+      {
+        "eventCode": "MPREV",
+        "eventDate": "2005-08-04",
+        "eventDescriptionText": "Mail-Petition to Revive Application - Granted"
+      },
+      {
+        "eventCode": "PET.",
+        "eventDate": "2005-03-07",
+        "eventDescriptionText": "Petition Entered"
+      },
+      {
+        "eventCode": "ABNX",
+        "eventDate": "2004-06-22",
+        "eventDescriptionText": "Abandonment -- During Preexam Processing"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2004-04-21",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2004-02-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "40305412.5",
+        "filingDate": "2003-08-19",
+        "ipOfficeName": "GERMANY"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-16T00:00:05",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "21ST FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MURNANE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29836",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2527"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 WEST 42ND STREET, 49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLC",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "KALLAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31530",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2243"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "LAWRENCE",
+          "lastName": "PERRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31865",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2293"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "REED",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32433",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2227"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "975 F STREET N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "20004-140"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "MALPEDE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "32533",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-530-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 CALIFORNIA STREET, SUITE 3800",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "O'NEILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-343-4515"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "addressLineTwoText": "SIXTH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "WARNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33326",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5433"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WILLIAMSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33628",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5424"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAN",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10021"
+            }
+          ],
+          "firstName": "DOMINICK",
+          "lastName": "CONDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33856",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2204"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SANDONATO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KLOCK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5427"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE  LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "MICHELE",
+          "lastName": "FRANK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37028",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CARLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2210"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001-535"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "GLUECK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5444"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "575 7TH STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20004-160"
+            }
+          ],
+          "firstName": "HENRY",
+          "lastName": "DALEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "42459",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4362"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "30 ROCKEFELLER PLAZA",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10112"
+            }
+          ],
+          "firstName": "ELIZABETH",
+          "lastName": "HOLOWACZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42667",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2233"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JEFFRI",
+          "lastName": "KAMINSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 TOWN CENTER DR., SUITE 1600",
+              "cityName": "COSTA MESA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "92626"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "KMETT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42746",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "714-540-8700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1270 AVENUE OF THE AMERICAS, 24TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "GASPARO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-307-5500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "EDMUND",
+          "lastName": "HAUGHEY",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5489"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "975 F STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "20004-140"
+            },
+            {
+              "addressLineOneText": "SUITE 1000",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "nameLineTwoText": "1900 K STREET, NW",
+              "postalCode": "200060000"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "OLIVER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44986",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-364-0825"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-530-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "LOH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46000",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "HADDAWAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46180",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "RUSSO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46192",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "OKUN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48512",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2295"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1270 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MINION",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "53329",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2538"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2300 TRAMMELL CROW CENTER",
+              "addressLineTwoText": "2001 ROSS AVENUE",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENZIE",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "WELLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3006"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "DONALD",
+          "lastName": "HECKENBERG",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60081",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5488"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3641 ELDER OAKS BLVD. #5208",
+              "cityName": "BOWIE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20716"
+            }
+          ],
+          "firstName": "HEMANT",
+          "lastName": "KHANNA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62183",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "979-574-4792"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "975 F STREET, N.W.",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "20004"
+            }
+          ],
+          "firstName": "SETH",
+          "lastName": "BOESHORE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63049",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-530-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1029 19TH STREET SOUTH",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22202"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "WARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-362-5439"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "DORSKY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5435"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW,",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "YAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64927",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5429"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "PRAJAKTA",
+          "lastName": "SONALKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65406",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "416 E 78TH ST.",
+              "addressLineTwoText": "APARTMENT 3C",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10075"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BUGG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-403-8319"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 WEST 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "AUSTIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66532",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2316"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "KUTAS",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66643",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "505 MONTGOMERY STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "HECTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66823",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-653-3738"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JACQUELINE",
+          "lastName": "DIRAMIO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66957",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5420"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "FLOOR 20",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "MCCARTHY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68950",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2332"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1650 TYSONS BLVD",
+              "addressLineTwoText": "14TH FLOOR",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+              "postalCode": "22102-485"
+            }
+          ],
+          "firstName": "XIN",
+          "lastName": "LI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72446",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-770-7588"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE | FITZPATRICK",
+              "nameLineTwoText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LEEGE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5441"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "KATHERINE",
+          "lastName": "MILEA",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73758",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2106"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "YEON JAE",
+          "lastName": "KO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75585",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2164"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "ALICE",
+          "lastName": "SHULMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76166",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2377"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2020 K STREET NW",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "BOOKOFF MCANDREWS PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "HRUBIEC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78162",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-3941"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "BRADSHAW",
+          "middleName": "W",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80723",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "443-365-7214"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W 42ND STREET",
+              "addressLineTwoText": "OFFICE 5157",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "PHILIP",
+          "lastName": "DUTKO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2541"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "821 BERGEN AVE",
+              "addressLineTwoText": "APT E16",
+              "cityName": "JERSEY CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07306"
+            }
+          ],
+          "firstName": "GRIFFIN",
+          "lastName": "DEADWICK",
+          "middleName": "A. A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81687",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "352-455-3607"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K STREET NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "GILLES",
+          "lastName": "KEPNANG",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4344"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "227 W MONROE ST",
+              "addressLineTwoText": "SUITE 1900",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "60606"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SANKO",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-210-1527"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 26694,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. BOX 34385",
+            "cityName": "WASHINGTON",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "VENABLE LLP",
+            "postalCode": "20043-9998"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "227 W MONROE ST",
+              "addressLineTwoText": "SUITE 1900",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "60606"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SANKO",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-210-1527"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "ALICE",
+          "lastName": "SHULMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76166",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2377"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "SANDONATO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35345",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE. NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JEFFRI",
+          "lastName": "KAMINSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "416 E 78TH ST.",
+              "addressLineTwoText": "APARTMENT 3C",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10075"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "BUGG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-403-8319"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "REED",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32433",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2227"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3641 ELDER OAKS BLVD. #5208",
+              "cityName": "BOWIE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "postalCode": "20716"
+            }
+          ],
+          "firstName": "HEMANT",
+          "lastName": "KHANNA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62183",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "979-574-4792"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "30 ROCKEFELLER PLAZA",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10112"
+            }
+          ],
+          "firstName": "ELIZABETH",
+          "lastName": "HOLOWACZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42667",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2233"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "YEON JAE",
+          "lastName": "KO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75585",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2164"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1270 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "MINION",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "53329",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2538"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "ALICIA",
+          "lastName": "RUSSO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46192",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "DORSKY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "64710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5435"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "HADDAWAY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46180",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "EDMUND",
+          "lastName": "HAUGHEY",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5489"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W 42ND STREET",
+              "addressLineTwoText": "FLOOR 49",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "SEAN",
+          "lastName": "MCCARTHY",
+          "middleName": "MICHAEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68950",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2332"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2300 TRAMMELL CROW CENTER",
+              "addressLineTwoText": "2001 ROSS AVENUE",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER & MCKENZIE",
+              "postalCode": "75201"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "WELLS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53757",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "214-978-3006"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "JACQUELINE",
+          "lastName": "DIRAMIO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66957",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5420"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "21ST FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MURNANE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29836",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2527"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "OKUN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48512",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2295"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "101 CALIFORNIA STREET, SUITE 3800",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "O'NEILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-343-4515"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "975 F STREET N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "20004-140"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "MALPEDE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "32533",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-530-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "BRADSHAW",
+          "middleName": "W",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80723",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "443-365-7214"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001-535"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "GLUECK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5444"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "DONALD",
+          "lastName": "HECKENBERG",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60081",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5488"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "LAWRENCE",
+          "lastName": "PERRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31865",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2293"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1650 TYSONS BLVD",
+              "addressLineTwoText": "14TH FLOOR",
+              "cityName": "MCLEAN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "PILLSBURY WINTHROP SHAW PITTMAN LLP",
+              "postalCode": "22102-485"
+            }
+          ],
+          "firstName": "XIN",
+          "lastName": "LI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "72446",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-770-7588"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAN",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "10021"
+            }
+          ],
+          "firstName": "DOMINICK",
+          "lastName": "CONDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33856",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2204"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET, 49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "LOH",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46000",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2206"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "975 F STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "20004-140"
+            }
+          ],
+          "firstName": "JUSTIN",
+          "lastName": "OLIVER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44986",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-364-0825"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-530-1010"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1270 AVENUE OF THE AMERICAS, 24TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10020"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "GASPARO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-307-5500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 WEST 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "AUSTIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66532",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2316"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 WEST 42ND STREET",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "CHARALAMPOS",
+          "lastName": "BIRMPAS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77933",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-503-0546"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FITZPATRICK, CELLA, HARPER & SCINTO",
+              "postalCode": "10104-380"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CARLIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37292",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2210"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1301 K STREET NW",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE LLP",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "GILLES",
+          "lastName": "KEPNANG",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81812",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-973-4344"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 WEST 42ND STREET, 49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLC",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "NICHOLAS",
+          "lastName": "KALLAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31530",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2243"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "505 MONTGOMERY STREET",
+              "addressLineTwoText": "SUITE 1400",
+              "cityName": "SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "94111"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "HECTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66823",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-653-3738"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W 42ND ST",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "SETH",
+          "lastName": "BOESHORE",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63049",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2540"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE NW",
+              "addressLineTwoText": "SIXTH FLOOR",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "WARNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33326",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5433"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1029 19TH STREET SOUTH",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "postalCode": "22202"
+            }
+          ],
+          "firstName": "RYAN",
+          "lastName": "WARD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-362-5439"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1290 AVENUE OF THE AMERICAS",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10104"
+            }
+          ],
+          "firstName": "PRAJAKTA",
+          "lastName": "SONALKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65406",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W 42ND STREET",
+              "addressLineTwoText": "OFFICE 5157",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "PHILIP",
+          "lastName": "DUTKO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80814",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2541"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 TOWN CENTER DR., SUITE 1600",
+              "cityName": "COSTA MESA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "FITZPATRICK CELLA HARPER AND SCINTO",
+              "postalCode": "92626"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "KMETT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42746",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "714-540-8700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "575 7TH STREET, N.W.",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20004-160"
+            }
+          ],
+          "firstName": "HENRY",
+          "lastName": "DALEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "42459",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4362"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "821 BERGEN AVE",
+              "addressLineTwoText": "APT E16",
+              "cityName": "JERSEY CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07306"
+            }
+          ],
+          "firstName": "GRIFFIN",
+          "lastName": "DEADWICK",
+          "middleName": "A. A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81687",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "352-455-3607"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "addressLineTwoText": "49TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "KATHERINE",
+          "lastName": "MILEA",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73758",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2106"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVE., NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE  LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "MICHELE",
+          "lastName": "FRANK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37028",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-344-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE, LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WILLIAMSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33628",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5424"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "KLOCK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5427"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2020 K STREET NW",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "BOOKOFF MCANDREWS PLLC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "HRUBIEC",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78162",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-3941"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "151 W. 42ND STREET",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "KUTAS",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66643",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-218-2100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW,",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "YAM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64927",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5429"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 MASSACHUSETTS AVENUE, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "VENABLE | FITZPATRICK",
+              "nameLineTwoText": "VENABLE LLP",
+              "postalCode": "20001"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "LEEGE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72541",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-721-5441"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/262"
+}

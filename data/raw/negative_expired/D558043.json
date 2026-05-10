@@ -1,0 +1,1404 @@
+{
+  "applicant": null,
+  "application_number": "29246636",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-25 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-28",
+  "grant_date": "2007-12-25",
+  "invention_title": "CLAM SHELL PACKAGING",
+  "label": "negative",
+  "patent_number": "D558043",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3148,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-12-05",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 23387,
+      "docketNumber": "89952.000020",
+      "effectiveFilingDate": "2006-04-28",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "KRAKOWER, SUSAN E",
+      "filingDate": "2006-04-28",
+      "firstInventorName": "Kenneth Kirby Kiser",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-25",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "CLAM SHELL PACKAGING",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Nunda",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Kenneth Kirby Kiser",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Kenneth",
+          "inventorNameText": "Kenneth Kirby Kiser",
+          "lastName": "Kiser",
+          "middleName": "Kirby"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D558043",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "418",
+      "uspcSymbolText": "D9/418"
+    },
+    "applicationNumberText": "29246636",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ROUTES 5 & 20",
+              "cityName": "EAST BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14443"
+            },
+            "assigneeNameText": "CROSMAN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17589/275",
+        "assignmentMailedDate": "2006-05-09",
+        "assignmentReceivedDate": "2006-05-05",
+        "assignmentRecordedDate": "2006-05-05",
+        "assignorBag": [
+          {
+            "assignorName": "KISER, KENNETH KIRBY",
+            "executionDate": "2006-04-28"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+          "addressLineTwoText": "ROCHESTER, NY 14604",
+          "correspondentNameText": "HARTER SECREST & EMERY LLP"
+        },
+        "frameNumber": 275,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "017589/0275",
+        "reelNumber": 17589
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "255 EAST AVENUE",
+              "cityName": "ROCHESTER",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14604"
+            },
+            "assigneeNameText": "MANUFACTURERS AND TRADERS TRUST COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18816/569",
+        "assignmentMailedDate": "2007-01-30",
+        "assignmentReceivedDate": "2007-01-29",
+        "assignmentRecordedDate": "2007-01-29",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2007-01-05"
+          }
+        ],
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "HARRIS BEACH PLLC",
+          "addressLineThreeText": "PITTSFORD, NY 14534",
+          "addressLineTwoText": "99 GARNSEY ROAD",
+          "correspondentNameText": "NEAL L. SLIFKIN"
+        },
+        "frameNumber": 569,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "018816/0569",
+        "reelNumber": 18816
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "255 EAST AVENUE",
+              "cityName": "ROCHESTER",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14604"
+            },
+            "assigneeNameText": "MANUFACTURERS AND TRADERS TRUST COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/20609/50",
+        "assignmentMailedDate": "2008-03-06",
+        "assignmentReceivedDate": "2008-03-06",
+        "assignmentRecordedDate": "2008-03-06",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2007-01-05"
+          }
+        ],
+        "attorneyDocketNumber": "185941",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "99 GARNSEY ROAD",
+          "addressLineTwoText": "PITTSFORD, NY 14534",
+          "correspondentNameText": "NEAL L. SLIFKIN"
+        },
+        "frameNumber": 50,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "020609/0050",
+        "reelNumber": 20609
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "255 EAST AVENUE",
+              "cityName": "ROCHESTER",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14604"
+            },
+            "assigneeNameText": "MANUFACTURERS AND TRADERS TRUST COMPANY"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26214/72",
+        "assignmentMailedDate": "2011-05-04",
+        "assignmentReceivedDate": "2011-05-03",
+        "assignmentRecordedDate": "2011-05-03",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2011-04-15"
+          }
+        ],
+        "attorneyDocketNumber": "42858-234690",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "ONE LOGAN SQUARE, STE. 2000",
+          "addressLineThreeText": "PHILADELPHIA, PA 19103-6996",
+          "addressLineTwoText": "DRINKER BIDDLE & REATH LLP",
+          "correspondentNameText": "DANIEL P. REILLY"
+        },
+        "frameNumber": 72,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 11,
+        "reelAndFrameNumber": "026214/0072",
+        "reelNumber": 26214
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "10 EAST 40TH STREET, 44TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10016"
+            },
+            "assigneeNameText": "PROSPECT CAPITAL CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/31890/500",
+        "assignmentMailedDate": "2014-01-08",
+        "assignmentReceivedDate": "2013-12-30",
+        "assignmentRecordedDate": "2013-12-30",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2013-12-30"
+          }
+        ],
+        "attorneyDocketNumber": "384631-131616",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "2440 W. EL CAMINO REAL, SUITE 700",
+          "addressLineTwoText": "MOUNTAIN VIEW, CA 94040-1499",
+          "correspondentNameText": "DECHERT LLP"
+        },
+        "frameNumber": 500,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "031890/0500",
+        "reelNumber": 31890
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN ACQUISITION CORPORATION"
+          },
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN MANUFACTURING, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/36270/217",
+        "assignmentMailedDate": "2015-08-07",
+        "assignmentReceivedDate": "2015-08-06",
+        "assignmentRecordedDate": "2015-08-06",
+        "assignorBag": [
+          {
+            "assignorName": "MANUFACTURERS AND TRADERS TRUST COMPANY, AS ADMINISTRATIVE AGENT",
+            "executionDate": "2015-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "19711-001",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1285 AVENUE OF THE AMERICAS",
+          "addressLineTwoText": "NEW YORK, NY 10019-6064",
+          "correspondentNameText": "JILL C. BRAIBANTI"
+        },
+        "frameNumber": 217,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "036270/0217",
+        "reelNumber": 36270
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "10 E. 40TH STREET",
+              "addressLineTwoText": "42ND FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10016"
+            },
+            "assigneeNameText": "PROSPECT CAPITAL CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/36281/409",
+        "assignmentMailedDate": "2015-08-10",
+        "assignmentReceivedDate": "2015-08-07",
+        "assignmentRecordedDate": "2015-08-07",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2015-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "MATTER NO 141858",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "DECHERT LLP",
+          "addressLineThreeText": "MOUNTAIN VIEW, CA 94039-0460",
+          "addressLineTwoText": "P.O. BOX 390460",
+          "correspondentNameText": "THOMAS COCKRIEL"
+        },
+        "frameNumber": 409,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "036281/0409",
+        "reelNumber": 36281
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7629 ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/36281/838",
+        "assignmentMailedDate": "2015-08-10",
+        "assignmentReceivedDate": "2015-08-07",
+        "assignmentRecordedDate": "2015-08-07",
+        "assignorBag": [
+          {
+            "assignorName": "PROSPECT CAPITAL CORPORATION",
+            "executionDate": "2015-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "MATTER NO. 141858",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "DECHERT LLP",
+          "addressLineThreeText": "MOUNTAIN VIEW, CA 94039-0460",
+          "addressLineTwoText": "P.O. BOX 390460",
+          "correspondentNameText": "THOMAS J. COCKRIEL, ESQ."
+        },
+        "frameNumber": 838,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "036281/0838",
+        "reelNumber": 36281
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "3 ALLIED DRIVE",
+              "addressLineTwoText": "SUITE 210",
+              "cityName": "DEDHAM",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "ictCountryCode": "US",
+              "ictStateCode": "MA",
+              "postalCode": "02026"
+            },
+            "assigneeNameText": "FIRST NIAGARA COMMERCIAL FINANCE, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/36300/27",
+        "assignmentMailedDate": "2015-08-12",
+        "assignmentReceivedDate": "2015-08-11",
+        "assignmentRecordedDate": "2015-08-11",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2015-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "381672.60001",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1717 ARCH STREET, THREE LOGAN SQUARE",
+          "addressLineThreeText": "PHILADELPHIA, PA 19103",
+          "addressLineTwoText": "SUITE 3100",
+          "correspondentNameText": "LAURA PARK AMATO, REED SMITH LLP"
+        },
+        "frameNumber": 27,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 7,
+        "reelAndFrameNumber": "036300/0027",
+        "reelNumber": 36300
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7629 ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/42574/992",
+        "assignmentMailedDate": "2017-06-05",
+        "assignmentReceivedDate": "2017-06-02",
+        "assignmentRecordedDate": "2017-06-02",
+        "assignorBag": [
+          {
+            "assignorName": "PROSPECT CAPITAL CORPORATION",
+            "executionDate": "2017-06-02"
+          }
+        ],
+        "attorneyDocketNumber": "149189.00004",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "10 ST. JAMES AVE.",
+          "addressLineThreeText": "BOSTON, MA 02116",
+          "addressLineTwoText": "11TH FLOOR",
+          "correspondentNameText": "HOLLAND & KNIGHT LLP"
+        },
+        "frameNumber": 992,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 6,
+        "reelAndFrameNumber": "042574/0992",
+        "reelNumber": 42574
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "301 RIVERSIDE AVENUE",
+              "addressLineTwoText": "2ND FLOOR",
+              "cityName": "WESTPORT",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "ictCountryCode": "US",
+              "ictStateCode": "CT",
+              "postalCode": "06880"
+            },
+            "assigneeNameText": "COMPASS GROUP DIVERSIFIED HOLDINGS LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/42651/233",
+        "assignmentMailedDate": "2017-06-09",
+        "assignmentReceivedDate": "2017-06-08",
+        "assignmentRecordedDate": "2017-06-08",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2017-06-02"
+          }
+        ],
+        "attorneyDocketNumber": "155256.00001",
+        "conveyanceText": "SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "10 ST. JAMES AVE.",
+          "addressLineThreeText": "BOSTON, MA 02116",
+          "addressLineTwoText": "11TH FLOOR",
+          "correspondentNameText": "HOLLAND & KNIGHT LLP"
+        },
+        "frameNumber": 233,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 12,
+        "reelAndFrameNumber": "042651/0233",
+        "reelNumber": 42651
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7629 ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/42827/629",
+        "assignmentMailedDate": "2017-06-28",
+        "assignmentReceivedDate": "2017-06-27",
+        "assignmentRecordedDate": "2017-06-27",
+        "assignorBag": [
+          {
+            "assignorName": "FIRST NIAGARA COMMERCIAL FINANCE, INC.",
+            "executionDate": "2017-06-26"
+          }
+        ],
+        "attorneyDocketNumber": "155256.00001",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "10 ST. JAMES AVE.",
+          "addressLineThreeText": "BOSTON, MA 02116",
+          "addressLineTwoText": "11TH FLOOR",
+          "correspondentNameText": "HOLLAND & KNIGHT LLP"
+        },
+        "frameNumber": 629,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 6,
+        "reelAndFrameNumber": "042827/0629",
+        "reelNumber": 42827
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "301 RIVERSIDE AVENUE",
+              "addressLineTwoText": "2ND FLOOR",
+              "cityName": "WESTPORT",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "ictCountryCode": "US",
+              "ictStateCode": "CT",
+              "postalCode": "06880"
+            },
+            "assigneeNameText": "COMPASS GROUP DIVERSIFIED HOLDINGS LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/44777/26",
+        "assignmentMailedDate": "2018-01-31",
+        "assignmentReceivedDate": "2017-12-08",
+        "assignmentRecordedDate": "2017-12-08",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2017-08-31"
+          }
+        ],
+        "attorneyDocketNumber": "155256.00001",
+        "conveyanceText": "AMENDED AND RESTATED INTELLECTUAL PROPERTY SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "10 ST. JAMES AVE.",
+          "addressLineThreeText": "BOSTON, MA 02116",
+          "addressLineTwoText": "11TH FLOOR",
+          "correspondentNameText": "HOLLAND & KNIGHT LLP"
+        },
+        "frameNumber": 26,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 16,
+        "reelAndFrameNumber": "044777/0026",
+        "reelNumber": 44777
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "301 RIVERSIDE AVENUE",
+              "addressLineTwoText": "2ND FLOOR",
+              "cityName": "WESTPORT",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "ictCountryCode": "US",
+              "ictStateCode": "CT",
+              "postalCode": "06880"
+            },
+            "assigneeNameText": "COMPASS GROUP DIVERSIFIED HOLDINGS LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/45864/685",
+        "assignmentMailedDate": "2018-05-22",
+        "assignmentReceivedDate": "2018-05-18",
+        "assignmentRecordedDate": "2018-05-18",
+        "assignorBag": [
+          {
+            "assignorName": "CROSMAN CORPORATION",
+            "executionDate": "2017-08-31"
+          }
+        ],
+        "attorneyDocketNumber": "155256.00001",
+        "conveyanceText": "CORRECTIVE ASSIGNMENT TO CORRECT THE DELETION OF APPLICATION NO. 15089782 PREVIOUSLY RECORDED ON REEL 044777 FRAME 0026. ASSIGNOR(S) HEREBY CONFIRMS THE SECURITY AGREEMENT.",
+        "correspondenceAddress": {
+          "addressLineOneText": "10 ST. JAMES AVE.",
+          "addressLineThreeText": "BOSTON, MA 02116",
+          "addressLineTwoText": "11TH FLOOR",
+          "correspondentNameText": "HOLLAND & KNIGHT LLP"
+        },
+        "frameNumber": 685,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 19,
+        "reelAndFrameNumber": "045864/0685",
+        "reelNumber": 45864
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "7629 ROUTES 5 & 20",
+              "cityName": "BLOOMFIELD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "14469"
+            },
+            "assigneeNameText": "CROSMAN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/67310/11",
+        "assignmentMailedDate": "2024-05-06",
+        "assignmentReceivedDate": "2024-05-03",
+        "assignmentRecordedDate": "2024-05-03",
+        "assignorBag": [
+          {
+            "assignorName": "COMPASS GROUP DIVERSIFIED HOLDINGS LLC",
+            "executionDate": "2024-04-30"
+          }
+        ],
+        "attorneyDocketNumber": "18586-17",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "KIRKLAND AND ELLIS",
+          "addressLineThreeText": "CHICAGO, IL 60654",
+          "addressLineTwoText": "333 W. WOLF POINT PLAZA",
+          "correspondentNameText": "CARRIE ROSENBURG"
+        },
+        "frameNumber": 11,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 18,
+        "reelAndFrameNumber": "067310/0011",
+        "reelNumber": 67310
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2007-10-18",
+        "childApplicationNumberText": "29296353",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D576872",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29246636"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1600 Bausch & Lomb Place",
+        "cityName": "Rochester",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "IP Practice Group",
+        "nameLineTwoText": "Harter Secrest & Emery LLP",
+        "postalCode": "14604-2711"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-26",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-12-05",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-19",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-10-19",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-10-18",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-23",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-07-13",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2007-07-07",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-07-07",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2007-05-08",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2007-05-05",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-04-25",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2007-04-23",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2007-04-02",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2007-03-29",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-16",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-03-15",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-06-06",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-06-06",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-05-23",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-05-24",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-29T01:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "ANDERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33564",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "SHAW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33782",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "ROWLAND",
+          "lastName": "RICHARDS",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42104",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3754"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BERCHOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3753"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER, SECREST & EMERY, LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "JODI",
+          "lastName": "REYNOLDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57802",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-231-1159"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "SMITH",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63432",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-231-1386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "MENASCO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "MERRILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73530",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3765"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "VRANJES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74654",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-853-1616"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE ROCHESTER, NY 14604",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST AND EMERY",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "SCHUM-HOUCK",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83907",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-205-8640"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23387,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1600 Bausch & Lomb Place",
+            "cityName": "Rochester",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "IP Practice Group",
+            "nameLineTwoText": "Harter Secrest & Emery LLP",
+            "postalCode": "14604-2711"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "SHAW",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33782",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "ANDERSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33564",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE ROCHESTER, NY 14604",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST AND EMERY",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "SCHUM-HOUCK",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83907",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-205-8640"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "SMITH",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63432",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-231-1386"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "MENASCO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71749",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-232-6500"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "JACOB",
+          "lastName": "MERRILL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73530",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3765"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "VRANJES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74654",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-853-1616"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "ROWLAND",
+          "lastName": "RICHARDS",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42104",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3754"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 FOUNTAIN PLAZA",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER SECREST & EMERY LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BERCHOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-844-3753"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 BAUSCH & LOMB PLACE",
+              "cityName": "ROCHESTER",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HARTER, SECREST & EMERY, LLP",
+              "postalCode": "14604-271"
+            }
+          ],
+          "firstName": "JODI",
+          "lastName": "REYNOLDS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57802",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-231-1159"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/418"
+}

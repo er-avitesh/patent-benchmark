@@ -1,0 +1,942 @@
+{
+  "applicant": null,
+  "application_number": "29244424",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-16 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-12-09",
+  "grant_date": "2007-10-16",
+  "invention_title": "SLAT WALL PANEL",
+  "label": "negative",
+  "patent_number": "D552894",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4358,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-26",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D6",
+      "customerNumber": 21831,
+      "docketNumber": "203.1018DES",
+      "effectiveFilingDate": "2005-12-09",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "BUFFALOW, SYDNEY R",
+      "filingDate": "2005-12-09",
+      "firstInventorName": "Jonathon A. Loew",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-16",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "SLAT WALL PANEL",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "East Meadow",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Jonathon A. Loew",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Jonathon",
+          "inventorNameText": "Jonathon A. Loew",
+          "lastName": "Loew",
+          "middleName": "A."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D552894",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "491",
+      "uspcSymbolText": "D6/491"
+    },
+    "applicationNumberText": "29244424",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "105 AMOR AVENUE",
+              "cityName": "CARLSTADT",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "ictCountryCode": "US",
+              "ictStateCode": "NJ",
+              "postalCode": "07072"
+            },
+            "assigneeNameText": "DESIGN DISPLAY GROUP, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/19653/219",
+        "assignmentMailedDate": "2007-08-06",
+        "assignmentReceivedDate": "2007-08-06",
+        "assignmentRecordedDate": "2007-08-06",
+        "assignorBag": [
+          {
+            "assignorName": "LOEW, JONATHON A.",
+            "executionDate": "2007-07-05"
+          }
+        ],
+        "attorneyDocketNumber": "DES085-829885",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "250 PARK AVENUE",
+          "addressLineThreeText": "NEW YORK, NY 10177",
+          "addressLineTwoText": "SUITE 1000",
+          "correspondentNameText": "WOLF BLOCK SCHORR & SOLIS-COHEN LLP"
+        },
+        "frameNumber": 219,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "019653/0219",
+        "reelNumber": 19653
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1180 W. PEACHTREE ST SUITE 900",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30309"
+            },
+            "assigneeNameText": "REGIONS BANK"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/41680/150",
+        "assignmentMailedDate": "2017-03-23",
+        "assignmentReceivedDate": "2017-03-22",
+        "assignmentRecordedDate": "2017-03-22",
+        "assignorBag": [
+          {
+            "assignorName": "DDG ACQUISITION, LLC",
+            "executionDate": "2017-03-13"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "201 17TH ST NW SUITE 1700",
+          "addressLineTwoText": "ATLANTA, GA 30363",
+          "correspondentNameText": "BRAD WAHL"
+        },
+        "frameNumber": 150,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "041680/0150",
+        "reelNumber": 41680
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "3 WTC, 175 Greenwich Street",
+        "addressLineTwoText": "55th Floor",
+        "cityName": "New York",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Cozen O''Connor",
+        "postalCode": "10007"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-07",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-06",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-02-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-01-23",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WROIPE",
+        "eventDate": "2006-01-03",
+        "eventDescriptionText": "Application Return from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-01-04",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ROIPE",
+        "eventDate": "2006-01-03",
+        "eventDescriptionText": "Application Return TO OIPE"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-12-30",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-01-03",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-12-09",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T21:00:05",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVE.",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "LANGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2662"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "70 EAST 77TH STREET",
+              "addressLineTwoText": "SUITE 3B",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "MARTIN PAVANE & ASSOCIATES",
+              "postalCode": "10075"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "PAVANE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28337",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-539-7313"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "PONTANI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29763",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4989"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK  AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STUART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35698",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DONALD",
+          "lastName": "MCPHAIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35811",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-1432"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 WTC, 55TH FLOOR",
+              "addressLineTwoText": "175 GREENWICH ST.",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "nameLineTwoText": "COZEN O'CONNOR",
+              "postalCode": "10007"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "WEISZ",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37257",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2660"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "85 BROAD STREET, 17TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LAW OFFICES OF ALAN J. MORRISON",
+              "postalCode": "10004"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "MORRISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-620-3850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "RAGUSA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38586",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2691"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "BLUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2679"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNER",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "ALPHONSO",
+          "lastName": "COLLINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43559",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "465 BROOKSIDE AVENUE",
+              "cityName": "ALLENDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07401"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "BAIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58707",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1200 19TH STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "LUKAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59443",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-912-4823"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1111 EDGEWOOD AVE",
+              "cityName": "BERWYN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "19312"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "STRACHE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66873",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-387-6311"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 21831,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "3 WTC, 175 Greenwich Street",
+            "addressLineTwoText": "55th Floor",
+            "cityName": "New York",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "Cozen O''Connor",
+            "postalCode": "10007"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVE.",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "LANGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2662"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNER",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "ALPHONSO",
+          "lastName": "COLLINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43559",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK  AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STUART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35698",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1940 DUKE STREET",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OBLON, MCCLELLAND, MAIER & NEUSTADT, LLP",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "DONALD",
+          "lastName": "MCPHAIL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35811",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-412-1432"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "RAGUSA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38586",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2691"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "70 EAST 77TH STREET",
+              "addressLineTwoText": "SUITE 3B",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "MARTIN PAVANE & ASSOCIATES",
+              "postalCode": "10075"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "PAVANE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28337",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-539-7313"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1111 EDGEWOOD AVE",
+              "cityName": "BERWYN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "19312"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "STRACHE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66873",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-387-6311"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 WTC, 55TH FLOOR",
+              "addressLineTwoText": "175 GREENWICH ST.",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "nameLineTwoText": "COZEN O'CONNOR",
+              "postalCode": "10007"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "WEISZ",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37257",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2660"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "85 BROAD STREET, 17TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LAW OFFICES OF ALAN J. MORRISON",
+              "postalCode": "10004"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "MORRISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "917-620-3850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "465 BROOKSIDE AVENUE",
+              "cityName": "ALLENDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07401"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "BAIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58707",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "PONTANI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29763",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-883-4989"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "277 PARK AVENUE",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "10172"
+            }
+          ],
+          "firstName": "IAN",
+          "lastName": "BLUM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42336",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-297-2679"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1200 19TH STREET, NW",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "COZEN O'CONNOR",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "LUKAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59443",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-912-4823"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D6",
+  "uspc_symbol": "D6/491"
+}

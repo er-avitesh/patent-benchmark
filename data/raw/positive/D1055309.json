@@ -1,0 +1,2911 @@
+{
+  "applicant": "LIFE TECHNOLOGIES CORPORATION",
+  "application_number": "29757423",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29757423_D1055309.xml",
+  "filing_date": "2020-11-05",
+  "grant_date": "2024-12-24",
+  "invention_title": "CONTAINER FOR PROVIDING REAGENTS",
+  "label": "positive",
+  "patent_number": "D1055309",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "LIFE TECHNOLOGIES CORPORATION",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Carlsbad",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 1090,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 52059,
+      "docketNumber": "TP101989DUSCON2",
+      "effectiveFilingDate": "2020-11-05",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "TSEHAYE, REBECCA",
+      "filingDate": "2020-11-05",
+      "firstApplicantName": "LIFE TECHNOLOGIES CORPORATION",
+      "firstInventorName": "Axel Unger",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2922",
+      "inventionTitle": "CONTAINER FOR PROVIDING REAGENTS",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Munich",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Unger, Axel",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Munich",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Axel  Unger",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Axel",
+          "inventorNameText": "Axel Unger",
+          "lastName": "Unger"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Toepfer Taylor, Elgin Meike",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Elgin Meike Toepfer Taylor",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Elgin",
+          "inventorNameText": "Elgin Meike Toepfer Taylor",
+          "lastName": "Toepfer Taylor",
+          "middleName": "Meike"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Oldendorf",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Busch, Nicole",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Oldendorf",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "geographicRegionCode": "OT",
+              "nameLineOneText": "Nicole  Busch",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Nicole",
+          "inventorNameText": "Nicole Busch",
+          "lastName": "Busch"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Greiveldange",
+              "countryCode": "LU",
+              "countryName": "LUXEMBOURG",
+              "nameLineOneText": "Hynek, Tom",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Greiveldange",
+              "countryCode": "LU",
+              "countryName": "LUXEMBOURG",
+              "geographicRegionCode": "OT",
+              "nameLineOneText": "Tom  Hynek",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Tom",
+          "inventorNameText": "Tom Hynek",
+          "lastName": "Hynek"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Stockholm",
+              "countryCode": "SE",
+              "countryName": "SWEDEN",
+              "nameLineOneText": "Aidehag, Fredrik",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Stockholm",
+              "countryCode": "SE",
+              "countryName": "SWEDEN",
+              "geographicRegionCode": "OT",
+              "nameLineOneText": "Fredrik  Aidehag",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Fredrik",
+          "inventorNameText": "Fredrik Aidehag",
+          "lastName": "Aidehag"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Pelman, Todd",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "San Francisco",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Todd  Pelman",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Todd",
+          "inventorNameText": "Todd Pelman",
+          "lastName": "Pelman"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Winchester",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "Naley, Martin",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Winchester",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "Martin  Naley",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Martin",
+          "inventorNameText": "Martin Naley",
+          "lastName": "Naley"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055309",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "224",
+      "uspcSymbolText": "D24/224"
+    },
+    "applicationNumberText": "29757423",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "100 FOREST AVENUE",
+              "cityName": "PALO ALTO",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CO",
+              "geographicRegionName": "COLORADO",
+              "ictCountryCode": "US",
+              "ictStateCode": "CO",
+              "postalCode": "94301"
+            },
+            "assigneeNameText": "IDEO, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/65415/176",
+        "assignmentMailedDate": "2023-11-02",
+        "assignmentReceivedDate": "2023-10-31",
+        "assignmentRecordedDate": "2023-10-31",
+        "assignorBag": [
+          {
+            "assignorName": "TOPFER, ELGIN MEIKE",
+            "executionDate": "2006-11-21"
+          },
+          {
+            "assignorName": "PELMAN, TODD",
+            "executionDate": "2006-11-28"
+          },
+          {
+            "assignorName": "AIDEHAG, FREDERIK",
+            "executionDate": "2006-12-01"
+          },
+          {
+            "assignorName": "UNGER, AXEL",
+            "executionDate": "2006-12-01"
+          },
+          {
+            "assignorName": "BUSCH, NICOLE",
+            "executionDate": "2006-12-03"
+          },
+          {
+            "assignorName": "HYNEK, TOM",
+            "executionDate": "2006-12-04"
+          }
+        ],
+        "attorneyDocketNumber": "TP101989DUSCON2",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5823 NEWTON DRIVE",
+          "addressLineThreeText": "CARLSBAD, CA 92008",
+          "addressLineTwoText": "ATTN: IP DEPARTMENT",
+          "correspondentNameText": "LIFE TECHNOLOGIES CORPORATION"
+        },
+        "frameNumber": 176,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "065415/0176",
+        "reelNumber": 65415
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1600 FARADAY AVENUE",
+              "cityName": "CARLSBAD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92008"
+            },
+            "assigneeNameText": "INVITROGEN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/65411/57",
+        "assignmentMailedDate": "2023-11-01",
+        "assignmentReceivedDate": "2023-10-31",
+        "assignmentRecordedDate": "2023-10-31",
+        "assignorBag": [
+          {
+            "assignorName": "NALEY, MARTIN",
+            "executionDate": "2006-12-15"
+          }
+        ],
+        "attorneyDocketNumber": "TP101989DUSCON2",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5823 NEWTON DRIVE",
+          "addressLineThreeText": "CARLSBAD, CA 92008",
+          "addressLineTwoText": "ATTN: IP DEPARTMENT",
+          "correspondentNameText": "LIFE TECHNOLOGIES CORPORATION"
+        },
+        "frameNumber": 57,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "065411/0057",
+        "reelNumber": 65411
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "1600 FARADAY AVENUE",
+              "cityName": "CARLSBAD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92008"
+            },
+            "assigneeNameText": "INVITROGEN CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/65415/186",
+        "assignmentMailedDate": "2023-11-02",
+        "assignmentReceivedDate": "2023-10-31",
+        "assignmentRecordedDate": "2023-10-31",
+        "assignorBag": [
+          {
+            "assignorName": "IDEO, INC.",
+            "executionDate": "2007-01-26"
+          }
+        ],
+        "attorneyDocketNumber": "TP101989DUSCON2",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5823 NEWTON DRIVE",
+          "addressLineThreeText": "CARLSBAD, CA 92008",
+          "addressLineTwoText": "ATTN: IP DEPARTMENT",
+          "correspondentNameText": "LIFE TECHNOLOGIES CORPORATION"
+        },
+        "frameNumber": 186,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "065415/0186",
+        "reelNumber": 65415
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "92008"
+            },
+            "assigneeNameText": "LIFE TECHNOLOGIES CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/65411/131",
+        "assignmentMailedDate": "2023-11-01",
+        "assignmentReceivedDate": "2023-10-31",
+        "assignmentRecordedDate": "2023-10-31",
+        "assignorBag": [
+          {
+            "assignorName": "INVITROGEN CORPORATION",
+            "executionDate": "2008-11-21"
+          }
+        ],
+        "attorneyDocketNumber": "TP101989DUSCON2",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "5823 NEWTON DRIVE",
+          "addressLineThreeText": "CARLSBAD, CA 92008",
+          "addressLineTwoText": "ATTN: IP DEPARTMENT",
+          "correspondentNameText": "LIFE TECHNOLOGIES CORPORATION"
+        },
+        "frameNumber": 131,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "065411/0131",
+        "reelNumber": 65411
+      }
+    ],
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2024-10-28",
+        "childApplicationNumberText": "29970230",
+        "childApplicationStatusCode": 150,
+        "childApplicationStatusDescriptionText": "Patented Case",
+        "childPatentNumber": "D1089700",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29757423"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "5823 Newton Drive",
+        "cityName": "Carlsbad",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+        "nameLineTwoText": "Attn: IP Department",
+        "postalCode": "92008"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-28",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-05",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-05-20",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "ELC.",
+        "eventDate": "2024-05-17",
+        "eventDescriptionText": "Response to Election / Restriction Filed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-05-17",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "C604",
+        "eventDate": "2024-05-17",
+        "eventDescriptionText": "Substitute Specification Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTRS",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Mail Restriction Requirement"
+      },
+      {
+        "eventCode": "CTRS",
+        "eventDate": "2024-03-23",
+        "eventDescriptionText": "Restriction/Election Requirement"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-03-14",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2022-03-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2022-03-28",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2022-03-24",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2022-03-24",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2020-11-23",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2020-11-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2020-11-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2020-11-06",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFI",
+        "eventDate": "2020-11-06",
+        "eventDescriptionText": "FITF set to NO - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2020-11-09",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2020-11-09",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2020-11-05",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2020-11-05",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2020-11-05",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2020-11-05",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29757423_D1055309.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29757423_D1055309.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-28T02:00:03",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29757423",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2018-08-27",
+        "parentApplicationNumberText": "29661397",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D901717"
+      },
+      {
+        "childApplicationNumberText": "29661397",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2016-01-25",
+        "parentApplicationNumberText": "29552677",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D829923"
+      },
+      {
+        "childApplicationNumberText": "29552677",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2016-01-19",
+        "parentApplicationNumberText": "15001047",
+        "parentApplicationStatusCode": 161,
+        "parentApplicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action"
+      },
+      {
+        "childApplicationNumberText": "15001047",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2012-10-30",
+        "parentApplicationNumberText": "13664266",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "9272896"
+      },
+      {
+        "childApplicationNumberText": "13664266",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2006-08-01",
+        "parentApplicationNumberText": "11497093",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "8329470"
+      },
+      {
+        "childApplicationNumberText": "11497093",
+        "claimParentageTypeCode": "PRO",
+        "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+        "parentApplicationFilingDate": "2005-08-01",
+        "parentApplicationNumberText": "60704866",
+        "parentApplicationStatusCode": 159,
+        "parentApplicationStatusDescriptionText": "Provisional Application Expired"
+      },
+      {
+        "childApplicationNumberText": "29552677",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2008-06-09",
+        "parentApplicationNumberText": "12135988",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "8652424"
+      },
+      {
+        "childApplicationNumberText": "12135988",
+        "claimParentageTypeCode": "CON",
+        "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationFilingDate": "2006-08-01",
+        "parentApplicationNumberText": "11497093",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "8329470"
+      },
+      {
+        "childApplicationNumberText": "11497093",
+        "claimParentageTypeCode": "PRO",
+        "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+        "parentApplicationFilingDate": "2005-08-01",
+        "parentApplicationNumberText": "60704866",
+        "parentApplicationStatusCode": 159,
+        "parentApplicationStatusDescriptionText": "Provisional Application Expired"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "MARJORIE",
+          "lastName": "JARVIS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "39238",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-268-8410"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7305 EXECUTIVE WAY",
+              "cityName": "FREDERICK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "postalCode": "21704"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "WHITESIDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42224",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "240-379-4685"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "nameLineTwoText": "ATTN: IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CAROLYN",
+          "lastName": "KOENIG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "42755",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-244-1611"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2130 WOODWARD, BUILDING 1",
+              "addressLineTwoText": "MAIL STOP 650",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "LIFE TECHNOLOGY CORPORATION",
+              "postalCode": "78744"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SCHELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50776",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-797-1498"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12025 PORTOBELLA DRIVE",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "78732"
+            }
+          ],
+          "firstName": "PRIYA",
+          "lastName": "SUBRAMONY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50939",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-266-0524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "180 OYSTER POINT BLVD",
+              "cityName": "SOUTH SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "94080"
+            }
+          ],
+          "firstName": "BRIGITTE",
+          "lastName": "HAJOS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50971",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-266-4739"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "KAREN",
+          "lastName": "MCGUIRK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "52936",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-507-5756"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "909 ORCHID WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "92011"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HIERHOLZER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53021",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "4078412343"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-972-8304"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "180 OYSTER POINT BOULEVARD",
+              "cityName": "SOUTH SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "94080"
+            }
+          ],
+          "firstName": "RENEE",
+          "lastName": "POLIZOTTO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "53474",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-266-5807"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "355 RIVER OAKS PARKWAY",
+              "cityName": "SAN JOSE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "95134"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "COONEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "54046",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-965-6345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES, INC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MAUK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54579",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-603-7200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 RADCLIF  ROAD",
+              "cityName": "TEWKSBURY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMOFISHER SCIENTIFIC",
+              "postalCode": "01876"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "MCCARTHY",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55788",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "781-287-4960"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5350 NE DAWSON CREEK DR.",
+              "cityName": "HILLSBORO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "97124-5793"
+            }
+          ],
+          "firstName": "WESLEY",
+          "lastName": "NICHOLSON",
+          "middleName": "EDWARD",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56573",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "971-491-8048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARISBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION ATT:IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "KLINE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57666",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-246-2508"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "650-856-6273"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5775 MOREHOUSE DRIVE",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "QUALCOMM INCORPORATED",
+              "postalCode": "92121"
+            }
+          ],
+          "firstName": "FRANCOIS",
+          "lastName": "PELAEZ",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-651-5802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7881 KELLY CANYON PLACE",
+              "cityName": "DUBLIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DENISE WONG PATENT LAW",
+              "postalCode": "94568"
+            }
+          ],
+          "firstName": "DENISE",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "925-310-5926100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5803 NEWTON DR",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "D'AVIGNON-AUBUT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59995",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-476-4387"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2215 GRAND AVENUE PARKWAY",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "78728"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SCHELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60484",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-527-4631"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3020 CALLAN ROAD",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CYTORI THERAPEUTICS, INC.",
+              "postalCode": "92121"
+            }
+          ],
+          "firstName": "KATHLEEN",
+          "lastName": "MEKJIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-458-0900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CRYSTAL",
+          "lastName": "WILSON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61730",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-420-2973"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "YEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "302-992-4773"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-918-3850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5 CENTERPOINTE DR.",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "LAKE OSWEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97035"
+            }
+          ],
+          "firstName": "LAURA",
+          "lastName": "ZAGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-446-4032"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 PAGE MILL ROAD, FH 1-2/17",
+              "cityName": "PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "WILSON SONSINI GOODRICH & ROSATI",
+              "postalCode": "94304"
+            }
+          ],
+          "firstName": "JING",
+          "lastName": "YE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66353",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-849-3062"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "VIJAY",
+          "lastName": "GORE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69670",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-308-3423"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "14 ELLIOTT ST.",
+              "cityName": "MALDEN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "02148"
+            }
+          ],
+          "firstName": "EDGARDO",
+          "lastName": "MANTILLA",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70104",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-771-3172"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "addressLineTwoText": "SUITE 3800",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "92008-732"
+            }
+          ],
+          "firstName": "ALPER",
+          "lastName": "ERTAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70799",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-476-7785"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "13806 NW HOGAN STREET",
+              "cityName": "PORTLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97229"
+            }
+          ],
+          "firstName": "ANITHA",
+          "lastName": "SHANKAR NARAYAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-846-0907"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "973-245-6705"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 THIRD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "OWENS",
+          "middleName": "PHILLIPS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-752-8624"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 3RD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC, INC.",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "HARRISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73050",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "781-296-4858"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5350 NE DAWSON CREEK DR",
+              "cityName": "HILLSBORO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC, INC",
+              "postalCode": "97124"
+            }
+          ],
+          "firstName": "LERON",
+          "lastName": "VANDSBURGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75516",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-771-0758"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2425 VICTORY AVENUE",
+              "addressLineTwoText": "APT. 562",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "75219"
+            }
+          ],
+          "firstName": "RONG",
+          "lastName": "BAI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75930",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "225-572-6796"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "210 SIXTH AVENUE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "K & L GATES LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "GARETH",
+          "lastName": "BLYTH",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76537",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-355-6372"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "nameLineTwoText": "ATTN: IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "GALE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "484-981-0703"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CAROLINE",
+          "lastName": "BELT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77761",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-957-2634"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "27715 FAIRVIEW AVE",
+              "cityName": "HAYWARD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "94542"
+            }
+          ],
+          "firstName": "XIN",
+          "lastName": "GAO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78115",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-810-7854"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "729 WASHINGTON ST.",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "WACO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "PATTERSON+SHERIDAN, LLP",
+              "postalCode": "76701"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "KISELAK",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80030",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "972-646-2649"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 INDUSTRY DRIVE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "15275"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "LEE",
+          "middleName": "J",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80601",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-249-6842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 THIRD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "VANDER WAGEN",
+          "nameSuffix": "V",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81212",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "561-427-4202"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1300 SW 5TH AVE #2400",
+              "cityName": "PORTLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "97201"
+            }
+          ],
+          "firstName": "MARINA",
+          "lastName": "CHONG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-241-2300"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 52059,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "5823 Newton Drive",
+            "cityName": "Carlsbad",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+            "nameLineTwoText": "Attn: IP Department",
+            "postalCode": "92008"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "STEVEN",
+          "lastName": "YEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63233",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "302-992-4773"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-918-3850"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2215 GRAND AVENUE PARKWAY",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "78728"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SCHELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60484",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-527-4631"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2425 VICTORY AVENUE",
+              "addressLineTwoText": "APT. 562",
+              "cityName": "DALLAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "75219"
+            }
+          ],
+          "firstName": "RONG",
+          "lastName": "BAI",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "75930",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "225-572-6796"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 THIRD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "OWENS",
+          "middleName": "PHILLIPS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72917",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-752-8624"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2130 WOODWARD, BUILDING 1",
+              "addressLineTwoText": "MAIL STOP 650",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "LIFE TECHNOLOGY CORPORATION",
+              "postalCode": "78744"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "SCHELL",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50776",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-797-1498"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "27715 FAIRVIEW AVE",
+              "cityName": "HAYWARD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "94542"
+            }
+          ],
+          "firstName": "XIN",
+          "lastName": "GAO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78115",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "415-810-7854"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 INDUSTRY DRIVE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "15275"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "LEE",
+          "middleName": "J",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80601",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-249-6842"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "MARJORIE",
+          "lastName": "JARVIS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "39238",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-268-8410"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5350 NE DAWSON CREEK DR.",
+              "cityName": "HILLSBORO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "97124-5793"
+            }
+          ],
+          "firstName": "WESLEY",
+          "lastName": "NICHOLSON",
+          "middleName": "EDWARD",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56573",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "971-491-8048"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "12025 PORTOBELLA DRIVE",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "postalCode": "78732"
+            }
+          ],
+          "firstName": "PRIYA",
+          "lastName": "SUBRAMONY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50939",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-266-0524"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "VIJAY",
+          "lastName": "GORE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69670",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-308-3423"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5775 MOREHOUSE DRIVE",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "QUALCOMM INCORPORATED",
+              "postalCode": "92121"
+            }
+          ],
+          "firstName": "FRANCOIS",
+          "lastName": "PELAEZ",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57838",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-651-5802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3020 CALLAN ROAD",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "CYTORI THERAPEUTICS, INC.",
+              "postalCode": "92121"
+            }
+          ],
+          "firstName": "KATHLEEN",
+          "lastName": "MEKJIAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61399",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "858-458-0900"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5 CENTERPOINTE DR.",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "LAKE OSWEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97035"
+            }
+          ],
+          "firstName": "LAURA",
+          "lastName": "ZAGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-446-4032"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "650 PAGE MILL ROAD, FH 1-2/17",
+              "cityName": "PALO ALTO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "WILSON SONSINI GOODRICH & ROSATI",
+              "postalCode": "94304"
+            }
+          ],
+          "firstName": "JING",
+          "lastName": "YE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66353",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-849-3062"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "180 OYSTER POINT BOULEVARD",
+              "cityName": "SOUTH SAN FRANCISCO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "94080"
+            }
+          ],
+          "firstName": "RENEE",
+          "lastName": "POLIZOTTO",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "53474",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-266-5807"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "addressLineTwoText": "SUITE 3800",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "92008-732"
+            }
+          ],
+          "firstName": "ALPER",
+          "lastName": "ERTAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70799",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-476-7785"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2 RADCLIF  ROAD",
+              "cityName": "TEWKSBURY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMOFISHER SCIENTIFIC",
+              "postalCode": "01876"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "MCCARTHY",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "55788",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "781-287-4960"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARISBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION ATT:IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "KLINE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "57666",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-246-2508"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "650-856-6273"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "13806 NW HOGAN STREET",
+              "cityName": "PORTLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97229"
+            }
+          ],
+          "firstName": "ANITHA",
+          "lastName": "SHANKAR NARAYAN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70973",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-846-0907"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "973-245-6705"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5781 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "D'AVIGNON-AUBUT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59995",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-476-4387"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3900 PARAMOUNT PARKWAY",
+              "cityName": "MORRISVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC, INC",
+              "postalCode": "27560"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "KISELAK",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80030",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "984-326-1627"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7881 KELLY CANYON PLACE",
+              "cityName": "DUBLIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "DENISE WONG PATENT LAW",
+              "postalCode": "94568"
+            }
+          ],
+          "firstName": "DENISE",
+          "lastName": "WONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59622",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "925-310-5926100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "355 RIVER OAKS PARKWAY",
+              "cityName": "SAN JOSE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "95134"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "COONEY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "54046",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "408-965-6345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "210 SIXTH AVENUE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "K & L GATES LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "GARETH",
+          "lastName": "BLYTH",
+          "nameSuffix": "II",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "76537",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-355-6372"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "nameLineTwoText": "ATTN: IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "GALE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "484-981-0703"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "KAREN",
+          "lastName": "MCGUIRK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "52936",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-507-5756"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES, INC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "MAUK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "54579",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "760-603-7200"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 3RD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC, INC.",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "NATHAN",
+          "lastName": "HARRISON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73050",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "781-296-4858"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "nameLineTwoText": "ATTN: IP DEPARTMENT",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CAROLYN",
+          "lastName": "KOENIG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "42755",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "650-244-1611"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "14 ELLIOTT ST.",
+              "cityName": "MALDEN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "02148"
+            }
+          ],
+          "firstName": "EDGARDO",
+          "lastName": "MANTILLA",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70104",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-771-3172"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5823 NEWTON DRIVE",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CAROLINE",
+          "lastName": "BELT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77761",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-957-2634"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5791 VAN ALLEN WAY",
+              "addressLineTwoText": "SUITE 1500",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC",
+              "postalCode": "92008"
+            }
+          ],
+          "firstName": "CRYSTAL",
+          "lastName": "WILSON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "61730",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-420-2973"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "909 ORCHID WAY",
+              "cityName": "CARLSBAD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "92011"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HIERHOLZER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53021",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "4078412343"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-972-8304"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5350 NE DAWSON CREEK DR",
+              "cityName": "HILLSBORO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC, INC",
+              "postalCode": "97124"
+            }
+          ],
+          "firstName": "LERON",
+          "lastName": "VANDSBURGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75516",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-771-0758"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1300 SW 5TH AVE #2400",
+              "cityName": "PORTLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "nameLineOneText": "DAVIS WRIGHT TREMAINE",
+              "postalCode": "97201"
+            }
+          ],
+          "firstName": "MARINA",
+          "lastName": "CHONG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81476",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "503-241-2300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "7305 EXECUTIVE WAY",
+              "cityName": "FREDERICK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MD",
+              "geographicRegionName": "MARYLAND",
+              "nameLineOneText": "LIFE TECHNOLOGIES CORPORATION",
+              "postalCode": "21704"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "WHITESIDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42224",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "240-379-4685"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "168 THIRD AVENUE",
+              "cityName": "WALTHAM",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MA",
+              "geographicRegionName": "MASSACHUSETTS",
+              "nameLineOneText": "THERMO FISHER SCIENTIFIC INC.",
+              "postalCode": "02451"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "VANDER WAGEN",
+          "nameSuffix": "V",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81212",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "561-427-4202"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/224"
+}

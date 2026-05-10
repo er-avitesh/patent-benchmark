@@ -1,0 +1,1824 @@
+{
+  "applicant": "Dr. Ing. h.c. F. Porsche Aktiengesellschaft",
+  "application_number": "29954628",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29954628_D1055773.xml",
+  "filing_date": "2024-07-29",
+  "grant_date": "2024-12-31",
+  "invention_title": "MOTOR VEHICLE BODY, TOY VEHICLE BODY REPLICA AND/OR OTHER REPLICA",
+  "label": "positive",
+  "patent_number": "D1055773",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Dr. Ing. h.c. F. Porsche Aktiengesellschaft",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Stuttgart",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Dr. Ing. h.c. F. Porsche Aktiengesellschaft",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9400,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 23122,
+      "docketNumber": "2104016-000392",
+      "effectiveFilingDate": "2024-07-29",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BROWN, MELODY NOEL",
+      "filingDate": "2024-07-29",
+      "firstApplicantName": "Dr. Ing. h.c. F. Porsche Aktiengesellschaft",
+      "firstInventorName": "Shuichi Yamashita",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2917",
+      "inventionTitle": "MOTOR VEHICLE BODY, TOY VEHICLE BODY REPLICA AND/OR OTHER REPLICA",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Stuttgart",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Yamashita,Shuichi",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Stuttgart",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Yamashita,Shuichi",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Shuichi",
+          "inventorNameText": "Shuichi Yamashita",
+          "lastName": "Yamashita"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055773",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "92",
+      "uspcSymbolText": "D12/92"
+    },
+    "applicationNumberText": "29954628",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "PORSCHEPLATZ 1",
+              "cityName": "STUTTGART",
+              "countryName": "GERMANY",
+              "geographicRegionCode": "DEX",
+              "ictCountryCode": "DE",
+              "postalCode": "70435"
+            },
+            "assigneeNameText": "DR. ING. H.C. F. PORSCHE AKTIENGESELLSCHAFT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/68154/380",
+        "assignmentMailedDate": "2024-08-02",
+        "assignmentReceivedDate": "2024-08-01",
+        "assignmentRecordedDate": "2024-08-01",
+        "assignorBag": [
+          {
+            "assignorName": "YAMASHITA, SHUICHI",
+            "executionDate": "2023-03-20"
+          }
+        ],
+        "attorneyDocketNumber": "2104016-000392",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "2200 RENAISSANCE BLVD.",
+          "addressLineThreeText": "KING OF PRUSSIA, PA 19406",
+          "addressLineTwoText": "SUITE 350",
+          "correspondentNameText": "DENISE MORGAN"
+        },
+        "frameNumber": 380,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "068154/0380",
+        "reelNumber": 68154
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "2200 Renaissance Blvd",
+        "addressLineTwoText": "Suite 350",
+        "cityName": "King of Prussia",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "PA",
+        "geographicRegionName": "PENNSYLVANIA",
+        "nameLineOneText": "Buchanan Ingersoll & Rooney PC",
+        "postalCode": "19406"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-15",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2024-08-07",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-10-20",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-10-20",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-10-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-10-07",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2024-07-31",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2024-07-29",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "015000647-0001",
+        "filingDate": "2022-10-17",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29954628_D1055773.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29954628_D1055773.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-13T20:11:14",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29954628",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationFilingDate": "2023-04-11",
+        "parentApplicationNumberText": "29889297",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D1051770"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN, INGERSOLL & ROONEY",
+              "postalCode": "22314"
+            },
+            {
+              "addressLineOneText": "P.O. BOX 1404",
+              "cityName": "ALEXANDRIA,",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BURNS, DOANE, SWECKER",
+              "nameLineTwoText": "& MATHIS, L.L.P.",
+              "postalCode": "223130000"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "ROWLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30888",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6510"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1090 VERMONT AVENUE, N.W.",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "VICTOR",
+          "lastName": "BALANCIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31231",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7375"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "LEACE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33412",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "500 DELAWARE AVENUE",
+              "addressLineTwoText": "SUITE 720",
+              "cityName": "WILMINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19801"
+            }
+          ],
+          "firstName": "GLENN",
+          "lastName": "MURPHY",
+          "middleName": "E J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "302-778-3462"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BOULEVARD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "GOULD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNER PRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "COHEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38040",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "500 DELAWARE AVENUE",
+              "addressLineTwoText": "SUITE 720",
+              "cityName": "WILMINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19899"
+            }
+          ],
+          "firstName": "REX",
+          "lastName": "DONNELLY",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41712",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "302-778-3460"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JACQUES",
+          "lastName": "ETKOWICZ",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41738",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "ROLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42110",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-751-5315"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "SPADT",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45122",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1090 VERMONT AVENUE NW",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "LOWEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46882",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7371"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "LING",
+          "lastName": "ZHONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48290",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 1404",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL PC",
+              "postalCode": "22313-140"
+            }
+          ],
+          "firstName": "SHAWN",
+          "lastName": "CAGE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "51522",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-299-6882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1700 K ST NW",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "VALERIE",
+          "lastName": "HAYES",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53005",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7364"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "2129499190"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "BRETT",
+          "lastName": "ROSEN",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56047",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING ST",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "SUNJEEV",
+          "lastName": "SIKAND",
+          "middleName": "S.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60107",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7374"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "BLASZKOWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD,",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "KOOPMAN",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65537",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "nameLineTwoText": "UNION TRUST BUILDING",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CAMILLO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69615",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-443-7769"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 WORLD FINANCIAL CENTER-20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LOCKE LORD LLP",
+              "postalCode": "10281"
+            }
+          ],
+          "firstName": "ZHIBIN",
+          "lastName": "LI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74167",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "646-217-7897"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2726 HIGHWAY E.",
+              "cityName": "FREEBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "postalCode": "65035"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "DRENNEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78467",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "573-619-7036"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "HARROD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79148",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-562-8805"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STEPHENSON",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79682",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-562-1538"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD #350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "SHAYNE JANNE JOSSEF",
+          "lastName": "RASAY",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81563",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING ST. #500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHEN",
+          "lastName": "HE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81743",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6503"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "VIRGINIA",
+          "lastName": "HENRICI",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82079",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6512"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "210 6TH AVE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "K&L GATES LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HAUSER",
+          "middleName": "N.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-355-6250"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23122,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "2200 Renaissance Blvd",
+            "addressLineTwoText": "Suite 350",
+            "cityName": "King of Prussia",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "PA",
+            "geographicRegionName": "PENNSYLVANIA",
+            "nameLineOneText": "Buchanan Ingersoll & Rooney PC",
+            "postalCode": "19406"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN, INGERSOLL & ROONEY",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "ROWLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30888",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6510"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "3 WORLD FINANCIAL CENTER-20TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LOCKE LORD LLP",
+              "postalCode": "10281"
+            }
+          ],
+          "firstName": "ZHIBIN",
+          "lastName": "LI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74167",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "646-217-7897"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "STEPHENSON",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79682",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-562-1538"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BOULEVARD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "GOULD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JACQUES",
+          "lastName": "ETKOWICZ",
+          "middleName": "L",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41738",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "500 DELAWARE AVENUE",
+              "addressLineTwoText": "SUITE 720",
+              "cityName": "WILMINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19899"
+            }
+          ],
+          "firstName": "REX",
+          "lastName": "DONNELLY",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41712",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "302-778-3460"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD. SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "IBRAHIMA",
+          "lastName": "DIEDHIOU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80811",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD,",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "KOOPMAN",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65537",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "LING",
+          "lastName": "ZHONG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48290",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 1404",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL PC",
+              "postalCode": "22313-140"
+            }
+          ],
+          "firstName": "SHAWN",
+          "lastName": "CAGE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "51522",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-299-6882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "ROLAND",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42110",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-751-5315"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2726 HIGHWAY E.",
+              "cityName": "FREEBURG",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "postalCode": "65035"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "DRENNEN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78467",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "573-619-7036"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "LEACE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33412",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE AMERICA PLAZA",
+              "addressLineTwoText": "600 WEST BROADWAY, SUITE 1100",
+              "cityName": "SAN DIEGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "92101-3387"
+            }
+          ],
+          "firstName": "KIRK",
+          "lastName": "NUZUM",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38983",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-239-0871"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "619-685-1938"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "500 DELAWARE AVENUE",
+              "addressLineTwoText": "SUITE 720",
+              "cityName": "WILMINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DE",
+              "geographicRegionName": "DELAWARE",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "19801"
+            }
+          ],
+          "firstName": "GLENN",
+          "lastName": "MURPHY",
+          "middleName": "E J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33539",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "302-778-3462"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNER PRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "COHEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38040",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "nameLineTwoText": "UNION TRUST BUILDING",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CAMILLO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69615",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-443-7769"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 NORTH RIVERSIDE PLAZA",
+              "addressLineTwoText": "SUITE 2800",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "60606"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "LUCARELLI",
+          "middleName": "V.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82720",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-261-8764"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "SPADT",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45122",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "210 6TH AVE",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "K&L GATES LLP",
+              "postalCode": "15222"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "HAUSER",
+          "middleName": "N.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82445",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-355-6250"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "BRETT",
+          "lastName": "ROSEN",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56047",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING STREET",
+              "addressLineTwoText": "SUITE 500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "VIRGINIA",
+          "lastName": "HENRICI",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82079",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6512"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1737 KING ST. #500",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "CHEN",
+          "lastName": "HE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81743",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-838-6503"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "501 GRANT STREET",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "PITTSBURGH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY",
+              "postalCode": "15219"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "HARROD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79148",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "412-562-8805"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD.",
+              "addressLineTwoText": "SUITE 350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "BLASZKOWSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61461",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2200 RENAISSANCE BLVD #350",
+              "cityName": "KING OF PRUSSIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "19406"
+            }
+          ],
+          "firstName": "SHAYNE JANNE JOSSEF",
+          "lastName": "RASAY",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81563",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-407-0700"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1090 VERMONT AVENUE NW",
+              "addressLineTwoText": "SUITE 1200",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "RATNERPRESTIA",
+              "postalCode": "20005"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "LOWEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46882",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7371"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1700 K ST NW",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "BUCHANAN INGERSOLL & ROONEY PC",
+              "postalCode": "20006"
+            }
+          ],
+          "firstName": "VALERIE",
+          "lastName": "HAYES",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53005",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-808-7364"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "2129499190"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/92"
+}

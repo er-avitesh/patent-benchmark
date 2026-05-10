@@ -1,0 +1,151 @@
+{
+  "applicant": null,
+  "application_number": "29249583",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-16 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-10-13",
+  "grant_date": "2007-10-16",
+  "invention_title": "HEADLAMP",
+  "label": "negative",
+  "patent_number": "D553270",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 6452,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-26",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "docketNumber": "14131",
+      "effectiveFilingDate": "2006-10-13",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "JACKSON, MARCUS A",
+      "filingDate": "2006-10-13",
+      "firstInventorName": "Changchun XU",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-16",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "HEADLAMP",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Shenzhen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Changchun  XU",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "CN",
+          "firstName": "Changchun",
+          "inventorNameText": "Changchun XU",
+          "lastName": "XU"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553270",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "28",
+      "uspcSymbolText": "D26/28"
+    },
+    "applicationNumberText": "29249583",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "UNIT 105, BLOCK 11",
+        "addressLineTwoText": "JINSHA GARDEN, FUTIAN DISTRICT",
+        "cityName": "SHENZHEN CITY, GUANGDONG PROVINCE",
+        "countryCode": "CN",
+        "countryName": "CHINA",
+        "nameLineOneText": "Xu Changchun"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2010-09-01",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-16",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-07-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-03-17",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-03-06",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-03-07",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-10-13",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T09:00:04"
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/28"
+}

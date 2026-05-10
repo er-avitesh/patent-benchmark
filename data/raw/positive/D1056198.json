@@ -1,0 +1,367 @@
+{
+  "applicant": "Gen-X Engineering Solutions, Inc.",
+  "application_number": "29890787",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29890787_D1056198.xml",
+  "filing_date": "2023-04-27",
+  "grant_date": "2024-12-31",
+  "invention_title": "Top Portion of a Floor Vent",
+  "label": "positive",
+  "patent_number": "D1056198",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Gen-X Engineering Solutions, Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wixom",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Gen-X Engineering Solutions, Inc.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 7201,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 146928,
+      "docketNumber": "Genx2D",
+      "effectiveFilingDate": "2023-04-27",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BIRD, MATTHEW D",
+      "filingDate": "2023-04-27",
+      "firstApplicantName": "Gen-X Engineering Solutions, Inc.",
+      "firstInventorName": "Troy Isaacson",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2938",
+      "inventionTitle": "Top Portion of a Floor Vent",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wixom",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Isaacson,Troy",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Wixom",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Isaacson,Troy",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Troy",
+          "inventorNameText": "Troy Isaacson",
+          "lastName": "Isaacson"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wixom",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Isaacson,Kyle",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Wixom",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "Isaacson,Kyle",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Kyle",
+          "inventorNameText": "Kyle Isaacson",
+          "lastName": "Isaacson"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1056198",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "388",
+      "uspcSymbolText": "D23/388"
+    },
+    "applicationNumberText": "29890787",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "6833 Phil Lewis Way",
+        "cityName": "Middleton",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "WI",
+        "geographicRegionName": "WISCONSIN",
+        "nameLineOneText": "Timothy James Engling",
+        "postalCode": "53562"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-26",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-11-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-11-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "LTDR",
+        "eventDate": "2024-10-11",
+        "eventDescriptionText": "Incoming Letter Pertaining to the Drawings"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-10-17",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-10-11",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "C602",
+        "eventDate": "2023-04-27",
+        "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-09-20",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-08-21",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-16",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-05-05",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-12-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-11-30",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-11-30",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-04-27",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-04-27",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-05-05",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-04-28",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-04-27",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-04-27",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:14",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29890787_D1056198.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29890787_D1056198.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T07:00:03",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6833 PHIL LEWIS WAY",
+              "cityName": "MIDDLETON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "postalCode": "53562"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "ENGLING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39970",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-371-0034"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 146928,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "6833 Phil Lewis Way",
+            "cityName": "Middleton",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "WI",
+            "geographicRegionName": "WISCONSIN",
+            "nameLineOneText": "Timothy James Engling",
+            "postalCode": "53562"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "6833 PHIL LEWIS WAY",
+              "cityName": "MIDDLETON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WI",
+              "geographicRegionName": "WISCONSIN",
+              "postalCode": "53562"
+            }
+          ],
+          "firstName": "TIMOTHY",
+          "lastName": "ENGLING",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39970",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-371-0034"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/388"
+}

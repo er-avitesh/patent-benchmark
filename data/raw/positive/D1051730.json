@@ -1,0 +1,281 @@
+{
+  "applicant": "COSRX Inc.",
+  "application_number": "35518391",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/35518391_D1051730.xml",
+  "filing_date": "2022-09-19",
+  "grant_date": "2024-11-19",
+  "invention_title": "Bottle for cosmetics",
+  "label": "positive",
+  "patent_number": "D1051730",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "COSRX Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Seoul",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "COSRX Inc.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 2158,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-30",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "effectiveFilingDate": "2022-09-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SCHNEBELE, HALEY K",
+      "filingDate": "2022-09-19",
+      "firstApplicantName": "COSRX Inc.",
+      "firstInventorName": "SANG HUN JUN",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-11-19",
+      "groupArtUnitNumber": "2933",
+      "internationalRegistrationNumber": "DM223711",
+      "internationalRegistrationPublicationDate": "2023-09-22",
+      "inventionTitle": "Bottle for cosmetics",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Yongin-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "SANG  HUN  JUN",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Yongin-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "SANG  HUN  JUN",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "SANG",
+          "inventorNameText": "SANG HUN JUN",
+          "lastName": "JUN",
+          "middleName": "HUN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1051730",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "690",
+      "uspcSymbolText": "D9/690"
+    },
+    "applicationNumberText": "35518391",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "4F, 19, Nonhyeon-ro 87-gil, Gangnam-gu",
+        "cityName": "Seoul",
+        "countryCode": "KR",
+        "countryName": "KOREA, REPUBLIC OF",
+        "nameLineOneText": "KAI International IP Law Firm",
+        "postalCode": "06236"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "TSTGR",
+        "eventDate": "2024-11-20",
+        "eventDescriptionText": "Transmit Statement of Grant to I.B. (Hague)"
+      },
+      {
+        "eventCode": "STGR",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Statement Of Grant (Hague)"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-08",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2024-10-07",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "MM327-D",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Mail PUB   other miscellaneous communication to applicant"
+      },
+      {
+        "eventCode": "M327-D",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "PUB Other miscellaneous communication to applicant"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "IFEEHA",
+        "eventDate": "2024-09-06",
+        "eventDescriptionText": "Issue Fee Data Received from I.B. (Hague)"
+      },
+      {
+        "eventCode": "TN/=.HA",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Transmit Notice of Allowance to I.B. (Hague)"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-19",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-17",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "TRFHA",
+        "eventDate": "2024-05-16",
+        "eventDescriptionText": "Transmit Refusal Hague Treaty"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "RFHA",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Refusal Hague Treaty"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-05-13",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-09-27",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-09-27",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-09-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-09-27",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "NWREIBHA",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Receipt of New Application from I.B. (Hague)"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-09-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-11-19T09:08:20",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241119/35518391_D1051730.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "35518391_D1051730.xml",
+      "zipFileName": "ipg241119.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T11:00:02"
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/690"
+}

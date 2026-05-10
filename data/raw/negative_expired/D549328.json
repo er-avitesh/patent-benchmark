@@ -1,0 +1,252 @@
+{
+  "applicant": null,
+  "application_number": "29250368",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-08-21 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-11-10",
+  "grant_date": "2007-08-21",
+  "invention_title": "HANDLE FOR SURGICAL INSTRUMENTS",
+  "label": "negative",
+  "patent_number": "D549328",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 2911,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-01",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "docketNumber": "260456",
+      "effectiveFilingDate": "2006-11-10",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "LEE, CHRISTOPHER",
+      "filingDate": "2006-11-10",
+      "firstInventorName": "Alfredo Sierra Aparici",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-08-21",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "HANDLE FOR SURGICAL INSTRUMENTS",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Valencia",
+              "countryCode": "ES",
+              "countryName": "SPAIN",
+              "nameLineOneText": "Alfredo Sierra Aparici",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "ES",
+          "firstName": "Alfredo",
+          "inventorNameText": "Alfredo Sierra Aparici",
+          "lastName": "Aparici",
+          "middleName": "Sierra"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Valencia",
+              "countryCode": "ES",
+              "countryName": "SPAIN",
+              "nameLineOneText": "Vicente Fores Ahuir",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "ES",
+          "firstName": "Vicente",
+          "inventorNameText": "Vicente Fores Ahuir",
+          "lastName": "Ahuir",
+          "middleName": "Fores"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D549328",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "133",
+      "uspcSymbolText": "D24/133"
+    },
+    "applicationNumberText": "29250368",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "C/ ISLAS BALEARES NO. 50, POL. IND. FUENTE DEL JARRO",
+              "cityName": "PATERNA 46988, VALENCIA",
+              "countryName": "SPAIN",
+              "geographicRegionCode": "ESX",
+              "ictCountryCode": "ES"
+            },
+            "assigneeNameText": "BIOMET SPAIN ORTHOPAEDICS, S.L."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/20987/203",
+        "assignmentMailedDate": "2008-05-23",
+        "assignmentReceivedDate": "2008-05-22",
+        "assignmentRecordedDate": "2008-05-22",
+        "assignorBag": [
+          {
+            "assignorName": "FORES AHUIR, VICENTE, MR.",
+            "executionDate": "2007-11-01"
+          },
+          {
+            "assignorName": "SIERRA APARICI, ALFREDO, MR.",
+            "executionDate": "2007-11-01"
+          }
+        ],
+        "attorneyDocketNumber": "260453,260455,260456,2604",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "235 SW LE JEUNE ROAD",
+          "addressLineTwoText": "MIAMI, FL 33134",
+          "correspondentNameText": "JESUS SANCHELIMA, ESQ."
+        },
+        "frameNumber": 203,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "020987/0203",
+        "reelNumber": 20987
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "235 S.W. Le Jeune Rd.",
+        "cityName": "Miami",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "FL",
+        "geographicRegionName": "FLORIDA",
+        "nameLineOneText": "Sanchelima and Associates, P.A.",
+        "nameLineTwoText": "Jesus Sanchelima, Esq.",
+        "postalCode": "33134"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-08-21",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-01",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-06-28",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-06-25",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-06-25",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-06-25",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MN/DR",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Mail  Formal Drawings Required"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-03-23",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/DR",
+        "eventDate": "2007-03-21",
+        "eventDescriptionText": "Formal Drawings Required"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-03-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-01-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-01-03",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-12-11",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-12-12",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-11-10",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-23T14:45:13",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "235 S.W. LE JEUNE ROAD",
+              "cityName": "MIAMI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "SANCHELIMA & ASSOCIATES, P.A.",
+              "postalCode": "33134"
+            }
+          ],
+          "firstName": "JESUS",
+          "lastName": "SANCHELIMA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28755",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "305-447-1617"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/133"
+}

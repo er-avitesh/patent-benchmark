@@ -1,0 +1,840 @@
+{
+  "applicant": "Hudson Furniture, Inc.",
+  "application_number": "29880906",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29880906_D1056301.xml",
+  "filing_date": "2023-07-28",
+  "grant_date": "2024-12-31",
+  "invention_title": "LIGHT FIXTURE",
+  "label": "positive",
+  "patent_number": "D1056301",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Hudson Furniture, Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Hudson Furniture, Inc.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 4333,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 26712,
+      "docketNumber": "082181.00165",
+      "effectiveFilingDate": "2023-07-28",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "ROTOLO, ANTHONY VINCENT",
+      "filingDate": "2023-07-28",
+      "firstApplicantName": "Hudson Furniture, Inc.",
+      "firstInventorName": "Barlas Baylar",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2932",
+      "inventionTitle": "LIGHT FIXTURE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Baylar,Barlas",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "New York",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Baylar,Barlas",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Barlas",
+          "inventorNameText": "Barlas Baylar",
+          "lastName": "Baylar"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1056301",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "73",
+      "uspcSymbolText": "D26/73"
+    },
+    "applicationNumberText": "29880906",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "90 BROAD STREET",
+              "addressLineTwoText": "10TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10014"
+            },
+            "assigneeNameText": "HUDSON FURNITURE, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/64751/740",
+        "assignmentMailedDate": "2023-08-31",
+        "assignmentReceivedDate": "2023-08-30",
+        "assignmentRecordedDate": "2023-08-30",
+        "assignorBag": [
+          {
+            "assignorName": "BAYLAR, BARLAS",
+            "executionDate": "2023-07-28"
+          }
+        ],
+        "attorneyDocketNumber": "082181.00165",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "140 PEARL STREET",
+          "addressLineThreeText": "BUFFALO, NY 14202",
+          "addressLineTwoText": "SUITE 100",
+          "correspondentNameText": "HODGSON RUSS LLP"
+        },
+        "frameNumber": 740,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "064751/0740",
+        "reelNumber": 64751
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "140 PEARL STREET",
+        "addressLineTwoText": "SUITE 100",
+        "cityName": "BUFFALO",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "HODGSON RUSS LLP",
+        "nameLineTwoText": "THE GUARANTY BUILDING",
+        "postalCode": "14202-4040"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-15",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-08",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-08",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-09-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2023-09-06",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-08-28",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-08-07",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-08-07",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-08-04",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-08-07",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-08-07",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-07-28",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-07-28",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2023-08-03",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-07-28",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-07-28",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:15",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29880906_D1056301.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29880906_D1056301.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-16T17:01:58",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS, LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "SNYDER",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37729",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1545"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "ROBERTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40786",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS, LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "WATT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "46186",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LOPINSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50846",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "ALFONZO",
+          "lastName": "CUTAIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1580"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "NATHANIEL",
+          "lastName": "LUCEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60766",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "RAUCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67072",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1675"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "KIELAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74911",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1534"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DIMAIO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77176",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1432"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "AMANDA",
+          "lastName": "CANFIELD",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "84018",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "585-454-0774"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 26712,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "140 PEARL STREET",
+            "addressLineTwoText": "SUITE 100",
+            "cityName": "BUFFALO",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "HODGSON RUSS LLP",
+            "nameLineTwoText": "THE GUARANTY BUILDING",
+            "postalCode": "14202-4040"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "NATHANIEL",
+          "lastName": "LUCEK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60766",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS, LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "SNYDER",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "37729",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1545"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "ALFONZO",
+          "lastName": "CUTAIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1580"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5879 E PARADISE LN",
+              "cityName": "SCOTTSDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "postalCode": "85254"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "CILLIE",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65193",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-745-6221"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET",
+              "addressLineTwoText": "SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "RAUCH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67072",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1675"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "SAMUEL",
+          "lastName": "KIELAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74911",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1534"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "DIMAIO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77176",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-848-1432"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "ROBERTS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40786",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LOPINSKI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50846",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "THE GUARANTY BUILDING",
+              "addressLineTwoText": "140 PEARL STREET, SUITE 100",
+              "cityName": "BUFFALO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "HODGSON RUSS, LLP",
+              "postalCode": "14202-404"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "WATT",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "46186",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "716-856-4000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/73"
+}

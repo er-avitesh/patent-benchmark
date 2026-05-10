@@ -1,0 +1,361 @@
+{
+  "applicant": "Guangzhou Aolantuo Electronic Technology Co., Ltd",
+  "application_number": "29884464",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241022/29884464_D1048511.xml",
+  "filing_date": "2023-02-12",
+  "grant_date": "2024-10-22",
+  "invention_title": "Solar Barn Light",
+  "label": "positive",
+  "patent_number": "D1048511",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Guangzhou Aolantuo Electronic Technology Co., Ltd",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Guangzhou",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Guangzhou Aolantuo Electronic Technology Co., Ltd",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 5028,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-02",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 192418,
+      "docketNumber": "IPP0089USD",
+      "effectiveFilingDate": "2023-02-12",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Micro",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "BAILEY, JULIE MARIE",
+      "filingDate": "2023-02-12",
+      "firstApplicantName": "Guangzhou Aolantuo Electronic Technology Co., Ltd",
+      "firstInventorName": "Xiangbin Wu",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-10-22",
+      "groupArtUnitNumber": "2923",
+      "inventionTitle": "Solar Barn Light",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "City of Industry",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Xiangbin Wu",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Jingmen",
+              "countryCode": "CN",
+              "countryName": "CHINA",
+              "nameLineOneText": "Xiangbin Wu",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Xiangbin",
+          "inventorNameText": "Xiangbin Wu",
+          "lastName": "Wu"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1048511",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "87",
+      "uspcSymbolText": "D26/87"
+    },
+    "applicationNumberText": "29884464",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1600 Perrineville Rd",
+        "addressLineTwoText": "Suite 2-400",
+        "cityName": "Monroe Township",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NJ",
+        "geographicRegionName": "NEW JERSEY",
+        "nameLineOneText": "Nitin Kaushik",
+        "postalCode": "08831"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-02",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-15",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-15",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-11",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-08-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2024-08-29",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C602",
+        "eventDate": "2023-02-12",
+        "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-06-28",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "PST_CRD",
+        "eventDate": "2024-06-27",
+        "eventDescriptionText": "Mail Post Card"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-06-20",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-06-20",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-06-13",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-04-14",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-06-12",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-02-21",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-02-22",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-12",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-12",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "MICR",
+        "eventDate": "2023-02-16",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-12",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-12",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-10-22T08:08:17",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241022/29884464_D1048511.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29884464_D1048511.xml",
+      "zipFileName": "ipg241022.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T08:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "50 LERER LANE",
+              "cityName": "STATEN ISLAND",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "10307"
+            }
+          ],
+          "firstName": "NITIN",
+          "lastName": "KAUSHIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80417",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-560-7265"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 192418,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1600 Perrineville Rd",
+            "addressLineTwoText": "Suite 2-400",
+            "cityName": "Monroe Township",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NJ",
+            "geographicRegionName": "NEW JERSEY",
+            "nameLineOneText": "Nitin Kaushik",
+            "postalCode": "08831"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1600 PERRINEVILLE RD",
+              "addressLineTwoText": "STE 2-400",
+              "cityName": "MONROE TOWNSHIP",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "08831"
+            }
+          ],
+          "firstName": "NITIN",
+          "lastName": "KAUSHIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80417",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "908-560-7265"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/87"
+}

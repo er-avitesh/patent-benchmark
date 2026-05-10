@@ -1,0 +1,396 @@
+{
+  "applicant": null,
+  "application_number": "29237214",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2005-08-26",
+  "grant_date": "2007-09-11",
+  "invention_title": "LIGHT EMITTING DIODE LAMP",
+  "label": "negative",
+  "patent_number": "D550868",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1937,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-22",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 23900,
+      "docketNumber": "JCLA17752-DS",
+      "effectiveFilingDate": "2005-08-26",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LEE, ANGELA J",
+      "filingDate": "2005-08-26",
+      "firstInventorName": "Kazuo Egawa",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-11",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "LIGHT EMITTING DIODE LAMP",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Kazuo  Egawa",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Kazuo",
+          "inventorNameText": "Kazuo Egawa",
+          "lastName": "Egawa"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Takayoshi  Moriyama",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Takayoshi",
+          "inventorNameText": "Takayoshi Moriyama",
+          "lastName": "Moriyama"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Masami  Iwamoto",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Masami",
+          "inventorNameText": "Masami Iwamoto",
+          "lastName": "Iwamoto"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Masahiro  Toda",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "Masahiro",
+          "inventorNameText": "Masahiro Toda",
+          "lastName": "Toda"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D550868",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "24",
+      "uspcSymbolText": "D26/24"
+    },
+    "applicationNumberText": "29237214",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "3-1, HIGASHISHINAGAWA 4-CHOME",
+              "cityName": "SHINAGAWA-KU, TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "TOSHIBA LIGHTING & TECHNOLOGY CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16927/925",
+        "assignmentMailedDate": "2005-12-21",
+        "assignmentReceivedDate": "2005-09-01",
+        "assignmentRecordedDate": "2005-08-26",
+        "assignorBag": [
+          {
+            "assignorName": "EGAWA, KAZUO",
+            "executionDate": "2005-08-05"
+          },
+          {
+            "assignorName": "IWAMOTO, MASAMI",
+            "executionDate": "2005-08-05"
+          },
+          {
+            "assignorName": "MORIYAMA, TAKAYOSHI",
+            "executionDate": "2005-08-05"
+          },
+          {
+            "assignorName": "TODA, MASAHIRO",
+            "executionDate": "2005-08-05"
+          }
+        ],
+        "attorneyDocketNumber": "JCLA17752-DS",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "4 VENTURE, SUITE 250",
+          "addressLineTwoText": "IRVINE, CA 92618",
+          "correspondentNameText": "J. C. PATENTS"
+        },
+        "frameNumber": 925,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "016927/0925",
+        "reelNumber": 16927
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1 Connecticut",
+        "cityName": "IRVINE",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "J.C. PATENTS",
+        "postalCode": "92606"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-13",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-04-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-04-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-04-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-02-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-02-06",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2007-01-22",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2007-01-12",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2007-01-12",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2006-11-14",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2006-11-13",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-07-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2005-12-19",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2005-12-19",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "RQPR",
+        "eventDate": "2005-08-26",
+        "eventDescriptionText": "Request for Foreign Priority (Priority Papers May Be Included)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2005-10-20",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2005-09-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2005-09-26",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2005-08-26",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2005-005743",
+        "filingDate": "2005-02-28",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-21T22:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 VENTURE, SUITE 250",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "JC PATENTS",
+              "postalCode": "92618"
+            }
+          ],
+          "firstName": "JIAWEI",
+          "lastName": "HUANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43330",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-660-0761"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 PACIFICA",
+              "addressLineTwoText": "SUITE 220",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "JCIP GLOBAL, INC.",
+              "postalCode": "92618"
+            }
+          ],
+          "firstName": "BELINDA",
+          "lastName": "LEE",
+          "middleName": "Y",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "46863",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-396-0800"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 PACIFICA",
+              "addressLineTwoText": "SUITE 220",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "JCIP GLOBAL, INC.",
+              "postalCode": "92618"
+            }
+          ],
+          "firstName": "BELINDA",
+          "lastName": "LEE",
+          "middleName": "Y",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "46863",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-396-0800"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "4 VENTURE, SUITE 250",
+              "cityName": "IRVINE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "JC PATENTS",
+              "postalCode": "92618"
+            }
+          ],
+          "firstName": "JIAWEI",
+          "lastName": "HUANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43330",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "949-660-0761"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/24"
+}

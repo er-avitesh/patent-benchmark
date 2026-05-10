@@ -1,0 +1,331 @@
+{
+  "applicant": null,
+  "application_number": "29265118",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-09-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-25",
+  "grant_date": "2007-09-11",
+  "invention_title": "CEILING FAN LIGHT KIT",
+  "label": "negative",
+  "patent_number": "D550874",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4536,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-08-22",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 34335,
+      "docketNumber": "BHT/3117-502",
+      "effectiveFilingDate": "2006-08-25",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LICHTENSTEIN, LISA P",
+      "filingDate": "2006-08-25",
+      "firstInventorName": "Pablo J. Ertze",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-09-11",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "CEILING FAN LIGHT KIT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Rancho Cucamonga",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Pablo J. Ertze",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "MX",
+          "firstName": "Pablo",
+          "inventorNameText": "Pablo J. Ertze",
+          "lastName": "Ertze",
+          "middleName": "J."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D550874",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "59",
+      "uspcSymbolText": "D26/59"
+    },
+    "applicationNumberText": "29265118",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "RM 51, 5TH FLOOR, BRITANNIA HOUSE, JALAN, CATOR",
+              "cityName": "BS88A, BANDAR SERI BEGAWAN",
+              "countryName": "BRUNEI DARUSSALAM",
+              "geographicRegionCode": "BNX",
+              "ictCountryCode": "BF"
+            },
+            "assigneeNameText": "LANDMARK ENTERPRISE INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18235/611",
+        "assignmentMailedDate": "2006-09-12",
+        "assignmentReceivedDate": "2006-08-30",
+        "assignmentRecordedDate": "2006-08-25",
+        "assignorBag": [
+          {
+            "assignorName": "ERTZE, PABLO J.",
+            "executionDate": "2006-04-27"
+          }
+        ],
+        "attorneyDocketNumber": "BHT-3117-502",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "5205 LEESBURG PIKE",
+          "addressLineThreeText": "FALLS CHURCH, VA 22041-3401",
+          "addressLineTwoText": "SUITE 1404",
+          "correspondentNameText": "TROXELL LAW OFFICE PLLC"
+        },
+        "frameNumber": 611,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "018235/0611",
+        "reelNumber": 18235
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "NO.3-7 WING KUT STREET, CENTRAL",
+              "addressLineTwoText": "ROOM A, 20/F, WING YEE COMMERCIAL BUILDING",
+              "cityName": "HONG KONG",
+              "countryName": "CHINA",
+              "geographicRegionCode": "CNX",
+              "ictCountryCode": "CN"
+            },
+            "assigneeNameText": "YOUNGO LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/42740/776",
+        "assignmentMailedDate": "2017-06-20",
+        "assignmentReceivedDate": "2017-06-17",
+        "assignmentRecordedDate": "2017-06-17",
+        "assignorBag": [
+          {
+            "assignorName": "LANDMARK ENTERPRISE INC.",
+            "executionDate": "2017-05-23"
+          }
+        ],
+        "attorneyDocketNumber": "WP-62347",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1001 FOURTH AVENUE, SUITE 3200",
+          "addressLineTwoText": "SEATTLE, WA 98154",
+          "correspondentNameText": "CHAO-CHANG DAVID PAI"
+        },
+        "frameNumber": 776,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "042740/0776",
+        "reelNumber": 42740
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "8019 NE 151st CT",
+        "cityName": "Kenmore",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "WA",
+        "geographicRegionName": "WASHINGTON",
+        "nameLineOneText": "PAI PATENT & TRADEMARK LAW FIRM",
+        "nameLineTwoText": "Chao-Chang Pai",
+        "postalCode": "98028"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2017-07-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2017-07-06",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2017-07-05",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-09-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-08-22",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-08",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-06-06",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-03-05",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-03-05",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-02-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-02-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-11-16",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-11-13",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-11-14",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLFEE",
+        "eventDate": "2006-11-07",
+        "eventDescriptionText": "Payment of additional filing fee/Preexam"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-09-07",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-25",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T22:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 FOURTH AVE STE 3200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PAI PATENT & TRADEMARK LAW FIRM",
+              "postalCode": "98154"
+            }
+          ],
+          "firstName": "CHAO-CHANG",
+          "lastName": "PAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51195",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-372-3162"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 34335,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "8019 NE 151st CT",
+            "cityName": "Kenmore",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "WA",
+            "geographicRegionName": "WASHINGTON",
+            "nameLineOneText": "PAI PATENT & TRADEMARK LAW FIRM",
+            "nameLineTwoText": "Chao-Chang Pai",
+            "postalCode": "98028"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1001 FOURTH AVE STE 3200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "PAI PATENT & TRADEMARK LAW FIRM",
+              "postalCode": "98154"
+            }
+          ],
+          "firstName": "CHAO-CHANG",
+          "lastName": "PAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51195",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-372-3162"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/59"
+}

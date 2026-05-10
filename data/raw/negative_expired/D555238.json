@@ -1,0 +1,268 @@
+{
+  "applicant": null,
+  "application_number": "29264633",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-13 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-15",
+  "grant_date": "2007-11-13",
+  "invention_title": "CEILING FAN HOUSING",
+  "label": "negative",
+  "patent_number": "D555238",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4315,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-24",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 45848,
+      "docketNumber": "4545-D44",
+      "effectiveFilingDate": "2006-08-15",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "LICHTENSTEIN, LISA P",
+      "filingDate": "2006-08-15",
+      "firstInventorName": "Mark Pickett",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-13",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "CEILING FAN HOUSING",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Altadena",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Mark  Pickett",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Mark",
+          "inventorNameText": "Mark Pickett",
+          "lastName": "Pickett"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555238",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "411",
+      "uspcSymbolText": "D23/411"
+    },
+    "applicationNumberText": "29264633",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. Box 17001",
+        "cityName": "Fountain Hills",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "AZ",
+        "geographicRegionName": "ARIZONA",
+        "nameLineOneText": "MICHAEL W. GOLTRY",
+        "postalCode": "85269"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-13",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-24",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "R1021",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Receipt into Pubs"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-14",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-07",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-05",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-11-02",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-09-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-08-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-08-28",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-15",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T08:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10643 NORTH FRANK LLOYD WRIGHT BLVD., #201",
+              "cityName": "SCOTTSDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "nameLineOneText": "PARSONS & GOLTRY",
+              "postalCode": "85259"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "GOLTRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39692",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-991-3435"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10643 NORTH FRANK LLOYD WRIGHT BLVD., #201",
+              "cityName": "SCOTTSDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "nameLineOneText": "PARSONS & GOLTRY",
+              "postalCode": "85259"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "GOLTRY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "39692",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-991-3435"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "10643 NORTH FRANK LLOYD WRIGHT BOULEVARD",
+              "addressLineTwoText": "SUITE 201",
+              "cityName": "SCOTTSDALE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "nameLineOneText": "PARSONS & GOLTRY",
+              "postalCode": "85259"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "PARSONS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32713",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "480-991-3435"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/411"
+}

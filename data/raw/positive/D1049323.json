@@ -1,0 +1,419 @@
+{
+  "applicant": "Duravit Aktiengesellschaft",
+  "application_number": "29817936",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241029/29817936_D1049323.xml",
+  "filing_date": "2021-12-06",
+  "grant_date": "2024-10-29",
+  "invention_title": "WASHBASIN",
+  "label": "positive",
+  "patent_number": "D1049323",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Duravit Aktiengesellschaft",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hornberg",
+              "countryCode": "DE",
+              "countryName": "GERMANY",
+              "nameLineOneText": "Duravit Aktiengesellschaft",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 1396,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-09",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 96056,
+      "docketNumber": "1070-D-363",
+      "effectiveFilingDate": "2021-12-06",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "DELEHANTY, ROBERT A",
+      "filingDate": "2021-12-06",
+      "firstApplicantName": "Duravit Aktiengesellschaft",
+      "firstInventorName": "Philippe STARCK",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-10-29",
+      "groupArtUnitNumber": "2925",
+      "inventionTitle": "WASHBASIN",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Alcabideche",
+              "countryCode": "PT",
+              "countryName": "PORTUGAL",
+              "nameLineOneText": "Philippe  STARCK",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Alcabideche",
+              "countryCode": "PT",
+              "countryName": "PORTUGAL",
+              "nameLineOneText": "STARCK, Philippe",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Philippe",
+          "inventorNameText": "Philippe STARCK",
+          "lastName": "STARCK"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1049323",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "284",
+      "uspcSymbolText": "D23/284"
+    },
+    "applicationNumberText": "29817936",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "36, WERDERSTRASSE",
+              "cityName": "HORNBERG",
+              "countryName": "GERMANY",
+              "geographicRegionCode": "DEX",
+              "ictCountryCode": "DE",
+              "postalCode": "78132"
+            },
+            "assigneeNameText": "DURAVIT AKTIENGESELLSCHAFT"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/58305/714",
+        "assignmentMailedDate": "2021-12-14",
+        "assignmentReceivedDate": "2021-12-06",
+        "assignmentRecordedDate": "2021-12-06",
+        "assignorBag": [
+          {
+            "assignorName": "STARCK, PHILIPPE",
+            "executionDate": "2021-11-22"
+          }
+        ],
+        "attorneyDocketNumber": "1070-D-363",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "552 SEVENTH AVENUE, SUITE 601",
+          "addressLineTwoText": "NEW YORK, NY 10018",
+          "correspondentNameText": "FLOREK & ENDRES PLLC"
+        },
+        "frameNumber": 714,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "058305/0714",
+        "reelNumber": 58305
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "552 Seventh Avenue, Suite 601",
+        "cityName": "New York",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Florek & Endres PLLC",
+        "postalCode": "10018"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-19",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-19",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-16",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-16",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-07-10",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-05-18",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-04-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-12-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2021-12-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2021-12-08",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-12-07",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-12-07",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-12-08",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-12-08",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2021-12-06",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-12-06",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-12-06",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-12-06",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-10-29T08:09:48",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241029/29817936_D1049323.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29817936_D1049323.xml",
+      "zipFileName": "ipg241029.zip"
+    },
+    "lastIngestionDateTime": "2026-04-21T11:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "552 SEVENTH AVENUE, SUITE 601",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FLOREK & ENDRES PLLC",
+              "postalCode": "10018"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "FLOREK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33173",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-997-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "552 SEVENTH AVENUE",
+              "addressLineTwoText": "SUITE 601",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FLOREK & ENDRES PLLC",
+              "postalCode": "10018"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "ENDRES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-997-1000"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 96056,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "552 Seventh Avenue, Suite 601",
+            "cityName": "New York",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "Florek & Endres PLLC",
+            "postalCode": "10018"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "552 SEVENTH AVENUE",
+              "addressLineTwoText": "SUITE 601",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FLOREK & ENDRES PLLC",
+              "postalCode": "10018"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "ENDRES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-997-1000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "552 SEVENTH AVENUE, SUITE 601",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "FLOREK & ENDRES PLLC",
+              "postalCode": "10018"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "FLOREK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33173",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-997-1000"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/284"
+}

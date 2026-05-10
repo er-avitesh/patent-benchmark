@@ -1,0 +1,2171 @@
+{
+  "applicant": "The Procter & Gamble Company",
+  "application_number": "29834426",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241210/29834426_D1053711.xml",
+  "filing_date": "2022-04-12",
+  "grant_date": "2024-12-10",
+  "invention_title": "Toothpaste Carton",
+  "label": "positive",
+  "patent_number": "D1053711",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "The Procter & Gamble Company",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Cincinnati",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "The Procter & Gamble Company",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 8844,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-11-20",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 27752,
+      "docketNumber": "D2824D2",
+      "effectiveFilingDate": "2022-04-12",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "WAS-ENGLEHART, LEANNE D",
+      "filingDate": "2022-04-12",
+      "firstApplicantName": "The Procter & Gamble Company",
+      "firstInventorName": "Martin Jay Marotti",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-10",
+      "groupArtUnitNumber": "2918",
+      "inventionTitle": "Toothpaste Carton",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Cincinnati",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Martin Jay Marotti",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Carmel",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IN",
+              "geographicRegionName": "INDIANA",
+              "nameLineOneText": "Marotti, Martin Jay",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Martin",
+          "inventorNameText": "Martin Jay Marotti",
+          "lastName": "Marotti",
+          "middleName": "Jay"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Cincinnati",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Seiser, Jennifer Kay",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Cincinnati",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Jennifer Kay Seiser",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jennifer",
+          "inventorNameText": "Jennifer Kay Seiser",
+          "lastName": "Seiser",
+          "middleName": "Kay"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Cincinnati",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Eric Donald Weller",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Liberty Township",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "Weller, Eric Donald",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Eric",
+          "inventorNameText": "Eric Donald Weller",
+          "lastName": "Weller",
+          "middleName": "Donald"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1053711",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "432",
+      "uspcSymbolText": "D9/432"
+    },
+    "applicationNumberText": "29834426",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "CENTRAL BUILDING, C9",
+        "addressLineTwoText": "ONE PROCTER AND GAMBLE PLAZA",
+        "cityName": "CINCINNATI",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "OH",
+        "geographicRegionName": "OHIO",
+        "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+        "nameLineTwoText": "GLOBAL IP SERVICES",
+        "postalCode": "45202"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-10",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-10",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-10",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-10",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-10",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-11-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-11-20",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-10-25",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-22",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-12",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2022-07-22",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2022-07-22",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-04-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-04-14",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2022-04-14",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-04-13",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-04-13",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-04-14",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-04-14",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-04-12",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-04-12",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-04-12",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-04-12",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-10T09:11:14",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241210/29834426_D1053711.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29834426_D1053711.xml",
+      "zipFileName": "ipg241210.zip"
+    },
+    "lastIngestionDateTime": "2026-04-20T22:34:18",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29834426",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationFilingDate": "2019-12-17",
+        "parentApplicationNumberText": "29717332",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D953160"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "KEN",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33988",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-8901"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45208"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "FITZPATRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41751",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7598"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JAY",
+          "lastName": "KREBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41914",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7368"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 E. 6TH STREET",
+              "addressLineTwoText": "S 8105",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MARIANNE",
+          "lastName": "DRESSMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-4642"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NO. 35 YU'AN ROAD, ZONE B",
+              "addressLineTwoText": "TIANZHU AIRPORT INDUSTRIAL ZONE, SHUNYI DISTRICT",
+              "cityName": "BEIJING",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CN",
+              "nameLineOneText": "P&G TECHNOLOGY (BEIJING) CO., LTD.",
+              "postalCode": "100016"
+            }
+          ],
+          "firstName": "DARA",
+          "lastName": "KENDALL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CAMP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44582",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-1667"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GO-CENTRAL BUILDING, C9-342",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "LINDA",
+          "lastName": "SIVIK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44982",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-4639"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GLOBAL LEGAL DEPARTMENT",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "UPITE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47147",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7598"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9- 310",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTOR & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "BEST",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "49082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-5546"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "CENTRAL BUILDING - C9 -175A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "OEHLENSCHLAGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50164",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983--3820"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "CHARLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6801"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "addressLineTwoText": "GO-CENTRAL BLDG., C9-334A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "MATSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52006",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-8579"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9-411A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "ADDINGTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52403",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9378"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9- 339 B",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "ALEXANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52463",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7631"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 E. SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45240"
+            }
+          ],
+          "firstName": "WEDNESDAY",
+          "lastName": "SHIPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55867",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "HAUGHEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "MUELLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56774",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6851"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "LEAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0841"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "C9-339A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "POWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57927",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0523"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE CO.",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CARRIE",
+          "lastName": "SCHWARTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58861",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-3449"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "FOOSE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58896",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "CENTRAL BUILDING, C8-246",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LIPCHITZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60442",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-463-4096"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GO-CENTRAL BUILDING",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "KATHLEEN",
+          "lastName": "CARTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60583",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6431"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "FIFTH THIRD CENTER",
+              "addressLineTwoText": "ONE SOUTH MAIN STREET, SUITE 1300",
+              "cityName": "DAYTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "DINSMORE & SHOHL LLP",
+              "postalCode": "45402"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "MEYER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62485",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "937-449-6404"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER & GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ABBEY",
+          "lastName": "LOPEZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67997",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-1772"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45201"
+            }
+          ],
+          "firstName": "ALEXANDRA",
+          "lastName": "ANOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68460",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0794"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER AND GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANDRES",
+          "lastName": "VELARDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68653",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7923"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER AND GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "SARAH",
+          "lastName": "DECRISTOFARO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0987"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER AND GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "ALBRECHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71242",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-2381"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 P&G PLAZA CINCINNATI",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ELIZABETH",
+          "lastName": "CONKLIN",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72968",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-4614"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "C9-317",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "AMANDA",
+          "lastName": "HERMAN BERGHAUER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75482",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0177"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER AND GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CAROLYN",
+          "lastName": "POWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76113",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-2012"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLZ",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANNA",
+          "lastName": "HALLER",
+          "middleName": "ELIZABETH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79214",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-3014"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "SPEGELE",
+          "middleName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79286",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-1802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "HABIAK",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80317",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-207-8220"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1601 U STREET SE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20002"
+            }
+          ],
+          "firstName": "ABIGAIL",
+          "lastName": "IDOKOGI",
+          "middleName": "O.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83439",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "281-948-7329"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 27752,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "CENTRAL BUILDING, C9",
+            "addressLineTwoText": "ONE PROCTER AND GAMBLE PLAZA",
+            "cityName": "CINCINNATI",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "OH",
+            "geographicRegionName": "OHIO",
+            "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+            "nameLineTwoText": "GLOBAL IP SERVICES",
+            "postalCode": "45202"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "CENTRAL BUILDING - C9 -175A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "OEHLENSCHLAGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50164",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983--3820"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "addressLineTwoText": "GO-CENTRAL BLDG., C9-334A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "MATSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52006",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-8579"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "SPEGELE",
+          "middleName": "JAMES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79286",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-1802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JAY",
+          "lastName": "KREBS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41914",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7368"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GO-CENTRAL BUILDING",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "KATHLEEN",
+          "lastName": "CARTER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60583",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6431"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "CENTRAL BUILDING, C8-246",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LIPCHITZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60442",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "617-463-4096"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "C9-317",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "AMANDA",
+          "lastName": "HERMAN BERGHAUER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75482",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0177"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9- 310",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTOR & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CHRISTIAN",
+          "lastName": "BEST",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "49082",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-5546"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE CO.",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CARRIE",
+          "lastName": "SCHWARTZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58861",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-3449"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 E. SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45240"
+            }
+          ],
+          "firstName": "WEDNESDAY",
+          "lastName": "SHIPP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55867",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9345"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANGELA",
+          "lastName": "HAUGHEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6815"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GREGORY",
+          "lastName": "HABIAK",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "80317",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-207-8220"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 P&G PLAZA CINCINNATI",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ELIZABETH",
+          "lastName": "CONKLIN",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72968",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-4614"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "C9-339A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "POWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57927",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0523"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "KEN",
+          "lastName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33988",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-8901"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLZ",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANNA",
+          "lastName": "HALLER",
+          "middleName": "ELIZABETH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79214",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-3014"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER AND GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANDRES",
+          "lastName": "VELARDE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68653",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7923"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "JASON",
+          "lastName": "CAMP",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44582",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-1667"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45208"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "FITZPATRICK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41751",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7598"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GEORGE",
+          "lastName": "LEAL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56813",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0841"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9- 339 B",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "ALEXANDER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52463",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7631"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER AND GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "CAROLYN",
+          "lastName": "POWELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76113",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-622-2012"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45201"
+            }
+          ],
+          "firstName": "ALEXANDRA",
+          "lastName": "ANOFF",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68460",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0794"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "PROCTER & GAMBLE",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ABBEY",
+          "lastName": "LOPEZ",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67997",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-1772"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "MUELLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56774",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6851"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE P&G PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "GARY",
+          "lastName": "FOOSE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58896",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "ONE PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER AND GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "SARAH",
+          "lastName": "DECRISTOFARO",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69831",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-0987"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER AND GAMBLE PLAZA",
+              "addressLineTwoText": "C9",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER AND GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "DANIEL",
+          "lastName": "ALBRECHT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71242",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-2381"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "addressLineTwoText": "C9-411A",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "ADDINGTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52403",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-9378"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GLOBAL LEGAL DEPARTMENT",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "UPITE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47147",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-7598"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "FIFTH THIRD CENTER",
+              "addressLineTwoText": "ONE SOUTH MAIN STREET, SUITE 1300",
+              "cityName": "DAYTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "DINSMORE & SHOHL LLP",
+              "postalCode": "45402"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "MEYER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62485",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "937-449-6404"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1601 U STREET SE",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20002"
+            }
+          ],
+          "firstName": "ABIGAIL",
+          "lastName": "IDOKOGI",
+          "middleName": "O.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "83439",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "281-948-7329"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 EAST SIXTH STREET",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "CHARLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51547",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-6801"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "NO. 35 YU'AN ROAD, ZONE B",
+              "addressLineTwoText": "TIANZHU AIRPORT INDUSTRIAL ZONE, SHUNYI DISTRICT",
+              "cityName": "BEIJING",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CN",
+              "nameLineOneText": "P&G TECHNOLOGY (BEIJING) CO., LTD.",
+              "postalCode": "100016"
+            }
+          ],
+          "firstName": "DARA",
+          "lastName": "KENDALL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "--"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1 PROCTER & GAMBLE PLAZA",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "nameLineTwoText": "GO-CENTRAL BUILDING, C9-342",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "LINDA",
+          "lastName": "SIVIK",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44982",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-4639"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "299 E. 6TH STREET",
+              "addressLineTwoText": "S 8105",
+              "cityName": "CINCINNATI",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OH",
+              "geographicRegionName": "OHIO",
+              "nameLineOneText": "THE PROCTER & GAMBLE COMPANY",
+              "postalCode": "45202"
+            }
+          ],
+          "firstName": "MARIANNE",
+          "lastName": "DRESSMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "42498",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "513-983-4642"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/432"
+}

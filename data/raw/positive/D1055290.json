@@ -1,0 +1,1576 @@
+{
+  "applicant": "NOVOCURE GMBH",
+  "application_number": "29917772",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29917772_D1055290.xml",
+  "filing_date": "2023-11-22",
+  "grant_date": "2024-12-24",
+  "invention_title": "Electrode Array",
+  "label": "positive",
+  "patent_number": "D1055290",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "NOVOCURE GMBH",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Root D4",
+              "countryCode": "CH",
+              "countryName": "SWITZERLAND",
+              "nameLineOneText": "NOVOCURE GMBH",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 3682,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D24",
+      "customerNumber": 174683,
+      "docketNumber": "37983.0015U3",
+      "effectiveFilingDate": "2023-11-22",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "AGILEE, OMEED",
+      "filingDate": "2023-11-22",
+      "firstApplicantName": "NOVOCURE GMBH",
+      "firstInventorName": "Yoram Wasserman",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2924",
+      "inventionTitle": "Electrode Array",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Haifa",
+              "countryCode": "IL",
+              "countryName": "ISRAEL",
+              "nameLineOneText": "Yoram Wasserman",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Haifa",
+              "countryCode": "IL",
+              "countryName": "ISRAEL",
+              "nameLineOneText": "Yoram Wasserman",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yoram",
+          "inventorNameText": "Yoram Wasserman",
+          "lastName": "Wasserman"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055290",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "187",
+      "uspcSymbolText": "D24/187"
+    },
+    "applicationNumberText": "29917772",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "PARK 6",
+              "cityName": "ROOT D4",
+              "countryName": "SWITZERLAND",
+              "geographicRegionCode": "CHX",
+              "ictCountryCode": "CH",
+              "postalCode": "6039"
+            },
+            "assigneeNameText": "NOVOCURE GMBH"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/67132/647",
+        "assignmentMailedDate": "2024-04-18",
+        "assignmentReceivedDate": "2024-04-17",
+        "assignmentRecordedDate": "2024-04-17",
+        "assignorBag": [
+          {
+            "assignorName": "WASSERMAN, YORAM",
+            "executionDate": "2020-01-13"
+          }
+        ],
+        "attorneyDocketNumber": "37983.0015U3",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "999 PEACHTREE STREET",
+          "addressLineThreeText": "ATLANTA, GA 30309",
+          "addressLineTwoText": "SUITE 1600",
+          "correspondentNameText": "BALLARD SPAHR LLP"
+        },
+        "frameNumber": 647,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "067132/0647",
+        "reelNumber": 67132
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "C/O BEAUFORT HOUSE, 51 NEW NORTH ROAD",
+              "cityName": "EXETER",
+              "countryName": "UNITED KINGDOM",
+              "geographicRegionCode": "GBX",
+              "ictCountryCode": "GB",
+              "postalCode": "EX4 4EP"
+            },
+            "assigneeNameText": "BIOPHARMA CREDIT PLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/67315/399",
+        "assignmentMailedDate": "2024-05-07",
+        "assignmentReceivedDate": "2024-05-04",
+        "assignmentRecordedDate": "2024-05-04",
+        "assignorBag": [
+          {
+            "assignorName": "NOVOCURE GMBH (SWITZERLAND)",
+            "executionDate": "2024-05-01"
+          }
+        ],
+        "attorneyDocketNumber": "687747.0074",
+        "conveyanceText": "PATENT SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+          "addressLineThreeText": "WASHINGTON, DC 20006",
+          "addressLineTwoText": "2001 K STREET N.W.",
+          "correspondentNameText": "MUSSIE BEYENE"
+        },
+        "frameNumber": 399,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 27,
+        "reelAndFrameNumber": "067315/0399",
+        "reelNumber": 67315
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "999 Peachtree Street",
+        "addressLineTwoText": "Suite 1600",
+        "cityName": "Atlanta",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "GA",
+        "geographicRegionName": "GEORGIA",
+        "nameLineOneText": "Novocure c/o Ballard Spahr LLP",
+        "postalCode": "30309"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-05",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-06",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-07-11",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-07-12",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-07-11",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-11",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-04-11",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-04-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-04-11",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-04-07",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-03-21",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-11-28",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-11-28",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-11-22",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-11-22",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-11-22",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-11-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:11",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29917772_D1055290.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29917772_D1055290.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-30T21:00:04",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29917772",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationFilingDate": "2022-06-27",
+        "parentApplicationNumberText": "29844124",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D1009276"
+      },
+      {
+        "childApplicationNumberText": "29917772",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationFilingDate": "2020-01-03",
+        "parentApplicationNumberText": "29719357",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D960375"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, N.E.",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "EVERSHEDS SUTHERLAND (US) LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "HANNON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48565",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-853-8013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "MEADOWS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50848",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "CHARLEY",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52658",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "MARTY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53277",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SHORTELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56020",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "20 VALLEY STREAM PKWY",
+              "addressLineTwoText": "SUITE 300",
+              "cityName": "MALVERN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "NOVOCURE",
+              "postalCode": "19355"
+            }
+          ],
+          "firstName": "JUSTINE",
+          "lastName": "LEACH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "58957",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "267-300-1558"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "ANDERSON",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59245",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 IDS CENTER",
+              "addressLineTwoText": "80 SOUTH 8TH STREET",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "BALLARD SPAHR, LLP",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "HEGSTROM",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59432",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "603-228-0611"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-371-3239"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "BUSINESS VILLAGE D4",
+              "addressLineTwoText": "PARK 6/PLATZ 10",
+              "cityName": "ROOT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "nameLineOneText": "NOVOCURE GMBH",
+              "postalCode": "6039"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "PETAJA",
+          "middleName": "DALTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60309",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "414-145-53600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "336 HIGHLAND LANE",
+              "cityName": "BRYN MAWR",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "336 HIGHLAND LANE",
+              "postalCode": "19010"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "BUNN",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "62992",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-220-0021"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SANDRA",
+          "lastName": "SCIASCIA-ZIRGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "KIRK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74848",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9416"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE",
+              "addressLineTwoText": "SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR",
+              "postalCode": "30309-442"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "GEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80544",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9464"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23859,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "SUITE 1600",
+            "addressLineTwoText": "999 PEACHTREE STREET",
+            "cityName": "ATLANTA",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "GA",
+            "geographicRegionName": "GEORGIA",
+            "nameLineOneText": "BALLARD SPAHR LLP",
+            "postalCode": "30309-4421"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN STREET",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "BALLARD SPAHR",
+              "postalCode": "84111-2176"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "ROWE",
+          "middleName": "P.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65335",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-531-3018"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "179 WISSINGER ROAD",
+              "cityName": "BOYERTOWN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "postalCode": "19512"
+            }
+          ],
+          "firstName": "JAMIE",
+          "lastName": "MAJOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77186",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "610-914-4921"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "CHARLEY",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52658",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE",
+              "addressLineTwoText": "SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR",
+              "postalCode": "30309-442"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "GEE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80544",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9464"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "MEADOWS",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "50848",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "KIRK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "74848",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9416"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SANDRA",
+          "lastName": "SCIASCIA-ZIRGER",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "70575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN STREET",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "postalCode": "84111-2221"
+            }
+          ],
+          "firstName": "JOSHUA",
+          "lastName": "HOGGARD",
+          "middleName": "W",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69039",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-531-3015"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SHORTELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56020",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "LITTLEFIELD",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77623",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9584"
+            },
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "713-241-6617"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR",
+              "postalCode": "30309-4421"
+            }
+          ],
+          "firstName": "ZACHARY",
+          "lastName": "STEVENSON",
+          "middleName": "F",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77564",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, N.E.",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "EVERSHEDS SUTHERLAND (US) LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "HANNON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48565",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-853-8013"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR ANDREWS & INGERSOLL, LLP",
+              "postalCode": "30309-391"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "ANDERSON",
+          "nameSuffix": "III",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59245",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE",
+              "addressLineTwoText": "SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "postalCode": "30309-442"
+            }
+          ],
+          "firstName": "AUSTIN",
+          "lastName": "BROWN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78494",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9430"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1675 BROADWAY",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "KENNETH",
+          "lastName": "SONNENFELD",
+          "middleName": "H",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "33285",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "646-346-8050"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1114 AVENUE OF THE AMERICAS",
+              "addressLineTwoText": "35TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "STEPTOE LLP",
+              "postalCode": "10036"
+            }
+          ],
+          "firstName": "RONALD",
+          "lastName": "VOGEL",
+          "middleName": "F",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "212-378-7611"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2401 BREWER DRIVE",
+              "cityName": "ROLLA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MO",
+              "geographicRegionName": "MISSOURI",
+              "nameLineOneText": "BREWER SCIENCE INC.",
+              "postalCode": "65401"
+            }
+          ],
+          "firstName": "JONATHAN",
+          "lastName": "HUMMEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77548",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "314-541-9109"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE, SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "RICHARD",
+          "lastName": "MILLER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59386",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1700 EAST PUTMAN AVENUE",
+              "addressLineTwoText": "SUITE 400",
+              "cityName": "GREENWICH",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "WITHERS BERGMAN LLP",
+              "postalCode": "06870"
+            }
+          ],
+          "firstName": "ALEXANDER",
+          "lastName": "PORTE",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79703",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-974-0390"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "401 CONGRESS AVENUE",
+              "addressLineTwoText": "SUITE 3200",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "KING & SPALDING LLP",
+              "postalCode": "78701"
+            }
+          ],
+          "firstName": "KRISTINE",
+          "lastName": "WADDELL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68373",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-457-2029"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET NE, SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SOMMER",
+          "lastName": "ZIMMERMAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73449",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9450"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1735 MARKET ST",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "19103"
+            }
+          ],
+          "firstName": "REBECCA",
+          "lastName": "CONWAY",
+          "middleName": "J.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "84248",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "518-441-7554"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "CLINTON",
+          "lastName": "SOUTH",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "65221",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1735 MARKET STREET",
+              "addressLineTwoText": "51ST FLOOR",
+              "cityName": "PHILADELPHIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "PA",
+              "geographicRegionName": "PENNSYLVANIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "19103-759"
+            }
+          ],
+          "firstName": "CARYN",
+          "lastName": "BORG-BREEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52637",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "215-864-8841"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "201 SOUTH MAIN STREET",
+              "cityName": "SALT LAKE CITY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "UT",
+              "geographicRegionName": "UTAH",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "nameLineTwoText": "ONE UTAH CENTER, SUITE 800",
+              "postalCode": "84111-2221"
+            }
+          ],
+          "firstName": "MARCUS",
+          "lastName": "SIMON",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50258",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-531-3000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "MICHELE",
+          "lastName": "KLIEM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "69249",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, NE",
+              "addressLineTwoText": "STE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR, LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SOPHIE",
+          "lastName": "FORSYTH",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80600",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET, NE",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "ERIK",
+          "lastName": "JARVHOLM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69289",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1675 BROADWAY, 19TH FLOOR",
+              "cityName": "NEW YORK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "10019"
+            }
+          ],
+          "firstName": "MARGARET",
+          "lastName": "BRIVANLOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40922",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "646-346-8058"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE STREET",
+              "addressLineTwoText": "SUITE 1000",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "MARTY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53277",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "999 PEACHTREE ST NE",
+              "addressLineTwoText": "STE 1600",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "BALLARD SPAHR LLP",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "SCOTT",
+          "lastName": "SLANEY",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "83833",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-420-9354"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 IDS CENTER",
+              "addressLineTwoText": "80 SOUTH 8TH STREET",
+              "cityName": "MINNEAPOLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MN",
+              "geographicRegionName": "MINNESOTA",
+              "nameLineOneText": "BALLARD SPAHR, LLP",
+              "postalCode": "55402"
+            }
+          ],
+          "firstName": "BRANDON",
+          "lastName": "HEGSTROM",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59432",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "603-228-0611"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "612-371-3239"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D24",
+  "uspc_symbol": "D24/187"
+}

@@ -1,0 +1,661 @@
+{
+  "applicant": "ELC Management LLC",
+  "application_number": "29876546",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29876546_D1055697.xml",
+  "filing_date": "2023-05-24",
+  "grant_date": "2024-12-31",
+  "invention_title": "Bottle with Cap",
+  "label": "positive",
+  "patent_number": "D1055697",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "ELC Management LLC",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Melville",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ELC Management LLC",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9384,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 23487,
+      "docketNumber": "23.03D-1",
+      "effectiveFilingDate": "2023-05-24",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SCHNEBELE, HALEY K",
+      "filingDate": "2023-05-24",
+      "firstApplicantName": "ELC Management LLC",
+      "firstInventorName": "Maria Portiansky",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2933",
+      "inventionTitle": "Bottle with Cap",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Warwick",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Portiansky,Maria",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Warwick",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Portiansky,Maria",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Maria",
+          "inventorNameText": "Maria Portiansky",
+          "lastName": "Portiansky"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Brooklyn",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Waletzky,Judith,Shalva",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Brooklyn",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Waletzky,Judith,Shalva",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Judith",
+          "inventorNameText": "Judith Shalva Waletzky",
+          "lastName": "Waletzky",
+          "middleName": "Shalva"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "East Moriches",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Parr,Matthew",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "East Moriches",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "Parr,Matthew",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Matthew",
+          "inventorNameText": "Matthew Parr",
+          "lastName": "Parr"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055697",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "556",
+      "uspcSymbolText": "D9/556"
+    },
+    "applicationNumberText": "29876546",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "11747"
+            },
+            "assigneeNameText": "ELC MANAGEMENT LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/66527/417",
+        "assignmentMailedDate": "2024-02-23",
+        "assignmentReceivedDate": "2024-02-22",
+        "assignmentRecordedDate": "2024-02-22",
+        "assignorBag": [
+          {
+            "assignorName": "PORTIANSKY, MARIA",
+            "executionDate": "2023-12-20"
+          },
+          {
+            "assignorName": "WALETZKY, JUDITH SHALVA",
+            "executionDate": "2023-12-20"
+          },
+          {
+            "assignorName": "PARR, MATTHEW",
+            "executionDate": "2024-01-10"
+          }
+        ],
+        "attorneyDocketNumber": "23.03D-1",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "155 PINELAWN ROAD",
+          "addressLineThreeText": "MELVILLE, NY 11747",
+          "addressLineTwoText": "SUITE 345 SOUTH",
+          "correspondentNameText": "VICTORIA PALUMBO"
+        },
+        "frameNumber": 417,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 8,
+        "reelAndFrameNumber": "066527/0417",
+        "reelNumber": 66527
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "125 Pinelawn Road",
+        "cityName": "MELVILLE",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "THE ESTEE LAUDER COS, INC",
+        "postalCode": "11747"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-09-26",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-29",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-06-28",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-04-30",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MM327",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Mail Miscellaneous Communication to Applicant"
+      },
+      {
+        "eventCode": "M327",
+        "eventDate": "2024-04-28",
+        "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-06-12",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-06-06",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-06-06",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-06-01",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-05-31",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-05-31",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-06-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-06-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-06-01",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-05-24",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-05-24",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-05-24",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-05-24",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:12",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29876546_D1055697.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29876546_D1055697.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-16T19:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "GREENWAY PLAZA, SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER CO., INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "GIANCANA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44706",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-414-6092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 S",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ESTEE LAUDER COMPANIES, INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "IDRIS",
+          "lastName": "MCKELVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57057",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-414-6089"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER COMPANIES INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "PHOENIX",
+          "lastName": "PAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67358",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-344-6445"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "WINSTON",
+          "lastName": "ZOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79741",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "347-452-0909"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER COMPANIES INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "HALLE",
+          "lastName": "MURRAY",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80062",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-833-4660"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 23487,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "125 Pinelawn Road",
+            "cityName": "MELVILLE",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "THE ESTEE LAUDER COS, INC",
+            "postalCode": "11747"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "GREENWAY PLAZA, SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER CO., INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "PETER",
+          "lastName": "GIANCANA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "44706",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-414-6092"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER COMPANIES INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "HALLE",
+          "lastName": "MURRAY",
+          "middleName": "D.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "80062",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "801-833-4660"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "WINSTON",
+          "lastName": "ZOU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "79741",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "347-452-0909"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 S",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "ESTEE LAUDER COMPANIES, INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "IDRIS",
+          "lastName": "MCKELVEY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57057",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-414-6089"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "155 PINELAWN ROAD",
+              "addressLineTwoText": "SUITE 345 SOUTH",
+              "cityName": "MELVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "THE ESTEE LAUDER COMPANIES INC.",
+              "postalCode": "11747"
+            }
+          ],
+          "firstName": "PHOENIX",
+          "lastName": "PAK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "67358",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "631-344-6445"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/556"
+}

@@ -1,0 +1,347 @@
+{
+  "applicant": null,
+  "application_number": "29286105",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-20 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-04-24",
+  "grant_date": "2007-11-20",
+  "invention_title": "DOUBLE DIN AUTO STEREO MOUNTING DEVICE",
+  "label": "negative",
+  "patent_number": "D555647",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1264,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-31",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "docketNumber": "#4 KIT 99-7871 21362-2221",
+      "effectiveFilingDate": "2007-04-24",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "BETTON, KATRINA ANN",
+      "filingDate": "2007-04-24",
+      "firstInventorName": "R. Spencer Quilling II",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-20",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "DOUBLE DIN AUTO STEREO MOUNTING DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "DeLand",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "R. Spencer Quilling II",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "R.",
+          "inventorNameText": "R. Spencer Quilling II",
+          "lastName": "Quilling",
+          "middleName": "Spencer",
+          "nameSuffix": "II"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555647",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "258",
+      "uspcSymbolText": "D14/258"
+    },
+    "applicationNumberText": "29286105",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "303 PEACHTREE STREET",
+              "addressLineTwoText": "23RD FLOOR",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30308"
+            },
+            "assigneeNameText": "SUNTRUST BANK"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26167/558",
+        "assignmentMailedDate": "2011-04-22",
+        "assignmentReceivedDate": "2011-04-22",
+        "assignmentRecordedDate": "2011-04-22",
+        "assignorBag": [
+          {
+            "assignorName": "METRA ELECTRONICS CORPORATION",
+            "executionDate": "2011-03-09"
+          }
+        ],
+        "attorneyDocketNumber": "3678.48",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "285 PEACHTREE CENTER AVENUE, N.E.",
+          "addressLineThreeText": "ATLANTA, GA 30303",
+          "addressLineTwoText": "SUITE 1500",
+          "correspondentNameText": "STEVEN L. SCHAAF, PARALEGAL"
+        },
+        "frameNumber": 558,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 13,
+        "reelAndFrameNumber": "026167/0558",
+        "reelNumber": 26167
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "3350 RIVERWOOD PARKWAY",
+              "addressLineTwoText": "SUITE 1750",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30339"
+            },
+            "assigneeNameText": "FCC, LLC, D/B/A FIRST CAPITAL"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/29537/228",
+        "assignmentMailedDate": "2012-12-31",
+        "assignmentReceivedDate": "2012-12-28",
+        "assignmentRecordedDate": "2012-12-28",
+        "assignorBag": [
+          {
+            "assignorName": "METRA ELECTRONICS CORPORATION",
+            "executionDate": "2012-12-12"
+          }
+        ],
+        "attorneyDocketNumber": "030663.003",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "301 S. COLLEGE STREET",
+          "addressLineThreeText": "CHARLOTTE, NC 28202",
+          "addressLineTwoText": "SUITE 2300",
+          "correspondentNameText": "M. RUTH MCREE"
+        },
+        "frameNumber": 228,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 25,
+        "reelAndFrameNumber": "029537/0228",
+        "reelNumber": 29537
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "303 PEACHTREE STREET",
+              "addressLineTwoText": "23RD FLOOR",
+              "cityName": "ATLANTA",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "GA",
+              "postalCode": "30308"
+            },
+            "assigneeNameText": "SUNTRUST BANK"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/29537/186",
+        "assignmentMailedDate": "2012-12-31",
+        "assignmentReceivedDate": "2012-12-28",
+        "assignmentRecordedDate": "2012-12-28",
+        "assignorBag": [
+          {
+            "assignorName": "METRA ELECTRONICS CORPORATION",
+            "executionDate": "2012-12-13"
+          }
+        ],
+        "attorneyDocketNumber": "030663.3",
+        "conveyanceText": "RELEASE OF SECURITY INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "301 S. COLLEGE STREET",
+          "addressLineThreeText": "CHARLOTTE, NC 28202",
+          "addressLineTwoText": "SUITE 2300",
+          "correspondentNameText": "M. RUTH MCREE"
+        },
+        "frameNumber": 186,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 9,
+        "reelAndFrameNumber": "029537/0186",
+        "reelNumber": 29537
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "580 WHITE PLAINS ROAD, 6TH FLOOR",
+              "cityName": "TARRYTOWN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "ictCountryCode": "US",
+              "ictStateCode": "NY",
+              "postalCode": "10591"
+            },
+            "assigneeNameText": "ACF FINCO I LP"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/35831/732",
+        "assignmentMailedDate": "2015-06-15",
+        "assignmentReceivedDate": "2015-06-04",
+        "assignmentRecordedDate": "2015-06-04",
+        "assignorBag": [
+          {
+            "assignorName": "FCC, LLC DBA FIRST CAPITAL",
+            "executionDate": "2015-05-18"
+          }
+        ],
+        "attorneyDocketNumber": "030205-0194",
+        "conveyanceText": "ASSIGNMENT AND ASSUMPTION OF SECURITY INTERESTS IN PATENTS",
+        "correspondenceAddress": {
+          "addressLineOneText": "650 TOWN CENTER DRIVE, SUITE 2000",
+          "addressLineTwoText": "COSTA MESA, CA 92626",
+          "correspondentNameText": "LATHAM & WATKINS LLP"
+        },
+        "frameNumber": 732,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 15,
+        "reelAndFrameNumber": "035831/0732",
+        "reelNumber": 35831
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "2nd Floor",
+        "addressLineTwoText": "215 S. Monroe St.",
+        "cityName": "Tallahassee",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "FL",
+        "geographicRegionName": "FLORIDA",
+        "nameLineOneText": "John Wiley Horton",
+        "nameLineTwoText": "Pennington, Moore, Wilkinson, Bell & Dunbar, P.A.",
+        "postalCode": "32301"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-20",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-31",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-10",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-08-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-08-23",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-08-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-22",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-05-25",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-05-21",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-04-24",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T21:00:04",
+    "recordAttorney": {
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "215 S. MONROE STREET, 2ND FLOOR",
+              "cityName": "TALLAHASSEE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "FL",
+              "geographicRegionName": "FLORIDA",
+              "nameLineOneText": "PENNINGTON MOORE WILKINSON BELL AND DUNBAR, PA",
+              "postalCode": "32301"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "HORTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41851",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "850-222-3533"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/258"
+}

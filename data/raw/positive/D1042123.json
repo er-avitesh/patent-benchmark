@@ -1,0 +1,502 @@
+{
+  "applicant": "Ooba Limited",
+  "application_number": "29802483",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240917/29802483_D1042123.xml",
+  "filing_date": "2021-08-05",
+  "grant_date": "2024-09-17",
+  "invention_title": "Foldable Box for Boardgames",
+  "label": "positive",
+  "patent_number": "D1042123",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Ooba Limited",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Wanchai",
+              "countryCode": "HK",
+              "countryName": "HONG KONG",
+              "nameLineOneText": "Ooba Limited",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 1006,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-08-28",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 74662,
+      "docketNumber": "ATIP-045-DPA",
+      "effectiveFilingDate": "2021-08-05",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "POSTHAUER, CATHERINE SUZANNE",
+      "filingDate": "2021-08-05",
+      "firstApplicantName": "Ooba Limited",
+      "firstInventorName": "Maxwell C.G. Ford",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-09-17",
+      "groupArtUnitNumber": "2919",
+      "inventionTitle": "Foldable Box for Boardgames",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Amsterdam",
+              "countryCode": "NL",
+              "countryName": "NETHERLANDS",
+              "nameLineOneText": "Maxwell C.G. Ford",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Amsterdam",
+              "countryCode": "NL",
+              "countryName": "NETHERLANDS",
+              "nameLineOneText": "Maxwell C.G. Ford",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Maxwell",
+          "inventorNameText": "Maxwell C.G. Ford",
+          "lastName": "Ford",
+          "middleName": "C.G."
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1042123",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "433",
+      "uspcSymbolText": "D9/433"
+    },
+    "applicationNumberText": "29802483",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "253-261 HENNESSY ROAD",
+              "addressLineTwoText": "ROOM 901, 9/F., EASEY COMMERCIAL BUILDING",
+              "cityName": "WANCHAI",
+              "countryName": "HONG KONG",
+              "geographicRegionCode": "HKX",
+              "ictCountryCode": "HK"
+            },
+            "assigneeNameText": "OOBA LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/57092/819",
+        "assignmentMailedDate": "2021-08-06",
+        "assignmentReceivedDate": "2021-08-05",
+        "assignmentRecordedDate": "2021-08-05",
+        "assignorBag": [
+          {
+            "assignorName": "FORD, MAXWELL C.G.",
+            "executionDate": "2021-07-06"
+          }
+        ],
+        "attorneyDocketNumber": "ATIP-045-DPA",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "504 ASHFORD AVENUE",
+          "addressLineThreeText": "ARDSLEY, 10502 UNITED STATES",
+          "addressLineTwoText": "SUITE 2WEST",
+          "correspondentNameText": "LAW OFFICE OF THERESA O''ROURKE NUGENT"
+        },
+        "frameNumber": 819,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "057092/0819",
+        "reelNumber": 57092
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "155 East Hartsdale Avenue",
+        "addressLineTwoText": "Suite 1A",
+        "cityName": "Hartsdale",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NY",
+        "geographicRegionName": "NEW YORK",
+        "nameLineOneText": "Law Office of Theresa O''Rourke Nugent",
+        "postalCode": "10530"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-09-17",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-08-28",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-08-15",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2024-07-17",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-07-24",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-04-24",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-04-23",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2024-03-07",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "LTDR",
+        "eventDate": "2024-01-29",
+        "eventDescriptionText": "Incoming Letter Pertaining to the Drawings"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-02-07",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-01-29",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2024-01-29",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C602",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2023-08-28",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2023-08-15",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-08-23",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-08-09",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-08-09",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-08-09",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-08-09",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2021-08-06",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-08-05",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "008448229-0001",
+        "filingDate": "2021-03-02",
+        "ipOfficeName": "EUROPEAN PATENT OFFICE (EPO)"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-09-30T17:59:41",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240917/29802483_D1042123.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29802483_D1042123.xml",
+      "zipFileName": "ipg240917.zip"
+    },
+    "lastIngestionDateTime": "2026-04-23T22:39:14",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "102 IVY TREE PLACE",
+              "cityName": "CARY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "postalCode": "27519"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "HESS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32139",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-832-2410"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "38 CARLTON AVENUE",
+              "cityName": "HO-HO-KUS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07423"
+            }
+          ],
+          "firstName": "CATHERINE",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34240",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-235-6208"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-612-2365"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "91 FOREST BLVD.",
+              "cityName": "ARDSLEY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LAW OFFICE OF THERESA O'ROURKE NUGENT",
+              "postalCode": "10502"
+            }
+          ],
+          "firstName": "THERESA",
+          "lastName": "NUGENT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40747",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "914-591-4475"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 74662,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "155 East Hartsdale Avenue",
+            "addressLineTwoText": "Suite 1A",
+            "cityName": "Hartsdale",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "NY",
+            "geographicRegionName": "NEW YORK",
+            "nameLineOneText": "Law Office of Theresa O''Rourke Nugent",
+            "postalCode": "10530"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "102 IVY TREE PLACE",
+              "cityName": "CARY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NC",
+              "geographicRegionName": "NORTH CAROLINA",
+              "postalCode": "27519"
+            }
+          ],
+          "firstName": "ROBERT",
+          "lastName": "HESS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "32139",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-832-2410"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "38 CARLTON AVENUE",
+              "cityName": "HO-HO-KUS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "postalCode": "07423"
+            }
+          ],
+          "firstName": "CATHERINE",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34240",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-235-6208"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-612-2365"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "91 FOREST BLVD.",
+              "cityName": "ARDSLEY",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NY",
+              "geographicRegionName": "NEW YORK",
+              "nameLineOneText": "LAW OFFICE OF THERESA O'ROURKE NUGENT",
+              "postalCode": "10502"
+            }
+          ],
+          "firstName": "THERESA",
+          "lastName": "NUGENT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "40747",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "914-591-4475"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/433"
+}

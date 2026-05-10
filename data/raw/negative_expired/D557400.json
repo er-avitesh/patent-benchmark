@@ -1,0 +1,683 @@
+{
+  "applicant": null,
+  "application_number": "29271560",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2007-01-22",
+  "grant_date": "2007-12-11",
+  "invention_title": "CEILING FAN HOUSING",
+  "label": "negative",
+  "patent_number": "D557400",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 2267,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-21",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 35979,
+      "docketNumber": "019805.000014",
+      "effectiveFilingDate": "2007-01-22",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "LICHTENSTEIN, LISA P",
+      "filingDate": "2007-01-22",
+      "firstInventorName": "Brett Curtin",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-11",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "CEILING FAN HOUSING",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Scottsdale",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "AZ",
+              "geographicRegionName": "ARIZONA",
+              "nameLineOneText": "Brett  Curtin",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Brett",
+          "inventorNameText": "Brett Curtin",
+          "lastName": "Curtin"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557400",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "411",
+      "uspcSymbolText": "D23/411"
+    },
+    "applicationNumberText": "29271560",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "650 S. ROYAL LANE",
+              "cityName": "COPPELL",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "ictCountryCode": "US",
+              "ictStateCode": "TX",
+              "postalCode": "75019"
+            },
+            "assigneeNameText": "CRAFTMADE INTERNATIONAL, INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18839/286",
+        "assignmentMailedDate": "2007-02-01",
+        "assignmentReceivedDate": "2007-01-29",
+        "assignmentRecordedDate": "2007-01-22",
+        "assignorBag": [
+          {
+            "assignorName": "CURTIN, BRETT",
+            "executionDate": "2007-01-12"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineFourText": "DALLAS, TEXAS 75201-6659",
+          "addressLineOneText": "HARR, P.C.",
+          "addressLineThreeText": "500 N. AKARD STREET",
+          "addressLineTwoText": "3800 LINCOLN PLAZA",
+          "correspondentNameText": "MICHAEL W. DUBNER/ MUNSCH HARDT KOPF &"
+        },
+        "frameNumber": 286,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "018839/0286",
+        "reelNumber": 18839
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "901 MAIN STREET",
+              "cityName": "DALLAS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "ictCountryCode": "US",
+              "ictStateCode": "TX",
+              "postalCode": "75202"
+            },
+            "assigneeNameText": "BANK OF AMERICA, N.A."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/23708/143",
+        "assignmentMailedDate": "2009-12-29",
+        "assignmentReceivedDate": "2009-12-28",
+        "assignmentRecordedDate": "2009-12-28",
+        "assignorBag": [
+          {
+            "assignorName": "C/D/R INCORPORATED",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "CRAFTMADE INTERNATIONAL, INC.",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "DESIGN TRENDS, LLC",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "DUROCRAFT INTERNATIONAL, INC.",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "PRIME/HOME IMPRESSIONS, LLC",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "TRADE SOURCE INTERNATIONAL, INC.",
+            "executionDate": "2009-07-08"
+          },
+          {
+            "assignorName": "WOODARD--CM, LLC",
+            "executionDate": "2009-07-08"
+          }
+        ],
+        "attorneyDocketNumber": "08286-X00001",
+        "conveyanceText": "SECURITY AGREEMENT",
+        "correspondenceAddress": {
+          "addressLineOneText": "2200 ROSS AVENUE, SUITE 2800",
+          "addressLineTwoText": "DALLAS, TX 75201",
+          "correspondentNameText": "LINDA M. MERRITT"
+        },
+        "frameNumber": 143,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 36,
+        "reelAndFrameNumber": "023708/0143",
+        "reelNumber": 23708
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. Box 61389",
+        "cityName": "Houston",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TX",
+        "geographicRegionName": "TEXAS",
+        "nameLineOneText": "Bracewell LLP",
+        "postalCode": "77208-1389"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2008-10-03",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2008-10-03",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2008-09-26",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-21",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-01",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-20",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-25",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-24",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-06-05",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2007-02-09",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2007-01-31",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2007-02-01",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2007-01-22",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T22:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "ROMMELMANN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "34418",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-1201"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET, SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI  LLP",
+              "postalCode": "77002-277"
+            }
+          ],
+          "firstName": "CONSTANCE",
+          "lastName": "RHEBERGEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41267",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-3306"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET, SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "DERRINGTON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-1515"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 6200",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "BRACEWELL & GIULIANI, LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "STEWART",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51060",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-204-6271"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "BRAD",
+          "lastName": "CHIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52738",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-1569"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 CONGRESS AVENUE",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "postalCode": "78701"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "TOMPKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62501",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-494-3632"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVENUE",
+              "addressLineTwoText": "62ND FLOOR",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "nameLineTwoText": "COLUMBIA TOWER",
+              "postalCode": "98104-704"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "CONNOLLY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-204-6231"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "ELEANOR",
+          "lastName": "PORTER",
+          "middleName": "TYSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70182",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-3328"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "910 LOUISIANA STREET",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BAKER BOTTS",
+              "postalCode": "77002-4995"
+            }
+          ],
+          "firstName": "YI",
+          "lastName": "WANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81841",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-229-7501"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 35979,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. Box 61389",
+            "cityName": "Houston",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "TX",
+            "geographicRegionName": "TEXAS",
+            "nameLineOneText": "Bracewell LLP",
+            "postalCode": "77208-1389"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVENUE",
+              "addressLineTwoText": "62ND FLOOR",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "nameLineTwoText": "COLUMBIA TOWER",
+              "postalCode": "98104-704"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "CONNOLLY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "69570",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-204-6231"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "ELEANOR",
+          "lastName": "PORTER",
+          "middleName": "TYSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70182",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-3328"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 CONGRESS AVENUE",
+              "addressLineTwoText": "SUITE 2300",
+              "cityName": "AUSTIN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "postalCode": "78701"
+            }
+          ],
+          "firstName": "BRIAN",
+          "lastName": "TOMPKINS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62501",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "512-494-3632"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET, SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI LLP",
+              "postalCode": "77002"
+            }
+          ],
+          "firstName": "KEITH",
+          "lastName": "DERRINGTON",
+          "middleName": "R.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44061",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-1515"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "701 FIFTH AVENUE",
+              "addressLineTwoText": "SUITE 6850",
+              "cityName": "SEATTLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "BRACEWELL LLP",
+              "postalCode": "98104"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "STEWART",
+          "middleName": "FRED",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51060",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "206-204-6271"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "711 LOUISIANA STREET, SUITE 2300",
+              "cityName": "HOUSTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TX",
+              "geographicRegionName": "TEXAS",
+              "nameLineOneText": "BRACEWELL & GIULIANI  LLP",
+              "postalCode": "77002-277"
+            }
+          ],
+          "firstName": "CONSTANCE",
+          "lastName": "RHEBERGEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41267",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "713-221-3306"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/411"
+}

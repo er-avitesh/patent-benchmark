@@ -1,0 +1,188 @@
+{
+  "applicant": null,
+  "application_number": "29264982",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-30 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-08-23",
+  "grant_date": "2007-10-30",
+  "invention_title": "SOLAR-POWERED LIGHT",
+  "label": "negative",
+  "patent_number": "D554284",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 4707,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-10",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "docketNumber": "DP:MONAC01",
+      "effectiveFilingDate": "2006-08-23",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "HEFLIN, CLARE E",
+      "filingDate": "2006-08-23",
+      "firstInventorName": "Simon Nicholas Richmond",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-30",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "SOLAR-POWERED LIGHT",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Princeton",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "Simon Nicholas Richmond",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "AU",
+          "firstName": "Simon",
+          "inventorNameText": "Simon Nicholas Richmond",
+          "lastName": "Richmond",
+          "middleName": "Nicholas"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D554284",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "67",
+      "uspcSymbolText": "D26/67"
+    },
+    "applicationNumberText": "29264982",
+    "childContinuityBag": [
+      {
+        "childApplicationFilingDate": "2019-05-09",
+        "childApplicationNumberText": "90014302",
+        "childApplicationStatusCode": 454,
+        "childApplicationStatusDescriptionText": "Reexamination Certificate Issued",
+        "claimParentageTypeCode": "REX",
+        "claimParentageTypeCodeDescriptionText": "is a Re-examination of",
+        "firstInventorToFileIndicator": false,
+        "parentApplicationNumberText": "29264982"
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "47 Grasmere Way",
+        "cityName": "Princeton",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NJ",
+        "geographicRegionName": "NEW JERSEY",
+        "nameLineOneText": "Mr. Simon N. Richmond",
+        "postalCode": "08540"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-30",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-10",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-24",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-06-27",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-06-20",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-06-15",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-06-15",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-06-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-11-20",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2006-11-06",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2006-11-06",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2006-11-06",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-10-02",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-09-28",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-09-29",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "ADDFLFEE",
+        "eventDate": "2006-09-22",
+        "eventDescriptionText": "Additional Application Filing Fees"
+      },
+      {
+        "eventCode": "INCD",
+        "eventDate": "2006-09-08",
+        "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-08-23",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T10:00:03"
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/67"
+}

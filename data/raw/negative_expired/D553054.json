@@ -1,0 +1,141 @@
+{
+  "applicant": null,
+  "application_number": "29268363",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-10-16 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-11-06",
+  "grant_date": "2007-10-16",
+  "invention_title": "STEERING DAMPER FOR A MOTORCYCLE",
+  "label": "negative",
+  "patent_number": "D553054",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1762,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-09-26",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "docketNumber": "AMD-3337",
+      "effectiveFilingDate": "2006-11-06",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "BROOKS, LINDA G",
+      "filingDate": "2006-11-06",
+      "firstInventorName": "Shen-Yuan Kuo",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-10-16",
+      "groupArtUnitNumber": "2911",
+      "inventionTitle": "STEERING DAMPER FOR A MOTORCYCLE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tainan Hsien",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "Shen-Yuan  Kuo",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "Shen-Yuan",
+          "inventorNameText": "Shen-Yuan Kuo",
+          "lastName": "Kuo"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D553054",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "114",
+      "uspcSymbolText": "D12/114"
+    },
+    "applicationNumberText": "29268363",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. Box 90",
+        "cityName": "Tainan City",
+        "countryCode": "TW",
+        "countryName": "TAIWAN",
+        "nameLineOneText": "Shen-Yuan Kuo",
+        "postalCode": "70499"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-10-16",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-09-26",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-08-27",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-27",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-06-04",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-04",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-01",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-12-29",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-11-16",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-11-17",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-11-06",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-05-02T09:00:04"
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/114"
+}

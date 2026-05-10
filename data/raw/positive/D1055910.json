@@ -1,0 +1,760 @@
+{
+  "applicant": "Dynabook Inc.",
+  "application_number": "29851286",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29851286_D1055910.xml",
+  "filing_date": "2022-08-26",
+  "grant_date": "2024-12-31",
+  "invention_title": "COMPUTER",
+  "label": "positive",
+  "patent_number": "D1055910",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Dynabook Inc.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "Dynabook Inc.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 3473,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-11",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 145688,
+      "docketNumber": "US87959",
+      "effectiveFilingDate": "2022-08-26",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "SWANGIN, ALTAIRA J",
+      "filingDate": "2022-08-26",
+      "firstApplicantName": "Dynabook Inc.",
+      "firstInventorName": "YUJI HIROOKA",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-31",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "COMPUTER",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "HIROOKA, YUJI",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Tokyo",
+              "countryCode": "JP",
+              "countryName": "JAPAN",
+              "nameLineOneText": "YUJI  HIROOKA",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "JP",
+          "firstName": "YUJI",
+          "inventorNameText": "YUJI HIROOKA",
+          "lastName": "HIROOKA"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Taoyuan City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "LIN, JONATHAN",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Taoyuan City",
+              "countryCode": "TW",
+              "countryName": "TAIWAN",
+              "nameLineOneText": "JONATHAN  LIN",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "countryCode": "TW",
+          "firstName": "JONATHAN",
+          "inventorNameText": "JONATHAN LIN",
+          "lastName": "LIN"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055910",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "315",
+      "uspcSymbolText": "D14/315"
+    },
+    "applicationNumberText": "29851286",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "6-15, TOYOSU 5-CHOME, KOTO-KU",
+              "cityName": "TOKYO",
+              "countryName": "JAPAN",
+              "geographicRegionCode": "JPX",
+              "ictCountryCode": "JP"
+            },
+            "assigneeNameText": "DYNABOOK INC."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/60913/674",
+        "assignmentMailedDate": "2022-08-30",
+        "assignmentReceivedDate": "2022-08-26",
+        "assignmentRecordedDate": "2022-08-26",
+        "assignorBag": [
+          {
+            "assignorName": "LIN, JONATHAN",
+            "executionDate": "2022-08-02"
+          },
+          {
+            "assignorName": "HIROOKA, YUJI",
+            "executionDate": "2022-08-04"
+          }
+        ],
+        "attorneyDocketNumber": "US87959",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "550 S. HOPE STREET, SUITE 2825",
+          "addressLineTwoText": "LOS ANGELES, CA 90071",
+          "correspondentNameText": "KELVIN LIU"
+        },
+        "frameNumber": 674,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 5,
+        "reelAndFrameNumber": "060913/0674",
+        "reelNumber": 60913
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "550 South Hope Street",
+        "addressLineTwoText": "Suite 2825",
+        "cityName": "Los Angeles",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "SBPJ/ScienBiziP, P.C.",
+        "postalCode": "90071"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-31",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-11",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-19",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-11-12",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-21",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-10-10",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.QU",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Response after Ex Parte Quayle Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTEQ",
+        "eventDate": "2024-08-26",
+        "eventDescriptionText": "Mail Ex Parte Quayle Action (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTEQ",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Quayle action"
+      },
+      {
+        "eventCode": "P574",
+        "eventDate": "2024-05-20",
+        "eventDescriptionText": "PARALEGAL OR ELECTRONIC TERMINAL DISCLAIMER APPROVED"
+      },
+      {
+        "eventCode": "DIST",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Terminal Disclaimer Filed"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-05-16",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-05-15",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-02-20",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-02-20",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-02-20",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-02-20",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-02-20",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-02-10",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-01-22",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-10-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-09-12",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2022-09-01",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2022-08-31",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2022-08-30",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2022-08-30",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2022-08-31",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2022-08-31",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2022-08-26",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "2022-008140D",
+        "filingDate": "2022-04-13",
+        "ipOfficeName": "JAPAN"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-31T09:09:13",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241231/29851286_D1055910.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29851286_D1055910.xml",
+      "zipFileName": "ipg241231.zip"
+    },
+    "lastIngestionDateTime": "2026-04-23T03:04:36",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET, SUITE 2825",
+              "cityName": "LOS ANGLES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "TUNG-YUN",
+          "lastName": "MCNALLY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1771"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 SOUTH HOPE ST. SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "CALVIN",
+          "lastName": "CHAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68009",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1779"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET,  SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "ALVIN",
+          "lastName": "KOAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1774"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET, SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "BAHRAMI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70460",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1780"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 SOUTH HOPE STREET",
+              "addressLineTwoText": "SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, PC",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "KELVIN",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "73932",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1784"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "863 TERRACE LN W",
+              "addressLineTwoText": "UNIT 5",
+              "cityName": "DIAMOND BAR",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "91765"
+            }
+          ],
+          "firstName": "FEI-HUNG",
+          "lastName": "YANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77188",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "909-680-0177"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 145688,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "550 South Hope Street",
+            "addressLineTwoText": "Suite 2825",
+            "cityName": "Los Angeles",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "CA",
+            "geographicRegionName": "CALIFORNIA",
+            "nameLineOneText": "SBPJ/ScienBiziP, P.C.",
+            "postalCode": "90071"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "GUZNICZAK",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59820",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1780"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 SOUTH HOPE STREET",
+              "addressLineTwoText": "SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, PC",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "KELVIN",
+          "lastName": "LIU",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "73932",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1784"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "863 TERRACE LN W",
+              "addressLineTwoText": "UNIT 5",
+              "cityName": "DIAMOND BAR",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "postalCode": "91765"
+            }
+          ],
+          "firstName": "FEI-HUNG",
+          "lastName": "YANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "77188",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "909-680-0177"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 SOUTH HOPE ST. SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "CALVIN",
+          "lastName": "CHAI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68009",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1779"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET, SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "AMIR",
+          "lastName": "BAHRAMI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "70460",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1780"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET, SUITE 2825",
+              "cityName": "LOS ANGLES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "TUNG-YUN",
+          "lastName": "MCNALLY",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "66725",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1771"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "550 S HOPE STREET,  SUITE 2825",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SCIENBIZIP, P.C.",
+              "postalCode": "90071"
+            }
+          ],
+          "firstName": "ALVIN",
+          "lastName": "KOAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68468",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-426-1774"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/315"
+}

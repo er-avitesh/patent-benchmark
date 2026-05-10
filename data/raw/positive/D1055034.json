@@ -1,0 +1,757 @@
+{
+  "applicant": "Vogel's Holding B.V.",
+  "application_number": "29774985",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29774985_D1055034.xml",
+  "filing_date": "2021-03-19",
+  "grant_date": "2024-12-24",
+  "invention_title": "Wall Mount",
+  "label": "positive",
+  "patent_number": "D1055034",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Vogel's Holding B.V.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Eindhoven",
+              "countryCode": "NL",
+              "countryName": "NETHERLANDS",
+              "nameLineOneText": "Vogel's Holding B.V.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 9584,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D14",
+      "customerNumber": 3490,
+      "docketNumber": "19250-0350",
+      "effectiveFilingDate": "2021-03-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "PEREZ, NOAH",
+      "filingDate": "2021-03-19",
+      "firstApplicantName": "Vogel's Holding B.V.",
+      "firstInventorName": "Sofieke Jagtman",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2914",
+      "inventionTitle": "Wall Mount",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Eindhoven",
+              "countryCode": "NL",
+              "countryName": "NETHERLANDS",
+              "nameLineOneText": "Sofieke  Jagtman",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Eindhoven",
+              "countryCode": "NL",
+              "countryName": "NETHERLANDS",
+              "nameLineOneText": "Jagtman, Sofieke",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "firstName": "Sofieke",
+          "inventorNameText": "Sofieke Jagtman",
+          "lastName": "Jagtman"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055034",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "239",
+      "uspcSymbolText": "D14/239"
+    },
+    "applicationNumberText": "29774985",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "HONDSRUGLAAN 93",
+              "cityName": "EINDHOVEN",
+              "countryName": "NETHERLANDS",
+              "geographicRegionCode": "NLX",
+              "ictCountryCode": "NL",
+              "postalCode": "NL-5628 DB"
+            },
+            "assigneeNameText": "VOGEL'S HOLDING B.V."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/55675/40",
+        "assignmentMailedDate": "2021-03-23",
+        "assignmentReceivedDate": "2021-03-22",
+        "assignmentRecordedDate": "2021-03-22",
+        "assignorBag": [
+          {
+            "assignorName": "JAGTMAN, SOFIEKE",
+            "executionDate": "2021-03-11"
+          }
+        ],
+        "attorneyDocketNumber": "19250-0350",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "832 GEORGIA AVENUE",
+          "addressLineThreeText": "CHATTANOOGA, TN 37402-2289",
+          "addressLineTwoText": "SUITE 1200 VOLUNTEER BUILDING",
+          "correspondentNameText": "PATRICIA P. LINER"
+        },
+        "frameNumber": 40,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "055675/0040",
+        "reelNumber": 55675
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "HONDSRUGLAAN 93",
+              "cityName": "EINDHOVEN",
+              "countryName": "NETHERLANDS",
+              "geographicRegionCode": "NLX",
+              "ictCountryCode": "NL",
+              "postalCode": "NL-5628 DB"
+            },
+            "assigneeNameText": "VOGEL'S IP B.V."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/59357/245",
+        "assignmentMailedDate": "2022-03-30",
+        "assignmentReceivedDate": "2022-03-09",
+        "assignmentRecordedDate": "2022-03-09",
+        "assignorBag": [
+          {
+            "assignorName": "VOGEL'S HOLDING B.V.",
+            "executionDate": "2022-02-17"
+          }
+        ],
+        "attorneyDocketNumber": "19250-0001",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "832 GEORGIA AVENUE",
+          "addressLineThreeText": "CHATTANOOGA, TN 37402-2289",
+          "addressLineTwoText": "SUITE 1200 VOLUNTEER BUILDING",
+          "correspondentNameText": "PATRICIA P. LINER"
+        },
+        "frameNumber": 245,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "059357/0245",
+        "reelNumber": 59357
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "Suite 1200 Volunteer Building",
+        "addressLineTwoText": "832 GEORGIA AVENUE",
+        "cityName": "CHATTANOOGA",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "TN",
+        "geographicRegionName": "TENNESSEE",
+        "nameLineOneText": "Miller & Martin PLLC",
+        "postalCode": "37402-2289"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-20",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-20",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "MODPET3",
+        "eventDate": "2024-11-14",
+        "eventDescriptionText": "MAIL PREV - 1.81 PETITION TO REVIVE APPLICATION - GRANTED"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-04-22",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "WABN",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "Withdraw Publication/Pre-Exam Abandon"
+      },
+      {
+        "eventCode": "ODPET3",
+        "eventDate": "2024-11-13",
+        "eventDescriptionText": "PREV - 1.81 PETITION TO REVIVE APPLICATION - GRANTED"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MABN6",
+        "eventDate": "2024-05-08",
+        "eventDescriptionText": "Mail Abandonment for Failure to Pay Issue Fee"
+      },
+      {
+        "eventCode": "ABN6",
+        "eventDate": "2024-04-23",
+        "eventDescriptionText": "Abandonment for Failure to Pay Issue Fee"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-04-26",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "LET.",
+        "eventDate": "2024-03-28",
+        "eventDescriptionText": "Miscellaneous Incoming Letter"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-02-28",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2024-02-28",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2024-02-15",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "PUBTC",
+        "eventDate": "2024-01-31",
+        "eventDescriptionText": "Pubs Case Remand to TC"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-01-22",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-01-22",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-01-22",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-01-17",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2023-11-29",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A.NE",
+        "eventDate": "2023-11-17",
+        "eventDescriptionText": "Response after Final Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2023-11-17",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "C614",
+        "eventDate": "2023-11-17",
+        "eventDescriptionText": "New or Additional Drawing Filed"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-07-21",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2023-07-21",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTFR",
+        "eventDate": "2023-07-21",
+        "eventDescriptionText": "Mail Final Rejection (PTOL - 326)"
+      },
+      {
+        "eventCode": "CTFR",
+        "eventDate": "2023-05-05",
+        "eventDescriptionText": "Final Rejection"
+      },
+      {
+        "eventCode": "C602",
+        "eventDate": "2021-03-19",
+        "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)"
+      },
+      {
+        "eventCode": "LTDR",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "Incoming Letter Pertaining to the Drawings"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2023-02-01",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "XT/G",
+        "eventDate": "2023-01-30",
+        "eventDescriptionText": "Request for Extension of Time - Granted"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2022-10-06",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2022-10-06",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2022-10-06",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2022-09-30",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2022-04-25",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-05-03",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2021-03-24",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2021-03-23",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2021-03-23",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2021-03-23",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2021-03-23",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2021-03-23",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2021-03-19",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2021-03-19",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2021-03-19",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2021-03-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "008180301-0001",
+        "filingDate": "2020-09-22",
+        "ipOfficeName": "EUROPEAN UNION INTELLECTUAL PROPERTY OFFICE (EUIPO)"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:10",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29774985_D1055034.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29774985_D1055034.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-04-28T05:00:05",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "832 GEORGIA AVE STE 1000",
+              "addressLineTwoText": "1000 VOLUNTEER BUILDING",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN LLP",
+              "postalCode": "37402"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31841",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "423-756-6600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "VOLUNTEER BUILDING",
+              "addressLineTwoText": "832 GEORGIA AVE., SUITE 1000",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN, LLP",
+              "postalCode": "37402-228"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "FORLIDAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41758",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-962-6444"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "832 GEORGIA AVE, SUITE 1000",
+              "addressLineTwoText": "VOLUNTEER BUILDING",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN, LLP",
+              "postalCode": "37402-228"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "STARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43152",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "423-756-6600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 WEST PEACHTREE STREET, N.W.",
+              "addressLineTwoText": "SUITE 2100",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "MILLER & MARTIN PLLC",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "KABAKOFF",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-962-6100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 PEACHTREE STREET, NE",
+              "addressLineTwoText": "#5200",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "TROUTMAN SANDERS LLP",
+              "postalCode": "30308"
+            }
+          ],
+          "firstName": "PHARAN",
+          "lastName": "EVANS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-314-2937"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 3490,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "Suite 1200 Volunteer Building",
+            "addressLineTwoText": "832 GEORGIA AVENUE",
+            "cityName": "CHATTANOOGA",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "TN",
+            "geographicRegionName": "TENNESSEE",
+            "nameLineOneText": "Miller & Martin PLLC",
+            "postalCode": "37402-2289"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "832 GEORGIA AVE, SUITE 1000",
+              "addressLineTwoText": "VOLUNTEER BUILDING",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN, LLP",
+              "postalCode": "37402-228"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "STARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43152",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "423-756-6600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 WEST PEACHTREE STREET, N.W.",
+              "addressLineTwoText": "SUITE 2100",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "MILLER & MARTIN PLLC",
+              "postalCode": "30309"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "KABAKOFF",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-962-6100"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "600 PEACHTREE STREET, NE",
+              "addressLineTwoText": "#5200",
+              "cityName": "ATLANTA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "GA",
+              "geographicRegionName": "GEORGIA",
+              "nameLineOneText": "TROUTMAN SANDERS LLP",
+              "postalCode": "30308"
+            }
+          ],
+          "firstName": "PHARAN",
+          "lastName": "EVANS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75276",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "678-314-2937"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "832 GEORGIA AVE STE 1000",
+              "addressLineTwoText": "1000 VOLUNTEER BUILDING",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN LLP",
+              "postalCode": "37402"
+            }
+          ],
+          "firstName": "DOUGLAS",
+          "lastName": "JOHNSON",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31841",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "423-756-6600"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "VOLUNTEER BUILDING",
+              "addressLineTwoText": "832 GEORGIA AVE., SUITE 1000",
+              "cityName": "CHATTANOOGA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "TN",
+              "geographicRegionName": "TENNESSEE",
+              "nameLineOneText": "MILLER AND MARTIN, LLP",
+              "postalCode": "37402-228"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "FORLIDAS",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41758",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "404-962-6444"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D14",
+  "uspc_symbol": "D14/239"
+}

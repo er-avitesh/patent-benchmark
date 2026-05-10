@@ -1,0 +1,2963 @@
+{
+  "applicant": null,
+  "application_number": "29257982",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-20 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-13",
+  "grant_date": "2007-11-20",
+  "invention_title": "VEHICLE DOOR",
+  "label": "negative",
+  "patent_number": "D555559",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 9765,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-31",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D12",
+      "customerNumber": 22045,
+      "docketNumber": "81141455 (VCC 0136 PUSA)",
+      "effectiveFilingDate": "2006-04-13",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "BROWN, MELODY NOEL",
+      "filingDate": "2006-04-13",
+      "firstInventorName": "Todd Levy",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-20",
+      "groupArtUnitNumber": "2915",
+      "inventionTitle": "VEHICLE DOOR",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Goteborg",
+              "countryCode": "SE",
+              "countryName": "SWEDEN",
+              "nameLineOneText": "Todd  Levy",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "SE",
+          "firstName": "Todd",
+          "inventorNameText": "Todd Levy",
+          "lastName": "Levy"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555559",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "196",
+      "uspcSymbolText": "D12/196"
+    },
+    "applicationNumberText": "29257982",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "-",
+              "cityName": "GOTHENBURG",
+              "countryName": "SWEDEN",
+              "geographicRegionCode": "SEX",
+              "ictCountryCode": "SE",
+              "postalCode": "S-405 31"
+            },
+            "assigneeNameText": "VOLVO CAR CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17598/896",
+        "assignmentMailedDate": "2006-05-10",
+        "assignmentReceivedDate": "2006-05-10",
+        "assignmentRecordedDate": "2006-05-10",
+        "assignorBag": [
+          {
+            "assignorName": "LEVY, TODD",
+            "executionDate": "2006-04-12"
+          }
+        ],
+        "attorneyDocketNumber": "81141455",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+          "addressLineTwoText": "SOUTHFIELD, MI 48075",
+          "correspondentNameText": "BROOKS KUSHMAN P.C. / FGTL"
+        },
+        "frameNumber": 896,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017598/0896",
+        "reelNumber": 17598
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "SUITE 800, FAIRLANE PLAZA SOUTH, 330 TOWN CENTER DRIVE",
+              "cityName": "DEARBORN",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "ictCountryCode": "US",
+              "ictStateCode": "MI",
+              "postalCode": "48126"
+            },
+            "assigneeNameText": "FORD GLOBAL TECHNOLOGIES, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/17598/901",
+        "assignmentMailedDate": "2006-05-10",
+        "assignmentReceivedDate": "2006-05-10",
+        "assignmentRecordedDate": "2006-05-10",
+        "assignorBag": [
+          {
+            "assignorName": "VOLVO CAR CORPORATION",
+            "executionDate": "2006-04-12"
+          }
+        ],
+        "attorneyDocketNumber": "81141455",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+          "addressLineTwoText": "SOUTHFIELD, MI 48075",
+          "correspondentNameText": "BROOKS KUSHMAN P.C. / FGTL"
+        },
+        "frameNumber": 901,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 2,
+        "reelAndFrameNumber": "017598/0901",
+        "reelNumber": 17598
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "SE-405 31 GOTTHENBURG",
+              "cityName": "GOTHENBURG",
+              "countryName": "SWEDEN",
+              "geographicRegionCode": "SEX",
+              "ictCountryCode": "SE"
+            },
+            "assigneeNameText": "VOLVO CAR CORPORATION"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/24915/795",
+        "assignmentMailedDate": "2010-09-02",
+        "assignmentReceivedDate": "2010-09-01",
+        "assignmentRecordedDate": "2010-09-01",
+        "assignorBag": [
+          {
+            "assignorName": "FORD GLOBAL TECHNOLOGIES, LLC",
+            "executionDate": "2010-08-26"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "330 TOWN CENTER DRIVE",
+          "addressLineThreeText": "DEARBORN, MI 48126",
+          "addressLineTwoText": "SUITE 800 SOUTH",
+          "correspondentNameText": "FORD GLOBAL TECHNOLOGIES, LLC"
+        },
+        "frameNumber": 795,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 15,
+        "reelAndFrameNumber": "024915/0795",
+        "reelNumber": 24915
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "150 W 2nd St. Suite 400N",
+        "cityName": "Royal Oak",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "MI",
+        "geographicRegionName": "MICHIGAN",
+        "nameLineOneText": "Brooks Kushman P.C.",
+        "postalCode": "48067"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PA..",
+        "eventDate": "2010-11-03",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2010-11-01",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-11-27",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "MCNOA",
+        "eventDate": "2007-11-27",
+        "eventDescriptionText": "Mailing Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "CNOA",
+        "eventDate": "2007-11-26",
+        "eventDescriptionText": "Corrected Notice of Allowability"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-20",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-31",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-09-25",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-09-18",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "C.AD",
+        "eventDate": "2007-09-17",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-09-13",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-08-30",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-07-17",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-07-17",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-07-13",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2006-09-22",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-09-22",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-09-22",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "RCAP",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Reference capture on IDS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2006-06-30",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-04-28",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-04-26",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-04-27",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-13",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-28T06:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SYROWIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27956",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "HEINL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "601 S. FIGUEROA STREET",
+              "addressLineTwoText": "SUITE 2080",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "90017-578"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "RUNK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30679",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "562-708-3520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, SUITE 2200",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "NEMAZI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30876",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER,  22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "CONGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31209",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2771"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE,TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "ABBATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31936",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "HALAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2735"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 WEST SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SZUMA",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "ANGILERI",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36733",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "BIR",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38383",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BRODBINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38392",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C., LAW FIRM",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "SANGEETA",
+          "lastName": "SHAH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38614",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "KALLIS",
+          "middleName": "N",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41102",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1180 N. TOWN CENTER DR.",
+              "addressLineTwoText": "STE 100",
+              "cityName": "LAS VEGAS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NV",
+              "geographicRegionName": "NEVADA",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "89144"
+            }
+          ],
+          "firstName": "ERIC",
+          "lastName": "KOHLI",
+          "middleName": "N",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43726",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "702-473-3780"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARC",
+          "lastName": "LORELLI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43759",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "MANSFIELD",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43773",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "STUENKEL",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44364",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "JAKUBOWSKI",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "5935 SW AMBERWOOD AVE.",
+              "cityName": "CORVALLIS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "OR",
+              "geographicRegionName": "OREGON",
+              "postalCode": "97333"
+            }
+          ],
+          "firstName": "JEFF",
+          "lastName": "LIMON",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "45418",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "541-220-0591"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "MIETZEL",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46929",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "PROSCIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47010",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LEROY",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48158",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CUNNINGHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48722",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "BIENEMAN",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51472",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-244-0676"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TURNER",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52306",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "STASA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55644",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, SUITE 2200",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "MARTIN",
+          "lastName": "SULTANA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "57739",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "FRANCIS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59511",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-769-2802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 TOWN CENTER",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BEJIN BIENEMAN PLC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "LEONARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-604-6490"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "SMITH",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59669",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BERNARD",
+          "lastName": "TOMSA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "REID",
+          "lastName": "BALDWIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61791",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2717"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN  PC",
+              "postalCode": "48075-123"
+            }
+          ],
+          "firstName": "ISAAC",
+          "lastName": "SLUTSKY",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64620",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-229-2733"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48075-123"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "BOWLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64705",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "RONDINI",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. 2ND STREET",
+              "addressLineTwoText": "SUITE 200N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "TIFFANY",
+          "lastName": "FIDLER",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W SECOND ST",
+              "addressLineTwoText": "STE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "HART",
+          "middleName": "T",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65804",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-960-4341"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "SMITH",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2734"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RIVER PLACE DRIVE",
+              "addressLineTwoText": "SUITE 1775",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BURRIS LAW, PLLC",
+              "postalCode": "48207-429"
+            }
+          ],
+          "firstName": "ABHA",
+          "lastName": "FADIPE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-393-5415"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "KONZ",
+          "middleName": "G",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68910",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2928"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BERTINO",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ISHEETA",
+          "lastName": "LAXMANAN",
+          "middleName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73312",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2803"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P. C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ALENA",
+          "lastName": "MARCONI",
+          "middleName": "VACKOVA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73680",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2851 CHARLEVOIX DRIVE SE, SUITE 207",
+              "cityName": "GRAND RAPIDS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "GARDNER LIAN DURKHAUT & ONDERSON LLP",
+              "postalCode": "49546"
+            }
+          ],
+          "firstName": "BRYCE",
+          "lastName": "WHITWORTH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "77154",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "618-616-1473"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "nameLineTwoText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DUSTIN",
+          "lastName": "ZAK",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2884"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "MUHAMMAD",
+          "lastName": "SIWANI",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81324",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-516-4860"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 TOWN CENTER",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BEJIN BIENEMAN PLC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "MACKENZIE",
+          "middleName": "A.",
+          "nameSuffix": "IV",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "81710",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-528-6948"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CAMERON",
+          "lastName": "ANSTESS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82069",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-929-7561"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FANQI",
+          "lastName": "MENG",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L0647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 22045,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "150 W 2nd St. Suite 400N",
+            "cityName": "Royal Oak",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "MI",
+            "geographicRegionName": "MICHIGAN",
+            "nameLineOneText": "Brooks Kushman P.C.",
+            "postalCode": "48067"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, SUITE 2200",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "NEMAZI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30876",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.  SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKSKUSHMAN",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ABDULAI",
+          "lastName": "RASHID",
+          "middleName": "I.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "82359",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2916"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FANQI",
+          "lastName": "MENG",
+          "registeredPractitionerCategory": "LTDREC",
+          "registrationNumber": "L0647",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "MANSFIELD",
+          "middleName": "M",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "43773",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W SECOND ST",
+              "addressLineTwoText": "STE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "BRYAN",
+          "lastName": "HART",
+          "middleName": "T",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65804",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-960-4341"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "KALLIS",
+          "middleName": "N",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41102",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FRANK",
+          "lastName": "ANGILERI",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "36733",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "BERTINO",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72354",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "nameLineTwoText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DUSTIN",
+          "lastName": "ZAK",
+          "middleName": "R",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78070",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2884"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "KYLE",
+          "lastName": "KONZ",
+          "middleName": "G",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "68910",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2928"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "601 S. FIGUEROA STREET",
+              "addressLineTwoText": "SUITE 2080",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "90017-578"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "RUNK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "30679",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "562-708-3520"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. 2ND STREET",
+              "addressLineTwoText": "SUITE 200N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "TIFFANY",
+          "lastName": "FIDLER",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "65366",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "ANDREW",
+          "lastName": "TURNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "CUNNINGHAM",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "48722",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ISHEETA",
+          "lastName": "LAXMANAN",
+          "middleName": "PATEL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73312",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2803"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "39400 WOODWARD AVE # 101",
+              "cityName": "BLOOMFIELD HILLS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "HONIGMAN MILLER SCHWARTZ & COHN LLP",
+              "postalCode": "48304"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "CHAU",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63965",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-566-8300"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "MIETZEL",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "46929",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "TURNER",
+          "middleName": "D",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "52306",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "MATTHEW",
+          "lastName": "JAKUBOWSKI",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44801",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "BIENEMAN",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "51472",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-244-0676"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "FRANCESCA",
+          "lastName": "CUSUMANO-GIBSON",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81149",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2784"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "RONDINI",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64949",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "300 RIVER PLACE DRIVE",
+              "addressLineTwoText": "SUITE 1775",
+              "cityName": "DETROIT",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BURRIS LAW, PLLC",
+              "postalCode": "48207-429"
+            }
+          ],
+          "firstName": "ABHA",
+          "lastName": "FADIPE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66835",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-393-5415"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BENJAMIN",
+          "lastName": "STASA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55644",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "STUENKEL",
+          "middleName": "E",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "44364",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "MARC",
+          "lastName": "LORELLI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43759",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "KEVIN",
+          "lastName": "HEINL",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29805",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "SMITH",
+          "middleName": "C.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59669",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "BERNARD",
+          "lastName": "TOMSA",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "60121",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P. C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ALENA",
+          "lastName": "MARCONI",
+          "middleName": "VACKOVA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73680",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2882"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "MICHAEL",
+          "lastName": "BRODBINE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38392",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "REID",
+          "lastName": "BALDWIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "61791",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2717"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "GARRETT",
+          "lastName": "FRIDLINE",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "79747",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "810-624-9273"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 WEST SECOND STREET, SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JEFFREY",
+          "lastName": "SZUMA",
+          "middleName": "M",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35700",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CAMERON",
+          "lastName": "ANSTESS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "82069",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-929-7561"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "BIR",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38383",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "CHRISTOPHER",
+          "lastName": "FRANCIS",
+          "middleName": "M.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59511",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "313-769-2802"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "120 SOUTH LASALLE STREET",
+              "addressLineTwoText": "SUITE 2100",
+              "cityName": "CHICAGO",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "IL",
+              "geographicRegionName": "ILLINOIS",
+              "nameLineOneText": "FITCH, EVEN, TABIN & FLANNERY LLP",
+              "postalCode": "60603"
+            }
+          ],
+          "firstName": "BRETT",
+          "lastName": "SMITH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60168",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "312-577-7000"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "HALAN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "35534",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2735"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "VIKRAM",
+          "lastName": "MANDELIA",
+          "middleName": "A.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "84323",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2867"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "PROSCIA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "47010",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN  PC",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "ISAAC",
+          "lastName": "SLUTSKY",
+          "middleName": "T.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64620",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-229-2733"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER,  22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS AND KUSHMAN PC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "CONGER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31209",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2771"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE,TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "WILLIAM",
+          "lastName": "ABBATT",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "31936",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST.",
+              "addressLineTwoText": "SUITE 400N",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C.",
+              "postalCode": "48067"
+            }
+          ],
+          "firstName": "JOHN",
+          "lastName": "LEROY",
+          "middleName": "S",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48158",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS  KUSHMAN P.C., LAW FIRM",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "SANGEETA",
+          "lastName": "SHAH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38614",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "2000 TOWN CENTER",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BEJIN BIENEMAN PLC",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "PATRICK",
+          "lastName": "LEONARD",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59575",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "734-604-6490"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN, P.C.",
+              "postalCode": "48075-123"
+            }
+          ],
+          "firstName": "ERIN",
+          "lastName": "BOWLES",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "64705",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1000 TOWN CENTER DRIVE, 22ND FLOOR",
+              "cityName": "SOUTHFIELD",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN P.C.",
+              "postalCode": "48075"
+            }
+          ],
+          "firstName": "DAVID",
+          "lastName": "SYROWIK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "27956",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-358-4400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "150 W. SECOND ST., SUITE 400N",
+              "addressLineTwoText": "TWENTY-SECOND FLOOR",
+              "cityName": "ROYAL OAK",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "MI",
+              "geographicRegionName": "MICHIGAN",
+              "nameLineOneText": "BROOKS KUSHMAN PC",
+              "postalCode": "48067-3846"
+            }
+          ],
+          "firstName": "RACHEL",
+          "lastName": "SMITH",
+          "middleName": "A",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "66437",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "248-226-2734"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D12",
+  "uspc_symbol": "D12/196"
+}

@@ -1,0 +1,342 @@
+{
+  "applicant": null,
+  "application_number": "29249067",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-11-20 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-09-19",
+  "grant_date": "2007-11-20",
+  "invention_title": "BOTTLE",
+  "label": "negative",
+  "patent_number": "D555498",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 3728,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-10-31",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D9",
+      "customerNumber": 201,
+      "docketNumber": "DM6212V",
+      "effectiveFilingDate": "2006-09-19",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted"
+      },
+      "examinerNameText": "OSWECKI, ELIZABETH J",
+      "filingDate": "2006-09-19",
+      "firstInventorName": "Vinod Kumar BANSAL",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-11-20",
+      "groupArtUnitNumber": "2912",
+      "inventionTitle": "BOTTLE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Edison",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "Vinod Kumar BANSAL",
+              "postalAddressCategory": "postal"
+            },
+            {
+              "cityName": "Edison",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "Vinod Kumar BANSAL",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Vinod",
+          "inventorNameText": "Vinod Kumar BANSAL",
+          "lastName": "BANSAL",
+          "middleName": "Kumar"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D555498",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "543",
+      "uspcSymbolText": "D9/543"
+    },
+    "applicationNumberText": "29249067",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "700 SYLVAN AVENUE, C-2",
+              "cityName": "ENGLEWOOD CLIFFS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "ictCountryCode": "US",
+              "ictStateCode": "NJ",
+              "postalCode": "07632"
+            },
+            "assigneeNameText": "CONOPCO, INC. D/B/A UNILEVER"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18403/113",
+        "assignmentMailedDate": "2006-10-18",
+        "assignmentReceivedDate": "2006-10-16",
+        "assignmentRecordedDate": "2006-10-16",
+        "assignorBag": [
+          {
+            "assignorName": "BANSAL, VINOD",
+            "executionDate": "2006-09-21"
+          }
+        ],
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "700 SYLAVN AVENUE",
+          "addressLineThreeText": "ENGLEWOOD CLIFFS, NEW JERSEY 07632",
+          "addressLineTwoText": "C-2 SOUTH",
+          "correspondentNameText": "UNILEVER INTELLECUAL PROPERTY GROUP"
+        },
+        "frameNumber": 113,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "018403/0113",
+        "reelNumber": 18403
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "111 River Street",
+        "cityName": "Hoboken",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "NJ",
+        "geographicRegionName": "NEW JERSEY",
+        "nameLineOneText": "UNILEVER PATENT GROUP",
+        "postalCode": "07030"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-11-20",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-10-31",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-10-17",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-08-15",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-08-14",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-05-18",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-05-16",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2007-04-27",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-10-18",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-10-06",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-10-04",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-10-05",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-09-19",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-15T22:00:01",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "111 RIVER STREET",
+              "cityName": "HOBOKEN",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "CONOPCO, INC.",
+              "postalCode": "07030"
+            }
+          ],
+          "firstName": "GERARD",
+          "lastName": "MCGOWAN",
+          "middleName": "J",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "29412",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "914-792-8400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "700 SYLVAN AVENUE",
+              "addressLineTwoText": "FLOOR A4",
+              "cityName": "ENGLEWOOD CLIFFS",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "NJ",
+              "geographicRegionName": "NEW JERSEY",
+              "nameLineOneText": "UNILEVER",
+              "nameLineTwoText": "PATENT GROUP",
+              "postalCode": "07632"
+            }
+          ],
+          "firstName": "EDWARD",
+          "lastName": "SQUILLANTE",
+          "nameSuffix": "JR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38319",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "201-214-9580"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "40 MERRITT BLVD.",
+              "cityName": "TRUMBULL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "UNILEVER",
+              "postalCode": "06611"
+            }
+          ],
+          "firstName": "KRISTA",
+          "lastName": "AIELLO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60297",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-895-1111"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "40 MERRITT BLVD.",
+              "cityName": "TRUMBULL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "UNILEVER",
+              "postalCode": "06611"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "DELPONTE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75192",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "475-239-6329"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "40 MERRITT BOULEVARD",
+              "cityName": "TRUMBULL",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CT",
+              "geographicRegionName": "CONNECTICUT",
+              "nameLineOneText": "UNILEVER",
+              "postalCode": "06611"
+            }
+          ],
+          "firstName": "STEPHANIE",
+          "lastName": "HUANG",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "78387",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "203-895-8773"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D9",
+  "uspc_symbol": "D9/543"
+}

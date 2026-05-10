@@ -1,0 +1,387 @@
+{
+  "applicant": null,
+  "application_number": "29246579",
+  "drawing_xml_url": null,
+  "expiry_note": "Granted 2007-12-11 \u2014 past 14/15yr term as of 2026",
+  "filing_date": "2006-04-25",
+  "grant_date": "2007-12-11",
+  "invention_title": "EMERGENCY DEVICE",
+  "label": "negative",
+  "patent_number": "D557433",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicationConfirmationNumber": 1916,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2007-11-21",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D26",
+      "customerNumber": 39775,
+      "docketNumber": "EP-4001US",
+      "effectiveFilingDate": "2006-04-25",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small"
+      },
+      "examinerNameText": "FITTS, CARISSA C",
+      "filingDate": "2006-04-25",
+      "firstInventorName": "Peter Spiegel",
+      "firstInventorToFileIndicator": "N",
+      "grantDate": "2007-12-11",
+      "groupArtUnitNumber": "2916",
+      "inventionTitle": "EMERGENCY DEVICE",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Los Angeles",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "Peter  Spiegel",
+              "postalAddressCategory": "residence"
+            }
+          ],
+          "countryCode": "US",
+          "firstName": "Peter",
+          "inventorNameText": "Peter Spiegel",
+          "lastName": "Spiegel"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D557433",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "38",
+      "uspcSymbolText": "D26/38"
+    },
+    "applicationNumberText": "29246579",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "17 EARLSFORT TERRACE",
+              "cityName": "DUBLIN",
+              "countryName": "IRELAND",
+              "geographicRegionCode": "IEX",
+              "ictCountryCode": "IE",
+              "postalCode": "2"
+            },
+            "assigneeNameText": "SYLMARK HOLDINGS LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18354/842",
+        "assignmentMailedDate": "2006-10-05",
+        "assignmentReceivedDate": "2006-10-05",
+        "assignmentRecordedDate": "2006-10-05",
+        "assignorBag": [
+          {
+            "assignorName": "SPIEGEL, PETER",
+            "executionDate": "2006-04-21"
+          }
+        ],
+        "attorneyDocketNumber": "EP-4001US",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "4929 WILSHIRE BLVD., SUITE 500",
+          "addressLineTwoText": "LOS ANGELES, CA 90010",
+          "correspondentNameText": "KATHY MOJIBI"
+        },
+        "frameNumber": 842,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 3,
+        "reelAndFrameNumber": "018354/0842",
+        "reelNumber": 18354
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "UNIT B, 16TH FLOOR, W SQUARE",
+              "addressLineTwoText": "314-324 HENNESSY ROAD",
+              "cityName": "WANCHAI",
+              "countryName": "HONG KONG",
+              "geographicRegionCode": "HKX",
+              "ictCountryCode": "HK"
+            },
+            "assigneeNameText": "SYLMARK HOLDINGS LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26519/221",
+        "assignmentMailedDate": "2011-06-29",
+        "assignmentReceivedDate": "2011-06-29",
+        "assignmentRecordedDate": "2011-06-29",
+        "assignorBag": [
+          {
+            "assignorName": "SYLMARK HOLDINGS LIMITED",
+            "executionDate": "2010-01-04"
+          }
+        ],
+        "attorneyDocketNumber": "601-19",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "425 BROADHOLLOW ROAD",
+          "addressLineThreeText": "MELVILLE, NY 11747",
+          "addressLineTwoText": "SUITE 302",
+          "correspondentNameText": "TUTUNJIAN & BITETTO, P.C."
+        },
+        "frameNumber": 221,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 11,
+        "reelAndFrameNumber": "026519/0221",
+        "reelNumber": 26519
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "UNIT B, 16TH FLOOR, W SQUARE",
+              "addressLineTwoText": "314-324 HENNESSY ROAD",
+              "cityName": "WANCHAI",
+              "countryName": "HONG KONG",
+              "geographicRegionCode": "HKX",
+              "ictCountryCode": "HK"
+            },
+            "assigneeNameText": "IDEAL LIVING HOLDINGS LIMITED"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26519/296",
+        "assignmentMailedDate": "2011-06-29",
+        "assignmentReceivedDate": "2011-06-29",
+        "assignmentRecordedDate": "2011-06-29",
+        "assignorBag": [
+          {
+            "assignorName": "SYLMARK HOLDINGS LIMITED",
+            "executionDate": "2011-03-14"
+          }
+        ],
+        "attorneyDocketNumber": "601-19",
+        "conveyanceText": "CHANGE OF NAME",
+        "correspondenceAddress": {
+          "addressLineOneText": "425 BROADHOLLOW ROAD",
+          "addressLineThreeText": "MELVILLE, NY 11747",
+          "addressLineTwoText": "SUITE 302",
+          "correspondentNameText": "TUTUNJIAN & BITETTO, P.C."
+        },
+        "frameNumber": 296,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 4,
+        "reelAndFrameNumber": "026519/0296",
+        "reelNumber": 26519
+      },
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "14724 VENTURA BLVD",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "SHERMAN OAKS",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "ictCountryCode": "US",
+              "ictStateCode": "CA",
+              "postalCode": "91403"
+            },
+            "assigneeNameText": "IDEAL LIVING, LLC"
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/69769/931",
+        "assignmentMailedDate": "2025-01-08",
+        "assignmentReceivedDate": "2025-01-07",
+        "assignmentRecordedDate": "2025-01-07",
+        "assignorBag": [
+          {
+            "assignorName": "IDEAL LIVING HOLDINGS, LTD.",
+            "executionDate": "2018-12-28"
+          }
+        ],
+        "attorneyDocketNumber": "31686-0001",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "999 PEACHTREE STREET NE",
+          "addressLineThreeText": "ATLANTA, GA 30309",
+          "addressLineTwoText": "#2300",
+          "correspondentNameText": "MS. LINDSAY M. KRIZ"
+        },
+        "frameNumber": 931,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 10,
+        "reelAndFrameNumber": "069769/0931",
+        "reelNumber": 69769
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "7821 Orion Avenue",
+        "addressLineTwoText": "SUITE 200",
+        "cityName": "Lake Balboa",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "CA",
+        "geographicRegionName": "CALIFORNIA",
+        "nameLineOneText": "SYLMARK, INC.",
+        "postalCode": "91406"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2007-12-11",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2007-11-21",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2007-04-11",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "C600",
+        "eventDate": "2007-03-12",
+        "eventDescriptionText": "Supplemental Papers - Oath or Declaration"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2007-03-17",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "DRWF",
+        "eventDate": "2007-03-12",
+        "eventDescriptionText": "Workflow - Drawings Finished"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2007-03-12",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2007-03-12",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "MN/DR",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail  Formal Drawings Required"
+      },
+      {
+        "eventCode": "MEX.A",
+        "eventDate": "2007-01-10",
+        "eventDescriptionText": "Mail Examiner's Amendment"
+      },
+      {
+        "eventCode": "N/DR",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Formal Drawings Required"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2007-01-09",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-10-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "TSSCOMP",
+        "eventDate": "2006-07-17",
+        "eventDescriptionText": "IFW TSS Processing by Tech Center Complete"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2006-07-17",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2006-05-25",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2006-05-26",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2006-04-25",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "lastIngestionDateTime": "2026-04-30T22:00:04",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "320 W. 31ST STREET",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SIGNAL BRANDS",
+              "postalCode": "90007"
+            }
+          ],
+          "firstName": "KATHY",
+          "lastName": "MOJIBI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-748-0990"
+            }
+          ]
+        }
+      ],
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "320 W. 31ST STREET",
+              "cityName": "LOS ANGELES",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "CA",
+              "geographicRegionName": "CALIFORNIA",
+              "nameLineOneText": "SIGNAL BRANDS",
+              "postalCode": "90007"
+            }
+          ],
+          "firstName": "KATHY",
+          "lastName": "MOJIBI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "41409",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "213-748-0990"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "expired_design_patent",
+  "uspc_class": "D26",
+  "uspc_symbol": "D26/38"
+}

@@ -1,0 +1,661 @@
+{
+  "applicant": "GigaLane Co., Ltd.",
+  "application_number": "29731920",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241029/29731920_D1048868.xml",
+  "filing_date": "2020-04-20",
+  "grant_date": "2024-10-29",
+  "invention_title": "PART OF CONNECTOR",
+  "label": "positive",
+  "patent_number": "D1048868",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "GigaLane Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "GigaLane Co., Ltd.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 3157,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-10-09",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D8",
+      "customerNumber": 192673,
+      "docketNumber": "4823DES.856SIP",
+      "effectiveFilingDate": "2020-04-20",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Small",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "KADOO, RENE H",
+      "filingDate": "2020-04-20",
+      "firstApplicantName": "GigaLane Co., Ltd.",
+      "firstInventorName": "Kyung Hun JUNG",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-10-29",
+      "groupArtUnitNumber": "2933",
+      "inventionTitle": "PART OF CONNECTOR",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Kyung Hun  JUNG",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Kyung Hun  JUNG",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Kyung Hun",
+          "inventorNameText": "Kyung Hun JUNG",
+          "lastName": "JUNG"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hwa Yoon  SONG",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hwa Yoon  SONG",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Hwa Yoon",
+          "inventorNameText": "Hwa Yoon SONG",
+          "lastName": "SONG"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Young Jo  KIM",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Young Jo  KIM",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Young Jo",
+          "inventorNameText": "Young Jo KIM",
+          "lastName": "KIM"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Yu Jin  LEE",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Yu Jin  LEE",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Yu Jin",
+          "inventorNameText": "Yu Jin LEE",
+          "lastName": "LEE"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Jae Jun  LEE",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Jae Jun  LEE",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Jae Jun",
+          "inventorNameText": "Jae Jun LEE",
+          "lastName": "LEE"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Sang Min  SEO",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Sang Min  SEO",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Sang Min",
+          "inventorNameText": "Sang Min SEO",
+          "lastName": "SEO"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Hwaseong-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hee seok  JUNG",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Hwaseong-si, Gyeonggi-do",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Hee seok  JUNG",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Hee seok",
+          "inventorNameText": "Hee seok JUNG",
+          "lastName": "JUNG"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1048868",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "382",
+      "uspcSymbolText": "D8/382"
+    },
+    "applicationNumberText": "29731920",
+    "assignmentBag": [
+      {
+        "assigneeBag": [
+          {
+            "assigneeAddress": {
+              "addressLineOneText": "61, DONGTANSANDAN 10-GIL, DONGTAN-MYEON",
+              "cityName": "HWASEONG-SI, GYEONGGI-DO",
+              "countryName": "KOREA, REPUBLIC OF",
+              "geographicRegionCode": "KRX",
+              "ictCountryCode": "KR",
+              "postalCode": "18487"
+            },
+            "assigneeNameText": "GIGALANE CO., LTD."
+          }
+        ],
+        "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/52440/235",
+        "assignmentMailedDate": "2020-04-21",
+        "assignmentReceivedDate": "2020-04-20",
+        "assignmentRecordedDate": "2020-04-20",
+        "assignorBag": [
+          {
+            "assignorName": "JUNG, KYUNG HUN",
+            "executionDate": "2020-03-27"
+          },
+          {
+            "assignorName": "KIM, YOUNG JO",
+            "executionDate": "2020-03-27"
+          },
+          {
+            "assignorName": "LEE, YU JIN",
+            "executionDate": "2020-03-27"
+          },
+          {
+            "assignorName": "SONG, HWA YOON",
+            "executionDate": "2020-03-27"
+          },
+          {
+            "assignorName": "SEO, SANG MIN",
+            "executionDate": "2020-03-31"
+          },
+          {
+            "assignorName": "JUNG, HEE SEOK",
+            "executionDate": "2020-04-01"
+          },
+          {
+            "assignorName": "LEE, JAE JUN",
+            "executionDate": "2020-04-01"
+          }
+        ],
+        "attorneyDocketNumber": "4823DES.856BS",
+        "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+        "correspondenceAddress": {
+          "addressLineOneText": "1925 BALLENGER AVENUE, STE. 560",
+          "addressLineTwoText": "ALEXANDRIA, VA 22314",
+          "correspondentNameText": "BRUNDIDGE & STANGER, P.C."
+        },
+        "frameNumber": 235,
+        "imageAvailableStatusCode": true,
+        "pageTotalQuantity": 9,
+        "reelAndFrameNumber": "052440/0235",
+        "reelNumber": 52440
+      }
+    ],
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "1800 Diagonal Road, Suite 600",
+        "cityName": "Alexandria",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "VA",
+        "geographicRegionName": "VIRGINIA",
+        "nameLineOneText": "Shih IP Law Group, PLLC",
+        "postalCode": "22314"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-09-24",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-09-19",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-09-19",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-08-23",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-08-20",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-12-19",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-12-11",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2023-07-17",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-07-14",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "PA..",
+        "eventDate": "2023-07-14",
+        "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+      },
+      {
+        "eventCode": "C.ADB",
+        "eventDate": "2023-04-13",
+        "eventDescriptionText": "Correspondence Address Change"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2021-04-08",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2020-07-09",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2020-05-04",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2020-04-24",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "CCRDY",
+        "eventDate": "2020-04-24",
+        "eventDescriptionText": "Application ready for PDX access by participating foreign offices"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2020-04-23",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2020-04-23",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2020-04-23",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2020-04-23",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2020-04-20",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2020-04-20",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2020-04-20",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "SMAL",
+        "eventDate": "2020-04-23",
+        "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2020-04-20",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2020-04-20",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "30-2019-0063433",
+        "filingDate": "2019-12-27",
+        "ipOfficeName": "REPUBLIC OF KOREA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-10-29T08:09:45",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241029/29731920_D1048868.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29731920_D1048868.xml",
+      "zipFileName": "ipg241029.zip"
+    },
+    "lastIngestionDateTime": "2026-04-15T05:00:02",
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "THEODORE",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60645",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "571-384-8352"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "LEENA",
+          "lastName": "MAUSKAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75535",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL RD, SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "MISUNG",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78307",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 192673,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "1800 Diagonal Road, Suite 600",
+            "cityName": "Alexandria",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "VA",
+            "geographicRegionName": "VIRGINIA",
+            "nameLineOneText": "Shih IP Law Group, PLLC",
+            "postalCode": "22314"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "THEODORE",
+          "lastName": "SHIH",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "60645",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "FAX",
+              "telecommunicationNumber": "571-384-8352"
+            },
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL RD, SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "MISUNG",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "78307",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1800 DIAGONAL ROAD",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "SHIH IP LAW GROUP, PLLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "LEENA",
+          "lastName": "MAUSKAR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75535",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "571-384-8352"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D8",
+  "uspc_symbol": "D8/382"
+}

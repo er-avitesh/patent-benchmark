@@ -1,0 +1,1511 @@
+{
+  "applicant": "Samsung Electronics Co., Ltd.",
+  "application_number": "29885445",
+  "drawing_xml_url": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29885445_D1055245.xml",
+  "filing_date": "2023-02-24",
+  "grant_date": "2024-12-24",
+  "invention_title": "Air Conditioner",
+  "label": "positive",
+  "patent_number": "D1055245",
+  "raw_record": {
+    "applicationMetaData": {
+      "applicantBag": [
+        {
+          "applicantNameText": "Samsung Electronics Co., Ltd.",
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Samsung Electronics Co., Ltd.",
+              "postalAddressCategory": "postal"
+            }
+          ]
+        }
+      ],
+      "applicationConfirmationNumber": 8314,
+      "applicationStatusCode": 150,
+      "applicationStatusDate": "2024-12-04",
+      "applicationStatusDescriptionText": "Patented Case",
+      "applicationTypeCategory": "REGULAR",
+      "applicationTypeCode": "DES",
+      "applicationTypeLabelName": "Design",
+      "class": "D23",
+      "customerNumber": 89980,
+      "docketNumber": "D91109.0407D1",
+      "effectiveFilingDate": "2023-02-24",
+      "entityStatusData": {
+        "businessEntityStatusCategory": "Regular Undiscounted",
+        "smallEntityStatusIndicator": false
+      },
+      "examinerNameText": "VUJCIC, NATASHA",
+      "filingDate": "2023-02-24",
+      "firstApplicantName": "Samsung Electronics Co., Ltd.",
+      "firstInventorName": "Kangdoo KIM",
+      "firstInventorToFileIndicator": "Y",
+      "grantDate": "2024-12-24",
+      "groupArtUnitNumber": "2913",
+      "inventionTitle": "Air Conditioner",
+      "inventorBag": [
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "KIM, Kangdoo",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Kangdoo  KIM",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Kangdoo",
+          "inventorNameText": "Kangdoo KIM",
+          "lastName": "KIM"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "LEE, Sangin",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Sangin  LEE",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Sangin",
+          "inventorNameText": "Sangin LEE",
+          "lastName": "LEE"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "SHIN, Youngsun",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Youngsun  SHIN",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Youngsun",
+          "inventorNameText": "Youngsun SHIN",
+          "lastName": "SHIN"
+        },
+        {
+          "correspondenceAddressBag": [
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "YOO, Suhyun",
+              "postalAddressCategory": "residence"
+            },
+            {
+              "cityName": "Suwon-si",
+              "countryCode": "KR",
+              "countryName": "KOREA, REPUBLIC OF",
+              "nameLineOneText": "Suhyun  YOO",
+              "postalAddressCategory": "postal"
+            }
+          ],
+          "firstName": "Suhyun",
+          "inventorNameText": "Suhyun YOO",
+          "lastName": "YOO"
+        }
+      ],
+      "nationalStageIndicator": false,
+      "patentNumber": "D1055245",
+      "publicationCategoryBag": [
+        "Granted/Issued"
+      ],
+      "subclass": "351",
+      "uspcSymbolText": "D23/351"
+    },
+    "applicationNumberText": "29885445",
+    "correspondenceAddressBag": [
+      {
+        "addressLineOneText": "P.O. Box 65745",
+        "cityName": "Washington",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "geographicRegionCode": "DC",
+        "geographicRegionName": "DISTRICT OF COLUMBIA",
+        "nameLineOneText": "NSIP LAW",
+        "postalCode": "20035"
+      }
+    ],
+    "eventDataBag": [
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2025-02-11",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MECOCNTF",
+        "eventDate": "2025-02-11",
+        "eventDescriptionText": "Mail Patent eCofC Notification"
+      },
+      {
+        "eventCode": "ECOC_NTF",
+        "eventDate": "2025-02-11",
+        "eventDescriptionText": "Patent eCofC Notification"
+      },
+      {
+        "eventCode": "ECOC/",
+        "eventDate": "2025-02-11",
+        "eventDescriptionText": "Recordation of Patent eCertificate of Correction"
+      },
+      {
+        "eventCode": "N423",
+        "eventDate": "2025-01-23",
+        "eventDescriptionText": "Post Issue Communication - Certificate of Correction"
+      },
+      {
+        "eventCode": "PGM/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent Grant Mailed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MEPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Mail Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG_NTF",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Patent eGrant Notification"
+      },
+      {
+        "eventCode": "EPG/",
+        "eventDate": "2024-12-24",
+        "eventDescriptionText": "Recordation of Patent eGrant"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "WPIR",
+        "eventDate": "2024-12-04",
+        "eventDescriptionText": "Issue Notification Mailed"
+      },
+      {
+        "eventCode": "D1935",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Dispatch to FDC"
+      },
+      {
+        "eventCode": "PILS",
+        "eventDate": "2024-11-05",
+        "eventDescriptionText": "Application Is Considered Ready for Issue"
+      },
+      {
+        "eventCode": "N084",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Issue Fee Payment Verified"
+      },
+      {
+        "eventCode": "IFEE",
+        "eventDate": "2024-10-29",
+        "eventDescriptionText": "Issue Fee Payment Received"
+      },
+      {
+        "eventCode": "MN/=.",
+        "eventDate": "2024-10-09",
+        "eventDescriptionText": "Mail Notice of Allowance"
+      },
+      {
+        "eventCode": "N/=.",
+        "eventDate": "2024-10-05",
+        "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+      },
+      {
+        "eventCode": "P574",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "PARALEGAL OR ELECTRONIC TERMINAL DISCLAIMER APPROVED"
+      },
+      {
+        "eventCode": "DIST",
+        "eventDate": "2024-09-30",
+        "eventDescriptionText": "Terminal Disclaimer Filed"
+      },
+      {
+        "eventCode": "FWDX",
+        "eventDate": "2024-09-27",
+        "eventDescriptionText": "Date Forwarded to Examiner"
+      },
+      {
+        "eventCode": "A...",
+        "eventDate": "2024-09-26",
+        "eventDescriptionText": "Response after Non-Final Action"
+      },
+      {
+        "eventCode": "ELC_RVW",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Electronic Review"
+      },
+      {
+        "eventCode": "EML_NTF",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "MCTNF",
+        "eventDate": "2024-08-27",
+        "eventDescriptionText": "Mail Non-Final Rejection"
+      },
+      {
+        "eventCode": "CTNF",
+        "eventDate": "2024-08-22",
+        "eventDescriptionText": "Non-Final Rejection"
+      },
+      {
+        "eventCode": "IDSC",
+        "eventDate": "2024-08-14",
+        "eventDescriptionText": "Information Disclosure Statement considered"
+      },
+      {
+        "eventCode": "DOCK",
+        "eventDate": "2023-03-13",
+        "eventDescriptionText": "Case Docketed to Examiner in GAU"
+      },
+      {
+        "eventCode": "PD.RECVD",
+        "eventDate": "2023-03-06",
+        "eventDescriptionText": "Priority document has successfully retrieved via PDX/DAS"
+      },
+      {
+        "eventCode": "M844",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "EML_NTR",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Email Notification"
+      },
+      {
+        "eventCode": "OIPE",
+        "eventDate": "2023-03-01",
+        "eventDescriptionText": "Application Dispatched from OIPE"
+      },
+      {
+        "eventCode": "FTFS",
+        "eventDate": "2023-03-01",
+        "eventDescriptionText": "FITF set to YES - revise initial setting"
+      },
+      {
+        "eventCode": "COMP",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Application Is Now Complete"
+      },
+      {
+        "eventCode": "FLRCPT.O",
+        "eventDate": "2023-03-02",
+        "eventDescriptionText": "Filing Receipt"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "SREXR141",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results"
+      },
+      {
+        "eventCode": "APPERMS",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Applicants have given acceptable permission for participating foreign"
+      },
+      {
+        "eventCode": "PDREQUST",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Request from applicant for the USPTO to retrieve the Priority Document"
+      },
+      {
+        "eventCode": "WIDS",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+      },
+      {
+        "eventCode": "BIG.",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)"
+      },
+      {
+        "eventCode": "IEXX",
+        "eventDate": "2023-02-24",
+        "eventDescriptionText": "Initial Exam Team nn"
+      }
+    ],
+    "foreignPriorityBag": [
+      {
+        "applicationNumberText": "30-2019-0024460",
+        "filingDate": "2019-05-23",
+        "ipOfficeName": "REPUBLIC OF KOREA"
+      }
+    ],
+    "grantDocumentMetaData": {
+      "fileCreateDateTime": "2024-12-24T09:09:11",
+      "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg241224/29885445_D1055245.xml",
+      "productIdentifier": "PTGRXML",
+      "xmlFileName": "29885445_D1055245.xml",
+      "zipFileName": "ipg241224.zip"
+    },
+    "lastIngestionDateTime": "2026-05-02T09:00:04",
+    "parentContinuityBag": [
+      {
+        "childApplicationNumberText": "29885445",
+        "claimParentageTypeCode": "DIV",
+        "claimParentageTypeCodeDescriptionText": "is a Division of",
+        "firstInventorToFileIndicator": true,
+        "parentApplicationFilingDate": "2019-11-15",
+        "parentApplicationNumberText": "29713335",
+        "parentApplicationStatusCode": 150,
+        "parentApplicationStatusDescriptionText": "Patented Case",
+        "parentPatentNumber": "D1001252"
+      }
+    ],
+    "recordAttorney": {
+      "attorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1300 19TH STREET, N.W.",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ROYLANCE, ABRAMS, BEDRO & GOODMAN, L.L.P",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "CANTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28163",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-659-9076"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9113 ACADIA PARK DR.",
+              "cityName": "BRISTOW",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "WONKI PARK",
+              "postalCode": "20136"
+            }
+          ],
+          "firstName": "WONKI",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-216-4996"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "DEBORAH",
+          "lastName": "GLADSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43636",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4117"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "BOUGHNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45317",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "22317 NE 160TH PLACE",
+              "cityName": "WOODINVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "LAW OFFICE OF JAMES STROM",
+              "postalCode": "98077"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "STROM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-939-0781"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE. NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 65745",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20035"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "HRUTKA",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53918",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE., NW",
+              "addressLineTwoText": "SUITE #304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "GREENE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55223",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW, SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "SVIHLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56273",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-765-2461"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE NW, SUITE 461",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "nameLineTwoText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WALLERSON",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-644-8810"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE NO. 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SOHYUN",
+          "lastName": "CHUNG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59875",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-627-4283"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "WALKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59921",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "JONG",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62376",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 461",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "BEN",
+          "lastName": "YOU",
+          "middleName": "XIAOBIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62510",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "11 CANAL CENTER PLAZA",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF PLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JERRICK",
+          "lastName": "HO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63763",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE., NW,",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SHABNAM",
+          "lastName": "NOWROUZI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE NW",
+              "addressLineTwoText": "304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHING",
+          "lastName": "KWOK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72887",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-391-0280"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MATIKAINEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73291",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNETICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "WALE",
+          "lastName": "GODO",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020 EXT.508"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE  304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "YONG SEOCK",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76846",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW, SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "YONGWOON",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81062",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        }
+      ],
+      "customerNumberCorrespondenceData": {
+        "patronIdentifier": 89980,
+        "powerOfAttorneyAddressBag": [
+          {
+            "addressLineOneText": "P.O. Box 65745",
+            "cityName": "Washington",
+            "countryCode": "US",
+            "countryName": "UNITED STATES",
+            "geographicRegionCode": "DC",
+            "geographicRegionName": "DISTRICT OF COLUMBIA",
+            "nameLineOneText": "NSIP LAW",
+            "postalCode": "20035"
+          }
+        ]
+      },
+      "powerOfAttorneyBag": [
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE NO. 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SOHYUN",
+          "lastName": "CHUNG",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59875",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-627-4283"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "22317 NE 160TH PLACE",
+              "cityName": "WOODINVILLE",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "WA",
+              "geographicRegionName": "WASHINGTON",
+              "nameLineOneText": "LAW OFFICE OF JAMES STROM",
+              "postalCode": "98077"
+            }
+          ],
+          "firstName": "JAMES",
+          "lastName": "STROM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "48702",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "425-939-0781"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "901 N. GLEBE ROAD, 11TH FLOOR",
+              "cityName": "ARLINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "NIXON & VANDERHYE P.C.",
+              "postalCode": "22203-180"
+            }
+          ],
+          "firstName": "DEBORAH",
+          "lastName": "GLADSTEIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "43636",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-816-4117"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "AARON",
+          "lastName": "WALKER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "59921",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "9113 ACADIA PARK DR.",
+              "cityName": "BRISTOW",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "WONKI PARK",
+              "postalCode": "20136"
+            }
+          ],
+          "firstName": "WONKI",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "38991",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-216-4996"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "P.O. BOX 65745",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "postalCode": "20035"
+            }
+          ],
+          "firstName": "JOSEPH",
+          "lastName": "HRUTKA",
+          "middleName": "P",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "53918",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1300 19TH STREET, N.W.",
+              "addressLineTwoText": "SUITE 600",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "ROYLANCE, ABRAMS, BEDRO & GOODMAN, L.L.P",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "ALAN",
+          "lastName": "CANTOR",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "28163",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-659-9076"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "11 CANAL CENTER PLAZA",
+              "addressLineTwoText": "SUITE 200",
+              "cityName": "ALEXANDRIA",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "VA",
+              "geographicRegionName": "VIRGINIA",
+              "nameLineOneText": "OLIFF PLC",
+              "postalCode": "22314"
+            }
+          ],
+          "firstName": "JERRICK",
+          "lastName": "HO",
+          "middleName": "J",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "63763",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "703-836-6400"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE  304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "YONG SEOCK",
+          "lastName": "CHOI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "76846",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE., NW,",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "SHABNAM",
+          "lastName": "NOWROUZI",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "71264",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE NW",
+              "addressLineTwoText": "304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHING",
+          "lastName": "KWOK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "72887",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-391-0280"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW, SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "RANDALL",
+          "lastName": "SVIHLA",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "56273",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-765-2461"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "THOMAS",
+          "lastName": "MATIKAINEN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "73291",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "JONG",
+          "lastName": "LEE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62376",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE. NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "PARK",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "50709",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW, SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "YONGWOON",
+          "lastName": "KIM",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "81062",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "STEPHEN",
+          "lastName": "BOUGHNER",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "45317",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 461",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "BEN",
+          "lastName": "YOU",
+          "middleName": "XIAOBIN",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "62510",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNETICUT AVENUE, NW",
+              "addressLineTwoText": "SUITE 304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "WALE",
+          "lastName": "GODO",
+          "nameSuffix": "JR.",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "75219",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020 EXT.508"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE., NW",
+              "addressLineTwoText": "SUITE #304",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "CHARLES",
+          "lastName": "GREENE",
+          "registeredPractitionerCategory": "ATTNY",
+          "registrationNumber": "55223",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-429-0020"
+            }
+          ]
+        },
+        {
+          "activeIndicator": "ACTIVE",
+          "attorneyAddressBag": [
+            {
+              "addressLineOneText": "1120 CONNECTICUT AVE NW, SUITE 461",
+              "addressLineTwoText": "SUITE 800",
+              "cityName": "WASHINGTON",
+              "countryCode": "US",
+              "countryName": "UNITED STATES",
+              "geographicRegionCode": "DC",
+              "geographicRegionName": "DISTRICT OF COLUMBIA",
+              "nameLineOneText": "NSIP LAW",
+              "nameLineTwoText": "NSIP LAW",
+              "postalCode": "20036"
+            }
+          ],
+          "firstName": "MARK",
+          "lastName": "WALLERSON",
+          "middleName": "E.",
+          "registeredPractitionerCategory": "AGENT",
+          "registrationNumber": "59043",
+          "telecommunicationAddressBag": [
+            {
+              "telecomTypeCode": "TEL",
+              "telecommunicationNumber": "202-644-8810"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_type": "in_force_design_patent",
+  "uspc_class": "D23",
+  "uspc_symbol": "D23/351"
+}
