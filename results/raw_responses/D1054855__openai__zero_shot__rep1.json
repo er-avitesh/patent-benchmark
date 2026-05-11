@@ -1,0 +1,51 @@
+{
+  "job_id": "D1054855__openai__zero_shot__rep1",
+  "query_id": "D1054855",
+  "model_key": "openai",
+  "model_string": "gpt-5.5",
+  "strategy": "zero_shot",
+  "rep": 1,
+  "query_label": "positive",
+  "query_uspc": "D9",
+  "candidates": [
+    {
+      "rank": 1,
+      "candidate_id": "D1055697",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "D1043352",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "D9_gen_bottle",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "D1054284",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 5,
+      "candidate_id": "D1042157",
+      "candidate_label": "positive"
+    }
+  ],
+  "raw_response": "{\n  \"candidate_1\": \"NO_INFRINGE\",\n  \"candidate_2\": \"NO_INFRINGE\",\n  \"candidate_3\": \"NO_INFRINGE\",\n  \"candidate_4\": \"NO_INFRINGE\",\n  \"candidate_5\": \"NO_INFRINGE\"\n}",
+  "verdicts": {
+    "candidate_1": "NO_INFRINGE",
+    "candidate_2": "NO_INFRINGE",
+    "candidate_3": "NO_INFRINGE",
+    "candidate_4": "NO_INFRINGE",
+    "candidate_5": "NO_INFRINGE"
+  },
+  "verdict_count": 5,
+  "parse_ok": true,
+  "elapsed_sec": 6.91,
+  "attempt": 1,
+  "timestamp_utc": "2026-05-11T02:54:59.249369+00:00",
+  "error": null
+}

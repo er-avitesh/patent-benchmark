@@ -1,0 +1,51 @@
+{
+  "job_id": "D555945__gemma__zero_shot__rep1",
+  "query_id": "D555945",
+  "model_key": "gemma",
+  "model_string": "google/gemma-4-31b-it",
+  "strategy": "zero_shot",
+  "rep": 1,
+  "query_label": "negative",
+  "query_uspc": "D6",
+  "candidates": [
+    {
+      "rank": 1,
+      "candidate_id": "D6_gen_table",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "D1055593",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "D6_gen_pillow",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "D1050773",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 5,
+      "candidate_id": "D1055609",
+      "candidate_label": "positive"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"candidate_1\": \"NO_INFRINGE\",\n  \"candidate_2\": \"NO_INFRINGE\",\n  \"candidate_3\": \"NO_INFRINGE\",\n  \"candidate_4\": \"NO_INFRINGE\",\n  \"candidate_5\": \"NO_INFRINGE\"\n}\n```",
+  "verdicts": {
+    "candidate_1": "NO_INFRINGE",
+    "candidate_2": "NO_INFRINGE",
+    "candidate_3": "NO_INFRINGE",
+    "candidate_4": "NO_INFRINGE",
+    "candidate_5": "NO_INFRINGE"
+  },
+  "verdict_count": 5,
+  "parse_ok": true,
+  "elapsed_sec": 9.41,
+  "attempt": 1,
+  "timestamp_utc": "2026-05-11T02:56:36.625456+00:00",
+  "error": null
+}

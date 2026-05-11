@@ -2,8 +2,7 @@
 
 Benchmarking multimodal LLMs on US design-patent infringement detection
 
-
-Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC Charlotte
+Authors: Avitesh Kesharwani, M.S., IEEE Senior Member / Bjarne Berg, Ph.D., UNC Charlotte
 
 ---
 
@@ -13,7 +12,7 @@ Authors: Avitesh Kesharwani, M.S. IEEE Senior Member / Bjarne Berg, Ph.D., UNC C
 Dataset
   Positive drawings (in-force patents)    96 /  96   [====================] 100%
   Negative expired  (public domain)       48 /  48   [====================] 100%
-  Negative open-source (Wikimedia CC0)    48 /  48   [====================] 100%
+  Negative open-source (generated)        48 /  48   [====================] 100%
   Total                                  192 / 192   [====================] 100%
   Processed PNGs                         192 / 192   [====================] 100%
   manifest.csv                           192 / 192   [====================] 100%
@@ -27,14 +26,71 @@ Pipeline
   [x] Module 0   Environment check
   [x] Module 1   Positive-class puller         96 PDFs, 8 USPC classes, 2015-2024
   [x] Module 2   Negative expired puller       72 PDFs pulled, 48 used (6/class)
-  [x] Module 3   Negative open-source          48 drawings, Wikimedia Commons CC0
+  [x] Module 3   Negative open-source          48 drawings, PIL-generated line drawings
+  [x] Module 3b  Negative open-source fix      replaced bad Wikimedia files, PIL generation
   [x] Module 4   Normalize                     192 PNGs, blob detection, Tesseract masking
   [x] Module 5   Build manifest                192 rows, 96 positive / 96 negative, Locarno coded
-  [x] Module 6   Candidate selection           960 pairs, 5 per query, class-restricted
-  [ ] Module 7   Model evaluation              next -- pilot 20 queries, then full run
+  [x] Module 6   Candidate selection           960 pairs, 5 per query, title-keyword matching
+  [x] Module 7   Model evaluation (pilot)      80 calls complete, 4 models, 20 queries
+  [ ] Module 7   Model evaluation (full run)   6,912 calls pending
   [ ] Module 8   Parse responses               parsed.csv
   [ ] Module 9   Statistics                    macro-F1, Cohen kappa, McNemar
 ```
+
+---
+
+## Pilot results (May 2026)
+
+20 queries x 4 models x 1 strategy (zero_shot) x 1 rep = 80 calls.
+All 80 completed with 100% parse rate.
+
+```
+Model               parse_ok    INFRINGE    NO_INFRINGE
+Claude Sonnet 4.6   20/20       0 (0%)      100 (100%)
+GPT-5.5             20/20       1 (1%)      99  (99%)
+Gemini 2.5 Pro      20/20       2 (2%)      98  (98%)
+Gemma 4 31B         20/20       1 (1%)      99  (99%)
+```
+
+Key observation: models exhibit strong conservative bias under the ordinary
+observer test, defaulting to NO_INFRINGE in 96-100% of cases even for
+within-category title-matched pairs. Three models independently flagged the
+same pair (D1051771 vs D1055773, D12 motor vehicle bodies) as INFRINGE.
+This inter-model agreement on a true positive pair is the clearest signal
+from the pilot.
+
+---
+
+## Dataset notes
+
+### Negative open-source (module 3 / 3b)
+
+Original Wikimedia Commons scrape produced 6 identical non-patent images
+duplicated across all 8 USPC classes (physics diagrams, CAD screenshots,
+historical engravings — none relevant to the class). These were replaced
+in module 3b with 48 PIL-generated grayscale line drawings, 6 per class,
+each depicting a recognizable product in the correct category:
+
+  D6  — chair, sofa, table, bed, mirror, pillow
+  D8  — hammer, wrench, screwdriver, saw, pliers, spirit level
+  D9  — bottle, box, tin can, jar, bag, spray can
+  D12 — bicycle, car, motorcycle, bus, truck, wheel
+  D14 — laptop, phone, desktop, keyboard, headphones, tablet
+  D23 — faucet, showerhead, toilet, bathtub, ceiling fan, bucket
+  D24 — syringe, stethoscope, thermometer, pill, bandage, microscope
+  D26 — light bulb, candle, flashlight, lantern, sparkle, star
+
+These serve as visually distinct negatives within each class. They are
+clearly not in-force US design patents, so the binary label is unambiguous.
+
+### Candidate selection (module 6)
+
+Original module 6 paired candidates by USPC class only. USPC classes at
+the 2-digit level are too broad (D14 contains TV mounts, flat screens, GUIs,
+and carabiners — all in different visual subcategories). Updated to
+title-keyword matching: candidates whose invention_title shares a keyword
+with the query are prioritised before random fill. This raised the
+keyword-matched candidate rate from 0% to 54%.
 
 ---
 
@@ -72,19 +128,27 @@ pip install -r requirements.txt
 - macOS: brew install cairo
 - Ubuntu: sudo apt install libcairo2
 
-### 4. USPTO API key
-
-Register at https://data.uspto.gov/apis/getting-started for a free API key.
+### 4. API keys
 
 ```
 cp .env.example .env
-# Add: USPTO_API_KEY=your_key_here
+```
+
+Required keys:
+
+```
+USPTO_API_KEY=...         # data.uspto.gov
+ANTHROPIC_API_KEY=...     # console.anthropic.com
+OPENAI_API_KEY=...        # platform.openai.com
+GOOGLE_API_KEY=...        # aistudio.google.com
+OPENROUTER_API_KEY=...    # openrouter.ai (Gemma 4 31B)
 ```
 
 ### 5. Verify setup
 
 ```bash
 python scripts/00_verify_env.py
+python scripts/test_connections.py
 ```
 
 ---
@@ -94,13 +158,13 @@ python scripts/00_verify_env.py
 Each script reads config.yaml as its single source of truth and is idempotent
 (safe to re-run; already-completed work is skipped).
 
-### Module 0 -- environment check
+### Module 0 — environment check
 
 ```bash
 python scripts/00_verify_env.py
 ```
 
-### Module 1 -- positive-class puller
+### Module 1 — positive-class puller
 
 ```bash
 python scripts/01_pull_uspto.py --dry-run --class D24
@@ -125,10 +189,7 @@ USPC classes:
     D24  Medical instruments Locarno 24  (client anchor class)
     D26  Lighting            Locarno 26
 
-Note: XMLs were only retained for the initial D24 pull. Re-run --all to
-regenerate missing XMLs for full 4-digit Locarno codes (no PDF re-download).
-
-### Module 2 -- negative expired puller
+### Module 2 — negative expired puller
 
 ```bash
 python scripts/02_pull_negative_expired.py --dry-run --class D24
@@ -137,24 +198,17 @@ python scripts/02_pull_negative_expired.py --all
 
 Pulls 9 per class (72 total). Module 5 stratifies down to 6 per class (48).
 
-### Module 3 -- negative open-source
+### Module 3 — negative open-source
 
 ```bash
-python scripts/03_collect_negative_opensource.py --dry-run --class D24
 python scripts/03_collect_negative_opensource.py --all
+python scripts/03b_fix_wikimedia_negatives.py     # replace bad Wikimedia files
 ```
 
-Downloads technical drawings from Wikimedia Commons (public domain / CC0).
-Target: 6 per class, 48 total. Configured via negative_composition.open_source_count.
+Original Wikimedia scrape had systematic quality issues (see Dataset notes).
+Run 03b after 03 to replace bad images with PIL-generated line drawings.
 
-Key implementation notes:
-- Wikimedia requires a descriptive User-Agent on ALL requests (API + downloads).
-  Missing User-Agent returns HTTP 403.
-- Category names must be exact. Generic categories (Technical_drawings,
-  Engineering_diagrams) return mixed content filtered by drawing keywords.
-- Windows: strip illegal filename characters from Wikimedia titles before saving.
-
-### Module 4 -- normalize
+### Module 4 — normalize
 
 ```bash
 python scripts/04_normalize.py --dry-run
@@ -164,22 +218,20 @@ python scripts/04_normalize.py --source negative_opensource
 python scripts/04_normalize.py --all --no-mask    # skip Tesseract
 ```
 
-USPTO PDFs are pure raster scans -- get_text() returns nothing on any page.
+USPTO PDFs are pure raster scans — get_text() returns nothing.
 Page detection uses blob analysis (numpy):
 - Renders each page at 72 DPI
-- Measures bounding-box coverage of ink as a fraction of page area
-- Drawing pages: one large centered figure, blob score 0.25-0.55
-- Reference pages: scattered text fragments, blob score 0.02-0.08
+- Measures bounding-box coverage of ink (drawing pages: 0.25-0.55, reference pages: 0.02-0.08)
 - Selects first page within 2% of maximum blob score (FIG. 1 perspective view)
 
 Processing pipeline per image:
-1. Find drawing sheet page (PDFs only, via blob analysis)
+1. Find drawing sheet page via blob analysis (PDFs only)
 2. Render at 150 DPI
 3. Tesseract OCR at conf >= 70, mask patent metadata patterns only
 4. Grayscale, pad to square, resize to 1024x1024, strip EXIF
 5. Save to data/processed/<id>.png
 
-### Module 5 -- build manifest
+### Module 5 — build manifest
 
 ```bash
 python scripts/05_build_manifest.py
@@ -187,10 +239,9 @@ python scripts/05_build_manifest.py --check
 ```
 
 Builds data/manifest.csv from all JSON sidecars. Stratifies expired patents
-to 6 per class (48 total) to match open-source count. Locarno codes from
-XMLs where available; derived from USPC class otherwise (e.g. D9 -> 0900).
+to 6 per class (48 total). Locarno codes from XMLs where available.
 
-### Module 6 -- candidate selection
+### Module 6 — candidate selection
 
 ```bash
 python scripts/06_select_candidates.py
@@ -198,38 +249,69 @@ python scripts/06_select_candidates.py --check
 ```
 
 Builds candidates/candidates.csv. For each of 192 queries, selects 5
-candidates from the same USPC class. Fixed at build time (seeded) for
-reproducibility across models, strategies, and repetitions.
+candidates from the same USPC class using title-keyword matching (Fix B):
+candidates whose invention_title shares a keyword with the query are
+prioritised, then random fill. Fixed/seeded for reproducibility.
 
 Output columns: query_id, query_label, query_uspc, query_png,
 candidate_id, candidate_label, candidate_uspc, candidate_png, candidate_rank
 
-### Modules 7-9
+### Module 7 — model evaluation
 
-    Module 7   07_run_models.py        pilot: 20 queries; full: 7,200 calls
-    Module 8   08_parse_responses.py   parsed.csv
-    Module 9   09_compute_stats.py     macro-F1, Cohen kappa, McNemar, figures
+```bash
+# Pilot (20 queries, zero_shot only, 1 rep = 80 calls)
+python scripts/07_run_models.py --pilot --dry-run
+python scripts/07_run_models.py --pilot --model claude
+python scripts/07_run_models.py --pilot
+
+# Full run (192 queries, 3 strategies, 3 reps = 6,912 calls)
+python scripts/07_run_models.py --full --model gemma
+python scripts/07_run_models.py --full --model claude
+python scripts/07_run_models.py --full --model gemini
+python scripts/07_run_models.py --full --model openai
+
+# Resume is automatic — rerun same command after any interruption
+```
+
+Checkpoints saved to results/raw_responses/<job_id>.json after each call.
+Resume logic skips completed jobs. Delete a .json file to force retry.
+
+### Modules 8-9
+
+```bash
+python scripts/08_parse_responses.py   # produces results/parsed.csv
+python scripts/09_compute_stats.py     # macro-F1, Cohen kappa, McNemar, figures
+```
 
 ---
 
 ## Experiment design
 
-    Models:      GPT-5.5, Claude Sonnet 4.6, Gemini 2.5 Pro, Qwen2.5-VL-7B
-    Strategies:  zero_shot, few_shot, chain_of_thought
-    Repetitions: 3 per configuration, temperature=0
-    Full run:    192 queries x 4 models x 3 strategies x 3 reps = 6,912 calls
-    Pilot:       20 queries x 4 models x binary verdict (no rubric)
+```
+Models:      Claude Sonnet 4.6, GPT-5.5, Gemini 2.5 Pro, Gemma 4 31B (OpenRouter)
+Strategies:  zero_shot, few_shot, chain_of_thought
+Reps:        3 per configuration, temperature=0
+Full run:    192 queries x 4 models x 3 strategies x 3 reps = 6,912 calls
+Pilot:       20 queries x 4 models x zero_shot x 1 rep = 80 calls
+```
 
-    Cost estimate (standard pricing, May 2026):
-      GPT-5.5              $331   ($166 with Batch API)
-      Claude Sonnet 4.6    $190   ( $95 with Batch API)
-      Gemini 2.5 Pro        $90
-      Qwen2.5-VL-7B          $0   (self-hosted)
-      Standard total       ~$611
-      Batch API total      ~$351
+Model notes:
+- Claude Sonnet 4.6: Anthropic API, max_tokens=512
+- GPT-5.5: OpenAI API, max_completion_tokens=2048 (requires this param, not max_tokens)
+- Gemini 2.5 Pro: google.generativeai, thinking_budget=512, max_output_tokens=3000
+- Gemma 4 31B: OpenRouter (google/gemma-4-31b-it), replaces Qwen2.5-VL which was
+  removed from Together AI serverless in May 2026
 
-    Per Prof. Berg: run pilot first, then full run if results are tractable.
-    Budget ceiling: $800.
+Cost estimate (standard pricing, May 2026):
+
+```
+GPT-5.5              ~$166  (Batch API)
+Gemini 2.5 Pro        ~$90
+Claude Sonnet 4.6     ~$95  (Batch API)
+Gemma 4 31B            ~$8  (OpenRouter)
+Total                ~$359
+Budget ceiling        $800
+```
 
 ---
 
@@ -242,10 +324,16 @@ USPTO Patent File Wrapper API:
     Query:       filters + rangeFilters arrays (NOT legacy _and/_eq syntax)
     Response:    patentFileWrapperDataBag
     Rate limit:  45 requests/minute
-    Class field: applicationMetaData.class  (e.g. "D8", not "D08")
+    Class field: applicationMetaData.class  (e.g. "D8" not "D08")
 
 Patent PDF download (no auth):
     https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/D1049406
+
+OpenRouter (Gemma 4 31B):
+    Base URL:    https://openrouter.ai/api/v1
+    Model:       google/gemma-4-31b-it
+    Auth:        OPENROUTER_API_KEY
+    Note:        Requires HTTP-Referer and X-Title headers
 
 ---
 
@@ -254,7 +342,8 @@ Patent PDF download (no auth):
 - random_seed: 42 in config.yaml controls all sampling
 - manifest.csv and candidates.csv are committed to git
 - Raw PDFs are gitignored but fully regenerable from the scripts
-- All API responses saved to raw_responses/ for audit and re-parsing
+- All API responses saved to results/raw_responses/ for audit and re-parsing
+- PIL-generated open-source negatives are deterministic (same shapes, same seed)
 
 ---
 
@@ -268,15 +357,15 @@ Patent PDF download (no auth):
     |   |-- raw/
     |   |   |-- positive/             96 PDFs + sidecars
     |   |   |-- negative_expired/     72 PDFs + sidecars (48 used)
-    |   |   `-- negative_opensource/  48 drawings + sidecars
-    |   |-- processed/                192 normalized PNGs + norm sidecars
+    |   |   `-- negative_opensource/  48 PIL-generated PNGs
+    |   |-- processed/                192 normalized PNGs
     |   `-- manifest.csv              192 rows, all metadata
     |-- candidates/
     |   `-- candidates.csv            960 pairs, 5 per query
-    |-- prompts/                      ZS, FS, CoT templates
-    |-- raw_responses/                module 7 output (one JSON per call)
     |-- results/
+    |   |-- raw_responses/            one JSON per API call (module 7)
     |   |-- parsed.csv                module 8 output
+    |   |-- run.log                   module 7 execution log
     |   `-- stats/                    module 9 output
     |-- scripts/
     |   |-- _common.py
@@ -284,10 +373,16 @@ Patent PDF download (no auth):
     |   |-- 01_pull_uspto.py          done
     |   |-- 02_pull_negative_expired.py   done
     |   |-- 03_collect_negative_opensource.py  done
+    |   |-- 03b_fix_wikimedia_negatives.py     done (PIL replacement)
     |   |-- 04_normalize.py           done
     |   |-- 05_build_manifest.py      done
-    |   |-- 06_select_candidates.py   done
-    |   `-- ...
+    |   |-- 06_select_candidates.py   done (title-keyword matching)
+    |   |-- 07_run_models.py          pilot done, full run pending
+    |   |-- 08_parse_responses.py     not written
+    |   |-- 09_compute_stats.py       not written
+    |   |-- test_connections.py       API key verification
+    |   |-- validate_pilot.py         pilot result audit
+    |   `-- scratch.py                throw-away analysis (overwrite freely)
     `-- docs/
         |-- experiment_plan.md
         |-- sample_size.md

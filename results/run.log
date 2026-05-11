@@ -36,3 +36,966 @@
 2026-05-10 09:50:48,479  INFO  Already done (skip)  : 0
 2026-05-10 09:50:48,480  INFO  Pending              : 20
 2026-05-10 09:50:48,480  INFO  [1/20] D1042123__claude__zero_shot__rep1
+2026-05-10 11:23:30,166  INFO  ============================================================
+2026-05-10 11:23:30,166  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:23:30,166  INFO  Model filter : claude
+2026-05-10 11:23:30,167  INFO  Dry run      : False
+2026-05-10 11:23:30,167  INFO  ============================================================
+2026-05-10 11:23:30,200  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:23:30,208  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:23:30,209  INFO  Models     : ['claude']
+2026-05-10 11:23:30,209  INFO  Strategies : ['zero_shot']
+2026-05-10 11:23:30,210  INFO  Reps       : 1
+2026-05-10 11:23:30,235  INFO  Jobs built : 20
+2026-05-10 11:23:30,236  INFO  Total jobs           : 20
+2026-05-10 11:23:30,236  INFO  Already done (skip)  : 0
+2026-05-10 11:23:30,238  INFO  Pending              : 20
+2026-05-10 11:23:30,238  INFO  [1/20] D1042123__claude__zero_shot__rep1
+2026-05-10 11:23:36,084  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:23:36,120  INFO    OK  elapsed=5.77s  parse_ok=True  verdicts=5
+2026-05-10 11:23:36,620  INFO  [2/20] D1048511__claude__zero_shot__rep1
+2026-05-10 11:23:40,663  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:23:40,666  INFO    OK  elapsed=3.97s  parse_ok=True  verdicts=5
+2026-05-10 11:23:41,167  INFO  [3/20] D1050408__claude__zero_shot__rep1
+2026-05-10 11:23:44,436  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:23:44,444  INFO    OK  elapsed=3.18s  parse_ok=True  verdicts=5
+2026-05-10 11:23:44,944  INFO  [4/20] D1051295__claude__zero_shot__rep1
+2026-05-10 11:23:47,773  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:23:47,778  INFO    OK  elapsed=2.76s  parse_ok=True  verdicts=5
+2026-05-10 11:23:48,279  INFO  [5/20] D1051771__claude__zero_shot__rep1
+2026-05-10 11:23:51,554  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:23:51,560  INFO    OK  elapsed=3.19s  parse_ok=True  verdicts=5
+2026-05-10 11:23:52,061  INFO  [6/20] D1054737__claude__zero_shot__rep1
+2026-05-10 11:23:52,790  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:23:52,791  INFO  Retrying request to /v1/messages in 17.000000 seconds
+2026-05-10 11:24:12,665  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:24:12,668  INFO    OK  elapsed=20.52s  parse_ok=True  verdicts=5
+2026-05-10 11:24:13,170  INFO  [7/20] D1054822__claude__zero_shot__rep1
+2026-05-10 11:24:14,164  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:24:14,165  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 11:24:30,242  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:24:30,244  INFO    OK  elapsed=17.0s  parse_ok=True  verdicts=5
+2026-05-10 11:24:30,746  INFO  [8/20] D1054855__claude__zero_shot__rep1
+2026-05-10 11:24:31,473  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:24:31,474  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 11:24:46,616  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:24:46,621  INFO    OK  elapsed=15.79s  parse_ok=True  verdicts=5
+2026-05-10 11:24:47,123  INFO  [9/20] D1055242__claude__zero_shot__rep1
+2026-05-10 11:24:47,972  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:24:47,972  INFO  Retrying request to /v1/messages in 14.000000 seconds
+2026-05-10 11:25:05,136  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:25:05,142  INFO    OK  elapsed=17.95s  parse_ok=True  verdicts=5
+2026-05-10 11:25:05,643  INFO  [10/20] D1055910__claude__zero_shot__rep1
+2026-05-10 11:25:06,413  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:25:06,414  INFO  Retrying request to /v1/messages in 11.000000 seconds
+2026-05-10 11:25:20,256  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:25:20,258  INFO    OK  elapsed=14.52s  parse_ok=True  verdicts=5
+2026-05-10 11:25:20,759  INFO  [11/20] D12_Arca_Swiss_Profile.svg__claude__zero_shot__rep1
+2026-05-10 11:25:21,641  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:25:21,643  INFO  Retrying request to /v1/messages in 13.000000 seconds
+2026-05-10 11:25:37,748  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:25:37,753  INFO    OK  elapsed=16.91s  parse_ok=True  verdicts=5
+2026-05-10 11:25:38,255  INFO  [12/20] D24_A_bullet_extractor_Wellcome_L0035454.jpg__claude__zero_shot__rep1
+2026-05-10 11:25:39,548  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:25:39,550  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 11:25:57,094  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:25:57,100  INFO    OK  elapsed=18.75s  parse_ok=True  verdicts=5
+2026-05-10 11:25:57,603  INFO  [13/20] D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376.__claude__zero_shot__rep1
+2026-05-10 11:26:01,985  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:26:01,989  INFO    OK  elapsed=4.32s  parse_ok=True  verdicts=5
+2026-05-10 11:26:02,489  INFO  [14/20] D549111__claude__zero_shot__rep1
+2026-05-10 11:26:03,616  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:26:03,621  INFO  Retrying request to /v1/messages in 24.000000 seconds
+2026-05-10 11:26:31,161  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:26:31,170  INFO    OK  elapsed=28.62s  parse_ok=True  verdicts=5
+2026-05-10 11:26:31,672  INFO  [15/20] D551742__claude__zero_shot__rep1
+2026-05-10 11:26:32,475  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:26:32,476  INFO  Retrying request to /v1/messages in 11.000000 seconds
+2026-05-10 11:26:46,661  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:26:46,671  INFO    OK  elapsed=14.97s  parse_ok=True  verdicts=5
+2026-05-10 11:26:47,172  INFO  [16/20] D554118__claude__zero_shot__rep1
+2026-05-10 11:26:47,902  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:26:47,903  INFO  Retrying request to /v1/messages in 13.000000 seconds
+2026-05-10 11:27:03,929  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:27:03,931  INFO    OK  elapsed=16.66s  parse_ok=True  verdicts=5
+2026-05-10 11:27:04,433  INFO  [17/20] D555945__claude__zero_shot__rep1
+2026-05-10 11:27:05,357  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:27:05,358  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 11:27:21,765  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:27:21,772  INFO    OK  elapsed=17.24s  parse_ok=True  verdicts=5
+2026-05-10 11:27:22,273  INFO  [18/20] D557097__claude__zero_shot__rep1
+2026-05-10 11:27:23,263  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:27:23,264  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 11:27:38,305  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:27:38,307  INFO    OK  elapsed=15.99s  parse_ok=True  verdicts=5
+2026-05-10 11:27:38,808  INFO  [19/20] D6_Belt_Differential_Element.svg__claude__zero_shot__rep1
+2026-05-10 11:27:40,061  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:27:40,062  INFO  Retrying request to /v1/messages in 11.000000 seconds
+2026-05-10 11:27:54,429  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:27:54,431  INFO    OK  elapsed=15.56s  parse_ok=True  verdicts=5
+2026-05-10 11:27:54,932  INFO  [20/20] D8_Belt_Differential_Element.svg__claude__zero_shot__rep1
+2026-05-10 11:27:55,728  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 11:27:55,730  INFO  Retrying request to /v1/messages in 13.000000 seconds
+2026-05-10 11:28:11,706  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 11:28:11,708  INFO    OK  elapsed=16.69s  parse_ok=True  verdicts=5
+2026-05-10 11:28:12,209  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 11:36:10,785  INFO  ============================================================
+2026-05-10 11:36:10,786  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:36:10,786  INFO  Model filter : all
+2026-05-10 11:36:10,786  INFO  Dry run      : False
+2026-05-10 11:36:10,787  INFO  ============================================================
+2026-05-10 11:36:10,793  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:36:10,797  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:36:10,797  INFO  Models     : ['claude', 'openai', 'gemini', 'qwen']
+2026-05-10 11:36:10,799  INFO  Strategies : ['zero_shot']
+2026-05-10 11:36:10,799  INFO  Reps       : 1
+2026-05-10 11:36:10,862  INFO  Jobs built : 80
+2026-05-10 11:36:10,865  INFO  Total jobs           : 80
+2026-05-10 11:36:10,865  INFO  Already done (skip)  : 20
+2026-05-10 11:36:10,865  INFO  Pending              : 60
+2026-05-10 11:36:10,865  INFO  [1/60] D1042123__openai__zero_shot__rep1
+2026-05-10 11:36:25,889  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:36:25,968  INFO    OK  elapsed=15.1s  parse_ok=False  verdicts=0
+2026-05-10 11:36:26,469  INFO  [2/60] D1042123__gemini__zero_shot__rep1
+2026-05-10 11:36:34,358  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 1 failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2. — retrying in 5s
+2026-05-10 11:36:45,506  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 2 failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2. — retrying in 15s
+2026-05-10 11:37:06,548  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 3 failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2. — retrying in 45s
+2026-05-10 11:39:08,395  INFO  ============================================================
+2026-05-10 11:39:08,395  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:39:08,395  INFO  Model filter : all
+2026-05-10 11:39:08,395  INFO  Dry run      : False
+2026-05-10 11:39:08,395  INFO  ============================================================
+2026-05-10 11:39:08,401  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:39:08,404  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:39:08,406  INFO  Models     : ['claude', 'openai', 'gemini', 'qwen']
+2026-05-10 11:39:08,406  INFO  Strategies : ['zero_shot']
+2026-05-10 11:39:08,407  INFO  Reps       : 1
+2026-05-10 11:39:08,479  INFO  Jobs built : 80
+2026-05-10 11:39:08,481  INFO  Total jobs           : 80
+2026-05-10 11:39:08,482  INFO  Already done (skip)  : 20
+2026-05-10 11:39:08,482  INFO  Pending              : 60
+2026-05-10 11:39:08,482  INFO  [1/60] D1042123__openai__zero_shot__rep1
+2026-05-10 11:39:22,961  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:39:22,970  INFO    OK  elapsed=14.48s  parse_ok=False  verdicts=0
+2026-05-10 11:39:23,471  INFO  [2/60] D1042123__gemini__zero_shot__rep1
+2026-05-10 11:39:33,544  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 1 failed: Gemini finish_reason=MAX_TOKENS — response truncated, increase max_output_tokens — retrying in 5s
+2026-05-10 11:39:48,927  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 2 failed: Gemini finish_reason=MAX_TOKENS — response truncated, increase max_output_tokens — retrying in 15s
+2026-05-10 11:41:14,041  INFO  ============================================================
+2026-05-10 11:41:14,041  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:41:14,042  INFO  Model filter : all
+2026-05-10 11:41:14,042  INFO  Dry run      : False
+2026-05-10 11:41:14,042  INFO  ============================================================
+2026-05-10 11:41:14,051  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:41:14,060  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:41:14,060  INFO  Models     : ['claude', 'openai', 'gemini', 'qwen']
+2026-05-10 11:41:14,060  INFO  Strategies : ['zero_shot']
+2026-05-10 11:41:14,061  INFO  Reps       : 1
+2026-05-10 11:41:14,168  INFO  Jobs built : 80
+2026-05-10 11:41:14,175  INFO  Total jobs           : 80
+2026-05-10 11:41:14,175  INFO  Already done (skip)  : 21
+2026-05-10 11:41:14,176  INFO  Pending              : 59
+2026-05-10 11:41:14,176  INFO  [1/59] D1042123__gemini__zero_shot__rep1
+2026-05-10 11:41:16,919  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:41:17,594  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 400 Bad Request"
+2026-05-10 11:41:17,596  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 1 failed: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Budget 0 is invalid. This model only works in thinking mode.', 'status': 'INVALID_ARGUMENT'}} — retrying in 5s
+2026-05-10 11:41:22,958  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:41:23,568  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 400 Bad Request"
+2026-05-10 11:41:23,569  WARNING    [D1042123__gemini__zero_shot__rep1] attempt 2 failed: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Budget 0 is invalid. This model only works in thinking mode.', 'status': 'INVALID_ARGUMENT'}} — retrying in 15s
+2026-05-10 11:42:26,773  INFO  ============================================================
+2026-05-10 11:42:26,774  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:42:26,774  INFO  Model filter : gemini
+2026-05-10 11:42:26,774  INFO  Dry run      : False
+2026-05-10 11:42:26,775  INFO  ============================================================
+2026-05-10 11:42:26,796  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:42:26,826  INFO  Pilot: 0 queries (0 positive, 0 negative)
+2026-05-10 11:42:26,827  INFO  Models     : ['gemini']
+2026-05-10 11:42:26,827  INFO  Strategies : ['zero_shot']
+2026-05-10 11:42:26,828  INFO  Reps       : 1
+2026-05-10 11:42:26,829  INFO  Jobs built : 0
+2026-05-10 11:42:26,829  INFO  Total jobs           : 0
+2026-05-10 11:42:26,833  INFO  Already done (skip)  : 0
+2026-05-10 11:42:26,834  INFO  Pending              : 0
+2026-05-10 11:42:26,834  INFO  Nothing to do — all jobs complete.
+2026-05-10 11:42:40,881  INFO  ============================================================
+2026-05-10 11:42:40,882  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:42:40,882  INFO  Model filter : gemini
+2026-05-10 11:42:40,882  INFO  Dry run      : False
+2026-05-10 11:42:40,883  INFO  ============================================================
+2026-05-10 11:42:40,895  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:42:40,901  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:42:40,901  INFO  Models     : ['gemini']
+2026-05-10 11:42:40,901  INFO  Strategies : ['zero_shot']
+2026-05-10 11:42:40,901  INFO  Reps       : 1
+2026-05-10 11:42:40,942  INFO  Jobs built : 20
+2026-05-10 11:42:40,946  INFO  Total jobs           : 20
+2026-05-10 11:42:40,946  INFO  Already done (skip)  : 0
+2026-05-10 11:42:40,947  INFO  Pending              : 20
+2026-05-10 11:42:40,947  INFO  [1/20] D1042123__gemini__zero_shot__rep1
+2026-05-10 11:42:43,424  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:42:49,312  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:42:49,322  INFO    OK  elapsed=8.37s  parse_ok=True  verdicts=5
+2026-05-10 11:42:50,324  INFO  [2/20] D1048511__gemini__zero_shot__rep1
+2026-05-10 11:42:50,745  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:42:56,553  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:42:56,558  INFO    OK  elapsed=6.23s  parse_ok=True  verdicts=5
+2026-05-10 11:42:57,560  INFO  [3/20] D1050408__gemini__zero_shot__rep1
+2026-05-10 11:42:57,966  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:03,267  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:03,277  INFO    OK  elapsed=5.71s  parse_ok=True  verdicts=5
+2026-05-10 11:43:04,279  INFO  [4/20] D1051295__gemini__zero_shot__rep1
+2026-05-10 11:43:05,557  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:10,802  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:10,811  INFO    OK  elapsed=6.52s  parse_ok=True  verdicts=5
+2026-05-10 11:43:11,812  INFO  [5/20] D1051771__gemini__zero_shot__rep1
+2026-05-10 11:43:12,894  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:19,017  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:19,026  INFO    OK  elapsed=7.2s  parse_ok=True  verdicts=5
+2026-05-10 11:43:20,027  INFO  [6/20] D1054737__gemini__zero_shot__rep1
+2026-05-10 11:43:20,965  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:27,564  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:27,570  INFO    OK  elapsed=7.53s  parse_ok=True  verdicts=5
+2026-05-10 11:43:28,573  INFO  [7/20] D1054822__gemini__zero_shot__rep1
+2026-05-10 11:43:29,250  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:35,346  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:35,356  INFO    OK  elapsed=6.77s  parse_ok=True  verdicts=5
+2026-05-10 11:43:36,357  INFO  [8/20] D1054855__gemini__zero_shot__rep1
+2026-05-10 11:43:37,033  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:42,857  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:42,861  INFO    OK  elapsed=6.49s  parse_ok=True  verdicts=5
+2026-05-10 11:43:43,862  INFO  [9/20] D1055242__gemini__zero_shot__rep1
+2026-05-10 11:43:44,658  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:49,756  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:49,765  INFO    OK  elapsed=5.89s  parse_ok=True  verdicts=5
+2026-05-10 11:43:50,766  INFO  [10/20] D1055910__gemini__zero_shot__rep1
+2026-05-10 11:43:51,840  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:43:57,647  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:43:57,654  INFO    OK  elapsed=6.88s  parse_ok=True  verdicts=5
+2026-05-10 11:43:58,656  INFO  [11/20] D12_Arca_Swiss_Profile.svg__gemini__zero_shot__rep1
+2026-05-10 11:44:00,197  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:05,310  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:05,319  INFO    OK  elapsed=6.65s  parse_ok=True  verdicts=5
+2026-05-10 11:44:06,320  INFO  [12/20] D24_A_bullet_extractor_Wellcome_L0035454.jpg__gemini__zero_shot__rep1
+2026-05-10 11:44:07,999  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:14,627  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:14,638  INFO    OK  elapsed=8.29s  parse_ok=True  verdicts=5
+2026-05-10 11:44:15,639  INFO  [13/20] D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376.__gemini__zero_shot__rep1
+2026-05-10 11:44:16,316  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:22,156  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:22,162  INFO    OK  elapsed=6.51s  parse_ok=True  verdicts=5
+2026-05-10 11:44:23,163  INFO  [14/20] D549111__gemini__zero_shot__rep1
+2026-05-10 11:44:23,858  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:29,426  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:29,430  INFO    OK  elapsed=6.25s  parse_ok=True  verdicts=5
+2026-05-10 11:44:30,432  INFO  [15/20] D551742__gemini__zero_shot__rep1
+2026-05-10 11:44:31,073  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:36,851  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:36,862  INFO    OK  elapsed=6.42s  parse_ok=True  verdicts=5
+2026-05-10 11:44:37,864  INFO  [16/20] D554118__gemini__zero_shot__rep1
+2026-05-10 11:44:38,461  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:43,897  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:43,909  INFO    OK  elapsed=6.03s  parse_ok=True  verdicts=5
+2026-05-10 11:44:44,911  INFO  [17/20] D555945__gemini__zero_shot__rep1
+2026-05-10 11:44:45,515  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:52,151  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:52,158  INFO    OK  elapsed=7.23s  parse_ok=True  verdicts=5
+2026-05-10 11:44:53,160  INFO  [18/20] D557097__gemini__zero_shot__rep1
+2026-05-10 11:44:53,749  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:44:59,331  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:44:59,339  INFO    OK  elapsed=6.17s  parse_ok=True  verdicts=5
+2026-05-10 11:45:00,341  INFO  [19/20] D6_Belt_Differential_Element.svg__gemini__zero_shot__rep1
+2026-05-10 11:45:00,847  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:45:06,179  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:45:06,184  INFO    OK  elapsed=5.84s  parse_ok=True  verdicts=5
+2026-05-10 11:45:07,185  INFO  [20/20] D8_Belt_Differential_Element.svg__gemini__zero_shot__rep1
+2026-05-10 11:45:07,808  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 11:45:13,998  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 11:45:14,008  INFO    OK  elapsed=6.8s  parse_ok=True  verdicts=5
+2026-05-10 11:45:15,008  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 11:46:45,646  INFO  ============================================================
+2026-05-10 11:46:45,646  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:46:45,647  INFO  Model filter : qwen
+2026-05-10 11:46:45,647  INFO  Dry run      : False
+2026-05-10 11:46:45,647  INFO  ============================================================
+2026-05-10 11:46:45,657  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:46:45,664  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:46:45,664  INFO  Models     : ['qwen']
+2026-05-10 11:46:45,664  INFO  Strategies : ['zero_shot']
+2026-05-10 11:46:45,665  INFO  Reps       : 1
+2026-05-10 11:46:45,695  INFO  Jobs built : 20
+2026-05-10 11:46:45,697  INFO  Total jobs           : 20
+2026-05-10 11:46:45,697  INFO  Already done (skip)  : 0
+2026-05-10 11:46:45,697  INFO  Pending              : 20
+2026-05-10 11:46:45,698  INFO  [1/20] D1042123__qwen__zero_shot__rep1
+2026-05-10 11:46:47,704  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:46:47,704  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 1 failed: Error code: 400 - {'id': 'oiYbQJj-6Ng1vN-9f9a14260e2cf272', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 5s
+2026-05-10 11:46:53,342  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:46:53,342  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 2 failed: Error code: 400 - {'id': 'oiYbRwR-6Ng1vN-9f9a1448b83f34e1', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 15s
+2026-05-10 11:47:08,919  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:47:08,920  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 3 failed: Error code: 400 - {'id': 'oiYbWa6-6Ng1vN-9f9a14aa9f5c802a', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 45s
+2026-05-10 11:47:29,225  INFO  ============================================================
+2026-05-10 11:47:29,225  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:47:29,225  INFO  Model filter : openai
+2026-05-10 11:47:29,225  INFO  Dry run      : False
+2026-05-10 11:47:29,225  INFO  ============================================================
+2026-05-10 11:47:29,231  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:47:29,235  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:47:29,235  INFO  Models     : ['openai']
+2026-05-10 11:47:29,236  INFO  Strategies : ['zero_shot']
+2026-05-10 11:47:29,236  INFO  Reps       : 1
+2026-05-10 11:47:29,256  INFO  Jobs built : 20
+2026-05-10 11:47:29,258  INFO  Total jobs           : 20
+2026-05-10 11:47:29,259  INFO  Already done (skip)  : 1
+2026-05-10 11:47:29,259  INFO  Pending              : 19
+2026-05-10 11:47:29,259  INFO  [1/19] D1048511__openai__zero_shot__rep1
+2026-05-10 11:47:36,890  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:47:36,898  INFO    OK  elapsed=7.63s  parse_ok=True  verdicts=5
+2026-05-10 11:47:37,400  INFO  [2/19] D1050408__openai__zero_shot__rep1
+2026-05-10 11:47:49,738  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:47:49,742  INFO    OK  elapsed=12.33s  parse_ok=False  verdicts=0
+2026-05-10 11:47:50,243  INFO  [3/19] D1051295__openai__zero_shot__rep1
+2026-05-10 11:47:55,950  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:47:55,952  INFO    OK  elapsed=5.7s  parse_ok=True  verdicts=5
+2026-05-10 11:47:56,452  INFO  [4/19] D1051771__openai__zero_shot__rep1
+2026-05-10 11:48:03,186  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:03,189  INFO    OK  elapsed=6.73s  parse_ok=True  verdicts=5
+2026-05-10 11:48:03,690  INFO  [5/19] D1054737__openai__zero_shot__rep1
+2026-05-10 11:48:10,944  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:10,947  INFO    OK  elapsed=7.25s  parse_ok=True  verdicts=5
+2026-05-10 11:48:11,448  INFO  [6/19] D1054822__openai__zero_shot__rep1
+2026-05-10 11:48:20,653  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:20,657  INFO    OK  elapsed=9.2s  parse_ok=True  verdicts=5
+2026-05-10 11:48:21,158  INFO  [7/19] D1054855__openai__zero_shot__rep1
+2026-05-10 11:48:30,302  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:30,305  INFO    OK  elapsed=9.14s  parse_ok=True  verdicts=5
+2026-05-10 11:48:30,805  INFO  [8/19] D1055242__openai__zero_shot__rep1
+2026-05-10 11:48:35,199  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:35,204  INFO    OK  elapsed=4.39s  parse_ok=True  verdicts=5
+2026-05-10 11:48:35,705  INFO  [9/19] D1055910__openai__zero_shot__rep1
+2026-05-10 11:48:47,093  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:47,104  INFO    OK  elapsed=11.39s  parse_ok=False  verdicts=0
+2026-05-10 11:48:47,605  INFO  [10/19] D12_Arca_Swiss_Profile.svg__openai__zero_shot__rep1
+2026-05-10 11:48:59,858  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:48:59,862  INFO    OK  elapsed=12.25s  parse_ok=False  verdicts=0
+2026-05-10 11:49:00,363  INFO  [11/19] D24_A_bullet_extractor_Wellcome_L0035454.jpg__openai__zero_shot__rep1
+2026-05-10 11:49:09,373  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:09,377  INFO    OK  elapsed=9.0s  parse_ok=True  verdicts=5
+2026-05-10 11:49:09,877  INFO  [12/19] D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376.__openai__zero_shot__rep1
+2026-05-10 11:49:16,951  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:16,955  INFO    OK  elapsed=7.06s  parse_ok=True  verdicts=5
+2026-05-10 11:49:17,458  INFO  [13/19] D549111__openai__zero_shot__rep1
+2026-05-10 11:49:22,445  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:22,451  INFO    OK  elapsed=4.98s  parse_ok=True  verdicts=5
+2026-05-10 11:49:22,952  INFO  [14/19] D551742__openai__zero_shot__rep1
+2026-05-10 11:49:33,949  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:33,951  INFO    OK  elapsed=10.99s  parse_ok=False  verdicts=0
+2026-05-10 11:49:34,453  INFO  [15/19] D554118__openai__zero_shot__rep1
+2026-05-10 11:49:40,706  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:40,711  INFO    OK  elapsed=6.25s  parse_ok=True  verdicts=5
+2026-05-10 11:49:41,211  INFO  [16/19] D555945__openai__zero_shot__rep1
+2026-05-10 11:49:54,281  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:49:54,285  INFO    OK  elapsed=13.06s  parse_ok=False  verdicts=0
+2026-05-10 11:49:54,787  INFO  [17/19] D557097__openai__zero_shot__rep1
+2026-05-10 11:50:02,985  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:50:02,990  INFO    OK  elapsed=8.19s  parse_ok=True  verdicts=5
+2026-05-10 11:50:03,491  INFO  [18/19] D6_Belt_Differential_Element.svg__openai__zero_shot__rep1
+2026-05-10 11:50:14,579  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:50:14,585  INFO    OK  elapsed=11.09s  parse_ok=True  verdicts=5
+2026-05-10 11:50:15,086  INFO  [19/19] D8_Belt_Differential_Element.svg__openai__zero_shot__rep1
+2026-05-10 11:50:22,119  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 11:50:22,121  INFO    OK  elapsed=7.03s  parse_ok=True  verdicts=5
+2026-05-10 11:50:22,622  INFO  
+Run complete.  success=19  errors=0  total_run=19
+2026-05-10 11:53:06,890  INFO  ============================================================
+2026-05-10 11:53:06,891  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 11:53:06,891  INFO  Model filter : qwen
+2026-05-10 11:53:06,891  INFO  Dry run      : False
+2026-05-10 11:53:06,891  INFO  ============================================================
+2026-05-10 11:53:06,904  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 11:53:06,910  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 11:53:06,911  INFO  Models     : ['qwen']
+2026-05-10 11:53:06,911  INFO  Strategies : ['zero_shot']
+2026-05-10 11:53:06,914  INFO  Reps       : 1
+2026-05-10 11:53:06,952  INFO  Jobs built : 20
+2026-05-10 11:53:06,954  INFO  Total jobs           : 20
+2026-05-10 11:53:06,954  INFO  Already done (skip)  : 0
+2026-05-10 11:53:06,955  INFO  Pending              : 20
+2026-05-10 11:53:06,955  INFO  [1/20] D1042123__qwen__zero_shot__rep1
+2026-05-10 11:53:10,641  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:53:10,642  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 1 failed: Error code: 400 - {'id': 'oiYdMr1-6Ng1vN-9f9a1d7ebff99a74', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 5s
+2026-05-10 11:53:16,491  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:53:16,492  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 2 failed: Error code: 400 - {'id': 'oiYdPde-6Ng1vN-9f9a1da33b4bd608', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 15s
+2026-05-10 11:53:32,179  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:53:32,181  WARNING    [D1042123__qwen__zero_shot__rep1] attempt 3 failed: Error code: 400 - {'id': 'oiYdUK3-6Ng1vN-9f9a1e0558eb50bc', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 45s
+2026-05-10 11:54:17,824  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:54:17,825  ERROR    [D1042123__qwen__zero_shot__rep1] all 4 attempts failed: Error code: 400 - {'id': 'oiYdhzR-6Ng1vN-9f9a1f231e0cfc18', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2026-05-10 11:54:17,828  ERROR    FAILED — Error code: 400 - {'id': 'oiYdhzR-6Ng1vN-9f9a1f231e0cfc18', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}}
+2026-05-10 11:54:18,329  INFO  [2/20] D1048511__qwen__zero_shot__rep1
+2026-05-10 11:54:19,138  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:54:19,140  WARNING    [D1048511__qwen__zero_shot__rep1] attempt 1 failed: Error code: 400 - {'id': 'oiYdiPZ-6Ng1vN-9f9a1f2a5e6f507e', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 5s
+2026-05-10 11:54:24,829  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 11:54:24,830  WARNING    [D1048511__qwen__zero_shot__rep1] attempt 2 failed: Error code: 400 - {'id': 'oiYdk62-6Ng1vN-9f9a1f4e8bcf3495', 'error': {'message': 'Input validation error', 'type': 'invalid_request_error', 'param': None, 'code': None}} — retrying in 15s
+2026-05-10 12:19:10,247  INFO  ============================================================
+2026-05-10 12:19:10,248  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 12:19:10,248  INFO  Model filter : llama
+2026-05-10 12:19:10,249  INFO  Dry run      : False
+2026-05-10 12:19:10,249  INFO  ============================================================
+2026-05-10 12:19:10,262  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 12:19:10,272  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 12:19:10,272  INFO  Models     : ['llama']
+2026-05-10 12:19:10,273  INFO  Strategies : ['zero_shot']
+2026-05-10 12:19:10,273  INFO  Reps       : 1
+2026-05-10 12:19:10,309  INFO  Jobs built : 20
+2026-05-10 12:19:10,311  INFO  Total jobs           : 20
+2026-05-10 12:19:10,311  INFO  Already done (skip)  : 0
+2026-05-10 12:19:10,312  INFO  Pending              : 20
+2026-05-10 12:19:10,312  INFO  [1/20] D1042123__llama__zero_shot__rep1
+2026-05-10 12:19:14,767  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-10 12:19:14,770  WARNING    [D1042123__llama__zero_shot__rep1] attempt 1 failed: Error code: 400 - {'id': 'oiYmNwp-2kFHot-9f9a43aea8e15e53', 'error': {'message': 'Unable to access non-serverless model meta-llama/Llama-Vision-Free. Please visit https://api.together.ai/models/meta-llama/Llama-Vision-Free to create and start a new dedicated endpoint for the model.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_available'}} — retrying in 5s
+2026-05-10 12:19:20,629  INFO  HTTP Request: POST https://api.together.xyz/v1/chat/completions "HTTP/1.1 402 Payment Required"
+2026-05-10 12:19:20,630  WARNING    [D1042123__llama__zero_shot__rep1] attempt 2 failed: Error code: 402 - {'id': 'oiYmQdq-2kFHot-9f9a43d20aaa455e', 'error': {'message': "Credit limit exceeded, please [add credits](https://api.together.ai/settings/billing). If you've already made a payment, please wait up to 5 minutes for balances to update and try again.", 'type': 'credit_limit', 'param': None, 'code': None}} — retrying in 15s
+2026-05-10 12:39:06,565  INFO  ============================================================
+2026-05-10 12:39:06,580  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 12:39:06,580  INFO  Model filter : gemma
+2026-05-10 12:39:06,580  INFO  Dry run      : False
+2026-05-10 12:39:06,580  INFO  ============================================================
+2026-05-10 12:39:06,669  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 12:39:06,690  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 12:39:06,690  INFO  Models     : ['gemma']
+2026-05-10 12:39:06,691  INFO  Strategies : ['zero_shot']
+2026-05-10 12:39:06,691  INFO  Reps       : 1
+2026-05-10 12:39:06,738  INFO  Jobs built : 20
+2026-05-10 12:39:06,738  INFO  Total jobs           : 20
+2026-05-10 12:39:06,738  INFO  Already done (skip)  : 0
+2026-05-10 12:39:06,738  INFO  Pending              : 20
+2026-05-10 12:39:06,742  INFO  [1/20] D1042123__gemma__zero_shot__rep1
+2026-05-10 12:39:11,312  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:39:14,265  INFO    OK  elapsed=7.52s  parse_ok=True  verdicts=5
+2026-05-10 12:39:15,267  INFO  [2/20] D1048511__gemma__zero_shot__rep1
+2026-05-10 12:39:17,400  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:39:21,285  INFO    OK  elapsed=6.0s  parse_ok=True  verdicts=5
+2026-05-10 12:39:22,289  INFO  [3/20] D1050408__gemma__zero_shot__rep1
+2026-05-10 12:39:26,111  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:39:28,199  INFO    OK  elapsed=5.89s  parse_ok=True  verdicts=5
+2026-05-10 12:39:29,201  INFO  [4/20] D1051295__gemma__zero_shot__rep1
+2026-05-10 12:39:40,656  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:39:51,945  INFO    OK  elapsed=22.72s  parse_ok=True  verdicts=5
+2026-05-10 12:39:52,948  INFO  [5/20] D1051771__gemma__zero_shot__rep1
+2026-05-10 12:40:04,681  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:40:18,764  INFO    OK  elapsed=25.78s  parse_ok=True  verdicts=5
+2026-05-10 12:40:19,774  INFO  [6/20] D1054737__gemma__zero_shot__rep1
+2026-05-10 12:40:23,857  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:40:34,186  INFO    OK  elapsed=14.38s  parse_ok=True  verdicts=5
+2026-05-10 12:40:35,191  INFO  [7/20] D1054822__gemma__zero_shot__rep1
+2026-05-10 12:40:42,982  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:40:52,101  INFO    OK  elapsed=16.87s  parse_ok=True  verdicts=5
+2026-05-10 12:40:53,103  INFO  [8/20] D1054855__gemma__zero_shot__rep1
+2026-05-10 12:40:57,003  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:41:00,905  INFO    OK  elapsed=7.79s  parse_ok=True  verdicts=5
+2026-05-10 12:41:01,909  INFO  [9/20] D1055242__gemma__zero_shot__rep1
+2026-05-10 12:41:08,401  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:41:18,720  INFO    OK  elapsed=16.79s  parse_ok=True  verdicts=5
+2026-05-10 12:41:19,723  INFO  [10/20] D1055910__gemma__zero_shot__rep1
+2026-05-10 12:41:28,610  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:41:32,036  INFO    OK  elapsed=12.31s  parse_ok=True  verdicts=5
+2026-05-10 12:41:33,039  INFO  [11/20] D12_Arca_Swiss_Profile.svg__gemma__zero_shot__rep1
+2026-05-10 12:41:35,991  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:41:40,638  INFO    OK  elapsed=7.59s  parse_ok=True  verdicts=5
+2026-05-10 12:41:41,640  INFO  [12/20] D24_A_bullet_extractor_Wellcome_L0035454.jpg__gemma__zero_shot__rep1
+2026-05-10 12:41:46,445  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:41:49,643  INFO    OK  elapsed=7.87s  parse_ok=True  verdicts=5
+2026-05-10 12:41:50,645  INFO  [13/20] D24_Amputation_saws,_16th,_17th,_18th_century_Wellcome_M0008376.__gemma__zero_shot__rep1
+2026-05-10 12:41:58,091  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:44:15,980  INFO    OK  elapsed=145.3s  parse_ok=True  verdicts=5
+2026-05-10 12:44:16,982  INFO  [14/20] D549111__gemma__zero_shot__rep1
+2026-05-10 12:44:20,944  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:44:23,862  INFO    OK  elapsed=6.86s  parse_ok=True  verdicts=5
+2026-05-10 12:44:24,864  INFO  [15/20] D551742__gemma__zero_shot__rep1
+2026-05-10 12:44:28,100  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:44:34,207  INFO    OK  elapsed=9.33s  parse_ok=True  verdicts=5
+2026-05-10 12:44:35,210  INFO  [16/20] D554118__gemma__zero_shot__rep1
+2026-05-10 12:44:37,920  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:44:40,186  INFO    OK  elapsed=4.96s  parse_ok=True  verdicts=5
+2026-05-10 12:44:41,189  INFO  [17/20] D555945__gemma__zero_shot__rep1
+2026-05-10 12:44:45,989  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:44:56,425  INFO    OK  elapsed=15.21s  parse_ok=True  verdicts=5
+2026-05-10 12:44:57,428  INFO  [18/20] D557097__gemma__zero_shot__rep1
+2026-05-10 12:45:00,813  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:45:09,324  INFO    OK  elapsed=11.89s  parse_ok=True  verdicts=5
+2026-05-10 12:45:10,331  INFO  [19/20] D6_Belt_Differential_Element.svg__gemma__zero_shot__rep1
+2026-05-10 12:45:13,655  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:45:19,875  INFO    OK  elapsed=9.53s  parse_ok=True  verdicts=5
+2026-05-10 12:45:20,876  INFO  [20/20] D8_Belt_Differential_Element.svg__gemma__zero_shot__rep1
+2026-05-10 12:45:28,512  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:45:32,540  INFO    OK  elapsed=11.62s  parse_ok=True  verdicts=5
+2026-05-10 12:45:33,543  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 12:47:12,095  INFO  ============================================================
+2026-05-10 12:47:12,095  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 12:47:12,095  INFO  Model filter : all
+2026-05-10 12:47:12,095  INFO  Dry run      : False
+2026-05-10 12:47:12,099  INFO  ============================================================
+2026-05-10 12:47:12,104  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 12:47:12,112  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 12:47:12,112  INFO  Models     : ['claude', 'openai', 'gemini', 'gemma']
+2026-05-10 12:47:12,112  INFO  Strategies : ['zero_shot']
+2026-05-10 12:47:12,112  INFO  Reps       : 1
+2026-05-10 12:47:12,190  INFO  Jobs built : 80
+2026-05-10 12:47:12,199  INFO  Total jobs           : 80
+2026-05-10 12:47:12,206  INFO  Already done (skip)  : 80
+2026-05-10 12:47:12,206  INFO  Pending              : 0
+2026-05-10 12:47:12,206  INFO  Nothing to do — all jobs complete.
+2026-05-10 12:56:36,340  INFO  ============================================================
+2026-05-10 12:56:36,340  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 12:56:36,340  INFO  Model filter : openai
+2026-05-10 12:56:36,340  INFO  Dry run      : False
+2026-05-10 12:56:36,340  INFO  ============================================================
+2026-05-10 12:56:36,373  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 12:56:36,391  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 12:56:36,391  INFO  Models     : ['openai']
+2026-05-10 12:56:36,393  INFO  Strategies : ['zero_shot']
+2026-05-10 12:56:36,393  INFO  Reps       : 1
+2026-05-10 12:56:36,421  INFO  Jobs built : 20
+2026-05-10 12:56:36,423  INFO  Total jobs           : 20
+2026-05-10 12:56:36,423  INFO  Already done (skip)  : 14
+2026-05-10 12:56:36,423  INFO  Pending              : 6
+2026-05-10 12:56:36,423  INFO  [1/6] D1042123__openai__zero_shot__rep1
+2026-05-10 12:56:54,757  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:56:54,779  INFO    OK  elapsed=18.35s  parse_ok=False  verdicts=0
+2026-05-10 12:56:55,282  INFO  [2/6] D1050408__openai__zero_shot__rep1
+2026-05-10 12:57:02,562  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:57:02,566  INFO    OK  elapsed=7.25s  parse_ok=True  verdicts=5
+2026-05-10 12:57:03,067  INFO  [3/6] D1055910__openai__zero_shot__rep1
+2026-05-10 12:57:11,033  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:57:11,043  INFO    OK  elapsed=7.97s  parse_ok=True  verdicts=5
+2026-05-10 12:57:11,545  INFO  [4/6] D12_Arca_Swiss_Profile.svg__openai__zero_shot__rep1
+2026-05-10 12:57:24,849  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:57:24,867  INFO    OK  elapsed=13.31s  parse_ok=False  verdicts=0
+2026-05-10 12:57:25,369  INFO  [5/6] D551742__openai__zero_shot__rep1
+2026-05-10 12:57:38,361  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:57:38,366  INFO    OK  elapsed=12.98s  parse_ok=True  verdicts=5
+2026-05-10 12:57:38,868  INFO  [6/6] D555945__openai__zero_shot__rep1
+2026-05-10 12:57:51,769  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 12:57:51,775  INFO    OK  elapsed=12.89s  parse_ok=False  verdicts=0
+2026-05-10 12:57:52,278  INFO  
+Run complete.  success=6  errors=0  total_run=6
+2026-05-10 13:04:59,400  INFO  ============================================================
+2026-05-10 13:04:59,401  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 13:04:59,401  INFO  Model filter : openai
+2026-05-10 13:04:59,402  INFO  Dry run      : False
+2026-05-10 13:04:59,402  INFO  ============================================================
+2026-05-10 13:04:59,412  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 13:04:59,417  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 13:04:59,417  INFO  Models     : ['openai']
+2026-05-10 13:04:59,417  INFO  Strategies : ['zero_shot']
+2026-05-10 13:04:59,418  INFO  Reps       : 1
+2026-05-10 13:04:59,453  INFO  Jobs built : 20
+2026-05-10 13:04:59,453  INFO  Total jobs           : 20
+2026-05-10 13:04:59,453  INFO  Already done (skip)  : 17
+2026-05-10 13:04:59,453  INFO  Pending              : 3
+2026-05-10 13:04:59,453  INFO  [1/3] D1042123__openai__zero_shot__rep1
+2026-05-10 13:05:16,346  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 13:05:16,347  WARNING    [D1042123__openai__zero_shot__rep1] attempt 1 failed: GPT-5.5 returned empty response (finish_reason='length'). Possible content filter or model refusal on this image set. — retrying in 5s
+2026-05-10 13:05:34,879  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 13:05:34,890  WARNING    [D1042123__openai__zero_shot__rep1] attempt 2 failed: GPT-5.5 returned empty response (finish_reason='length'). Possible content filter or model refusal on this image set. — retrying in 15s
+2026-05-10 13:06:33,695  INFO  ============================================================
+2026-05-10 13:06:33,695  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 13:06:33,695  INFO  Model filter : openai
+2026-05-10 13:06:33,695  INFO  Dry run      : False
+2026-05-10 13:06:33,695  INFO  ============================================================
+2026-05-10 13:06:33,704  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 13:06:33,712  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 13:06:33,712  INFO  Models     : ['openai']
+2026-05-10 13:06:33,712  INFO  Strategies : ['zero_shot']
+2026-05-10 13:06:33,712  INFO  Reps       : 1
+2026-05-10 13:06:33,730  INFO  Jobs built : 20
+2026-05-10 13:06:33,733  INFO  Total jobs           : 20
+2026-05-10 13:06:33,734  INFO  Already done (skip)  : 17
+2026-05-10 13:06:33,734  INFO  Pending              : 3
+2026-05-10 13:06:33,734  INFO  [1/3] D1042123__openai__zero_shot__rep1
+2026-05-10 13:07:01,272  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 13:07:01,276  INFO    OK  elapsed=27.54s  parse_ok=True  verdicts=5
+2026-05-10 13:07:01,789  INFO  [2/3] D12_Arca_Swiss_Profile.svg__openai__zero_shot__rep1
+2026-05-10 13:07:49,702  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 13:07:49,715  INFO    OK  elapsed=47.91s  parse_ok=True  verdicts=5
+2026-05-10 13:07:50,217  INFO  [3/3] D555945__openai__zero_shot__rep1
+2026-05-10 13:08:03,526  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 13:08:03,531  INFO    OK  elapsed=13.31s  parse_ok=True  verdicts=5
+2026-05-10 13:08:04,034  INFO  
+Run complete.  success=3  errors=0  total_run=3
+2026-05-10 22:41:59,429  INFO  ============================================================
+2026-05-10 22:41:59,430  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 22:41:59,430  INFO  Model filter : all
+2026-05-10 22:41:59,430  INFO  Dry run      : True
+2026-05-10 22:41:59,431  INFO  ============================================================
+2026-05-10 22:41:59,462  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 22:41:59,469  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 22:41:59,470  INFO  Models     : ['claude', 'openai', 'gemini', 'gemma']
+2026-05-10 22:41:59,470  INFO  Strategies : ['zero_shot']
+2026-05-10 22:41:59,470  INFO  Reps       : 1
+2026-05-10 22:41:59,541  INFO  Jobs built : 80
+2026-05-10 22:41:59,541  INFO  DRY RUN — first 10 job IDs:
+2026-05-10 22:41:59,542  INFO    [·] D1042123__claude__zero_shot__rep1
+2026-05-10 22:41:59,542  INFO    [·] D1042123__openai__zero_shot__rep1
+2026-05-10 22:41:59,542  INFO    [·] D1042123__gemini__zero_shot__rep1
+2026-05-10 22:41:59,542  INFO    [·] D1042123__gemma__zero_shot__rep1
+2026-05-10 22:41:59,543  INFO    [·] D1048511__claude__zero_shot__rep1
+2026-05-10 22:41:59,543  INFO    [·] D1048511__openai__zero_shot__rep1
+2026-05-10 22:41:59,544  INFO    [·] D1048511__gemini__zero_shot__rep1
+2026-05-10 22:41:59,544  INFO    [·] D1048511__gemma__zero_shot__rep1
+2026-05-10 22:41:59,544  INFO    [·] D1050408__claude__zero_shot__rep1
+2026-05-10 22:41:59,544  INFO    [·] D1050408__openai__zero_shot__rep1
+2026-05-10 22:41:59,545  INFO  Exiting (dry run).
+2026-05-10 22:42:37,659  INFO  ============================================================
+2026-05-10 22:42:37,659  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 22:42:37,659  INFO  Model filter : claude
+2026-05-10 22:42:37,659  INFO  Dry run      : False
+2026-05-10 22:42:37,659  INFO  ============================================================
+2026-05-10 22:42:37,664  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 22:42:37,669  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 22:42:37,670  INFO  Models     : ['claude']
+2026-05-10 22:42:37,670  INFO  Strategies : ['zero_shot']
+2026-05-10 22:42:37,670  INFO  Reps       : 1
+2026-05-10 22:42:37,681  INFO  Jobs built : 20
+2026-05-10 22:42:37,683  INFO  Total jobs           : 20
+2026-05-10 22:42:37,686  INFO  Already done (skip)  : 0
+2026-05-10 22:42:37,687  INFO  Pending              : 20
+2026-05-10 22:42:37,687  INFO  [1/20] D1042123__claude__zero_shot__rep1
+2026-05-10 22:42:43,238  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:42:43,264  INFO    OK  elapsed=5.54s  parse_ok=True  verdicts=5
+2026-05-10 22:42:43,766  INFO  [2/20] D1048511__claude__zero_shot__rep1
+2026-05-10 22:42:46,608  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:42:46,612  INFO    OK  elapsed=2.81s  parse_ok=True  verdicts=5
+2026-05-10 22:42:47,113  INFO  [3/20] D1050408__claude__zero_shot__rep1
+2026-05-10 22:42:50,235  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:42:50,239  INFO    OK  elapsed=3.07s  parse_ok=True  verdicts=5
+2026-05-10 22:42:50,740  INFO  [4/20] D1051295__claude__zero_shot__rep1
+2026-05-10 22:42:54,846  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:42:54,848  INFO    OK  elapsed=4.08s  parse_ok=True  verdicts=5
+2026-05-10 22:42:55,349  INFO  [5/20] D1051771__claude__zero_shot__rep1
+2026-05-10 22:42:58,862  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:42:58,867  INFO    OK  elapsed=3.5s  parse_ok=True  verdicts=5
+2026-05-10 22:42:59,369  INFO  [6/20] D1054737__claude__zero_shot__rep1
+2026-05-10 22:42:59,991  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:42:59,992  INFO  Retrying request to /v1/messages in 17.000000 seconds
+2026-05-10 22:43:20,624  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:43:20,628  INFO    OK  elapsed=21.23s  parse_ok=True  verdicts=5
+2026-05-10 22:43:21,131  INFO  [7/20] D1054822__claude__zero_shot__rep1
+2026-05-10 22:43:22,967  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:43:22,967  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:43:38,345  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:43:38,349  INFO    OK  elapsed=16.84s  parse_ok=True  verdicts=5
+2026-05-10 22:43:38,851  INFO  [8/20] D1054855__claude__zero_shot__rep1
+2026-05-10 22:43:39,905  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:43:39,905  INFO  Retrying request to /v1/messages in 11.000000 seconds
+2026-05-10 22:43:54,837  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:43:54,844  INFO    OK  elapsed=15.94s  parse_ok=True  verdicts=5
+2026-05-10 22:43:55,347  INFO  [9/20] D1055242__claude__zero_shot__rep1
+2026-05-10 22:43:56,573  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:43:56,575  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:44:11,556  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:44:11,556  INFO    OK  elapsed=16.0s  parse_ok=True  verdicts=5
+2026-05-10 22:44:12,063  INFO  [10/20] D1055910__claude__zero_shot__rep1
+2026-05-10 22:44:13,527  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:44:13,527  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:44:28,981  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:44:29,005  INFO    OK  elapsed=16.89s  parse_ok=True  verdicts=5
+2026-05-10 22:44:29,506  INFO  [11/20] D12_gen_car__claude__zero_shot__rep1
+2026-05-10 22:44:30,696  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:44:30,696  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:44:47,668  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:44:47,671  INFO    OK  elapsed=18.08s  parse_ok=True  verdicts=5
+2026-05-10 22:44:48,178  INFO  [12/20] D12_gen_truck__claude__zero_shot__rep1
+2026-05-10 22:44:51,429  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:44:51,438  INFO    OK  elapsed=3.25s  parse_ok=True  verdicts=5
+2026-05-10 22:44:51,941  INFO  [13/20] D23_gen_bathtub__claude__zero_shot__rep1
+2026-05-10 22:44:53,062  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:44:53,062  INFO  Retrying request to /v1/messages in 23.000000 seconds
+2026-05-10 22:45:19,171  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:45:19,187  INFO    OK  elapsed=27.21s  parse_ok=True  verdicts=5
+2026-05-10 22:45:19,690  INFO  [14/20] D24_gen_pill__claude__zero_shot__rep1
+2026-05-10 22:45:20,635  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:45:20,644  INFO  Retrying request to /v1/messages in 13.000000 seconds
+2026-05-10 22:45:36,435  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:45:36,441  INFO    OK  elapsed=16.66s  parse_ok=True  verdicts=5
+2026-05-10 22:45:36,943  INFO  [15/20] D549111__claude__zero_shot__rep1
+2026-05-10 22:45:38,925  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:45:38,927  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:45:54,415  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:45:54,422  INFO    OK  elapsed=17.44s  parse_ok=True  verdicts=5
+2026-05-10 22:45:54,925  INFO  [16/20] D551742__claude__zero_shot__rep1
+2026-05-10 22:45:55,897  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:45:55,897  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:46:10,943  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:46:10,961  INFO    OK  elapsed=16.01s  parse_ok=True  verdicts=5
+2026-05-10 22:46:11,465  INFO  [17/20] D554118__claude__zero_shot__rep1
+2026-05-10 22:46:12,432  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:46:12,432  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:46:28,207  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:46:28,214  INFO    OK  elapsed=16.74s  parse_ok=True  verdicts=5
+2026-05-10 22:46:28,715  INFO  [18/20] D555945__claude__zero_shot__rep1
+2026-05-10 22:46:30,169  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:46:30,169  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:46:45,491  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:46:45,505  INFO    OK  elapsed=16.75s  parse_ok=True  verdicts=5
+2026-05-10 22:46:46,007  INFO  [19/20] D557097__claude__zero_shot__rep1
+2026-05-10 22:46:47,434  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:46:47,444  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:47:02,683  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:47:02,687  INFO    OK  elapsed=16.66s  parse_ok=True  verdicts=5
+2026-05-10 22:47:03,190  INFO  [20/20] D6_gen_sofa__claude__zero_shot__rep1
+2026-05-10 22:47:03,904  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-10 22:47:03,904  INFO  Retrying request to /v1/messages in 12.000000 seconds
+2026-05-10 22:47:18,474  INFO  HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-10 22:47:18,493  INFO    OK  elapsed=15.25s  parse_ok=True  verdicts=5
+2026-05-10 22:47:18,998  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 22:51:50,324  INFO  ============================================================
+2026-05-10 22:51:50,324  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 22:51:50,324  INFO  Model filter : gemma
+2026-05-10 22:51:50,324  INFO  Dry run      : False
+2026-05-10 22:51:50,324  INFO  ============================================================
+2026-05-10 22:51:50,335  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 22:51:50,341  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 22:51:50,344  INFO  Models     : ['gemma']
+2026-05-10 22:51:50,345  INFO  Strategies : ['zero_shot']
+2026-05-10 22:51:50,345  INFO  Reps       : 1
+2026-05-10 22:51:50,375  INFO  Jobs built : 20
+2026-05-10 22:51:50,378  INFO  Total jobs           : 20
+2026-05-10 22:51:50,378  INFO  Already done (skip)  : 0
+2026-05-10 22:51:50,378  INFO  Pending              : 20
+2026-05-10 22:51:50,378  INFO  [1/20] D1042123__gemma__zero_shot__rep1
+2026-05-10 22:51:57,657  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:52:02,086  INFO    OK  elapsed=11.7s  parse_ok=True  verdicts=5
+2026-05-10 22:52:03,087  INFO  [2/20] D1048511__gemma__zero_shot__rep1
+2026-05-10 22:52:07,883  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:52:11,847  INFO    OK  elapsed=8.74s  parse_ok=True  verdicts=5
+2026-05-10 22:52:12,851  INFO  [3/20] D1050408__gemma__zero_shot__rep1
+2026-05-10 22:52:16,055  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:52:24,487  INFO    OK  elapsed=11.62s  parse_ok=True  verdicts=5
+2026-05-10 22:52:25,488  INFO  [4/20] D1051295__gemma__zero_shot__rep1
+2026-05-10 22:52:27,885  INFO  ============================================================
+2026-05-10 22:52:27,885  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 22:52:27,885  INFO  Model filter : gemini
+2026-05-10 22:52:27,885  INFO  Dry run      : False
+2026-05-10 22:52:27,885  INFO  ============================================================
+2026-05-10 22:52:27,913  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 22:52:27,923  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 22:52:27,923  INFO  Models     : ['gemini']
+2026-05-10 22:52:27,923  INFO  Strategies : ['zero_shot']
+2026-05-10 22:52:27,923  INFO  Reps       : 1
+2026-05-10 22:52:27,952  INFO  Jobs built : 20
+2026-05-10 22:52:27,954  INFO  Total jobs           : 20
+2026-05-10 22:52:27,954  INFO  Already done (skip)  : 0
+2026-05-10 22:52:27,954  INFO  Pending              : 20
+2026-05-10 22:52:27,954  INFO  [1/20] D1042123__gemini__zero_shot__rep1
+2026-05-10 22:52:28,329  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:52:31,702  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:52:38,211  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:52:38,226  INFO    OK  elapsed=10.25s  parse_ok=True  verdicts=5
+2026-05-10 22:52:39,228  INFO  [2/20] D1048511__gemini__zero_shot__rep1
+2026-05-10 22:52:39,841  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:52:43,101  INFO    OK  elapsed=17.6s  parse_ok=True  verdicts=5
+2026-05-10 22:52:44,103  INFO  [5/20] D1051771__gemma__zero_shot__rep1
+2026-05-10 22:52:46,821  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:52:46,843  INFO    OK  elapsed=7.6s  parse_ok=True  verdicts=5
+2026-05-10 22:52:47,845  INFO  [3/20] D1050408__gemini__zero_shot__rep1
+2026-05-10 22:52:48,511  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:52:48,985  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:52:55,713  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:52:55,721  INFO    OK  elapsed=7.86s  parse_ok=True  verdicts=5
+2026-05-10 22:52:56,723  INFO  [4/20] D1051295__gemini__zero_shot__rep1
+2026-05-10 22:52:57,429  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:53:00,245  INFO    OK  elapsed=16.13s  parse_ok=True  verdicts=5
+2026-05-10 22:53:01,253  INFO  [6/20] D1054737__gemma__zero_shot__rep1
+2026-05-10 22:53:03,754  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:53:03,762  INFO    OK  elapsed=7.04s  parse_ok=True  verdicts=5
+2026-05-10 22:53:04,766  INFO  [5/20] D1051771__gemini__zero_shot__rep1
+2026-05-10 22:53:04,961  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:06,045  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:53:09,912  INFO  ============================================================
+2026-05-10 22:53:09,912  INFO  Patent benchmark runner  —  PILOT
+2026-05-10 22:53:09,912  INFO  Model filter : openai
+2026-05-10 22:53:09,912  INFO  Dry run      : False
+2026-05-10 22:53:09,912  INFO  ============================================================
+2026-05-10 22:53:09,912  INFO  Loaded 960 candidate rows, 192 unique queries
+2026-05-10 22:53:09,928  INFO  Pilot: 20 queries (10 positive, 10 negative)
+2026-05-10 22:53:09,928  INFO  Models     : ['openai']
+2026-05-10 22:53:09,928  INFO  Strategies : ['zero_shot']
+2026-05-10 22:53:09,928  INFO  Reps       : 1
+2026-05-10 22:53:09,952  INFO  Jobs built : 20
+2026-05-10 22:53:09,952  INFO  Total jobs           : 20
+2026-05-10 22:53:09,952  INFO  Already done (skip)  : 0
+2026-05-10 22:53:09,952  INFO  Pending              : 20
+2026-05-10 22:53:09,952  INFO  [1/20] D1042123__openai__zero_shot__rep1
+2026-05-10 22:53:21,206  INFO    OK  elapsed=19.94s  parse_ok=True  verdicts=5
+2026-05-10 22:53:22,208  INFO  [7/20] D1054822__gemma__zero_shot__rep1
+2026-05-10 22:53:24,691  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:24,713  INFO    OK  elapsed=14.74s  parse_ok=True  verdicts=5
+2026-05-10 22:53:25,215  INFO  [2/20] D1048511__openai__zero_shot__rep1
+2026-05-10 22:53:28,023  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:32,146  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:53:32,161  INFO    OK  elapsed=27.38s  parse_ok=True  verdicts=5
+2026-05-10 22:53:33,164  INFO  [6/20] D1054737__gemini__zero_shot__rep1
+2026-05-10 22:53:33,290  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:33,296  INFO    OK  elapsed=8.06s  parse_ok=True  verdicts=5
+2026-05-10 22:53:33,799  INFO  [3/20] D1050408__openai__zero_shot__rep1
+2026-05-10 22:53:33,884  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:53:39,331  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:53:39,339  INFO    OK  elapsed=6.17s  parse_ok=True  verdicts=5
+2026-05-10 22:53:40,349  INFO  [7/20] D1054822__gemini__zero_shot__rep1
+2026-05-10 22:53:41,672  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:53:46,551  INFO    OK  elapsed=24.3s  parse_ok=True  verdicts=5
+2026-05-10 22:53:47,554  INFO  [8/20] D1054855__gemma__zero_shot__rep1
+2026-05-10 22:53:48,336  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:53:48,352  INFO    OK  elapsed=7.99s  parse_ok=True  verdicts=5
+2026-05-10 22:53:49,340  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:49,340  INFO    OK  elapsed=15.54s  parse_ok=True  verdicts=5
+2026-05-10 22:53:49,352  INFO  [8/20] D1054855__gemini__zero_shot__rep1
+2026-05-10 22:53:49,846  INFO  [4/20] D1051295__openai__zero_shot__rep1
+2026-05-10 22:53:49,964  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:53:51,939  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:55,058  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:53:55,068  INFO    OK  elapsed=5.21s  parse_ok=True  verdicts=5
+2026-05-10 22:53:55,573  INFO  [5/20] D1051771__openai__zero_shot__rep1
+2026-05-10 22:53:56,190  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:53:56,198  INFO    OK  elapsed=6.84s  parse_ok=True  verdicts=5
+2026-05-10 22:53:57,202  INFO  [9/20] D1055242__gemini__zero_shot__rep1
+2026-05-10 22:53:57,798  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:02,879  INFO    OK  elapsed=15.32s  parse_ok=True  verdicts=5
+2026-05-10 22:54:03,657  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:03,667  INFO    OK  elapsed=6.46s  parse_ok=True  verdicts=5
+2026-05-10 22:54:03,884  INFO  [9/20] D1055242__gemma__zero_shot__rep1
+2026-05-10 22:54:04,668  INFO  [10/20] D1055910__gemini__zero_shot__rep1
+2026-05-10 22:54:05,414  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:11,797  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:11,812  INFO    OK  elapsed=7.12s  parse_ok=True  verdicts=5
+2026-05-10 22:54:12,814  INFO  [11/20] D12_gen_car__gemini__zero_shot__rep1
+2026-05-10 22:54:13,420  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:14,550  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:18,912  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:18,919  INFO    OK  elapsed=6.1s  parse_ok=True  verdicts=5
+2026-05-10 22:54:19,921  INFO  [12/20] D12_gen_truck__gemini__zero_shot__rep1
+2026-05-10 22:54:20,237  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:20,237  INFO    OK  elapsed=24.66s  parse_ok=True  verdicts=5
+2026-05-10 22:54:20,505  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:20,742  INFO  [6/20] D1054737__openai__zero_shot__rep1
+2026-05-10 22:54:25,400  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:25,416  INFO    OK  elapsed=5.48s  parse_ok=True  verdicts=5
+2026-05-10 22:54:26,418  INFO  [13/20] D23_gen_bathtub__gemini__zero_shot__rep1
+2026-05-10 22:54:26,978  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:30,008  INFO    OK  elapsed=26.11s  parse_ok=True  verdicts=5
+2026-05-10 22:54:31,010  INFO  [10/20] D1055910__gemma__zero_shot__rep1
+2026-05-10 22:54:33,486  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:33,491  INFO    OK  elapsed=7.07s  parse_ok=True  verdicts=5
+2026-05-10 22:54:33,639  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:34,496  INFO  [14/20] D24_gen_pill__gemini__zero_shot__rep1
+2026-05-10 22:54:35,044  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:35,724  INFO    OK  elapsed=4.71s  parse_ok=True  verdicts=5
+2026-05-10 22:54:36,134  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:36,142  INFO    OK  elapsed=15.39s  parse_ok=True  verdicts=5
+2026-05-10 22:54:36,645  INFO  [7/20] D1054822__openai__zero_shot__rep1
+2026-05-10 22:54:36,731  INFO  [11/20] D12_gen_car__gemma__zero_shot__rep1
+2026-05-10 22:54:39,859  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:40,324  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:40,327  INFO    OK  elapsed=5.83s  parse_ok=True  verdicts=5
+2026-05-10 22:54:41,336  INFO  [15/20] D549111__gemini__zero_shot__rep1
+2026-05-10 22:54:41,893  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:47,361  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:47,361  INFO    OK  elapsed=6.03s  parse_ok=True  verdicts=5
+2026-05-10 22:54:48,379  INFO  [16/20] D551742__gemini__zero_shot__rep1
+2026-05-10 22:54:48,943  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:51,827  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:51,827  INFO    OK  elapsed=15.18s  parse_ok=True  verdicts=5
+2026-05-10 22:54:52,334  INFO  [8/20] D1054855__openai__zero_shot__rep1
+2026-05-10 22:54:54,974  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:54:54,990  INFO    OK  elapsed=6.59s  parse_ok=True  verdicts=5
+2026-05-10 22:54:55,953  INFO    OK  elapsed=19.2s  parse_ok=True  verdicts=5
+2026-05-10 22:54:55,992  INFO  [17/20] D554118__gemini__zero_shot__rep1
+2026-05-10 22:54:56,585  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:54:56,957  INFO  [12/20] D12_gen_truck__gemma__zero_shot__rep1
+2026-05-10 22:54:59,246  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:54:59,255  INFO    OK  elapsed=6.91s  parse_ok=True  verdicts=5
+2026-05-10 22:54:59,757  INFO  [9/20] D1055242__openai__zero_shot__rep1
+2026-05-10 22:54:59,841  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:01,994  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:55:02,008  INFO    OK  elapsed=6.01s  parse_ok=True  verdicts=5
+2026-05-10 22:55:03,010  INFO  [18/20] D555945__gemini__zero_shot__rep1
+2026-05-10 22:55:03,508  INFO    OK  elapsed=6.53s  parse_ok=True  verdicts=5
+2026-05-10 22:55:03,585  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:55:04,511  INFO  [13/20] D23_gen_bathtub__gemma__zero_shot__rep1
+2026-05-10 22:55:06,911  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:09,314  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:55:09,319  INFO    OK  elapsed=6.3s  parse_ok=True  verdicts=5
+2026-05-10 22:55:10,327  INFO  [19/20] D557097__gemini__zero_shot__rep1
+2026-05-10 22:55:10,867  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:55:17,837  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:55:17,846  INFO    OK  elapsed=7.51s  parse_ok=True  verdicts=5
+2026-05-10 22:55:18,847  INFO  [20/20] D6_gen_sofa__gemini__zero_shot__rep1
+2026-05-10 22:55:19,610  INFO  AFC is enabled with max remote calls: 10.
+2026-05-10 22:55:20,320  INFO    OK  elapsed=15.8s  parse_ok=True  verdicts=5
+2026-05-10 22:55:21,323  INFO  [14/20] D24_gen_pill__gemma__zero_shot__rep1
+2026-05-10 22:55:25,088  INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent "HTTP/1.1 200 OK"
+2026-05-10 22:55:25,100  INFO    OK  elapsed=6.24s  parse_ok=True  verdicts=5
+2026-05-10 22:55:25,628  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:25,934  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:25,945  INFO    OK  elapsed=26.17s  parse_ok=True  verdicts=5
+2026-05-10 22:55:26,102  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 22:55:26,446  INFO  [10/20] D1055910__openai__zero_shot__rep1
+2026-05-10 22:55:33,558  INFO    OK  elapsed=12.22s  parse_ok=True  verdicts=5
+2026-05-10 22:55:34,400  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:34,416  INFO    OK  elapsed=7.95s  parse_ok=True  verdicts=5
+2026-05-10 22:55:34,562  INFO  [15/20] D549111__gemma__zero_shot__rep1
+2026-05-10 22:55:34,918  INFO  [11/20] D12_gen_car__openai__zero_shot__rep1
+2026-05-10 22:55:42,094  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:42,098  INFO    OK  elapsed=7.18s  parse_ok=True  verdicts=5
+2026-05-10 22:55:42,604  INFO  [12/20] D12_gen_truck__openai__zero_shot__rep1
+2026-05-10 22:55:45,456  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:48,437  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:48,446  INFO    OK  elapsed=5.84s  parse_ok=True  verdicts=5
+2026-05-10 22:55:48,951  INFO  [13/20] D23_gen_bathtub__openai__zero_shot__rep1
+2026-05-10 22:55:55,909  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:55:55,915  INFO    OK  elapsed=6.96s  parse_ok=True  verdicts=5
+2026-05-10 22:55:56,417  INFO  [14/20] D24_gen_pill__openai__zero_shot__rep1
+2026-05-10 22:56:00,510  INFO    OK  elapsed=25.93s  parse_ok=True  verdicts=5
+2026-05-10 22:56:01,512  INFO  [16/20] D551742__gemma__zero_shot__rep1
+2026-05-10 22:56:04,372  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:05,263  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:05,273  INFO    OK  elapsed=8.85s  parse_ok=True  verdicts=5
+2026-05-10 22:56:05,776  INFO  [15/20] D549111__openai__zero_shot__rep1
+2026-05-10 22:56:12,596  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:12,596  INFO    OK  elapsed=6.82s  parse_ok=True  verdicts=5
+2026-05-10 22:56:12,692  INFO    OK  elapsed=11.16s  parse_ok=True  verdicts=5
+2026-05-10 22:56:13,109  INFO  [16/20] D551742__openai__zero_shot__rep1
+2026-05-10 22:56:13,695  INFO  [17/20] D554118__gemma__zero_shot__rep1
+2026-05-10 22:56:19,274  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:24,266  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:24,271  INFO    OK  elapsed=11.15s  parse_ok=True  verdicts=5
+2026-05-10 22:56:24,773  INFO  [17/20] D554118__openai__zero_shot__rep1
+2026-05-10 22:56:26,198  INFO    OK  elapsed=12.49s  parse_ok=True  verdicts=5
+2026-05-10 22:56:27,200  INFO  [18/20] D555945__gemma__zero_shot__rep1
+2026-05-10 22:56:29,333  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:31,393  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:31,395  INFO    OK  elapsed=6.62s  parse_ok=True  verdicts=5
+2026-05-10 22:56:31,900  INFO  [18/20] D555945__openai__zero_shot__rep1
+2026-05-10 22:56:36,625  INFO    OK  elapsed=9.41s  parse_ok=True  verdicts=5
+2026-05-10 22:56:37,632  INFO  [19/20] D557097__gemma__zero_shot__rep1
+2026-05-10 22:56:40,243  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:40,252  INFO    OK  elapsed=8.34s  parse_ok=True  verdicts=5
+2026-05-10 22:56:40,757  INFO  [19/20] D557097__openai__zero_shot__rep1
+2026-05-10 22:56:41,118  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:45,950  INFO    OK  elapsed=8.31s  parse_ok=True  verdicts=5
+2026-05-10 22:56:46,952  INFO  [20/20] D6_gen_sofa__gemma__zero_shot__rep1
+2026-05-10 22:56:50,015  INFO  HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:58,196  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:56:58,204  INFO    OK  elapsed=17.44s  parse_ok=True  verdicts=5
+2026-05-10 22:56:58,705  INFO  [20/20] D6_gen_sofa__openai__zero_shot__rep1
+2026-05-10 22:57:07,396  INFO    OK  elapsed=20.44s  parse_ok=True  verdicts=5
+2026-05-10 22:57:08,399  INFO  
+Run complete.  success=20  errors=0  total_run=20
+2026-05-10 22:57:10,955  INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 22:57:10,961  INFO    OK  elapsed=12.25s  parse_ok=True  verdicts=5
+2026-05-10 22:57:11,462  INFO  
+Run complete.  success=20  errors=0  total_run=20

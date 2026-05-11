@@ -74,7 +74,7 @@ MODELS = {
     "claude": "claude-sonnet-4-6",
     "openai": "gpt-5.5",
     "gemini": "gemini-2.5-pro",
-    "qwen":   "Qwen/Qwen3.5-9B",          # Qwen2.5-VL deprecated from Together serverless May 2026
+    "gemma":  "google/gemma-4-31b-it",           # Gemma 4 31B (Google DeepMind, Apache 2.0) via OpenRouter; confirmed base64 vision
 }
 
 STRATEGIES = ["zero_shot", "few_shot", "chain_of_thought"]
@@ -95,7 +95,7 @@ CALL_DELAY = {
     "claude": 0.5,
     "openai": 0.5,
     "gemini": 1.0,
-    "qwen":   0.5,
+    "gemma":  1.0,
 }
 
 # ── prompts ───────────────────────────────────────────────────────────────────
@@ -297,66 +297,122 @@ def call_openai(prompt: str, query_b64: str, candidate_b64s: list) -> str:
 
     resp = client.chat.completions.create(
         model=MODELS["openai"],
-        max_completion_tokens=512,          # gpt-5.5 requires this, not max_tokens
+        max_completion_tokens=2048,         # gpt-5.5 requires this, not max_tokens; 512 too small for image-heavy prompts
         messages=[{"role": "user", "content": content}],
     )
-    return resp.choices[0].message.content
+    choice = resp.choices[0]
+    finish = choice.finish_reason
+    text   = choice.message.content or ""
+    if not text.strip():
+        raise RuntimeError(
+            f"GPT-5.5 returned empty response (finish_reason={finish!r}). "
+            f"Possible content filter or model refusal on this image set."
+        )
+    return text
 
 
 def call_gemini(prompt: str, query_b64: str, candidate_b64s: list) -> str:
-    import io
-    import PIL.Image
-
-    with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        import google.generativeai as genai
-
-    genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
-    model = genai.GenerativeModel(MODELS["gemini"])
-
-    def b64_to_pil(b64: str) -> PIL.Image.Image:
-        return PIL.Image.open(io.BytesIO(base64.b64decode(b64)))
-
-    parts = ["Query design:", b64_to_pil(query_b64)]
-    for i, b64 in enumerate(candidate_b64s, 1):
-        parts.append(f"Candidate {i}:")
-        parts.append(b64_to_pil(b64))
-    parts.append(prompt)
-
-    resp = model.generate_content(
-        parts,
-        generation_config={"temperature": 0, "max_output_tokens": 512},
-    )
-    return resp.text
-
-
-def call_qwen(prompt: str, query_b64: str, candidate_b64s: list) -> str:
     """
-    Qwen3.5-9B via Together AI (OpenAI-compatible endpoint).
-    Thinking mode is explicitly disabled — without this the model generates
-    a long <think>…</think> block before the JSON verdict, wasting tokens
-    and complicating parsing.
+    Gemini 2.5 Pro via new google.genai SDK.
+    Thinking mode budget set to 0 — prevents hidden reasoning tokens from
+    consuming output budget before the JSON verdict is emitted.
+    Falls back to deprecated google.generativeai if google.genai not installed.
+    """
+    try:
+        from google import genai as genai_new
+        from google.genai import types as genai_types
+
+        client = genai_new.Client(api_key=os.environ["GOOGLE_API_KEY"])
+
+        def b64_to_part_new(b64: str):
+            return genai_types.Part.from_bytes(
+                data=base64.b64decode(b64),
+                mime_type="image/png",
+            )
+
+        parts = [
+            genai_types.Part.from_text(text="Query design:"),
+            b64_to_part_new(query_b64),
+        ]
+        for i, b64 in enumerate(candidate_b64s, 1):
+            parts.append(genai_types.Part.from_text(text=f"Candidate {i}:"))
+            parts.append(b64_to_part_new(b64))
+        parts.append(genai_types.Part.from_text(text=prompt))
+
+        resp = client.models.generate_content(
+            model=MODELS["gemini"],
+            contents=parts,
+            config=genai_types.GenerateContentConfig(
+                temperature=0,
+                max_output_tokens=3000,  # thinking tokens + response tokens
+                thinking_config=genai_types.ThinkingConfig(
+                    thinking_budget=512,  # minimum allowed; model requires thinking mode
+                ),
+            ),
+        )
+        # Check for truncation
+        if resp.candidates and resp.candidates[0].finish_reason.name == "MAX_TOKENS":
+            raise RuntimeError("Gemini finish_reason=MAX_TOKENS — response truncated")
+        return resp.text
+
+    except ImportError:
+        # Fallback: deprecated google.generativeai
+        import io
+        import PIL.Image
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            import google.generativeai as genai_legacy
+
+        genai_legacy.configure(api_key=os.environ["GOOGLE_API_KEY"])
+        model = genai_legacy.GenerativeModel(MODELS["gemini"])
+
+        def b64_to_pil(b64: str) -> PIL.Image.Image:
+            return PIL.Image.open(io.BytesIO(base64.b64decode(b64)))
+
+        parts = ["Query design:", b64_to_pil(query_b64)]
+        for i, b64 in enumerate(candidate_b64s, 1):
+            parts.append(f"Candidate {i}:")
+            parts.append(b64_to_pil(b64))
+        parts.append(prompt)
+
+        resp = model.generate_content(
+            parts,
+            generation_config={"temperature": 0, "max_output_tokens": 2048},
+        )
+        if resp.candidates[0].finish_reason == 2:
+            raise RuntimeError("Gemini finish_reason=MAX_TOKENS — response truncated")
+        return resp.text
+
+
+def call_gemma_openrouter(prompt: str, query_b64: str, candidate_b64s: list) -> str:
+    """
+    Gemma 4 31B (Google DeepMind, Apache 2.0) via OpenRouter.
+    Confirmed working with base64 PNG data URIs (tested May 2026).
+    Used as open-weight baseline after Qwen/Llama removed from serverless tiers.
     """
     from openai import OpenAI
     client = OpenAI(
-        api_key=os.environ["TOGETHER_API_KEY"],
-        base_url="https://api.together.xyz/v1",
+        api_key=os.environ["OPENROUTER_API_KEY"],
+        base_url="https://openrouter.ai/api/v1",
+        default_headers={
+            "HTTP-Referer": "https://github.com/patent-benchmark",
+            "X-Title": "Patent Benchmark",
+        },
     )
 
-    content = [{"type": "text", "text": "Query design:"},
-               {"type": "image_url",
-                "image_url": {"url": f"data:image/png;base64,{query_b64}"}}]
+    content = [
+        {"type": "text", "text": "Query design:"},
+        {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{query_b64}"}},
+    ]
     for i, b64 in enumerate(candidate_b64s, 1):
         content.append({"type": "text", "text": f"Candidate {i}:"})
-        content.append({"type": "image_url",
-                         "image_url": {"url": f"data:image/png;base64,{b64}"}})
+        content.append({"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64}"}})
     content.append({"type": "text", "text": prompt})
 
     resp = client.chat.completions.create(
-        model=MODELS["qwen"],
-        max_tokens=512,
+        model=MODELS["gemma"],
+        max_tokens=1024,
         messages=[{"role": "user", "content": content}],
-        extra_body={"chat_template_kwargs": {"enable_thinking": False}},
     )
     return resp.choices[0].message.content
 
@@ -365,7 +421,7 @@ MODEL_CALLERS = {
     "claude": call_claude,
     "openai": call_openai,
     "gemini": call_gemini,
-    "qwen":   call_qwen,
+    "gemma":  call_gemma_openrouter,
 }
 
 # ── response parsing ──────────────────────────────────────────────────────────
@@ -375,15 +431,22 @@ def extract_json(text: str) -> dict:
     Extract the JSON verdict block from model response.
     Handles:
       - Pure JSON responses (zero_shot)
+      - JSON wrapped in markdown fences (```json ... ```) — GPT-5.5 style
       - JSON embedded in CoT reasoning text (chain_of_thought)
-      - Thinking-mode residue like <think>…</think> before JSON
+      - Thinking-mode residue like <think>…</think> before JSON — Qwen style
     """
     import re
+
+    if not text:
+        return {}
 
     # Strip any <think>…</think> block (Qwen thinking mode residue)
     text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
 
-    # Try to find the JSON verdict object
+    # Strip markdown code fences: ```json ... ``` or ``` ... ```
+    text = re.sub(r"```(?:json)?\s*", "", text).replace("```", "").strip()
+
+    # Try to find the JSON verdict object anywhere in the text
     match = re.search(
         r'\{[^{}]*"candidate_[12345]"[^{}]*\}', text, re.DOTALL
     )
@@ -393,7 +456,7 @@ def extract_json(text: str) -> dict:
         except json.JSONDecodeError:
             pass
 
-    # Fallback: try the whole cleaned text
+    # Fallback: try the whole cleaned text as JSON
     try:
         return json.loads(text.strip())
     except json.JSONDecodeError:

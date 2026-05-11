@@ -1,0 +1,51 @@
+{
+  "job_id": "D23_gen_bathtub__gemma__zero_shot__rep1",
+  "query_id": "D23_gen_bathtub",
+  "model_key": "gemma",
+  "model_string": "google/gemma-4-31b-it",
+  "strategy": "zero_shot",
+  "rep": 1,
+  "query_label": "negative",
+  "query_uspc": "D23",
+  "candidates": [
+    {
+      "rank": 1,
+      "candidate_id": "D23_gen_showerhead",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "D1055242",
+      "candidate_label": "positive"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "D23_gen_bucket",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "D23_gen_faucet",
+      "candidate_label": "negative"
+    },
+    {
+      "rank": 5,
+      "candidate_id": "D23_gen_fan",
+      "candidate_label": "negative"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"candidate_1\": \"NO_INFRINGE\",\n  \"candidate_2\": \"NO_INFRINGE\",\n  \"candidate_3\": \"NO_INFRINGE\",\n  \"candidate_4\": \"NO_INFRINGE\",\n  \"candidate_5\": \"NO_INFRINGE\"\n}\n```",
+  "verdicts": {
+    "candidate_1": "NO_INFRINGE",
+    "candidate_2": "NO_INFRINGE",
+    "candidate_3": "NO_INFRINGE",
+    "candidate_4": "NO_INFRINGE",
+    "candidate_5": "NO_INFRINGE"
+  },
+  "verdict_count": 5,
+  "parse_ok": true,
+  "elapsed_sec": 15.8,
+  "attempt": 1,
+  "timestamp_utc": "2026-05-11T02:55:20.314701+00:00",
+  "error": null
+}
